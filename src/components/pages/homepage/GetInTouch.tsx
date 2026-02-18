@@ -22,7 +22,7 @@ const GetInTouch = () => {
               {/* Email */}
               <div className="flex items-center gap-2">
                 <FaEnvelope className="text-xl text-primary" />
-                <p className="font-semibold">info@arkaHire.com</p>
+                <p className="font-semibold">info@arkahire.com</p>
               </div>
 
               {/* Address list */}

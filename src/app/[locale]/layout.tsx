@@ -4,12 +4,20 @@ import { routing } from "@/i18n/routing";
 import { notFound } from "next/navigation";
 import { Montserrat } from "next/font/google";
 import "./globals.css";
+import { Metadata } from "next";
 
 const montserrat = Montserrat({
   weight: ["100", "200", "300", "400", "500", "600", "700", "800", "900"],
   subsets: ["latin"],
 });
 
+export const metadata: Metadata = {
+  icons: {
+    icon: "/favicon.ico", // /public/favicon.ico
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
+  },
+};
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));
 }
