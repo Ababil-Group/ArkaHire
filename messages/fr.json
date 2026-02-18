@@ -1,0 +1,545 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "howToHire": "Comment recruter des talents internationaux ?",
+    "solutions": {
+      "label": "Solutions",
+      "navigating": "Naviguer dans les lois sur l’immigration",
+      "seasonal": "Emploi des travailleurs saisonniers",
+      "construction": "Emploi des travailleurs du bâtiment",
+      "medical": "Emploi des travailleurs médicaux"
+    },
+    "services": {
+      "label": "Services",
+      "admin": "Administration de l’emploi",
+      "fullHR": "RH à service complet",
+      "mediation": "Médiation en emploi",
+      "assignment": "Affectation de travailleurs"
+    },
+    "about": "À propos de nous",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Simplifiez le processus d’embauche d’une main-d’œuvre mondiale.",
+    "desc": "Que vous soyez une petite entreprise ou une multinationale, ArkaHire est là pour vous aider à trouver la main-d’œuvre qualifiée dont vous avez besoin pour vous développer. Du recrutement à l’intégration, nous nous occupons de tout.",
+    "btn1": "Contactez-nous",
+    "btn2": "Explorer les services"
+  },
+  "achievements": {
+    "year1": "7+",
+    "exp1": "Années d’expérience",
+    "year2": "600+",
+    "exp2": "Employés recrutés",
+    "year3": "100%",
+    "exp3": "Satisfaction client"
+  },
+  "whyChoose": {
+    "title": "Pourquoi choisir une agence de recrutement ?",
+    "desc": "Chez ArkaHire, nous offrons des solutions innovantes, rapides et efficaces pour sourcer, sélectionner et recruter des talents internationaux. Notre expertise garantit un processus d’embauche fluide, adapté aux besoins de votre entreprise.",
+    "question1": "Vous ne savez pas où trouver des travailleurs qualifiés ?",
+    "ans1": "Notre équipe d’experts analyse vos besoins et élabore une stratégie de recrutement personnalisée. Grâce à notre réseau mondial, nous vous mettons en relation avec des candidats qualifiés provenant de pays comme l’Inde, le Bangladesh, le Népal, le Pakistan, le Sri Lanka et les Philippines.",
+    "question2": "Besoin de flexibilité dans vos recrutements ?",
+    "ans2": "Nous proposons des solutions d’emploi temporaire pour les travailleurs internationaux. Nous gérons les formalités, y compris les contrats de travail, tandis que vous vous concentrez sur leur intégration dans votre équipe.",
+    "question3": "Pas d’équipe RH interne ?",
+    "ans3": "Notre service RH complet couvre tout, du recrutement à l’intégration des employés. Grâce à notre expertise en droit du travail et en conformité, nous assurons un processus simple et sans tracas.",
+    "question4": "Peu familier avec les réglementations légales ?",
+    "ans4": "Naviguer dans les lois sur l’immigration et le travail peut être complexe. Nous simplifions la procédure, assurons le respect de toutes les réglementations et gérons la documentation nécessaire."
+  },
+  "HireAForeigner": {
+    "title": "Embaucher un travailleur étranger",
+    "subtitle": "Le processus d'embauche de travailleurs qualifiés de l'étranger",
+    "desc1": "Comprenez les exigences clés que votre entreprise doit respecter pour employer des professionnels internationaux.",
+    "desc2": "Entreprise opérationnelle depuis plus de 6 mois",
+    "desc3": "Au moins un employé à temps plein depuis un minimum de 6 mois",
+    "desc4": "Main-d'œuvre locale représentant au moins 25 % du total des employés"
+  },
+  "typeofemployees": {
+    "title": "Quels types de travailleurs pouvons-nous trouver ?",
+    "cardTitle1": "Employés d’entrepôt",
+    "cardDesc1": "Actifs et désireux d’apprendre — nos candidats sont également prêts à assumer des rôles de supervision.",
+    "cardTitle2": "Électriciens",
+    "cardDesc2": "Des professionnels qualifiés à différents niveaux. Des vidéos de démonstration sont possibles pour l’évaluation.",
+    "cardTitle3": "Mécaniciens",
+    "cardDesc3": "Jeunes, compétents et prêts à relever de nouveaux défis.",
+    "cardTitle4": "Travailleurs du bâtiment",
+    "cardDesc4": "Des compétences de base aux spécialistes — nous trouvons les bonnes personnes pour vos projets.",
+    "cardTitle5": "Carreleurs",
+    "cardDesc5": "Des professionnels très demandés, disponibles grâce à notre processus de recrutement efficace.",
+    "cardTitle6": "Postes personnalisés",
+    "cardDesc6": "Vous avez besoin d’un rôle spécifique ? Nous pouvons vous aider. Contactez-nous.",
+    "btn": "Contactez-nous"
+  },
+  "wowtohire": {
+    "title": "Comment recruter des talents internationaux ?",
+    "desc": "Nous vous guidons étape par étape dans le processus de recrutement de talents internationaux :",
+    "no1": "01",
+    "cardTitle1": "Sourcing de personnel",
+    "cardDesc1": "Nous trouvons des candidats adaptés à vos besoins. Des entretiens en ligne sont disponibles.",
+    "no2": "02",
+    "cardTitle2": "Contrats",
+    "cardDesc2": "Nous rédigeons et gérons les contrats de travail.",
+    "no3": "03",
+    "cardTitle3": "Hébergement",
+    "cardDesc3": "Nous aidons à trouver un logement adéquat pour les travailleurs.",
+    "no4": "04",
+    "cardTitle4": "Permis de travail",
+    "cardDesc4": "Nous nous chargeons du dépôt des demandes de permis de travail.",
+    "no5": "05",
+    "cardTitle5": "Visas",
+    "cardDesc5": "Nous gérons les demandes de visa, qui prennent généralement 4 à 6 semaines.",
+    "no6": "06",
+    "cardTitle6": "Organisation du voyage",
+    "cardDesc6": "Nous réservons les vols et veillons à ce que les travailleurs arrivent en toute sécurité.",
+    "no7": "07",
+    "cardTitle7": "Documentation",
+    "cardDesc7": "Nous aidons pour les cartes d’identité, examens médicaux et l’ouverture de comptes bancaires.",
+    "no8": "08",
+    "cardTitle8": "Satisfaction",
+    "cardDesc8": "Notre objectif est d’assurer la satisfaction des employeurs et des employés."
+  },
+  "bookconsultation": {
+    "title": "Réservez votre consultation gratuite.",
+    "desc1": "Un partenaire fiable et expérimenté pour l'embauche de travailleurs étrangers. Nos experts sont prêts à travailler avec vous pour éliminer le stress de tout processus d'immigration, augmentant vos chances de succès.",
+    "decs2": "Contactez notre équipe dès aujourd'hui pour en savoir plus sur nos services et faire le premier pas vers une embauche réussie.",
+    "btn": "Contactez-nous"
+  },
+  "whychooseus": {
+    "title": "Pourquoi nous choisir ?",
+    "desc": "ArkaHire est votre partenaire de confiance pour recruter des talents internationaux. Nos experts sont prêts à simplifier le processus d'immigration et à garantir des résultats réussis.",
+    "item1": "Consultations gratuites",
+    "item2": "Candidats de haute qualité",
+    "item3": "Délais de réponse rapides",
+    "item4": "Partenariats à long terme",
+    "item5": "Disponibilité 24h/24 et 7j/7",
+    "item6": "Professionnels vérifiés",
+    "btn": "Contactez-nous"
+  },
+  "faq": {
+    "title": "Foire Aux Questions",
+    "faq1": "Qui est responsable de fournir le logement ?",
+    "ans1": "Les employeurs sont tenus d'offrir un logement convenable et confortable à leurs travailleurs.",
+    "faq2": "Combien de temps faut-il pour que les travailleurs arrivent ?",
+    "ans2": "Le processus prend généralement au moins trois mois. Ce délai comprend une période de deux semaines pour l'obtention d'un permis de travail, suivie d'au moins six semaines pour le traitement du visa.",
+    "faq3": "Que se passe-t-il si nous ne sommes pas satisfaits d'un employé ?",
+    "ans3": "Si un employé ne répond pas à vos attentes, vous avez le droit de résilier son contrat conformément à la réglementation standard du travail. Dans de tels cas, nous aidons le travailleur à trouver un emploi alternatif. Si aucune opportunité convenable ne se présente, nous facilitons son retour dans son pays d'origine.",
+    "faq4": "Pouvons-nous demander des permis de travail d'une durée supérieure à 1 an ?",
+    "ans4": "Les permis de travail sont généralement délivrés pour un an, tandis que les travailleurs saisonniers peuvent obtenir des permis d'une durée allant jusqu'à six mois. En raison des procédures bureaucratiques, l'obtention d'un permis de travail et d'un visa prend généralement entre deux et trois mois.",
+    "faq5": "Comment les permis de travail peuvent-ils être renouvelés ?",
+    "ans5": "Les demandes de renouvellement doivent être soumises au moins un mois avant l'expiration du permis. Le processus nécessite le passeport de l'employé, l'ancienne carte d'identité, des photographies récentes (pour la nouvelle pièce d'identité), une déclaration du fournisseur de logement et une attestation de l'entreprise confirmant la poursuite de l'hébergement au lieu désigné.",
+    "faq6": "Existe-t-il des restrictions sur l'embauche de travailleurs étrangers ?",
+    "ans6": "Certaines professions en Europe sont classées comme étant en tension, permettant aux employeurs de demander des permis de travail sans passer par un test du marché du travail. La liste officielle de ces professions est disponible auprès des autorités compétentes. Pour les postes non inclus dans la liste des métiers en tension, un test du marché du travail est requis. Ce processus dure deux semaines et évalue la disponibilité des travailleurs locaux. Si une pénurie de main-d'œuvre est confirmée, les demandes de travailleurs étrangers peuvent être traitées en conséquence."
+  },
+  "contactus": {
+    "title": "Contact",
+    "subtitle": "Pour toute question à laquelle vous n'avez pas trouvé de réponse, n'hésitez pas à nous contacter, et nous vous expliquerons tout en détail.",
+    "time": "Heures d'ouverture : Lun - Ven 8h00 - 16h00",
+    "sendText": "Contactez-nous pour une Assistance Experte Des Questions ? Nous Sommes Là pour Vous Aider !"
+  },
+  "navigating": {
+    "hero": {
+      "title": "Naviguer dans les lois sur l'immigration pour les employeurs",
+      "desc": "Se conformer aux lois sur l'immigration peut être complexe en raison du cadre réglementaire régissant l'emploi de travailleurs étrangers. C'est là que notre expertise aide à rationaliser le processus.",
+      "btn": "Contactez-nous"
+    },
+    "challenges": {
+      "title": "Les défis de la conformité en matière d'immigration",
+      "desc1": "L'un des plus grands défis que rencontrent les entreprises lors de l'embauche de professionnels étrangers est de naviguer dans les lois complexes sur l'immigration, conçues pour protéger le marché local du travail tout en répondant aux besoins économiques de main-d'œuvre.",
+      "desc2": "Assurer la conformité avec les règlements d'immigration peut être complexe, car les entreprises doivent respecter des exigences légales strictes régissant l'emploi de travailleurs internationaux. Les employeurs sont tenus de respecter les réglementations fiscales et de sécurité sociale, ainsi que des conditions spécifiques, comme le maintien d'un emploi à temps plein pour les ressortissants locaux ou de l'UE pendant une période désignée. Le processus implique également l'obtention de permis de travail et de séjour, ainsi que le respect des politiques d'embauche de talents de pays non membres de l'UE.",
+      "desc3": "C'est là qu'une guidance experte devient essentielle. Notre équipe est spécialisée dans la rationalisation du processus d'emploi, aidant les entreprises à obtenir des permis de travail, à gérer la documentation nécessaire et à assurer une conformité totale avec toutes les réglementations du marché du travail.",
+      "desc4": "Chez ArkaHire, nous fournissons un accompagnement professionnel pour simplifier le processus d'embauche. Nos experts aident à l'obtention de permis de travail, à la gestion de la documentation requise et à garantir la conformité totale avec les réglementations du marché du travail.",
+      "desc5": "Si vous êtes confronté à des exigences d'emploi complexes, notre Service d'Administration de l'Emploi offre une solution complète."
+    },
+    "employment": {
+      "title": "Administration de l'Emploi",
+      "desc": "Notre Service d'Administration de l'Emploi gère toutes les procédures administratives liées à l'embauche de professionnels internationaux. Nous assurons la conformité avec les lois du travail et sur l'immigration, rationalisant ainsi l'ensemble du processus pour votre entreprise.",
+      "btn": "En savoir plus"
+    },
+    "features": {
+      "title1": "Accès à des travailleurs qualifiés",
+      "desc1": "Une base de données de candidats soigneusement vérifiés et qualifiés.",
+      "title2": "Solutions de main-d'œuvre flexibles",
+      "desc2": "Des options d'embauche sur mesure adaptées à vos besoins opérationnels.",
+      "title3": "Processus de recrutement rapide et efficace",
+      "desc3": "Nous accélérons les processus d'embauche et administratifs, rendant le recrutement fluide."
+    }
+  },
+  "seasonal": {
+    "hero": {
+      "title": "Emploi de Travailleurs Saisonniers",
+      "desc": "Chez ArkaHire, nous sommes spécialisés dans le recrutement de travailleurs saisonniers dans diverses professions, y compris les serveurs, barmen, cuisiniers, personnel de cuisine assistant, femmes de chambre, agents d'entretien et réceptionnistes. Notre expertise garantit que vous pouvez trouver les bons talents pour vos besoins.",
+      "btn": "Contactez-nous"
+    },
+    "challenges": {
+      "title": "Défis pour trouver des travailleurs saisonniers",
+      "desc1": "Le problème de trouver des travailleurs saisonniers en Croatie, en particulier dans des secteurs tels que le tourisme, la restauration, l'agriculture et la construction, est multidimensionnel et représente souvent un défi significatif pour les employeurs.",
+      "desc2": "L'industrie hôtelière est plus sujette aux changements saisonniers que jamais auparavant, comparée à toute autre sphère d'activité.",
+      "desc3": "La plupart de nos clients au cours du premier trimestre ne peuvent pas prédire avec précision le nombre et le besoin de travailleurs externes ou étrangers pendant la haute saison.",
+      "desc4": "La situation dans laquelle la plupart des complexes hôteliers, hôtels et restaurants prennent des décisions d'embauche de dernière minute entraîne une augmentation soudaine de la demande de travailleurs. Cela se traduit ensuite par une réticence du marché à répondre immédiatement à cette demande. À savoir, à partir du moment de la signature du contrat avec l'Agence pour l'emploi, il faut un mois ou même deux avant que les travailleurs étrangers n'arrivent sur leur lieu de travail. La recherche de travailleurs, les tests de qualifications, les entretiens, la paperasse et les processus similaires prennent la majeure partie de ce temps.",
+      "desc5": "Par conséquent, nous vous proposons une solution qui élimine les risques de longues attentes et de retards dans l'arrivée des travailleurs : l'externalisation de la main-d'œuvre."
+    },
+    "assignment": {
+      "title": "Mise à disposition de personnel",
+      "desc": "Notre service de mise à disposition de personnel facilite l'embauche rapide de main-d'œuvre pour des projets saisonniers ou des périodes spécifiques. En utilisant des travailleurs disponibles déjà en Europe, nous accélérons considérablement le processus d'embauche. Nous nous occupons de la mise en place des conventions de mise à disposition et prenons en charge le paiement des salaires et les tâches administratives. Ce service est conçu pour apporter une solution pratique aux besoins urgents en main-d'œuvre tout en garantissant flexibilité et efficacité dans la gestion du personnel pour divers projets et demandes saisonnières.",
+      "btn": "En savoir plus"
+    },
+    "features": {
+      "title1": "Accès à des talents qualifiés",
+      "desc1": "Chez ArkaHire, nous proposons une base de données de candidats pré-vérifiés, minimisant les risques liés à l'embauche. Notre processus garantit l'accès à des travailleurs qualifiés adaptés à vos besoins.",
+      "title2": "Solutions de main-d'œuvre flexibles",
+      "desc2": "Nous comprenons l'importance d'une gestion flexible de la main-d'œuvre, vous permettant de vous adapter efficacement aux demandes changeantes.",
+      "title3": "Processus de recrutement efficace",
+      "desc3": "Notre processus de recrutement rationalisé accélère la recherche, la gestion et l'embauche de travailleurs, vous garantissant de répondre à vos besoins en main-d'œuvre en temps voulu."
+    }
+  },
+  "medical": {
+    "hero": {
+      "title": "Recrutement de Personnel Médical",
+      "desc": "Médecins, infirmiers, techniciens médicaux, pharmaciens et autres professionnels de santé – nous sommes spécialisés dans le recrutement de tout type de personnel médical.",
+      "btn": "Contactez-nous"
+    },
+    "challenges": {
+      "title": "Défis pour trouver du personnel médical",
+      "desc1": "Le défi de trouver des professionnels de santé qualifiés, particulièrement pour des rôles spécialisés, est un problème important auquel sont confrontés les établissements de santé dans le monde entier.",
+      "desc2": "Comme dans d'autres pays, le système de santé croate est aux prises avec les difficultés de trouver et de retenir un personnel médical qualifié. La demande de professionnels de santé, tels que des médecins, des infirmiers, des pharmaciens et des techniciens, continue d'augmenter en raison de facteurs tels que le vieillissement de la population, les progrès médicaux et l'évolution des besoins de santé.",
+      "desc3": "Le besoin de personnel médical ne cesse d'augmenter, poussé par des facteurs tels que la croissance démographique, une société vieillissante et les progrès de la technologie médicale.",
+      "desc4": "Le système de santé croate comprend à la fois des entités publiques et privées, chacune ayant ses propres exigences en matière de personnel. Bien que la main-d'œuvre médicale du pays soit généralement compétente, certaines spécialités ou régions peuvent connaître des pénuries, créant des lacunes dans les soins aux patients et augmentant la pression sur le personnel existant.",
+      "desc5": "Les établissements de santé sont également souvent confrontés à des difficultés pour prévoir avec précision leurs besoins en personnel, ce qui entraîne des pénuries pendant les périodes critiques. Cette imprévisibilité peut perturber la qualité des soins et surcharger le personnel actuel."
+    },
+    "mediation": {
+      "title": "Médiation pour l'Emploi",
+      "desc": "Nous donnons accès à un large bassin de candidats présélectionnés, y compris ceux ayant des compétences et une expérience spécialisées. En utilisant nos réseaux et ressources, nous pouvons accélérer le processus d'embauche, réduisant le temps nécessaire pour pourvoir les postes vacants et minimisant les perturbations dans les soins aux patients. Nous assurons le respect de toutes les normes d'agrément et de réglementation et aidons à réduire le risque d'embaucher des candidats non qualifiés ou peu fiables.",
+      "btn": "En savoir plus"
+    },
+    "features": {
+      "title1": "Accès à des travailleurs responsables",
+      "desc1": "Accédez à une main-d'œuvre soigneusement vérifiée et qualifiée",
+      "title2": "Prévention des retards de projet",
+      "desc2": "Nous veillons à ce que les projets soient terminés à temps avec une main-d'œuvre compétente.",
+      "title3": "Processus de recrutement efficace et rationalisé",
+      "desc3": "Nous accélérons le processus de recherche, de gestion et d'embauche des travailleurs."
+    }
+  },
+  "construction": {
+    "hero": {
+      "title": "Emploi des Travailleurs du Bâtiment",
+      "desc": "Nous proposons des solutions de staffing pour une grande variété de métiers du BTP, notamment les armuriers, charpentiers, maçons, monteurs de structures métalliques, couvreurs et conducteurs d'engins de chantier.",
+      "btn": "Contactez-nous"
+    },
+    "challenges": {
+      "title": "Les Défis pour Trouver des Travailleurs du Bâtiment",
+      "desc1": "L'industrie du BTP rencontre actuellement des défis importants pour sourcer une main-d'œuvre qualifiée. Cette pénurie de travailleurs freine la productivité, provoque des retards dans les calendriers des projets et complique les efforts pour répondre à la demande croissante de professionnels qualifiés dans le secteur.",
+      "desc2": "Partout en Europe, la demande d'experts en construction est en hausse, comme en témoignent les nombreuses offres d'emploi. De nombreuses entreprises éprouvent des difficultés à trouver des travailleurs expérimentés et compétents, ce qui entraîne des retards dans l'achèvement des projets.",
+      "desc3": "En tant qu'agence de recrutement spécialisée dans la main-d'œuvre étrangère, ArkaHire comble le fossé entre l'offre et la demande en mettant en relation des travailleurs qualifiés de pays du tiers monde avec des employeurs qui en ont besoin. Nous guidons également nos clients dans les processus juridiques associés à l'embauche d'employés étrangers, garantissant une expérience de recrutement fluide et conforme."
+    },
+    "mediation": {
+      "title": "Médiation de l'Emploi",
+      "desc": "Grâce à nos services de médiation de l'emploi, nous aidons les entreprises à puiser dans un vaste réservoir de travailleurs qualifiés. Nous relevons les défis rencontrés pour sécuriser une main-d'œuvre qualifiée. En permettant l'emploi de talents étrangers et en fournissant des services de recrutement complets, nous jouons un rôle essentiel pour répondre aux demandes de main-d'œuvre dans diverses industries en Europe.",
+      "btn": "En savoir plus"
+    },
+    "features": {
+      "title1": "Accès à des Travailleurs Responsables",
+      "desc1": "Accédez à une main-d'œuvre soigneusement vérifiée et qualifiée.",
+      "title2": "Prévention des Retards de Projet",
+      "desc2": "Nous veillons à ce que les projets soient terminés dans les délais avec une main-d'œuvre compétente.",
+      "title3": "Processus de Recrutement Efficace et Rationalisé",
+      "desc3": "Nous accélérons le processus de recherche, de gestion et d'embauche des travailleurs."
+    }
+  },
+  "servicemain": {
+    "title1": "En savoir plus sur nos services",
+    "desc1": "Nous vous accompagnons à chaque étape du processus de recrutement – de la recherche de candidats, la gestion administrative, à l'intégration en douceur.",
+    "btn1": "Contactez-nous",
+    "title2": "Administration de l'emploi",
+    "desc2": "Nous nous chargeons de toutes les tâches administratives liées à l'embauche de professionnels internationaux, y compris les traductions de documents, le traitement des visas et permis de travail, et la rédaction des contrats de travail.",
+    "btn2": "En savoir plus",
+    "title3": "RH Full-Service",
+    "desc3": "Pour une gestion des ressources humaines complète, du recrutement à l'intégration transparente des employés.",
+    "title4": "Médiation à l'emploi",
+    "desc4": "Économisez un temps et des ressources précieux en tirant parti de notre expertise professionnelle pour sourcer des travailleurs qualifiés en dehors de l'Europe.",
+    "title5": "Services de mise à disposition de travailleurs",
+    "desc5": "ArkaHire propose un service d'embauche de travailleurs pour des périodes spécifiques, telles que des projets ou des saisons, avec une option d'emploi permanent."
+  },
+  "assignmentworkers": {
+    "hero": {
+      "title": "Services de Mise à Disposition de Personnel",
+      "desc": "ArkaHire fournit un service pour embaucher des travailleurs pour des périodes spécifiques, telles que des projets ou des saisons, avec une option pour un emploi permanent.",
+      "btn": "Contactez-nous"
+    },
+    "features": {
+      "title1": "Flexibilité de l'Emploi",
+      "desc1": "Nous offrons des solutions de main-d'œuvre efficaces pour des projets à court terme ou des demandes de personnel fluctuantes, garantissant l'efficacité opérationnelle.",
+      "title2": "Évaluation du Travailleur Avant l'Emploi",
+      "desc2": "Nous permettons de tester les travailleurs avant un emploi permanent pour assurer une coopération réussie et une compatibilité.",
+      "title3": "Administration Rationalisée",
+      "desc3": "Nous gérons toutes les tâches administratives liées à l'emploi et aux RH, afin que vous puissiez vous concentrer sur les activités principales de votre entreprise."
+    },
+    "include": {
+      "title": "Que Comprend le Service de Mise à Disposition de Personnel ?",
+      "desc1": "Ce service offre une flexibilité dans la gestion de la main-d'œuvre tout en réduisant les charges administratives. Il donne accès à des talents spécialisés de l'étranger sans les complexités du recrutement direct.",
+      "desc2": "Nous simplifions l'emploi temporaire en rédigeant des contrats de travail formels et en assignant des travailleurs aux entreprises clientes selon des conditions convenues.",
+      "desc3": "Nos services vont au-delà de l'emploi en gérant des tâches administratives telles que les demandes de pension et d'assurance maladie, le calcul des salaires et le traitement des avantages.",
+      "desc4": "Les travailleurs sont placés dans les entreprises clientes selon des conditions convenues tandis que nous assumons le rôle officiel d'employeur.",
+      "desc5": "En choisissant nos services, les entreprises bénéficient d'un processus rationalisé qui résout les défis bureaucratiques, assure la conformité légale et améliore l'efficacité administrative. Cela permet aux entreprises de se concentrer sur leurs opérations principales."
+    },
+    "whenToconsider": {
+      "title": "Quand Envisager la Médiation en Matière d'Emploi ?",
+      "faq1": "Avez-vous besoin de travailleurs pour un projet spécifique ou sur une base saisonnière ?",
+      "ans1": "Notre service vous donne accès à un réservoir mondial de talents. Nous évaluons vos exigences et vous mettons en relation avec les meilleurs candidats pour répondre à ces besoins.",
+      "faq2": "Vous voulez éviter les complexités de l'emploi direct",
+      "ans2": "Nous gérons toutes les tâches administratives et comptables liées aux travailleurs, vous permettant de vous concentrer sur les activités principales de votre entreprise sans fardeau supplémentaire.",
+      "faq3": "Vous voulez assurer la qualité de votre main-d'œuvre",
+      "ans3": "Si vous devez évaluer les compétences des travailleurs avant de faire une embauche permanente, notre service offre une solution idéale en tant que phase de test. De plus, nos travailleurs intérimaires sont soigneusement vérifiés. Beaucoup d'entre eux ont une vaste expérience de travaux antérieurs en agence, apportant des compétences et des connaissances développées à tout environnement commercial. Nous effectuons également des vérifications supplémentaires sur tous les nouveaux travailleurs pour assurer leur préparation."
+    },
+    "advantages": {
+      "title1": "Quels sont les avantages de l'embauche par une agence ?",
+      "desc1": "En utilisant nos services de travail intérimaire, nous offrons des solutions flexibles pour combler les absences courtes ou longues des employés, optimiser les besoins de main-d'œuvre saisonnière et répondre aux exigences de projets spécifiques. De plus, nous gérons toutes les tâches administratives, garantissant un processus fluide et efficace.",
+      "title2": "Conseils d'Expert",
+      "desc2": "Nous fournissons un soutien professionnel et des conseils tout au long du processus de recrutement, vous assurant de prendre des décisions éclairées.",
+      "title3": "Économie de Temps et de Ressources",
+      "desc3": "Nous nous occupons de la recherche de candidats, des négociations et des tâches administratives, vous permettant de vous concentrer sur les domaines essentiels de votre entreprise.",
+      "title4": "Accès à un Marché Plus Large",
+      "desc4": "Nous vous donnons accès à un bassin diversifié de candidats du monde entier grâce à notre réseau établi.",
+      "title5": "Réduction des Risques",
+      "desc5": "Nous assurons la sécurité en vérifiant minutieusement les qualifications et les références des candidats, réduisant le risque d'embauches inadaptées et de non-conformité aux réglementations."
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "queation1": "Quels sont les avantages de l'embauche par une agence ?",
+      "ans1": "En utilisant le service de travail intérimaire, nous vous permettons de combler flexiblement les absences courtes ou longues de vos employés, d'optimiser les besoins commerciaux saisonniers ou les exigences pour des projets spécifiques. Nous gérons également les tâches administratives, facilitant l'ensemble du processus.",
+      "queation2": "Quelles tâches administratives prenons-nous en charge pour vous ?",
+      "ans2": {
+        "title1": "Nous vous soulageons de la charge administrative associée aux travailleurs détachés, ce qui comprend :",
+        "item1": "Rédaction et conclusion de contrats de travail",
+        "item2": "Calcul et traitement des salaires et des cotisations",
+        "item3": "Inscription et radiation des travailleurs auprès de la Caisse de Pension et d'Assurance Maladie",
+        "item4": "Tenue des registres mensuels et annuels (jours de vacances, congés de maladie, etc.)",
+        "item5": "Remplissage et soumission des rapports requis aux autorités compétentes"
+      },
+      "queation3": "Quelles sont vos obligations envers les travailleurs ?",
+      "ans3": "L'utilisateur (employeur) doit respecter les lois du travail, y compris les règlements de santé et de sécurité, ainsi que les protections spéciales pour certains groupes de travailleurs. Cela inclut de fournir des vêtements et chaussures de protection lorsque la nature du travail l'exige. De plus, l'utilisateur est responsable de l'organisation et de l'affectation du travail selon les processus établis, ainsi que de la tenue des registres de présence des travailleurs sur le lieu de travail."
+    }
+  },
+  "employmentmediation": {
+    "hero": {
+      "title": "Médiation Emploi",
+      "desc": "Économisez un temps précieux et des ressources en tirant parti de notre expertise professionnelle pour sourcer des travailleurs qualifiés en dehors de l'Europe.",
+      "btn": "Contactez-nous"
+    },
+    "features": {
+      "title1": "Accès à des Travailleurs Qualifiés",
+      "desc1": "Nous recherchons et sélectionnons activement des candidats potentiels, en utilisant nos vastes réseaux et bases de données.",
+      "title2": "Processus de Recrutement Rationalisé",
+      "desc2": "Nous garantissons un processus de recrutement efficace et précis.",
+      "title3": "Conseils et Soutien d'Experts à Chaque Étape",
+      "desc3": "Nous fournissons des conseils d'experts, garantissant des décisions éclairées et des résultats réussis."
+    },
+    "what": {
+      "title": "Qu'est-ce que la Médiation Emploi ?",
+      "desc1": "Nous servons de pont entre les employeurs et les candidats potentiels, simplifiant le processus en définissant les exigences du poste, en présélectionnant les candidats et en offrant un soutien complet. Notre objectif est de connecter les meilleurs talents avec les entreprises.",
+      "desc2": "Le recrutement est un service vital qui aide les employeurs à trouver des candidats qualifiés pour leurs organisations. Ce service implique de faire appel à un cabinet de recrutement qui agit comme un médiateur entre les entreprises et les futurs employés. L'agence se concentre sur la compréhension des besoins de l'employeur, la définition des exigences spécifiques du poste et la recherche et la sélection assidues de candidats correspondant à ces besoins.",
+      "desc3": "Un rôle fondamental de l'agence lors du processus d'embauche est de réaliser des vérifications approfondies des qualifications et de l'expérience des candidats, garantissant ainsi leur adéquation au poste.",
+      "desc4": "Opter pour des services de recrutement offre de nombreux avantages, notamment l'accès à un vaste bassin de talents, la réduction du temps et des ressources nécessaires au recrutement, et la garantie de normes élevées de professionnalisme dans la sélection des candidats."
+    },
+    "commonfaq": {
+      "title": "Réponses aux Questions les Plus Fréquentes",
+      "queation1": "Quelles sont Nos Responsabilités dans le Processus de Médiation ?",
+      "ans1": {
+        "title1": "Les devoirs des agences impliquées dans la médiation pour l'emploi de travailleurs étrangers incluent :",
+        "item1": "Sourcer un travailleur adapté selon les critères du client, mener le processus de sélection et fournir la documentation requise.",
+        "item2": "Préparer et soumettre tous les documents nécessaires pour obtenir un permis de séjour temporaire et un permis de travail pour les ressortissants de pays tiers.",
+        "item3": "Couvrir les frais d'assurance voyage des travailleurs.",
+        "item4": "Organiser le visa nécessaire pour le séjour et le travail en Europe.",
+        "item5": "Couvrir le coût du billet d'avion du travailleur."
+      },
+      "queation2": "Quelles sont Vos Obligations envers un Travailleur Étranger ?",
+      "ans2": "Une fois le permis de travail obtenu pour un travailleur étranger, il est nécessaire de lui fournir un logement et des repas à son arrivée. Le logement doit répondre aux normes de base. Si la nourriture ne peut être fournie, une indemnité alimentaire doit être versée au travailleur. De plus, vous êtes tenu d'inscrire le travailleur à la pension et à l'assurance maladie, comme vous le feriez pour tout employé local.",
+      "queation3": "Quelles sont les Conditions pour Obtenir un Permis de Séjour et de Travail ?",
+      "ans3": {
+        "title2": "Les conditions pour obtenir les permis nécessaires incluent :",
+        "item1": "Exercer une activité économique enregistrée en Europe.",
+        "item2": "Employer au moins un quart de citoyens croates par rapport aux ressortissants de pays tiers, avec un contrat à durée indéterminée et à temps plein, depuis six mois.",
+        "item3": "Un certificat de l'Administration Fiscale confirmant l'absence de dettes liées aux prestations publiques, datant d'une période récente avant la demande des permis.",
+        "item4": "Aucune condamnation légale liée aux relations de travail ou à la sécurité sociale."
+      }
+    },
+    "benefits": {
+      "title1": "Quels sont les Avantages de Recruter par une Agence ?",
+      "item1": "Nous nous chargeons de la préparation et de la soumission de tous les documents légaux requis pour le compte des employeurs et de leurs employés sélectionnés.",
+      "item2": "Avec notre vaste expérience dans ce domaine, nous avons rationalisé nos processus, offrant aux employeurs un moyen rapide et efficace d'embaucher.",
+      "title2": "Conseils d'Experts",
+      "desc2": "Nous fournissons un soutien professionnel et des conseils tout au long du processus de recrutement, vous garantissant de prendre des décisions bien informées.",
+      "title3": "Économie de Temps et de Ressources",
+      "desc3": "Nous nous chargeons des recherches de candidats, des négociations et des tâches administratives, vous permettant de vous concentrer sur le cœur de votre activité.",
+      "title4": "Accès à un Marché Plus Large",
+      "desc4": "Nous vous donnons accès à un bassin diversifié de candidats du monde entier grâce à notre réseau établi.",
+      "title5": "Réduction des Risques",
+      "desc5": "Nous assurons la sécurité en vérifiant minutieusement les qualifications et les références des candidats, réduisant ainsi le risque d'embauches inadaptées et de non-conformité aux réglementations."
+    },
+    "process": {
+      "title1": "Étape 1 : Consultations",
+      "desc1": "Notre équipe de spécialistes réalise une analyse approfondie de vos besoins en main-d'œuvre, élaborant une stratégie de recrutement sur mesure.",
+      "title2": "Étape 2 : Recherche de Talents",
+      "desc2": "Avec notre vaste réseau et nos ressources, nous identifions des candidats qualifiés du monde entier correspondant aux besoins de votre entreprise.",
+      "title3": "Étape 3 : Processus de Sélection",
+      "desc3": "Nous évaluons méticuleusement les qualifications, l'expérience et les références des candidats pour nous assurer de sélectionner les meilleurs individus pour votre équipe.",
+      "title4": "Étape 4 : Amener les Travailleurs en Europe",
+      "desc4": "Nous gérons toute la documentation nécessaire et organisons le transfert des travailleurs vers l'Europe.",
+      "title5": "À quoi Ressemble le Processus ?",
+      "desc5": "Confiez-nous toutes vos préoccupations en ressources humaines et assurez une gestion optimale de vos employés avec nos services RH tout compris !"
+    },
+    "faq": {
+      "title": "Questions Fréquemment Posées",
+      "queation1": "Quelles sont Nos Responsabilités dans le Processus de Médiation ?",
+      "ans1": "Les devoirs des agences impliquées dans la médiation pour l'emploi de travailleurs étrangers incluent : – Identifier un travailleur adapté selon les critères du client, mener le processus de sélection et fournir la documentation requise. – Préparer et soumettre tous les documents nécessaires pour obtenir un permis de séjour temporaire et un permis de travail pour les ressortissants de pays tiers. – Couvrir les frais d'assurance voyage des travailleurs. – Organiser le visa nécessaire pour le séjour et le travail en Europe. – Couvrir le coût du billet d'avion du travailleur.",
+      "queation2": "Quelles sont Vos Responsabilités envers un Travailleur Étranger ?",
+      "ans2": "Une fois le permis de travail obtenu pour un travailleur étranger, un logement et des repas doivent être fournis à son arrivée. Le logement doit répondre aux normes de base. Si les repas ne peuvent être fournis, une indemnité alimentaire doit être versée. De plus, il est obligatoire d'inscrire le travailleur à la pension et à l'assurance maladie, comme pour tout employé local.",
+      "queation3": "Quelles Conditions Doivent Être Remplies pour Obtenir un Permis de Séjour et de Travail ?",
+      "ans3": "Pour obtenir les permis nécessaires, les conditions suivantes doivent être remplies : – Votre entreprise doit être enregistrée en Europe. – Vous devez employer au moins un quart de citoyens locaux par rapport aux ressortissants de pays tiers, avec un contrat à durée indéterminée et à temps plein, depuis six mois. – Un certificat de l'Administration Fiscale confirmant l'absence de dettes liées aux prestations publiques, datant d'une période récente avant la demande des permis. – Il ne doit y avoir aucune condamnation légale liée aux relations de travail ou à la sécurité sociale.",
+      "queation4": "Le Travailleur Peut-il Commencer Immédiatement ?",
+      "ans4": "Malheureusement, non. Comme ces travailleurs viennent de pays tiers, ils doivent d'abord obtenir un permis de travail et un visa avant d'entrer en Europe. Le processus complet peut prendre de 45 à 90 jours, selon la rapidité des institutions impliquées. La préparation des documents et les négociations prennent généralement de 4 à 10 jours, selon la préparation de l'employeur. Le recrutement et la sélection des candidats peuvent varier de 1 à 30 jours (jusqu'à 7 jours pour les travailleurs peu qualifiés, jusqu'à 30 jours pour les travailleurs qualifiés), ou plus si des professions spécifiques sont requises (jusqu'à 60 jours). Le test du marché du travail dure généralement 15 jours. L'obtention d'un permis de travail prend généralement entre 15 et 30 jours. Le traitement du visa prend encore 15 à 30 jours supplémentaires. L'organisation du voyage et l'arrivée du travailleur en Europe prennent généralement 1 à 10 jours."
+    }
+  },
+  "administration": {
+    "hero": {
+      "title": "Services complets d'administration de l'emploi",
+      "desc": "Nous nous occupons de toutes les tâches administratives liées au recrutement de professionnels internationaux, y compris les traductions de documents, le traitement des visas et des permis de travail, et la rédaction de contrats de travail.",
+      "btn": "Contactez-nous"
+    },
+    "features": {
+      "title1": "Gagnez du temps et de l'argent",
+      "desc1": "Débarrassez-vous du fardeau des procédures administratives complexes et concentrez-vous sur votre cœur de métier.",
+      "title2": "Assistance experte",
+      "desc2": "Notre équipe assure un processus fluide tout en respectant les dernières exigences légales.",
+      "title3": "Solutions sur mesure",
+      "desc3": "Nous personnalisons nos services pour répondre à vos besoins spécifiques en matière de recrutement."
+    },
+    "include": {
+      "title": "Que comprend le service d'administration de l'emploi ?",
+      "desc1": "Nous aidons les entreprises à gérer les complexités de l'embauche de travailleurs étrangers, en garantissant la conformité avec les lois sur l'immigration et le travail, et en simplifiant le processus administratif.",
+      "title1": "Notre service d'administration de l'emploi comprend la gestion de toutes les tâches administratives liées à l'emploi de travailleurs étrangers pour les entreprises opérant dans l'UE. Le service couvre généralement :",
+      "desc2": {
+        "item1": "Traitement des permis de travail et des visas",
+        "item2": "Garantie de la conformité de la documentation aux lois sur l'immigration",
+        "item3": "Préparation des contrats de travail",
+        "item4": "Coordination avec les autorités gouvernementales"
+      }
+    },
+    "whenToconsider": {
+      "title": "Quand choisir un service d'administration ?",
+      "faq1": "Vous avez déjà trouvé vous-même des employés.",
+      "ans1": "Si vous avez déjà effectué vous-même le processus de sélection des travailleurs étrangers et sélectionné le personnel idéal pour votre entreprise, nous pouvons vous apporter un soutien et une assistance pendant l'embauche.",
+      "faq2": "Vous n'avez pas assez de temps pour vous occuper de l'administration.",
+      "ans2": "Nous vous libérons des tâches et processus administratifs, vous permettant de vous concentrer sur vos activités principales. Nous nous occupons de toute la documentation nécessaire pour que vous puissiez vous consacrer au développement de votre entreprise. Nous obtiendrons pour vous les visas, les titres de séjour et les permis de travail, traduirons la documentation étrangère, préparerons les contrats de travail et tous les autres documents nécessaires.",
+      "faq3": "Vous ne comprenez pas les réglementations légales.",
+      "ans3": "Notre équipe vérifie les qualifications et assure la conformité avec les réglementations et lois locales. Des experts expérimentés fournissent un soutien tout au long du processus et garantissent que l'ensemble du processus respecte les réglementations légales."
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "queation1": "À quoi ressemble le processus d'embauche de travailleurs étrangers ?",
+      "ans1": {
+        "title1": "Pour embaucher des travailleurs étrangers pour des postes dans toute l'Europe, les étapes essentielles suivantes doivent être suivies :",
+        "item1": "Obtenir un permis de travail pour l'employé étranger auprès de l'autorité compétente en matière d'immigration ou d'emploi.",
+        "item2": "Soumettre une demande de titre de séjour pour le travailleur.",
+        "item3": "Enregistrer l'employé étranger auprès des autorités fiscales et de sécurité sociale concernées.",
+        "item4": "Garantir le respect de toutes les réglementations en matière de travail et d'immigration applicables."
+      },
+      "queation2": "Quels documents sont requis pour l'emploi de travailleurs étrangers ?",
+      "ans2": {
+        "title2": "La documentation nécessaire comprend :",
+        "item1": "Permis de travail délivré par l'autorité compétente.",
+        "item2": "Contrat de travail ou accord formel.",
+        "item3": "Passeport ou pièce d'identité valide du travailleur étranger.",
+        "item4": "Couverture d'assurance maladie pour le travailleur.",
+        "item5": "Preuve de paiement des frais administratifs requis."
+      },
+      "queation3": "Comment les services d'assistance administrative peuvent-ils aider les employeurs à naviguer dans le processus d'embauche de travailleurs étrangers dans l'UE ?",
+      "ans3": "Les services d'assistance administrative jouent un rôle crucial dans la simplification du processus d'embauche de travailleurs étrangers, en offrant un soutien complet à chaque étape.",
+      "ans4": "Nous guidons les employeurs tout au long du processus de demande de permis de travail et de séjour, aidons à préparer et à soumettre les documents nécessaires aux autorités compétentes et garantissons une conformité totale aux exigences légales. Nos services incluent des conseils continus sur les questions de travail et d'immigration, tout en rationalisant les tâches administratives. Cette approche permet aux employeurs de gagner du temps et des ressources, garantissant un processus d'embauche de travailleurs étrangers fluide et efficace dans toute l'Europe."
+    }
+  },
+  "fullservicehr": {
+    "hero": {
+      "title": "Services RH Complets",
+      "desc": "Pour un soutien complet en gestion des ressources humaines, du recrutement à l'intégration transparente des employés.",
+      "btn": "Contactez-nous"
+    },
+    "features": {
+      "title1": "Soutien tout au long du processus RH",
+      "desc1": "Du recrutement et de l'administration à la sécurisation du logement et à l'assistance continue.",
+      "title2": "Accès à des experts RH",
+      "desc2": "Bénéficiez de l'expertise de professionnels ayant une vaste expérience en ressources humaines.",
+      "title3": "Concentration sur les objectifs commerciaux",
+      "desc3": "Recentrez votre attention sur la réalisation des objectifs stratégiques tandis que nous gérons vos besoins en RH."
+    },
+    "mean": {
+      "title": "Que signifient les services RH complets ?",
+      "desc1": "L'option Services RH Complets offre un large éventail de soutien couvrant tous les aspects du processus RH, du recrutement à l'intégration fluide des employés au sein de votre organisation.",
+      "desc2": "Ce service complet comprend le recrutement, les procédures de sélection, le travail administratif, les questions d'assurance, le logement et un soutien continu tout au long du parcours d'emploi. En employant un personnel hautement spécialisé ayant une expérience considérable en droit du travail, ce service assure une attention méticuleuse aux détails et l'identification de solutions adaptées aux besoins spécifiques d'une entreprise.",
+      "desc3": "externalisation de ces fonctions RH essentielles offre plusieurs avantages. Premièrement, elle permet d'accéder à l'expertise de professionnels chevronnés, garantissant une gestion des ressources humaines efficace et coordonnée. Deuxièmement, l'externalisation permet à une entreprise de réaffecter ses ressources internes vers les objectifs commerciaux principaux, boostant la productivité et faisant avancer les objectifs stratégiques. En fin de compte, l'option Services RH Complets garantit non seulement des opérations RH transparentes, mais permet également aux entreprises de se concentrer sur l'atteinte de leur mission principale avec une clarté et une efficacité accrues."
+    },
+    "whenToconsider": {
+      "title": "Quand choisir l'option Services RH Complets ?",
+      "faq1": "Absence d'une équipe RH interne",
+      "ans1": "Sans département RH interne, la gestion de tous les aspects du processus RH, du recrutement à l'intégration des employés, peut devenir écrasante et chronophage. En externalisant auprès d'experts, les entreprises peuvent s'assurer que chaque phase du processus RH est gérée de manière experte, leur permettant de se concentrer sur leurs opérations principales sans le fardeau des tâches RH.",
+      "faq2": "Ressources limitées pour la gestion des processus",
+      "ans2": "Que ce soit en raison de limitations financières, de temps ou professionnelles, l'externalisation des Services RH Complets offre une solution efficace. Nous fournissons l'infrastructure, l'expertise et l'expérience nécessaires pour gérer efficacement tous les aspects RH, du recrutement aux tâches administratives, garantissant un processus fluide et rationalisé sans pression supplémentaire sur les ressources internes.",
+      "faq3": "Besoin d'une solution rapide et fiable",
+      "ans3": "Lorsqu'une entreprise a besoin d'une solution RH rapide et fiable, l'option Services RH Complets est le meilleur choix. Nous naviguons efficacement dans les complexités des RH, fournissant des résultats rapides et efficaces. En tirant parti de nos connaissances et de notre expérience spécialisées, les entreprises peuvent s'assurer que leurs besoins RH sont satisfaits rapidement et avec un minimum de tracas."
+    },
+    "faq": {
+      "title": "Foire Aux Questions",
+      "queation1": "Quelles fonctions RH couvrons-nous ?",
+      "ans1": "Notre solution Services RH Complets englobe tous les aspects du processus RH, y compris le recrutement, les procédures de sélection, les tâches administratives, les questions d'assurance, le placement, et un soutien et des conseils continus tout au long du cycle de vie de l'emploi.",
+      "queation2": "Comment assurons-nous la conformité avec les lois et réglementations du travail pertinentes ?",
+      "ans2": "Nous employons un personnel expert ayant une vaste expérience en droit du travail, assurant une attention minutieuse aux détails et l'identification des solutions les plus adaptées aux besoins uniques de votre entreprise. Nous restons également à jour avec les dernières exigences légales et les meilleures pratiques pour garantir une conformité totale.",
+      "queation3": "Quelle flexibilité offrons-nous pour adapter la solution à vos besoins spécifiques ?",
+      "ans3": "Nous comprenons que chaque entreprise a des exigences RH distinctes. Par conséquent, nous offrons une flexibilité dans la personnalisation de notre solution Services RH Complets pour répondre à vos besoins uniques, que cela implique l'ajustement des composants du service, la satisfaction d'exigences spécifiques ou l'adaptation à vos demandes commerciales évolutives."
+    }
+  },
+  "about": {
+    "hireaforeigner": {
+      "title": "Embaucher un étranger",
+      "desc": "Un partenaire fiable et expérimenté dans le recrutement de travailleurs étrangers. Notre équipe d'experts se consacre à vous guider tout au long du processus d'immigration, garantissant un résultat fluide et réussi.",
+      "btn": "Contactez-nous"
+    },
+    "whoWeare": {
+      "title1": "QUI SOMMES-NOUS ?",
+      "title2": "Agence Internationale d'Emploi",
+      "desc1": "Nous aidons nos clients internationaux à trouver des opportunités d'emploi adaptées, y compris en Europe, en les associant soigneusement à des postes correspondant à leurs qualifications. De plus, nous veillons à ce que les entreprises avec lesquelles nous collaborons respectent et récompensent équitablement leur main-d'œuvre.",
+      "desc2": "Pour nos clients employeurs, nous sourçons et sécurisons méticuleusement des travailleurs qualifiés répondant à leurs exigences spécifiques, réduisant les inquiétudes concernant la rotation du personnel. Cette approche garantit une main-d'œuvre stable pour répondre aux besoins des projets ou saisonniers, localement et internationalement. En conséquence, nos clients peuvent s'attendre à une livraison de projet dans les délais sans perturbations inutiles.",
+      "desc3": "Nous offrons une solution complète pour le recrutement et l'embauche de talents de haute qualité, visant à favoriser un environnement de travail productif et harmonieux pour les employeurs et les employés du monde entier."
+    },
+    "WhyChoose": {
+      "title1": "Pourquoi choisir",
+      "title2": "ArkaHire ?",
+      "desc1": "Des années d'expertise",
+      "desc2": "Travailleurs étrangers placés avec succès",
+      "desc3": "Satisfaction client"
+    },
+    "WhatDoWeOffer": {
+      "title1": "QUE PROPOSONS-NOUS ?",
+      "title2": "Vous avez besoin d'aide avec l'immigration ? Notre équipe d'experts est là pour vous aider",
+      "desc1": "Contactez notre équipe dès aujourd'hui pour en savoir plus sur nos services et faire le premier pas vers une embauche réussie de travailleurs étrangers.",
+      "title3": "Services d'emploi",
+      "btn": "Découvrir tous les services",
+      "title4": "Soutien administratif",
+      "desc2": "Nous gérons toute l'administration nécessaire pour l'emploi, telle que la traduction de documents, l'obtention de visas et de permis de travail, les contrats de travail.",
+      "title5": "Médiation en emploi",
+      "desc3": "Économisez du temps et des ressources en utilisant nos services professionnels pour localiser des travailleurs qualifiés en dehors de l'Europe.",
+      "title6": "Services RH complets",
+      "desc4": "Un soutien complet en gestion des ressources humaines, depuis le recrutement jusqu'à l'intégration totale des employés.",
+      "title7": "Services de mise à disposition de personnel",
+      "desc5": "Nous proposons la mise à disposition de travailleurs pour des périodes spécifiques (telles que des projets ou des travaux saisonniers) avec la possibilité de passer à un emploi permanent."
+    },
+    "contactourteam": {
+      "title": "Contactez notre équipe",
+      "desc1": "En savoir plus sur nos services professionnels et",
+      "desc2": "découvrez comment nous pouvons vous aider.",
+      "btn": "Contactez-nous"
+    }
+  },
+  "footer": {
+    "title": "Nous sommes à votre disposition.",
+    "desc": "Contactez-nous pour toute question relative à l'embauche de travailleurs étrangers. Nous vous aiderons à tout moment."
+  }
+}

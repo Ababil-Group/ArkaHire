@@ -1,0 +1,547 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "howToHire": "Uluslararası yetenekleri nasıl işe alırsınız?",
+    "solutions": {
+      "label": "Çözümler",
+      "navigating": "Göçmenlik yasalarında gezinme",
+      "seasonal": "Sezonluk işçilerin istihdamı",
+      "construction": "İnşaat işçilerinin istihdamı",
+      "medical": "Sağlık çalışanlarının istihdamı"
+    },
+    "services": {
+      "label": "Hizmetler",
+      "admin": "İstihdam yönetimi",
+      "fullHR": "Tam kapsamlı İK hizmetleri",
+      "mediation": "İstihdam arabuluculuğu",
+      "assignment": "İşçi görevlendirme"
+    },
+    "about": "Hakkımızda",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "title": "Küresel iş gücü işe alım sürecini basitleştirin.",
+    "desc": "İster küçük bir işletme olun ister çok uluslu bir şirket, ArkaHire ihtiyaç duyduğunuz nitelikli iş gücünü bulmanıza yardımcı olur. İşe alımdan işe başlangıca kadar her şeyi biz yönetiyoruz.",
+    "btn1": "Bize ulaşın",
+    "btn2": "Hizmetleri keşfedin"
+  },
+  "achievements": {
+    "year1": "7+",
+    "exp1": "Yıllık deneyim",
+    "year2": "600+",
+    "exp2": "Yerleştirilen çalışan",
+    "year3": "100%",
+    "exp3": "Müşteri memnuniyeti"
+  },
+  "whyChoose": {
+    "title": "Neden bir işe alım ajansı seçmelisiniz?",
+    "desc": "ArkaHire olarak uluslararası yeteneklerin bulunması ve işe alınması için yenilikçi, hızlı ve etkili çözümler sunuyoruz.",
+    "question1": "Nitelikli çalışanları nerede bulacağınızı bilmiyor musunuz?",
+    "ans1": "Ekibimiz ihtiyaçlarınızı analiz eder ve size özel bir işe alım stratejisi oluşturur.",
+    "question2": "İşe alımda esnekliğe mi ihtiyacınız var?",
+    "ans2": "Geçici istihdam çözümleri sunuyor ve tüm resmi süreçleri yönetiyoruz.",
+    "question3": "Dahili bir İK ekibiniz yok mu?",
+    "ans3": "Tam kapsamlı İK hizmetimiz, işe alımdan entegrasyona kadar her şeyi kapsar.",
+    "question4": "Yasal düzenlemelere hâkim değil misiniz?",
+    "ans4": "Süreci basitleştiriyor ve tüm yasal uyumluluğu sağlıyoruz."
+  },
+  "typeofemployees": {
+    "title": "Hangi tür çalışanları bulabiliriz?",
+    "cardTitle1": "Depo Çalışanları",
+    "cardDesc1": "Proaktif ve öğrenmeye istekli — adaylarımız liderlik rolleri üstlenmeye bile hazırdır.",
+    "cardTitle2": "Elektrikçiler",
+    "cardDesc2": "Farklı seviyelerde deneyimli nitelikli profesyoneller. Değerlendirme için video mülakatlar ayarlanabilir.",
+    "cardTitle3": "Mekanik",
+    "cardDesc3": "Genç, yetenekli ve yeni zorluklara hazır.",
+    "cardTitle4": "İnşaat İşçileri",
+    "cardDesc4": "Temel becerilerden uzmanlık gerektiren işlere kadar — projelerinize uygun çalışanları buluyoruz.",
+    "cardTitle5": "Fayans Ustaları",
+    "cardDesc5": "Yüksek talep gören profesyoneller verimli işe alım sürecimizle temin edilebilir.",
+    "cardTitle6": "Özel Pozisyonlar",
+    "cardDesc6": "Spesifik bir rol mü arıyorsunuz? Size yardımcı olabiliriz. Bizimle iletişime geçin.",
+    "btn": "İletişime geçin"
+  },
+  "HireAForeigner": {
+    "title": "Yabancı Çalışan İstihdam Etme",
+    "subtitle": "Yurt dışından nitelikli çalışan işe alma süreci",
+    "desc1": "Şirketinizin uluslararası profesyonelleri istihdam edebilmesi için karşılaması gereken temel gereksinimleri öğrenin.",
+    "desc2": "6 aydan uzun süredir faaliyette olan işletme",
+    "desc3": "En az 6 ay boyunca en az bir tam zamanlı çalışan",
+    "desc4": "Yerel iş gücü toplam çalışanların en az %25’ini oluşturmalıdır"
+  },
+  "wowtohire": {
+    "title": "Uluslararası yetenek nasıl işe alınır?",
+    "desc": "Uluslararası çalışanları işe alma sürecinin her adımında size rehberlik ediyoruz:",
+    "no1": "01",
+    "cardTitle1": "İşgücü Kaynağı",
+    "cardDesc1": "İhtiyaçlarınıza uygun adayları buluyoruz. Online mülakatlar mümkündür.",
+    "no2": "02",
+    "cardTitle2": "Sözleşmeler",
+    "cardDesc2": "İş sözleşmelerini hazırlıyor ve yönetiyoruz.",
+    "no3": "03",
+    "cardTitle3": "Konaklama",
+    "cardDesc3": "Çalışanlar için uygun konaklama bulunmasına yardımcı oluyoruz.",
+    "no4": "04",
+    "cardTitle4": "Çalışma İzinleri",
+    "cardDesc4": "Çalışma izni başvurularını biz takip ediyoruz.",
+    "no5": "05",
+    "cardTitle5": "Vizeler",
+    "cardDesc5": "Genellikle 4–6 hafta süren vize başvurularını yönetiyoruz.",
+    "no6": "06",
+    "cardTitle6": "Seyahat Düzenlemeleri",
+    "cardDesc6": "Uçuşları ayarlıyor ve çalışanların güvenle varmasını sağlıyoruz.",
+    "no7": "07",
+    "cardTitle7": "Dokümantasyon",
+    "cardDesc7": "Kimlik kartları, sağlık muayeneleri ve banka hesabı açılışı konularında destek sağlıyoruz.",
+    "no8": "08",
+    "cardTitle8": "Memnuniyet",
+    "cardDesc8": "Hedefimiz hem işverenlerin hem de çalışanların memnuniyetini sağlamaktır."
+  },
+  "bookconsultation": {
+    "title": "Ücretsiz Danışmanlığınızı Ayırtın.",
+    "desc1": "Yabancı işçi istihdamında güvenilir ve deneyimli bir ortak. Uzmanlarımız, herhangi bir göçmenlik sürecinden kaynaklanan stresi ortadan kaldırmak ve başarılı bir sonuç şansınızı artırmak için sizinle birlikte çalışmaya hazırdır.",
+    "decs2": "Hizmetlerimiz hakkında daha fazla bilgi edinmek ve başarılı bir işe alım için ilk adımı atmak için bugün ekibimizle iletişime geçin.",
+    "btn": "Bize Ulaşın"
+  },
+  "whychooseus": {
+    "title": "Neden Bizi Seçmelisiniz?",
+    "desc": "ArkaHire, uluslararası yetenekleri işe almak için güvenilir ortağınızdır. Uzmanlarımız, göçmenlik sürecini basitleştirmeye ve başarılı sonuçlar sağlamaya hazırdır.",
+    "item1": "Ücretsiz danışmanlıklar",
+    "item2": "Yüksek kaliteli adaylar",
+    "item3": "Hızlı yanıt süreleri",
+    "item4": "Uzun vadeli ortaklıklar",
+    "item5": "7/24 kullanılabilirlik",
+    "item6": "Doğrulanmış profesyoneller",
+    "btn": "Bize Ulaşın"
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular (SSS)",
+    "faq1": "Konaklama sağlamaktan kim sorumludur?",
+    "ans1": "İşverenler, çalışanlarına uygun ve konforlu konaklama sunmakla yükümlüdür.",
+    "faq2": "İşçilerin gelmesi ne kadar sürer?",
+    "ans2": "Süreç genellikle en az üç ay sürer. Bu süre, çalışma izni almak için iki haftalık bir süreyi ve ardından vize işlemi için en az altı haftayı içerir.",
+    "faq3": "Bir çalışandan memnun değilsek ne olur?",
+    "ans3": "Bir çalışan beklentilerinizi karşılamıyorsa, standart iş yönetmeliğine göre sözleşmesini feshetme hakkınız vardır. Bu gibi durumlarda, işçinin alternatif istihdam bulmasına yardımcı oluruz. Uygun fırsatlar ortaya çıkmazsa, anavatanına dönüşünü kolaylaştırırız.",
+    "faq4": "1 yıldan uzun çalışma izinleri için başvurabilir miyiz?",
+    "ans4": "Çalışma izinleri genellikle bir yıl için verilirken, mevsimlik işçiler altı aya kadar izin alabilir. Bürokratik prosedürler nedeniyle çalışma izni ve vize almak genellikle iki ila üç ay sürer.",
+    "faq5": "Çalışma izinleri nasıl yenilenebilir?",
+    "ans5": "Yenileme başvuruları, iznin sona ermesinden en az bir ay önce yapılmalıdır. Süreç, çalışanın pasaportunu, önceki kimlik kartını, yeni fotoğraflarını (yeni kimlik için), konaklama sağlayıcısından bir beyanı ve belirlenen yerde konaklamanın devam ettiğini onaylayan şirket tarafından verilen bir beyanı gerektirir.",
+    "faq6": "Yabancı işçi istihdam etmek için kısıtlamalar var mı?",
+    "ans6": "Avrupa'daki belirli meslekler yüksek talep gören olarak sınıflandırılır ve bu da işverenlerin işgücü piyasası testinden geçmeden çalışma izinleri için başvuruda bulunmalarına olanak tanır. Bu mesleklerin resmi listesi ilgili makamlardan temin edilebilir. Kısa meslek listesinde yer almayan pozisyonlar için İşgücü Piyasası Testi gerekir. Bu süreç iki hafta sürer ve yerel işçilerin mevcudiyetini değerlendirir. İşgücü kıtlığı doğrulanırsa, yabancı işçiler için başvurular buna göre devam edebilir."
+  },
+  "contactus": {
+    "title": "İletişim",
+    "subtitle": "Yanıtını bulamadığınız herhangi bir sorunuz olursa, bize ulaşmaktan çekinmeyin, her şeyi ayrıntılı olarak açıklayacağız.",
+    "time": "Çalışma Saatleri: Pzt - Cuma 8:00 - 16:00",
+    "sendText": "Uzman Desteği İçin Bize Ulaşın Sorularınız mı var? Yardım Etmek İçin Buradayız!"
+  },
+
+  "navigating": {
+    "hero": {
+      "title": "İşverenler için Göçmenlik Yasalarında Gezinme",
+      "desc": "Yabancı işçilerin istihdamını düzenleyen yasal çerçeve nedeniyle göçmenlik yasalarına uymak karmaşık olabilir. Uzmanlığımız, süreci kolaylaştırmak için burada devreye giriyor.",
+      "btn": "Bize Ulaşın"
+    },
+    "challenges": {
+      "title": "Göçmenlik Uyumu Zorlukları",
+      "desc1": "Şirketlerin yabancı profesyonelleri işe alırken karşılaştığı en büyük zorluklardan biri, yerel işgücü piyasasını korurken aynı zamanda ekonomik işgücü ihtiyaçlarını da karşılamak için tasarlanmış karmaşık göçmenlik yasalarında gezinmektir.",
+      "desc2": "Göçmenlik düzenlemelerine uyum sağlamak karmaşık olabilir, çünkü işletmeler uluslararası işçilerin istihdamını yöneten katı yasal gerekliliklere uymak zorundadır. İşverenler, vergi ve sosyal güvenlik mevzuatına ve ayrıca belirli bir süre boyunca yerel veya AB vatandaşları için tam zamanlı istihdamı sürdürme gibi özel koşullara uymakla yükümlüdür. Süreç ayrıca, AB üyesi olmayan ülkelerden yetenekli kişileri işe alma politikalarına uyum sağlamanın yanı sıra çalışma ve oturma izinlerinin alınmasını da içerir.",
+      "desc3": "İşte bu noktada uzman rehberliği gerekli hale gelir. Ekibimiz, işe alım sürecini kolaylaştırmada uzmanlaşmıştır; işletmelere çalışma izinlerini almalarında, gerekli belgeleri yönetmelerinde ve tüm işgücü piyasası düzenlemelerine tam uyum sağlamalarında yardımcı olur.",
+      "desc4": "ArkaHire'da, işe alım sürecini basitleştirmek için profesyonel rehberlik sağlıyoruz. Uzmanlarımız, çalışma izinlerinin alınmasına, gerekli belgelerin yönetilmesine ve işgücü piyasası düzenlemelerine tam uyum sağlanmasına yardımcı olur.",
+      "desc5": "Karmaşık istihdam gereksinimleriyle karşı karşıyaysanız, İstihdam Yönetimi Hizmetimiz tam bir çözüm sunar."
+    },
+    "employment": {
+      "title": "İstihdam Yönetimi",
+      "desc": "İstihdam Yönetimi Hizmetimiz, uluslararası profesyonellerin işe alınmasıyla ilgili tüm idari prosedürleri yönetir. İş ve göçmenlik yasalarına uyumu sağlayarak, tüm süreci şirketiniz için kolaylaştırıyoruz.",
+      "btn": "Daha Fazla Bilgi"
+    },
+    "features": {
+      "title1": "Nitelikli Çalışanlara Erişim",
+      "desc1": "Özenle kontrol edilmiş ve nitelikli adayların veritabanı.",
+      "title2": "Esnek İşgücü Çözümleri",
+      "desc2": "Operasyonel ihtiyaçlarınıza uyacak şekilde özelleştirilmiş işe alım seçenekleri.",
+      "title3": "Hızlı ve Verimli İşe Alım Süreci",
+      "desc3": "İşe alım ve idari süreçleri hızlandırarak, işe alımı sorunsuz hale getiriyoruz."
+    }
+  },
+  "seasonal": {
+    "hero": {
+      "title": "Mevsimlik İşçi İstihdamı",
+      "desc": "ArkaHire'da, garsonlar, barmenler, aşçılar, yardımcı mutfak personeli, hizmetçiler, temizlikçiler ve resepsiyonistler dahil olmak üzere çeşitli mesleklerde mevsimlik işçi istihdamında uzmanız. Uzmanlığımız, ihtiyaçlarınız için doğru yetenekleri bulabileceğinizi garanti eder.",
+      "btn": "Bize Ulaşın"
+    },
+    "challenges": {
+      "title": "Mevsimlik İşçi Bulmadaki Zorluklar",
+      "desc1": "Hırvatistan'da, özellikle turizm, catering, tarım ve inşaat gibi sektörlerde mevsimlik işçi bulma sorunu çok yönlüdür ve genellikle işverenler için önemli bir zorluk teşkil eder.",
+      "desc2": "Konaklama sektörü, diğer tüm faaliyet alanlarına kıyasla her zamankinden daha fazla mevsimsel değişikliklere maruz kalmaktadır.",
+      "desc3": "Müşterilerimizin çoğu, ilk çeyrekte yüksek sezonda ihtiyaç duyulacak harici veya yabancı işçilerin sayısını ve ihtiyacını tam olarak tahmin edememektedir.",
+      "desc4": "Çoğu tatil köyü, otel ve restoranın işe alım kararlarını son dakikada aldığı durum, işçilere olan talebin aniden artmasına neden olur. Bu da piyasanın bu talebi anında karşılamaya isteksiz olmasıyla sonuçlanır. Yani, İstihdam Kurumu ile sözleşme imzalanmasından itibaren, yabancı işçilerin işyerlerine varması bir hatta iki ay sürebilir. İşçi bulmak, nitelik testi, mülakatlar, evrak işleri ve benzeri süreçler bu zamanın çoğunu alır.",
+      "desc5": "Bu nedenle, size uzun bekleme süreleri ve işçilerin varışındaki gecikme risklerini ortadan kaldıran bir çözüm sunuyoruz: işgücü outsourcing'i."
+    },
+    "assignment": {
+      "title": "İşçi Tahsisi",
+      "desc": "İşçi tahsis hizmetimiz, mevsimlik projeler veya belirli zaman dilimleri için işgücünün hızlı bir şekilde işe alınmasını kolaylaştırır. Avrupa'da halihazırda bulunan mevcut işçileri kullanarak, işe alım sürecini önemli ölçüde hızlandırıyoruz. Tahsis sözleşmelerinin kurulmasını hallederiz ve maaş ödemeleri ve idari görevlerden sorumluluk alırız. Bu hizmet, çeşitli projelerde ve mevsimsel taleplerde personel yönetiminde esneklik ve verimlilik sağlarken, acil işgücü ihtiyaçları için pratik bir çözüm sunmak üzere tasarlanmıştır.",
+      "btn": "Daha Fazla Bilgi Edinin"
+    },
+    "features": {
+      "title1": "Nitelikli Yeteneklere Erişim",
+      "desc1": "ArkaHire'da, işe alımla ilişkili riskleri en aza indirerek önceden doğrulanmış aday veritabanı sunuyoruz. Sürecimiz, ihtiyaçlarınıza uyarlanmış nitelikli işçilere erişim sağlar.",
+      "title2": "Esnek İşgücü Çözümleri",
+      "desc2": "Değişen taleplere verimli bir şekilde uyum sağlamanıza olanak tanıyan esnek işgücü yönetiminin önemini anlıyoruz.",
+      "title3": "Verimli İşe Alım Süreci",
+      "desc3": "Akıcı işe alım sürecimiz, işçi bulma, yönetme ve işe alma işlemlerini hızlandırarak işgücü ihtiyaçlarınızı zamanında karşılamanızı sağlar."
+    }
+  },
+  "medical": {
+    "hero": {
+      "title": "Tıbbi Personel İstihdamı",
+      "desc": "Doktorlar, hemşireler, tıbbi teknisyenler, eczacılar ve diğer sağlık profesyonelleri – her türlü tıbbi personel alımında uzmanlaşıyoruz.",
+      "btn": "Bize Ulaşın"
+    },
+    "challenges": {
+      "title": "Tıbbi Personel Bulmadaki Zorluklar",
+      "desc1": "Nitelikli tıp profesyonellerini, özellikle uzmanlaşmış sağlık rollerinde bulma zorluğu, dünya çapındaki sağlık kuruluşlarının karşılaştığı önemli bir sorundur.",
+      "desc2": "Diğer ülkelerde olduğu gibi, Hırvatistan'ın sağlık sistemi de nitelikli tıbbi personel bulma ve elde tutma zorluklarıyla mücadele etmektedir. Doktorlar, hemşireler, eczacılar ve teknisyenler gibi sağlık profesyonellerine olan talep, yaşlanan nüfus, tıbbi gelişmeler ve değişen sağlık ihtiyaçları gibi faktörler nedeniyle artmaya devam ediyor.",
+      "desc3": "Nüfus artışı, yaşlanan bir toplum ve tıp teknolojisindeki ilerlemeler gibi faktörlerin etkisiyle tıbbi personel ihtiyacı sürekli olarak artmaktadır.",
+      "desc4": "Hırvatistan'ın sağlık sistemi, hem kamu hem de özel kuruluşları içerir ve her birinin kendi personel gereksinimleri vardır. Ülkenin tıbbi iş gücü genellikle nitelikli olsa da, belirli uzmanlık alanlarında veya bölgelerde yaşanan eksiklikler, hasta bakımında boşluklar yaratabilir ve mevcut personel üzerindeki yükü artırabilir.",
+      "desc5": "Sağlık tesisleri ayrıca personel ihtiyaçlarını doğru bir şekilde tahmin etmede sıklıkla zorluklarla karşılaşır, bu da kritik zamanlarda eksikliklere yol açar. Bu öngörülemezlik, bakım kalitesini bozabilir ve mevcut personeli aşırı yükleyebilir."
+    },
+    "mediation": {
+      "title": "İstihdam Aracılığı",
+      "desc": "Uzmanlaşmış beceri ve deneyime sahip olanlar da dahil olmak üzere, önceden taranmış geniş bir aday havuzuna erişim sağlıyoruz. Ağlarımızı ve kaynaklarımızı kullanarak, işe alım sürecini hızlandırabilir, boş pozisyonların doldurulması için gereken süreyi kısaltabilir ve hasta bakımındaki kesintileri en aza indirebiliriz. Tüm lisanslama ve düzenleyici standartlara uyumu sağlıyor ve niteliksiz veya güvenilmez adayların işe alınma riskini azaltmaya yardımcı oluyoruz.",
+      "btn": "Daha Fazla Bilgi Edinin"
+    },
+    "features": {
+      "title1": "Sorumlu Çalışanlara Erişim",
+      "desc1": "Özenle denetlenmiş ve nitelikli bir iş gücüne erişim elde edin",
+      "title2": "Proje Gecikmelerinin Önlenmesi",
+      "desc2": "Projelerin, yetenekli bir iş gücü ile programa uygun olarak tamamlanmasını sağlıyoruz.",
+      "title3": "Verimli ve Akıcı Bir İşe Alım Süreci",
+      "desc3": "İşçi bulma, yönetme ve işe alma sürecini hızlandırıyoruz."
+    }
+  },
+  "construction": {
+    "hero": {
+      "title": "İnşaat İşçileri İstihdamı",
+      "desc": "Donatıcılar, marangozlar, duvarcılar, metal yapı montajcıları, çatıcılar ve inşaat makinesi operatörleri de dahil olmak üzere çok çeşitli inşaatla ilgili roller için personel çözümleri sunuyoruz.",
+      "btn": "Bize Ulaşın"
+    },
+    "challenges": {
+      "title": "İnşaat İşçisi Bulmadaki Zorluklar",
+      "desc1": "İnşaat sektörü şu anda nitelikli işgücü bulmada önemli zorluklarla karşılaşmaktadır. Bu işçi sıkıntısı verimliliği düşürür, proje zaman çizelgelerinde gecikmelere neden olur ve sektördeki nitelikli profesyonellere yönelik artan talebi karşılama çabalarını zorlaştırır.",
+      "desc2": "Avrupa genelinde, çok sayıdaki iş ilanlarında görüldüğü gibi inşaat uzmanlarına yönelik artan bir talep var. Birçok şirket, deneyimli ve yetenekli işçi bulmakta zorluk çekiyor ve bu da projelerin tamamlanmasında gecikmelere yol açıyor.",
+      "desc3": "Yabancı işgücü konusunda uzmanlaşmış bir işe alım ajansı olarak ArkaHire, üçüncü dünya ülkelerinden nitelikli işçileri ihtiyaç duyan işverenlerle buluşturarak talep ve arz arasındaki boşluğu kapatır. Ayrıca müşterilerimizi yabancı çalışanların işe alınmasıyla ilgili yasal süreçlerde yönlendirerek sorunsuz ve uyumlu bir işe alım deneyimi sağlıyoruz."
+    },
+    "mediation": {
+      "title": "İstihdam Aracılığı",
+      "desc": "İstihdam aracılık hizmetlerimiz aracılığıyla, şirketlerin çok sayıda nitelikli işçi havuzuna erişmelerine yardımcı oluyoruz. Nitelikli bir işgücü sağlamada karşılaşılan zorlukları ele alıyoruz. Yabancı yeteneklerin istihdamını sağlayarak ve kapsamlı işe alım hizmetleri sunarak, Avrupa'daki çeşitli endüstrilerdeki işgücü taleplerinin karşılanmasında çok önemli bir rol oynuyoruz.",
+      "btn": "Daha Fazla Bilgi Edinin"
+    },
+    "features": {
+      "title1": "Sorumlu İşçilere Erişim",
+      "desc1": "Özenle denetlenmiş ve nitelikli bir işgücüne erişin.",
+      "title2": "Proje Gecikmelerinin Önlenmesi",
+      "desc2": "Projelerin yetenekli bir işgücü ile programa uygun şekilde tamamlanmasını sağlıyoruz.",
+      "title3": "Verimli ve Akıcı Bir İşe Alım Süreci",
+      "desc3": "İşçi bulma, yönetme ve işe alma sürecini hızlandırıyoruz."
+    }
+  },
+  "servicemain": {
+    "title1": "Hizmetlerimiz hakkında daha fazla bilgi edinin",
+    "desc1": "Sizi işe alım sürecinin her aşamasında destekliyoruz – aday bulmadan, idari işlerin yönetiminden, sorunsuz entegrasyona kadar.",
+    "btn1": "Bize Ulaşın",
+    "title2": "İstihdam Yönetimi",
+    "desc2": "Uluslararası profesyonellerin işe alınmasıyla ilgili belge çevirileri, vize ve çalışma izni işlemleri ve iş sözleşmelerinin hazırlanması dahil olmak üzere tüm idari görevleri üstleniyoruz.",
+    "btn2": "Daha Fazla Bilgi Edinin",
+    "title3": "Tam Hizmet İnsan Kaynakları",
+    "desc3": "İnsan kaynakları yönetiminde, işe almadan çalışanların sorunsuz entegrasyonuna kadar kapsamlı destek için.",
+    "title4": "İstihdam Aracılığı",
+    "desc4": "Avrupa dışından nitelikli işçi bulmada profesyonel uzmanlığımızdan yararlanarak değerli zaman ve kaynak tasarrufu sağlayın.",
+    "title5": "İşçi Tahsis Hizmetleri",
+    "desc5": "ArkaHire, belirli dönemler için, projeler veya sezonlar gibi, kalıcı istihdam seçeneği ile işçi kiralamak için bir hizmet sunar."
+  },
+
+  "assignmentworkers": {
+    "hero": {
+      "title": "İşçi Atama Hizmetleri",
+      "desc": "ArkaHire, belirli dönemler için (projeler veya sezonlar gibi) işçi kiralamak üzere bir hizmet sunar ve kalıcı istihdam seçeneği de bulunur.",
+      "btn": "Bize Ulaşın"
+    },
+    "features": {
+      "title1": "İstihdam Esnekliği",
+      "desc1": "Kısa vadeli projeler veya dalgalanan işgücü talepleri için operasyonel verimlilik sağlayan etkili işgücü çözümleri sunuyoruz.",
+      "title2": "İstihdam Öncesi İşçi Değerlendirmesi",
+      "desc2": "Başarılı bir işbirliği ve uyumluluk sağlamak için kalıcı istihdam öncesinde işçileri test etme imkanı sunuyoruz.",
+      "title3": "Basitleştirilmiş İdari İşlemler",
+      "desc3": "İstihdam ve İnsan Kaynakları ile ilgili tüm idari görevleri biz hallederiz, böylece siz işinizin temel faaliyetlerine odaklanabilirsiniz."
+    },
+    "include": {
+      "title": "İşçi Atama Hizmeti Neleri Kapsar?",
+      "desc1": "Bu hizmet, idari yükü azaltırken işgücü yönetiminde esneklik sağlar. Doğrudan istihdamın karmaşıklığı olmadan yurtdışından uzmanlaşmış yeteneklere erişim imkanı verir.",
+      "desc2": "Resmi İş Sözleşmeleri hazırlayarak ve işçileri anlaşmalı koşullar altında müşteri firmalara atayarak geçici istihdamı basitleştiriyoruz.",
+      "desc3": "Hizmetlerimiz, emeklilik ve sağlık sigortası başvuruları, maaş hesaplamaları ve yan hakların işlenmesi gibi idari görevleri yöneterek istihdamın ötesine geçer.",
+      "desc4": "İşçiler, anlaşmalı koşullar altında müşteri firmalara yerleştirilirken biz resmi işveren rolünü üstleniriz.",
+      "desc5": "Hizmetlerimizi seçerek, şirketler bürokratik zorlukları çözen, yasal uyumu sağlayan ve idari verimliliği artıran basitleştirilmiş bir süreçten faydalanır. Bu, işletmelerin temel operasyonlarına odaklanmalarını sağlar."
+    },
+    "whenToconsider": {
+      "title": "İstihdam Aracılığı Ne Zaman Düşünülmeli?",
+      "faq1": "Belirli bir proje veya mevsimlik bazda işçiye ihtiyacınız var mı?",
+      "ans1": "Hizmetimiz, küresel bir yetenek havuzuna erişmenizi sağlar. Gereksinimlerinizi değerlendirir ve bu ihtiyaçları karşılamak için sizi en iyi adaylarla buluştururuz.",
+      "faq2": "Doğrudan istihdamın karmaşıklığından kaçınmak istiyorsunuz",
+      "ans2": "İşçilerle ilgili tüm idari ve muhasebe görevlerini biz hallederiz, böylece ek yük olmadan işinizin temel faaliyetlerine odaklanabilirsiniz.",
+      "faq3": "İşgücünüzün kalitesini sağlamak istiyorsunuz",
+      "ans3": "Kalıcı bir işe almadan önce işçilerin becerilerini değerlendirmeniz gerekiyorsa, hizmetimiz bir deneme aşaması olarak ideal bir çözüm sunar. Ayrıca, ajans işçilerimiz titizlikle kontrol edilmiştir. Birçoğu önceki ajans işlerinden geniş deneyime sahiptir ve gelişmiş beceriler ve bilgi birikimini her iş ortamına taşır. Ayrıca tüm yeni işçiler üzerinde hazır bulunuşluklarını sağlamak için ek kontroller yaparız."
+    },
+    "advantages": {
+      "title1": "Bir ajans aracılığıyla işe almanın avantajları nelerdir?",
+      "desc1": "Ajans işi hizmetlerimizi kullanarak, çalışanların kısa veya uzun süreli devamsızlıklarını doldurmak, mevsimsel işgücü ihtiyaçlarını optimize etmek ve belirli proje gereksinimlerini karşılamak için esnek çözümler sunuyoruz. Ayrıca, sürecin sorunsuz ve verimli olmasını sağlayarak tüm idari görevleri yönetiyoruz.",
+      "title2": "Uzman Rehberliği",
+      "desc2": "İşe alma süreci boyunca profesyonel destek ve tavsiye sağlayarak bilinçli kararlar almanızı sağlıyoruz.",
+      "title3": "Zaman ve Kaynak Tasarrufu",
+      "desc3": "Aday arama, müzakereler ve idari görevlerle biz ilgileniriz, böylece siz işinizin temel alanlarına odaklanabilirsiniz.",
+      "title4": "Daha Geniş Bir Pazara Erişim",
+      "desc4": "Kurulmuş ağımız aracılığıyla size dünyanın dört bir yanından çeşitli bir aday havuzuna erişim imkanı sunuyoruz.",
+      "title5": "Risk Azaltma",
+      "desc5": "Adayların niteliklerini ve referanslarını titizlikle kontrol ederek güvenliği sağlar, uygun olmayan işe alım riskini ve düzenlemelere uyumsuzluğu azaltırız."
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "queation1": "Bir ajans aracılığıyla işe almanın avantajları nelerdir?",
+      "ans1": "Ajans işi hizmetini kullanarak, çalışanlarınızın kısa veya uzun devamsızlıklarını esnek bir şekilde doldurmanıza, mevsimsel iş ihtiyaçlarını veya belirli projeler için gereksinimleri optimize etmenize olanak tanırız. Ayrıca idari görevleri de hallederiz, böylece tüm süreci kolaylaştırırız.",
+      "queation2": "Sizden hangi idari görevleri devralıyoruz?",
+      "ans2": {
+        "title1": "Sizi, görevlendirilmiş işçilerle ilişkili idari yükten kurtarıyoruz, bu şunları içerir:",
+        "item1": "İş sözleşmelerinin taslağını hazırlama ve akdetme",
+        "item2": "Ücretlerin ve katkı paylarının hesaplanması ve işlenmesi",
+        "item3": "İşçilerin Emeklilik ve Sağlık Sigortası Enstitüsü'ne kaydı ve kaydının silinmesi",
+        "item4": "Aylık ve yıllık kayıtların tutulması (tatil günleri, hastalık izni vb.)",
+        "item5": "İlgili makamlara gerekli raporların doldurulması ve sunulması"
+      },
+      "queation3": "İşçilere karşı yükümlülükleriniz nelerdir?",
+      "ans3": "Kullanıcı (işveren), işin doğası gerektirdiğinde koruyucu giysi ve ayakkabı sağlamak da dahil olmak üzere, iş kanunlarına, sağlık ve güvenlik düzenlemelerine ve belirli işçi grupları için özel korumalara uymalıdır. Ayrıca, kullanıcı, işi belirlenmiş süreçlere göre organize etmekten ve atamaktan ve işyerinde işçilerin devam kayıtlarını tutmaktan sorumludur."
+    }
+  },
+  "employmentmediation": {
+    "hero": {
+      "title": "İstihdam Aracılığı",
+      "desc": "Avrupa dışından nitelikli işçi bulmada profesyonel uzmanlığımızdan yararlanarak değerli zaman ve kaynak tasarrufu sağlayın.",
+      "btn": "Bize Ulaşın"
+    },
+    "features": {
+      "title1": "Nitelikli İşçilere Erişim",
+      "desc1": "Geniş ağlarımızı ve veri tabanlarımızı kullanarak potansiyel adayları proaktif olarak arıyor ve özenle seçiyoruz.",
+      "title2": "Akıcı Bir İşe Alım Süreci",
+      "desc2": "İşe alım sürecinin verimli ve hassas bir şekilde yürütülmesini sağlıyoruz.",
+      "title3": "Her Aşamada Uzman Rehberlik ve Destek",
+      "desc3": "Bilinçli kararlar ve başarılı sonuçlar sağlamak için uzman bilgisi sağlıyoruz."
+    },
+    "what": {
+      "title": "İstihdam Aracılığı Nedir?",
+      "desc1": "İşverenler ve potansiyel adaylar arasında köprü görevi görüyor, iş tanımı gereksinimlerini belirleyerek, başvuranları eleyerek ve kapsamlı destek sunarak süreci basitleştiriyoruz. Amacımız, en iyi yetenekleri işletmelerle buluşturmaktır.",
+      "desc2": "İşe alım, işverenlerin kuruluşları için nitelikli aday bulmalarına yardımcı olan hayati bir hizmettir. Bu hizmet, işletmeler ile potansiyel çalışanlar arasında aracı olarak hareket eden bir işe alım ajansı ile çalışmayı içerir. Ajans, işverenin ihtiyaçlarını anlamaya, spesifik iş gereksinimlerini tanımlamaya ve bu ihtiyaçlara uygun adayları özenle aramaya ve seçmeye odaklanır.",
+      "desc3": "Ajansın işe alım sürecindeki temel rolü, adayların nitelikleri ve deneyimleri hakkında kapsamlı arka plan kontrolleri yaparak role uygunluklarını sağlamaktır.",
+      "desc4": "İşe alım hizmetlerini seçmek, geniş bir yetenek havuzuna erişim, işe alım için gereken zaman ve kaynakların azaltılması ve aday seçiminde yüksek profesyonellik standartlarının sağlanması dahil olmak üzere çok sayıda avantaj sunar."
+    },
+    "commonfaq": {
+      "title": "En Sık Sorulan Sorulara Yanıt Bulun",
+      "queation1": "Aracılık Sürecindeki Sorumluluklarımız Nelerdir?",
+      "ans1": {
+        "title1": "Yabancı işçi istihdam aracılığında yer alan ajansların görevleri şunları içerir:",
+        "item1": "Müşterinin kriterlerine dayalı uygun bir işçi bulmak, seçim sürecini yürütmek ve gerekli belgeleri sağlamak.",
+        "item2": "Üçüncü dünya ülke vatandaşları için geçici ikamet ve çalışma izinleri almak için gerekli tüm evrakların hazırlanması ve sunulması.",
+        "item3": "İşçilerin seyahat sigortası maliyetlerinin karşılanması.",
+        "item4": "Avrupa'da ikamet ve çalışma için gerekli vizenin ayarlanması.",
+        "item5": "İşçinin uçuş maliyetinin karşılanması."
+      },
+      "queation2": "Yabancı Bir İşçiye Karşı Yükümlülükleriniz Nelerdir?",
+      "ans2": "Yabancı bir işçi için çalışma izni alındıktan sonra, varışlarında konaklama ve yemek sağlanması gerekmektedir. Konaklama, temel yaşam standartlarını karşılamalıdır. Yemek sağlanamıyorsa, işçiye yemek yardımı ödenmelidir. Ayrıca, herhangi bir yerel çalışan için yapacağınız gibi, işçiyi emeklilik ve sağlık sigortasına kaydettirmekle yükümlüsünüz.",
+      "queation3": "İkamet ve Çalışma İzni Almak İçin Hangi Gereksinimler Gereklidir?",
+      "ans3": {
+        "title2": "Gerekli izinleri almak için gereksinimler şunları içerir:",
+        "item1": "Avrupa'da kayıtlı bir ekonomik faaliyet yürütmek.",
+        "item2": "Son altı aydır tam zamanlı, süresiz sözleşme ile üçüncü ülke vatandaşlarına kıyasla en az dörtte bir oranında Hırvat vatandaşı istihdam etmek.",
+        "item3": "Kamu yardımlarına ilişkin herhangi bir borcun olmadığını teyit eden, izin başvurusundan kısa bir süre önce tarihli bir Vergi İdaresi sertifikası.",
+        "item4": "İş ilişkileri veya sosyal güvenlik ile ilgili yasal mahkumiyet olmaması."
+      }
+    },
+    "benefits": {
+      "title1": "Bir Ajans Aracılığıyla İşe Almanın Faydaları Nelerdir?",
+      "item1": "İşverenler ve seçilen çalışanları adına gerekli tüm yasal belgelerin hazırlanması ve sunulmasını biz hallederiz.",
+      "item2": "Bu alandaki geniş deneyimimizle, süreçlerimizi optimize ettik ve işverenlere hızlı ve verimli bir işe alma yolu sunuyoruz.",
+      "title2": "Uzman Rehberlik",
+      "desc2": "İşe alım süreci boyunca profesyonel destek ve tavsiyeler sunarak iyi bilinçli kararlar almanızı sağlıyoruz.",
+      "title3": "Zaman ve Kaynak Tasarrufu",
+      "desc3": "Aday arama, müzakereler ve idari görevlerle biz ilgileniyoruz, böylece siz işinizin temel alanlarına odaklanabiliyorsunuz.",
+      "title4": "Daha Geniş Bir Pazara Erişim",
+      "desc4": "Kurulmuş ağımız aracılığıyla size dünyanın dört bir yanından çeşitli bir aday havuzuna erişim sağlıyoruz.",
+      "title5": "Risk Azaltma",
+      "desc5": "Adayların niteliklerini ve referanslarını titizlikle kontrol ederek, uygun olmayan işe alımlar ve düzenlemelere uyumsuzluk riskini azaltıyor ve güvenliği sağlıyoruz."
+    },
+    "process": {
+      "title1": "1. Adım: Danışmanlıklar",
+      "desc1": "Uzman ekibimiz, işgücü ihtiyaçlarınızı derinlemesine analiz ederek, özelleştirilmiş bir işe alım stratejisi oluşturur.",
+      "title2": "2. Adım: Yetenek Bulma",
+      "desc2": "Geniş ağımız ve kaynaklarımızla, işletmenizin gereksinimlerine uyan dünyanın dört bir yanından nitelikli adayları belirliyoruz.",
+      "title3": "3. Adım: Seçim Süreci",
+      "desc3": "Ekibiniz için en iyi bireyleri seçtiğimizden emin olmak için adayların niteliklerini, deneyimini ve referanslarını titizlikle değerlendiriyoruz.",
+      "title4": "4. Adım: İşçileri Avrupa'ya Getirme",
+      "desc4": "Gerekli tüm belgeleri halleder ve işçilerin Avrupa'ya taşınmasını yönetiriz.",
+      "title5": "Süreç Nasıl İşliyor?",
+      "desc5": "Tüm insan kaynakları endişelerini bize bırakın ve kapsamlı HR hizmetlerimizle çalışanlarınızın optimal yönetimini sağlayın!"
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "queation1": "Aracılık Sürecindeki Sorumluluklarımız Nelerdir?",
+      "ans1": "Yabancı işçi istihdam aracılığında yer alan ajansların görevleri şunları içerir: – Müşterinin kriterlerine dayalı uygun bir işçi belirlemek, seçim sürecini yürütmek ve gerekli belgeleri sağlamak. – Üçüncü dünya ülke vatandaşları için geçici ikamet ve çalışma izinleri almak için gerekli tüm evrakların hazırlanması ve sunulması. – İşçilerin seyahat sigortası maliyetlerinin karşılanması. – Avrupa'da ikamet ve çalışma için gerekli vizenin ayarlanması. – İşçinin uçuş maliyetinin karşılanması.",
+      "queation2": "Yabancı Bir İşçiye Karşı Sorumluluklarınız Nelerdir?",
+      "ans2": "Yabancı bir işçi için çalışma izni alındıktan sonra, varışlarında konaklama ve yemek sağlanmalıdır. Konaklama, temel yaşam standartlarını karşılamalıdır. Yemek sağlanamıyorsa, işçiye yemek yardımı verilmelidir. Ayrıca, herhangi bir yerel çalışan için olduğu gibi, işçiyi emeklilik ve sağlık sigortasına kaydettirmek zorunludur.",
+      "queation3": "İkamet ve Çalışma İzni Almak İçin Hangi Koşulların Sağlanması Gerekir?",
+      "ans3": "Gerekli izinleri almak için aşağıdaki koşulların sağlanması gerekir: – İşletmeniz Avrupa'da kayıtlı olmalıdır. – Son altı aydır üçüncü ülke vatandaşlarına kıyasla en az dörtte bir oranında yerel vatandaşı tam zamanlı, süresiz sözleşme ile istihdam etmelisiniz. – Kamu yardımlarına ilişkin herhangi bir borcun olmadığını teyit eden, izin başvurusundan kısa bir süre önce tarihli bir Vergi İdaresi sertifikası. – İş ilişkileri veya sosyal güvenlik ile ilgili yasal mahkumiyet bulunmamalıdır.",
+      "queation4": "İşçi Hemen Başlayabilir mi?",
+      "ans4": "Maalesef hayır. Bu işçiler üçüncü ülkelerden geldiği için, Avrupa'ya girmeden önce önce çalışma izni ve vize almaları gerekir. Tüm süreç, ilgili kurumların hızına bağlı olarak 45 ila 90 gün sürebilir. Belge hazırlama ve müzakereler genellikle işverenin hazır olma durumuna bağlı olarak 4 ila 10 gün sürer. İşe alım ve aday seçimi 1 ila 30 gün arasında değişebilir (vasıfsız işçiler için 7 güne kadar, vasıflı işçiler için 30 güne kadar) veya belirli meslekler gerekliyse daha uzun sürebilir (60 güne kadar). İşgücü piyasası testi (açık pozisyonu olmayan meslekler için) tipik olarak 15 gün sürer. Çalışma izni almak genellikle 15 ila 30 gün arasında sürer. Vize işlemi ek 15 ila 30 gün daha sürer. Seyahatin ve işçinin Avrupa'ya varışının organize edilmesi genellikle 1 ila 10 gün sürer."
+    }
+  },
+  "administration": {
+    "hero": {
+      "title": "Kapsamlı İstihdam Yönetimi Hizmetleri",
+      "desc": "Belge çevirileri, vize ve çalışma izni işlemleri ve iş sözleşmelerinin hazırlanması dahil olmak üzere uluslararası profesyonellerin işe alınmasıyla ilgili tüm idari işleri hallederiz.",
+      "btn": "Bize Ulaşın"
+    },
+    "features": {
+      "title1": "Zaman ve Maliyet Tasarrufu",
+      "desc1": "Karmaşık idari prosedürlerin yükünden kurtulun ve asıl işinize odaklanın.",
+      "title2": "Uzman Desteği",
+      "desc2": "Ekibimiz, en son yasal gerekliliklere uygun şekilde sorunsuz bir süreç sağlar.",
+      "title3": "Özelleştirilmiş Çözümler",
+      "desc3": "Hizmetlerimizi, özel işe alım ihtiyaçlarınızı karşılayacak şekilde uyarlıyoruz."
+    },
+    "include": {
+      "title": "İstihdam yönetimi hizmeti neleri kapsar?",
+      "desc1": "İşletmelerin yabancı işçi istihdamının karmaşıklıklarını yönetmelerine, göç ve iş kanunlarına uyumu sağlamalarına ve idari süreci basitleştirmelerine yardımcı oluyoruz.",
+      "title1": "İstihdam yönetimi hizmetimiz, AB'de faaliyet gösteren şirketler için yabancı işçilerin istihdamıyla ilgili tüm idari görevlerin halledilmesini kapsar. Hizmet genellikle şunları içerir:",
+      "desc2": {
+        "item1": "Çalışma izinleri ve vize işlemleri",
+        "item2": "Belgelerin göçmenlik yasalarına uygunluğunu sağlama",
+        "item3": "İş sözleşmelerinin hazırlanması",
+        "item4": "Devlet makamlarıyla koordinasyon"
+      }
+    },
+    "whenToconsider": {
+      "title": "Ne zaman bir yönetim hizmeti seçmelisiniz?",
+      "faq1": "Zaten kendiniz çalışan buldunuz.",
+      "ans1": "Yabancı işçi seçim sürecini zaten kendiniz yürüttüyseniz ve işletmeniz için ideal personeli seçtiyseniz, istihdam sırasında size destek ve yardım sağlayabiliriz.",
+      "faq2": "İdare ile ilgilenecek yeterli zamanınız yok.",
+      "ans2": "Sizi idari görev ve süreçlerden kurtararak, temel iş aktivitelerinize odaklanmanıza olanak tanırız. İşinizi geliştirmeye kendinizi adayabilmeniz için gerekli tüm belgelerle biz ilgileniriz. Sizin için vize, ikamet ve çalışma izinlerini halleder, yabancı belgeleri tercüme eder, iş sözleşmelerini ve diğer tüm gerekli belgeleri hazırlarız.",
+      "faq3": "Yasal düzenlemeleri anlamıyorsunuz.",
+      "ans3": "Ekibimiz nitelikleri kontrol eder ve yerel düzenlemelere ve yasalara uyumu sağlar. Deneyimli uzmanlar, tüm süreç boyunca destek sağlar ve tüm sürecin yasal düzenlemelere uygun ilerlemesini garanti eder."
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "queation1": "Yabancı işçi istihdam süreci nasıldır?",
+      "ans1": {
+        "title1": "Avrupa genelindeki pozisyonlar için yabancı işçi istihdam etmek için aşağıdaki temel adımlar izlenmelidir:",
+        "item1": "Yabancı çalışan için ilgili göçmenlik veya istihdam makamından çalışma izni alın.",
+        "item2": "İşçinin ikamet izni için başvuru yapın.",
+        "item3": "Yabancı çalışanı ilgili vergi ve sosyal güvenlik kurumlarına kaydettirin.",
+        "item4": "Uygulanabilir tüm iş ve göçmenlik düzenlemelerine uyulduğundan emin olun."
+      },
+      "queation2": "Yabancı işçi istihdamı için hangi belgeler gereklidir?",
+      "ans2": {
+        "title2": "Gerekli belgeler şunları içerir:",
+        "item1": "İlgili makam tarafından verilen çalışma izni.",
+        "item2": "İş sözleşmesi veya resmi anlaşma.",
+        "item3": "Yabancı işçinin geçerli pasaportu veya kimliği.",
+        "item4": "İşçi için sağlık sigortası kapsamı.",
+        "item5": "Gerekli idari ücretlerin ödendiğine dair kanıt."
+      },
+      "queation3": "İdari yardım hizmetleri, işverenlerin AB'de yabancı işçi istihdam sürecinde nasıl yol gösterebilir?",
+      "ans3": "İdari yardım hizmetleri, yabancı işçi istihdam sürecini basitleştirmede, her aşamada kapsamlı destek sunarak kilit rol oynar.",
+      "ans4": "İşverenlere çalışma ve ikamet izni başvuru sürecinin tamamında rehberlik eder, gerekli belgelerin ilgili makamlara hazırlanması ve sunulmasında yardımcı olur ve yasal gerekliliklere tam uyumu sağlarız. Hizmetlerimiz, idari görevleri basitleştirirken iş ve göçmenlik konularında sürekli danışmanlık içerir. Bu yaklaşım, işverenlere zaman ve kaynak tasarrufu sağlar ve Avrupa genelinde yabancı işçi istihdamı için sorunsuz ve verimli bir süreç garanti eder."
+    }
+  },
+  "fullservicehr": {
+    "hero": {
+      "title": "Tam Teşekküllü İnsan Kaynakları",
+      "desc": "İşe alımdan çalışanların sorunsuz entegrasyonuna kadar insan kaynakları yönetimi için kapsamlı destek.",
+      "btn": "Bize Ulaşın"
+    },
+    "features": {
+      "title1": "Tüm İK Süreci Boyunca Destek",
+      "desc1": "İşe alma ve idari işlerden konaklama güvencesine ve devam eden yardım sağlamaya kadar.",
+      "title2": "İK Uzmanlarına Erişim",
+      "desc2": "İnsan kaynaklarında geniş deneyime sahip profesyonellerin uzmanlığından yararlanın.",
+      "title3": "İş Hedeflerine Odaklanma",
+      "desc3": "Siz stratejik hedeflere ulaşmaya odaklanırken, biz İK ihtiyaçlarınızı yönetiyoruz."
+    },
+    "mean": {
+      "title": "Tam Teşekküllü İK Ne Anlama Gelir?",
+      "desc1": "Tam Teşekküllü İK seçeneği, işe almadan çalışanların kuruluşunuz içinde sorunsuz entegrasyonuna kadar İK sürecinin her yönünü kapsayan geniş bir destek yelpazesi sunar.",
+      "desc2": "Bu kapsamlı hizmet, işe alma, seçim prosedürleri, idari işler, sigorta endişeleri, konaklama ve tüm istihdam süreci boyunca devam eden desteği içerir. İş hukukunda önemli deneyime sahip oldukça uzmanlaşmış personel istihdam ederek, bu hizmet titiz bir detay dikkati ve bir şirketin özel ihtiyaçlarını karşılamak üzere uyarlanmış çözümlerin belirlenmesini sağlar.",
+      "desc3": "Bu temel İK işlevlerinin dış kaynak kullanımı (outsourcing) birkaç avantaj sunar. İlk olarak, deneyimli profesyonellerin uzmanlığına erişim sağlayarak verimli ve koordineli insan kaynakları yönetimini garanti eder. İkinci olarak, dış kaynak kullanımı, bir şirketin iç kaynaklarını temel iş hedeflerine yeniden yönlendirmesine izin vererek verimliliği artırır ve stratejik hedefleri ilerletir. Nihayetinde, Tam Teşekküllü İK seçeneği sadece sorunsuz İK operasyonlarını garanti etmekle kalmaz, aynı zamanda işletmelerin artan netlik ve verimlilikle birincil misyonlarını gerçekleştirmeye odaklanmalarını sağlar."
+    },
+    "whenToconsider": {
+      "title": "Tam Teşekküllü İK Seçeneği Ne Zaman Tercih Edilmelidir?",
+      "faq1": "Dahili Bir İK Ekibinin Eksikliği",
+      "ans1": "Dahili bir İK departmanı olmadan, işe almadan çalışan oryantasyonuna kadar İK sürecinin tüm yönlerini yönetmek bunaltıcı ve zaman alıcı hale gelebilir. Uzmanlara outsourcing yaparak, şirketler İK sürecinin her aşamasının uzman şekilde yönetildiğinden emin olabilir, böylece İK ile ilgili görevlerin yükü olmadan temel operasyonlarına odaklanabilirler.",
+      "faq2": "Süreç Yönetimi için Sınırlı Kaynaklar",
+      "ans2": "İster finansal, zaman ister profesyonel kısıtlamalar olsun, Tam Teşekküllü İK outsourcing'i etkili bir çözüm sunar. İşe almadan idari görevlere kadar tüm İK yönlerini verimli bir şekilde ele almak için gereken altyapıyı, uzmanlığı ve deneyimi sağlıyoruz, dahili kaynaklar üzerinde ek baskı olmadan sorunsuz ve akıcı bir süreç sağlıyoruz.",
+      "faq3": "Hızlı ve Güvenilir Bir Çözüm İhtiyacı",
+      "ans3": "Bir şirketin hızlı ve güvenilir bir İK çözümüne ihtiyacı olduğunda, Tam Teşekküllü İK seçeneği en iyi seçimdir. İK'nın karmaşıklıklarında verimli bir şekilde gezinerek, zamanında ve etkili sonuçlar sunuyoruz. Uzmanlaşmış bilgimiz ve deneyimimizden yararlanarak, şirketler İK ihtiyaçlarının hızlı ve minimum sıkıntıyla karşılandığından emin olabilirler."
+    },
+    "faq": {
+      "title": "Sıkça Sorulan Sorular",
+      "queation1": "Hangi İK Fonksiyonlarını Kapsıyoruz?",
+      "ans1": "Tam Teşekküllü İK çözümümüz, işe alma, seçim prosedürleri, idari görevler, sigorta meseleleri, yerleştirme ve istihdamın tüm yaşam döngüsü boyunca sürekli destek ve rehberlik de dahil olmak üzere İK sürecinin her yönünü kapsar.",
+      "queation2": "İlgili İş Kanunları ve Yönetmeliklerine Uyum Nasıl Sağlanır?",
+      "ans2": "İş hukukunda kapsamlı deneyime sahip uzman personel istihdam ediyoruz, böylece detaylara dikkatli bir şekilde dikkat edilmesini ve şirketinizin benzersiz ihtiyaçları için en uygun çözümlerin belirlenmesini sağlıyoruz. Ayrıca tam uyumu sağlamak için en son yasal gereklilikler ve en iyi uygulamalarla güncel kalıyoruz.",
+      "queation3": "Çözümü Şirketinizin Özel İhtiyaçlarına Uyarlamada Ne Tür Esneklik Sunuyoruz?",
+      "ans3": "Her şirketin farklı İK gereksinimleri olduğunu anlıyoruz. Bu nedenle, benzersiz ihtiyaçlarınızı karşılamak için Tam Teşekküllü İK çözümümüzü özelleştirmede esneklik sunuyoruz; ister hizmet bileşenlerini ayarlamayı, belirli gereksinimleri yerine getirmeyi ya da gelişen iş taleplerinize uyum sağlamayı içersin."
+    }
+  },
+  "about": {
+    "hireaforeigner": {
+      "title": "Yabancı İşe Alın",
+      "desc": "Yabancı işçi istihdamında güvenilir ve deneyimli bir ortak. Uzman ekibimiz, sorunsuz ve başarılı bir sonuç sağlayarak sizi göçmenlik sürecinde yönlendirmeye adamıştır.",
+      "btn": "Bize Ulaşın"
+    },
+    "whoWeare": {
+      "title1": "BİZ KİMİZ?",
+      "title2": "Uluslararası İstihdam Ajansı",
+      "desc1": "Uluslararası müşterilerimize, Avrupa'dakiler de dahil olmak üzere uygun istihdam fırsatları bulmalarında yardımcı oluyor, nitelikleriyle uyumlu pozisyonlarla dikkatlice eşleştiriyoruz. Ayrıca, birlikte çalıştığımız şirketlerin iş gücüne sadece saygı duymakla kalmayıp, aynı zamanda adil bir şekilde ödüllendirdiğinden emin oluyoruz.",
+      "desc2": "İşveren müşterilerimiz için, özel gereksinimlerini karşılayan nitelikli işçileri titizlikle buluyor ve güvence altına alıyor, iş gücü devri hakkındaki endişeleri azaltıyoruz. Bu yaklaşım, hem yerel hem de uluslararası düzeyde proje veya mevsimsel ihtiyaçları karşılamak için istikrarlı bir iş gücü garanti eder. Sonuç olarak, müşterilerimiz gereksiz aksamalar olmadan projelerin zamanında teslim edilmesini bekleyebilir.",
+      "desc3": "Dünya çapındaki işverenler ve çalışanlar için üretken ve uyumlu bir çalışma ortamı teşvik etmeyi amaçlayarak, yüksek kaliteli yetenekleri işe almak ve istihdam etmek için kapsamlı bir çözüm sunuyoruz."
+    },
+    "WhyChoose": {
+      "title1": "Neden",
+      "title2": "ArkaHire'u Seçmelisiniz?",
+      "desc1": "Yılların Deneyimi",
+      "desc2": "Başarıyla Yerleştirilen Yabancı Çalışan",
+      "desc3": "Müşteri Memnuniyeti"
+    },
+    "WhatDoWeOffer": {
+      "title1": "NE SUNUYORUZ?",
+      "title2": "Göçmenlik konusunda yardıma mı ihtiyacınız var? Uzman ekibimiz yardım etmek için burada",
+      "desc1": "Hizmetlerimiz hakkında daha fazla bilgi edinmek ve yabancı işçileri başarılı bir şekilde istihdam etme yolunda ilk adımı atmak için bugün ekibimizle iletişime geçin.",
+      "title3": "İstihdam Hizmetleri",
+      "btn": "Tüm hizmetleri keşfedin",
+      "title4": "İdari destek",
+      "desc2": "Belge çevirisi, vize ve çalışma izinlerinin alınması, iş sözleşmeleri gibi istihdam için gerekli tüm idari işlemleri hallederiz.",
+      "title5": "İstihdam Aracılığı",
+      "desc3": "Avrupa dışından nitelikli işçi bulmada profesyonel hizmetlerimizi kullanarak zaman ve kaynak tasarrufu sağlayın.",
+      "title6": "Tam Kapsamlı İnsan Kaynakları",
+      "desc4": "İşe alımdan çalışanın tam entegrasyonuna kadar insan kaynakları yönetiminde kapsamlı destek.",
+      "title7": "Çalışan Tahsis Hizmetleri",
+      "desc5": "Belirli dönemler için (projeler veya mevsimlik iş gibi) kalıcı istihdama geçiş seçeneği ile işçi yerleştirme hizmeti sunuyoruz."
+    },
+    "contactourteam": {
+      "title": "Ekibimizle İletişime Geçin",
+      "desc1": "Profesyonel hizmetlerimiz hakkında daha fazla bilgi edinin ve",
+      "desc2": "size nasıl yardımcı olabileceğimizi öğrenin.",
+      "btn": "Bize Ulaşın"
+    }
+  },
+  "footer": {
+    "title": "Hizmetinizdeyiz.",
+    "desc": "Yurt dışından işçi istihdamı ile ilgili her türlü sorunuz için bize ulaşın. Size her zaman yardımcı olacağız."
+  }
+}

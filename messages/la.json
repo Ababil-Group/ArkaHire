@@ -1,0 +1,545 @@
+{
+  "nav": {
+    "home": "Domus",
+    "howToHire": "Quomodo conducere talentum internationale?",
+    "solutions": {
+      "label": "Solutiones",
+      "navigating": "Navigatio legum immigrationis",
+      "seasonal": "Conductio operariorum temporariorum",
+      "construction": "Conductio operariorum aedificationis",
+      "medical": "Conductio medicorum operariorum"
+    },
+    "services": {
+      "label": "Servitia",
+      "admin": "Administratio occupationis",
+      "fullHR": "Plena HR officia",
+      "mediation": "Mediatio occupationis",
+      "assignment": "Assignatio operariorum"
+    },
+    "about": "De nobis",
+    "contact": "Contactus"
+  },
+  "hero": {
+    "title": "Simplifica processum conducendi globalem operam.",
+    "desc": "Sive parva societas sive multinationalis es, ArkaHire te adiuvat ut idoneos operarios invenias. Ab recruitmento ad inductionem — omnia curamus.",
+    "btn1": "Contactum nobis",
+    "btn2": "Investiga officia"
+  },
+  "achievements": {
+    "year1": "7+",
+    "exp1": "Anni experientiae",
+    "year2": "600+",
+    "exp2": "Operarii collocati",
+    "year3": "100%",
+    "exp3": "Satisfactio clientium"
+  },
+  "whyChoose": {
+    "title": "Cur eligere agenturam recruitmenti?",
+    "desc": "In ArkaHire solutiones innovativas, celeres et efficaces ad talentum internationale quaerendum et conducendum praebemus.",
+    "question1": "Nescis ubi operarios qualificados invenias?",
+    "ans1": "Periti nostri requisita tua examinant et strategiam personalem parant.",
+    "question2": "Flectibilitatem in conductione opus habes?",
+    "ans2": "Solutiones temporarias operariorum internationalium praebemus et omnes formalitates gerimus.",
+    "question3": "Team HR internum non habes?",
+    "ans3": "Servitium HR plenum omnia tegit — ab recruitmento ad integrationem.",
+    "question4": "Leges ignoras?",
+    "ans4": "Processum simplicamus et observantiam omnium legum curamus."
+  },
+  "typeofemployees": {
+    "title": "Quos operarios invenire possumus?",
+    "cardTitle1": "Operarii horreorum",
+    "cardDesc1": "Prompti et discendi studiosi — candidati nostri etiam munera ducendi suscipere possunt.",
+    "cardTitle2": "Electrici",
+    "cardDesc2": "Periti variis gradibus artis. Possumus disponere colloquia per video ad probationem.",
+    "cardTitle3": "Mechanici",
+    "cardDesc3": "Iuvenes, capaces et ad novas provocationes parati.",
+    "cardTitle4": "Operarii aedificatores",
+    "cardDesc4": "A fundamentis usque ad speciales artes — rectos operarios pro propositis tuis invenimus.",
+    "cardTitle5": "Tectorii latericii (Tilers)",
+    "cardDesc5": "Periti magni desiderii per nostrum processum facilitatum praesto sunt.",
+    "cardTitle6": "Munera personalizata",
+    "cardDesc6": "Munus speciale opus est? Auxilium praebere possumus. Contactum nobis.",
+    "btn": "Contactum nobis"
+  },
+  "HireAForeigner": {
+    "title": "Conductio operarii externi",
+    "subtitle": "Processus conducendi operarios peritos ex alienis terris",
+    "desc1": "Intellege condiciones principales quas societas tua implere debet ut peritos internationales conducat.",
+    "desc2": "Negotium plus quam 6 menses operatur",
+    "desc3": "Saltem unus operarius plenus temporis per minimum 6 menses",
+    "desc4": "Vis laboris localis constituit saltem 25% totius operariorum numeri"
+  },
+  "wowtohire": {
+    "title": "Quomodo conducere talentum internationale?",
+    "desc": "Gradatim te ducimus per processum conductionis operariorum internationalium:",
+    "no1": "01",
+    "cardTitle1": "Operariorum Quaesitio",
+    "cardDesc1": "Invenimus candidatos necessitatibus tuis aptos. Colloquia online praesto sunt.",
+    "no2": "02",
+    "cardTitle2": "Contractus",
+    "cardDesc2": "Contractus laboris conficimus et administramus.",
+    "no3": "03",
+    "cardTitle3": "Habitatio",
+    "cardDesc3": "Auxilium praebemus ad habitationem idoneam reperiendam.",
+    "no4": "04",
+    "cardTitle4": "Licentiae Laboris",
+    "cardDesc4": "Applicationes licentiarum laboris tractamus.",
+    "no5": "05",
+    "cardTitle5": "VISA",
+    "cardDesc5": "Curas de VISA gerimus, quae plerumque 4–6 hebdomades requirunt.",
+    "no6": "06",
+    "cardTitle6": "Itinera",
+    "cardDesc6": "Volatus reservamus et adventum tutum operariorum curamus.",
+    "no7": "07",
+    "cardTitle7": "Documenta",
+    "cardDesc7": "Auxilium praebemus pro ID chartis, examinationibus medicis et rationibus argentariis aperiendis.",
+    "no8": "08",
+    "cardTitle8": "Satisfactio",
+    "cardDesc8": "Propositum nostrum est tam datores operis quam operarios satisfacere."
+  },
+  "bookconsultation": {
+    "title": "Liberam Consultationem tuam reserva.",
+    "desc1": "Fidum et peritum socium in conducendis peregrinis operariis. Nostri periti tecum parati sunt laborare ut sollicitudinem omni immigrationis processu removeant, tuas felicis exitus occasiones augentes.",
+    "decs2": "Continge nostram manum hodie ut plura de officiis nostris discas et primum gradum ad felicem conductionem facias.",
+    "btn": "Nos contacta"
+  },
+  "whychooseus": {
+    "title": "Cur Nos Eligere?",
+    "desc": "ArkaHire est fidus tuus socius ad internationalia talenta conducenda. Nostri periti parati sunt processum immigrationis expedire et exitus prosperos praestare.",
+    "item1": "Liberae consultationes",
+    "item2": "Candidati summae qualitatis",
+    "item3": "Celeres responsionum tempora",
+    "item4": "Societates diuturnae",
+    "item5": "Praesto 24/7",
+    "item6": "Probati professionales",
+    "btn": "Nos contacta"
+  },
+  "faq": {
+    "title": "Saepissime Interrogata (FAQ)",
+    "faq1": "Quis responsalis est ad hospitium praebendum?",
+    "ans1": "Conductores necesse est aptum et commodum hospitium suis operariis offerant.",
+    "faq2": "Quamdiu operariis adveniendis necesse est?",
+    "ans2": "Processus typice minimum tres menses durat. Hoc tempus spatium includit periodum duarum hebdomadum ad licentiam laboris impetrandam, sequuta saltem sex hebdomadibus ad visa tractanda.",
+    "faq3": "Quid accidit si ministro non contenti sumus?",
+    "ans3": "Si minister exspectationibus tuis non respondet, ius habes contractum eius rescindere secundum normales laboris regulationes. In talibus casibus, operarium adiuramus ut alternativam operationem assequatur. Si nulla opportunitas apta oritur, eius reditum in patriam facilitamus.",
+    "faq4": "Possumusne licentias laboris longiores quam 1 annum applicare?",
+    "ans4": "Licentiae laboris generaliter per annum dantur, cum temporarii operarii licentias usque ad sex menses impetrare possint. Propter rationes bureaucraticas, licentiam laboris et visa impetrare typice inter duos et tres menses durat.",
+    "faq5": "Quomodo licentiae laboris renovari possunt?",
+    "ans5": "Applicationes renovationis saltem uno mense ante licentiae expirationem submitti debent. Processus requirit passportum ministri, priorem ID chartam, imagines recentes (pro nova ID), testimonium a praestatore hospitii, et declarationem a societate datam confirmantem continuationem hospitii in loco designato.",
+    "faq6": "Suntne restrictiones in conducendis peregrinis operariis?",
+    "ans6": "Quaedam professiones in Europa ut magnae postulationis classificatae sunt, permittentes conductoribus applicare pro licentiis laboris sine testatione mercatus laboris. Index officialis harum professionum per auctoritates competentes praesto est. Pro positionibus non inclusis in indice occupationum inopiae, Testatio Mercatus Laboris requiritur. Hic processus duas hebdomades durat et praesentiam localium operariorum aestimat. Si inopia laboris confirmatur, applicationes pro peregrinis operariis procedere possunt proinde."
+  },
+  "contactus": {
+    "title": "Contactus",
+    "subtitle": "Pro quibuslibet quaestionibus quibus responsum non invenisti, libere nos contacta, et omnia detaliatim explicabimus.",
+    "time": "Horae aperitionis: Lun - Ven 8:00 AM - 4:00 PM",
+    "sendText": "Nos Contacta pro Perita Assistance Habesne Quaestiones? Adsumus ut Adiuvemus!"
+  },
+  "navigating": {
+    "hero": {
+      "title": "Navigatio Legum Immigrationis pro Conductoribus",
+      "desc": "Obsequium legibus immigrationis implicatum esse potest propter regimen normativum quod employment operariorum peregrinorum regit. Hic nostra peritia adiuvat processus expedire.",
+      "btn": "Contacta nos"
+    },
+    "challenges": {
+      "title": "Provocationes Conformationis Immigrationis",
+      "desc1": "Una ex maximis provocationibus quas societates in conducendis professionalibus peregrinis occurrunt est navigatio implicatarum legum immigrationis, quae designatae sunt ad tuendum mercatum laboris localem dum etiam postulata oeconomica virium laboris adressant.",
+      "desc2": "Conformationem cum normis immigrationis praestare implicatum esse potest, cum negotia adhaerere debeant rigorosis requisitis legalibus quae employment operariorum internationalium regunt. Conductores obligantur ad normas fiscales et securitatis socialis, necnon ad condiciones specificas, sicut employment pleni temporis pro civibus localibus vel EU per periodum designatum servandum. Processus etiam implicat obtinendum permissiones laboris et residentiae, cum adhaesione ad politica pro conducendis talentis ex terris non-EU.",
+      "desc3": "Hic ducatus periti essentialis fit. Noster turma specializatur in expeditione processus employment, adiuvando negotia in obtinendis permissionibus laboris, tractandis documentationibus necessariis, et plenam conformationem cum omnibus normis mercatus laboris praestandis.",
+      "desc4": "Apud ArkaHire, praebemus ducatum professionalem ad processus conductionis simpliciorem faciendum. Nostri periti adiuvant in obtinendis permissionibus laboris, documentatione requisita tractanda, et plenam conformationem cum normis mercatus laboris praestanda.",
+      "desc5": "Si cum complexis requisitis employment conflictaris, noster Servitium Administrationis Employment solutionem completam offert."
+    },
+    "employment": {
+      "title": "Administratio Employment",
+      "desc": "Noster Servitium Administrationis Employment administrat omnes proceduras administrativas relatatas ad conducendos professionales internationales. Conformationem cum legibus laboris et immigrationis praestamus, totum processum pro tua societate expedientes.",
+      "btn": "Disce plus"
+    },
+    "features": {
+      "title1": "Accessus ad Operarios Qualificatos",
+      "desc1": "Database candidatorum diligenter investigatorum et qualificatorum.",
+      "title2": "Solutiones Flexibiles Virium Laboris",
+      "desc2": "Optiones conductionis taillatae ad accommodandas necessitates operationales tuas.",
+      "title3": "Processus Recruitmenti Velox et Efficax",
+      "desc3": "Processus conductionis et administrativos acceleramus, recruitmentum sine impedimentis facientes."
+    }
+  },
+  "seasonal": {
+    "hero": {
+      "title": "Occupatio Operariorum Temporis",
+      "desc": "Apud ArkaHire, speciales sumus in delectu operariorum temporis per varias professions, inter quas ministri, caupones, coqui, auxilia culinae, famuli, purgatores, et exceptores. Nostra peritia efficit ut iuxta necessitates tuas idoneos ingenia invenire possis.",
+      "btn": "Contacta Nos"
+    },
+    "challenges": {
+      "title": "Provocationes in Inveniendis Operariis Temporis",
+      "desc1": "Problema inveniendi operarios temporis in Croatia, praesertim in industriis sicut voluptuaria, popinaria, agricultura, et aedificatio, multiplex est et saepe significantem provocationem pro conductoribus praebet.",
+      "desc2": "Industria hospitialis magis subiecta est mutationibus temporis quam umquam antea, comparata cum alia quavis activitatis sphaera.",
+      "desc3": "Plerique clientium nostrorum per primum trimestre accurate praevidere non possunt numerum et necessitatem operariorum externorum vel alienigenarum per altam tempestatem.",
+      "desc4": "Situatio in qua plerique loci, deversoria, et popinae ultimo momento decisiones conductionis faciunt, in subito incremento postulationis operariorum resultat. Hoc ulterius resultat in noluntate mercatus ut illam postulationem statim occurrat. Nimirum, ex momento signationis contractus cum Agency Occupationis, mensis vel etiam duo praeterit donec operarii alienigenae ad suum locum laboris perveniant. Invenire operarios, probare qualifications, colloquia, chartae et similes processus maiorem partem illius temporis occupant.",
+      "desc5": "Igitur, offerimus tibi solutionem quae pericula longae exspectationis et moras in adventu operariorum eliminat: outsourcing laboris."
+    },
+    "assignment": {
+      "title": "Assignatio Operariorum",
+      "desc": "Nostrum servitium assignationis operariorum facilitat celerem conductionem laboris pro inceptis temporis vel certis temporibus. Uti operariis praesto iam in Europa, processum conductionis significanter expedimus. Nos agimus de constitutione pactorum assignationis et responsalitatem pro payment mercedum et officia administrativa suscipimus. Hoc servitium designatur ut praebeat practicam solutionem pro urgentibus necessitatibus hominum, dum praestat flexibilitatem et efficentiam in administrando personali per varia incepta et postulationes temporis.",
+      "btn": "Disce Plus"
+    },
+    "features": {
+      "title1": "Accessus ad Ingenia Qualificata",
+      "desc1": "Apud ArkaHire, offerimus indicem candidatorum praeverificatorum, minuendo pericula coniuncta cum conductione. Noster processus accessum ad peritos operarios iuxta necessitates tuas adaptatos praestat.",
+      "title2": "Flexibilis Solutiones Virium Laboris",
+      "desc2": "Intelligimus momentum flexibilis administrationis virium laboris, permittens tibi ut efficienter te adaptes ad postulationes mutatas.",
+      "title3": "Efficax Processus Delectus",
+      "desc3": "Noster rationalizatus processus delectus accelerat invenire, administrare, et conducere operarios, praestans ut necessitates tuas virium laboris prompte occurses."
+    }
+  },
+  "medical": {
+    "hero": {
+      "title": "Occupatio Medicorum Operariorum",
+      "desc": "Medici, nutrices, technici medici, pharmacopolae, aliique artis sanitatis professionales – omnia genera medicorum operariorum conquirere specializamus.",
+      "btn": "Contacta Nos"
+    },
+    "challenges": {
+      "title": "Provocationes in Inveniendis Medicis Operariis",
+      "desc1": "Provocatio inveniendi peritos medicos, praesertim in specializatis muneribus sanitatis, gravis quaestio est quam institutiones sanitatis globaliter sustinent.",
+      "desc2": "Similiter aliis nationibus, systema sanitatis Croatiae difficulatibus inveniendi et retinendi peritos medicos operarios luctatur. Postulatio professionalium sanitatis, ut medicorum, nutricum, pharmacopolarum, et technicorum, propter factores sicut senescens populatio, progressus medicus, et mutandae necessitates sanitatis, crescere pergit.",
+      "desc3": "Necessitas medicorum operariorum continenter augetur, impulsa factoribus sicut incrementum populi, societas senescens, et progressus in technologia medica.",
+      "desc4": "Systema sanitatis Croatiae et publicas et privatas entitates comprehendit, quarum quaeque suas proprias postulationes personales habet. Etsi opera medica nationis generaliter perita est, certae specialitates vel regiones penurias experiri possunt, lacunas in cura aegrotorum creantes et onus in existentem personalem augentes.",
+      "desc5": "Facilitates sanitatis etiam saepe provocationes in accurate praedicendis suis necessitatibus personalibus sustinent, ad penurias in temporibus criticis ducentes. Haec impraevidibilitas qualitatem curae interrumpere et praesentem personalem onerare potest."
+    },
+    "mediation": {
+      "title": "Mediatio Occupationis",
+      "desc": "Praebemus accessum ad latam piscinam candidatorum prae-examinatorum, incluso illos cum specializatis artibus et experientia. Utendo nostris retibus et facultatibus, processum conductionis accelerare possumus, tempus ad explendas vacantes reducentes et interruptiones in cura aegrotorum minuentes. Adhaestionem ad omnia licentiae et regiminis signa certa facimus et adiuvamus periculum conducendi indignos vel instabiles candidatos reducere.",
+      "btn": "Disce Plus"
+    },
+    "features": {
+      "title1": "Accessus ad Operarios Responsabiles",
+      "desc1": "Accessum ad operariam diligenter investigatam et peritam obtine",
+      "title2": "Impediendo Mora Projectorum",
+      "desc2": "Certa facimus ut projecta peragi secundum rationem cum operaria capabili.",
+      "title3": "Efficiens et Rationalis Processus Conquisitionis",
+      "desc3": "Processum inveniendi, administrandi, et conducendi operarios expedimus."
+    }
+  },
+  "construction": {
+    "hero": {
+      "title": "Occupatio Operariorum Aedificationis",
+      "desc": "Praebemus solutiones pro variis muneribus ad aedificationem pertinentibus, inclusivis armatoribus, fabris lignariis, caementariis, structoribus metallorum, tectonibus et operatoribus machinarum aedificationis.",
+      "btn": "Contacta nos"
+    },
+    "challenges": {
+      "title": "Provocationes in Inveniendis Operariis Aedificationis",
+      "desc1": "Industria aedificationis currently significantes provocationes in invenienda perita manu opera occurrit. Haec penuria operariorum productivitatem impedit, moras in temporibus propositi causat, et conatus ad occurrendum crescenti postulationi peritorum professionalium in sectore complicat.",
+      "desc2": "Per Europam, crescit postulatio peritorum aedificationis, sicut in multis proscriptionibus officii videri potest. Multae societates difficultates in inveniendis peritis et capacibus operariis occurrunt, quod in moras in complendo proposita resultat.",
+      "desc3": "Ut agencia recruitment specializata in externa manu opera, ArkaHire pontem inter postulationem et copiam aedificat, connectens peritos operarios ex terris tertii mundi cum employatoribus qui eos indigent. Etiam clients nostros per processus legales associatos cum conducendis externis employees ducimus, securam et conformem experientiam recruitment praestantes."
+    },
+    "mediation": {
+      "title": "Mediatio Occupationis",
+      "desc": "Per nostra servitia mediationis occupationis, adiuvamus companies in accessu ad magnam pool peritorum operariorum. Provocationes quas in secura perita manu opera occurrunt adressamus. Permittendo occupationem externorum talentorum et praebendo omnia comprehensive servitia recruitment, pivotalem rolum in occurrendo postulationibus manu operae per varias industrias in Europa ludimus.",
+      "btn": "Disce plus"
+    },
+    "features": {
+      "title1": "Accessus ad Operarios Responsabiles",
+      "desc1": "Accessum ad penitus investigatam et peritam manum operae obtine.",
+      "title2": "Praeveniendo Moras Propositi",
+      "desc2": "Cavemus ut proposita secundum schedulam cum capabili manu opera completantur.",
+      "title3": "Efficiens et Streamlined Processus Recruitment",
+      "desc3": "Processum inveniendi, administrandi et conducendi operarios expedimus."
+    }
+  },
+  "servicemain": {
+    "title1": "Plura de officiis nostris cognosce",
+    "desc1": "Te per omnem gradum processus conductionis adiuvamus – a candidatis inveniendis, administratione tractanda, ad integrationem seamless.",
+    "btn1": "Contacta nos",
+    "title2": "Administratio conductionis",
+    "desc2": "Curamus omnia officia administrativa ad professionales internationales conducendos pertinentia, inclusa translatione documentorum, processus visae et permit laboris, et compositione contractuum laboris.",
+    "btn2": "Plura cognosce",
+    "title3": "Servitium HR Plenum",
+    "desc3": "Pro comprehensivo adminiculo administrationis resource humanarum, a conductione ad seamless integrationem conductorum.",
+    "title4": "Mediatio Conductionis",
+    "desc4": "Tempora et opes pretiosa conserva utendo nostra peritia professionali in inveniendis operariis qualified extra Europam.",
+    "title5": "Servitia Assignmenti Operariorum",
+    "desc5": "ArkaHire praebet servitium conducendi operarios pro certis periodis, sicut projectis vel temporibus, cum optione conductionis permanentes."
+  },
+  "assignmentworkers": {
+    "hero": {
+      "title": "Operariorum Assignatio Servitia",
+      "desc": "ArkaHire praebet servitium conducendi operarios pro certis temporibus, ut projectis vel temporibus anni, cum optione ad permanentem occupationem.",
+      "btn": "Contacta nos"
+    },
+    "features": {
+      "title1": "Flexibilitas Occupationis",
+      "desc1": "Efficaces opes laboris solutiones offerimus pro brevibus projectis vel fluctuantibus postulationibus operariorum, efficacitatem operativam praestantes.",
+      "title2": "Aestimatio Operarii Ante Occupationem",
+      "desc2": "Permittimus probare operarios ante permanentem occupationem ut felicem cooperationem et compatibilitatem praestemus.",
+      "title3": "Administratio Simplificata",
+      "desc3": "Omnes administrativas curas quae ad occupationem et HR pertinent gerimus, ut tu in nuclearias tuae negotiationis actiones intendere possis."
+    },
+    "include": {
+      "title": "Quid comprehendit Servitium Assignationis Operariorum?",
+      "desc1": "Hoc servitium flexibilitatem in administratione operarum praebet, simul administrative sarcinas minuens. Accessum ad specializatos talentos e transmarinis dat sine complexitatibus directae conductionis.",
+      "desc2": "Temporariam occupationem simplificamus per conscriptionem formalium Contractuum Laboris et assignationem operariorum clientium societatibus sub condicionibus conventis.",
+      "desc3": "Nostra servitia ultra occupationem extenduntur per gerendas curas administrativas sicut applicationes pensionis et assecurationis sanitatis, calculationes salariorum et processus beneficiorum.",
+      "desc4": "Operarii in clientium societatibus sub condicionibus conventis collocantur dum nos officialem munus employeri assumimus.",
+      "desc5": "Eligendo nostra servitia, societates beneficium habent ex processu simplificato qui problemata bureaucatica resolvit, legalem conformitatem praestat et administrativam efficacitatem auget. Hoc permittit negotiis in suas nucleares operationes intendere."
+    },
+    "whenToconsider": {
+      "title": "Quando Considerare Mediationem Occupationis?",
+      "faq1": "Necessitane operariis pro specifico projecto vel temporibus anni?",
+      "ans1": "Nostrum servitium tibi accessum ad globalem talentorum piscinam dat. Nostra postulationes aestimamus et te cum optimis candidatis coniungimus ad eas necessitates occurrendum.",
+      "faq2": "Vis vitare complexitates directae occupationis",
+      "ans2": "Omnes administrativas et computi curas quae ad operarios pertinent gerimus, sinentes te in nucleares tuae negotiationis actiones intendere sine addito onere.",
+      "faq3": "Vis qualitatem tuae operarum virium praestare",
+      "ans3": "Si necesse est aestimare peritias operariorum antequam permanentem conductionem facias, nostrum servitium idealem solutionem offert ut probatio temporis. Praeterea, nostri agentiae operarii penitus investigantur. Multi ex eis amplam experientiam habent ex praeteritis agentiae operibus, contribuentes peritias et scientiam in quocumque negotiationis ambiente. Etiam additas investigationes in omnibus novis operariis facimus ut eorum promptitudinem praestemus."
+    },
+    "advantages": {
+      "title1": "Quae sunt commoda conducendi per agentiam?",
+      "desc1": "Utendo nostris agentiae operis servitiis, flexibiles solutiones offerimus ad implendas breves vel longas absentias tuorum employatorum, ad optimandas temporarias necessitates operarum et ad occurrendum postulationibus specificorum projectorum. Praeterea, omnes administrativas curas gerimus, processum lenem et efficientem praestantes.",
+      "title2": "Ductus Expertus",
+      "desc2": "Professionalem sustentationem et consilium per totum processum conductionis praebemus, curantes ut bene informata decisiones capias.",
+      "title3": "Servatio Temporis et Opum",
+      "desc3": "Curationem candidatorum quaesitionis, negotiationum et administrativarum curarum agimus, sinentes te in nuclearia tua negotiationis area intendere.",
+      "title4": "Accessus ad Latiorem Mercatum",
+      "desc4": "Tibi accessum ad diversam piscinam candidatorum ex toto orbe per nostram constitutam retem damus.",
+      "title5": "Minutio Periculi",
+      "desc5": "Securitatem praestamus per penitus investigandas qualificationes et recommendationes candidatorum, periculum inidoneae conductionis et inconformitatis cum regulationibus minuentes."
+    },
+    "faq": {
+      "title": "Saepe Quaesita",
+      "queation1": "Quae sunt commoda conducendi per agentiam?",
+      "ans1": "Utendo servitio agentiae operis, te permittimus flexibiliter implere breves vel longas absentias tuorum employatorum, ad optimandas temporarias negotiationis necessitates vel postulationes pro specificis projectis. Etiam administrativas curas gerimus, totum processum facilitantes.",
+      "queation2": "Quas administrativas curas a te suscipimus?",
+      "ans2": {
+        "title1": "Te liberamus ab administrativo onere associato cum assignatis operariis, quod includit:",
+        "item1": "Conscriptionem et conclusionem contractuum laboris",
+        "item2": "Calculationem et processionem salariorum et contributionum",
+        "item3": "Registrationem et deregistrationem operariorum apud Institutum Pensionis et Assicurationis Sanitatis",
+        "item4": "Retentionem mensualium et annuarium recordorum (dies vacationis, absences morbi, etc.)",
+        "item5": "Complationem et submissionem requisitorum reportorum ad competentes auctoritates"
+      },
+      "queation3": "Quae sunt tua officia erga operarios?",
+      "ans3": "Usor (employer) debet adhaerere legibus laboris, inclusis regulationibus sanitatis et securitatis, ac specialibus protectionibus pro specificis gruppis operariorum. Hoc includit praebitionem vestium et calceorum protectorum quando requiritur ex natura laboris. Praeterea, usor responsabilis est pro organizatione et assignatione laboris secundum constitutos processus, ac pro retinendo recordis praesentiae operariorum in loco laboris."
+    }
+  },
+  "employmentmediation": {
+    "hero": {
+      "title": "Mediatio Laboris",
+      "desc": "Temporis et opum pretium serva, peritiam nostram professionalem adhibens ad opifices idoneos extra Europam quaerendos.",
+      "btn": "Nos Contacta"
+    },
+    "features": {
+      "title1": "Accessus ad Opifices Peritos",
+      "desc1": "Candidatos potentiales active quaerimus et deligimus, amplis retibus et basibus datorum utentes.",
+      "title2": "Processus Conductionis Rationalis",
+      "desc2": "Curamus ut processus conductionis efficaciter et accurate peragatur.",
+      "title3": "Ductus Periti et Auxilium in Omni Gressu",
+      "desc3": "Consilia perita praebemus, decisiones informatas et exitus prosperos praestantes."
+    },
+    "what": {
+      "title": "Quid est Mediatio Laboris?",
+      "desc1": "Pontem inter conductores et candidatos potentiales agimus, processum simplificantes definiendo requisita officii, candidatos examinantes et auxilium comprehensivum offerentes. Propositum nostrum est summos talentos cum negotiis coniungere.",
+      "desc2": "Conductio servitium vitale est quod conductores adiuvat ad candidatos idoneos pro suis organizationibus inveniendos. Hoc servitium agentiam conductionis involvit quae mediator inter negotia et opifices potentiales agit. Agentia se concentrat in necessitatibus conductoris intellegendis, requisitis specificis officii definiendis et candidatos qui illis necessitatibus congruunt sedulo quaerendis et deligendis.",
+      "desc3": "Munus fundamentale agentiae per processum conductonis est peragas investigationes fundatas de qualificationibus et experientia candidatorum, eorum idoneitatem pro munere praestans.",
+      "desc4": "Optionem servitiorum conductionis eligere multa commoda offert, inclusa accessu ad amplum talentorum vivarium, reducendo tempus et opes ad conductionem necessaria, et praestando altos standos professionalismi in electione candidatorum."
+    },
+    "commonfaq": {
+      "title": "Inveni Responsa ad Quaestiones Frequentissimas",
+      "queation1": "Quae sunt Nostra Officia in Processu Mediationis?",
+      "ans1": {
+        "title1": "Officia agentiarum in mediatione employmenti opificum exterorum inclusa sunt:",
+        "item1": "Fontem opificis idonei secundum criteria clientis invenire, processum selectionis peragere et documentationem requisitam praebere.",
+        "item2": "Omnem documentationem necessariam parare et submittere ad obtinendum permittit temporaria commorationis et laboris pro civibus terrarum tertiarum.",
+        "item3": "Sumptus assecurationis itineris pro opificibus tegere.",
+        "item4": "Visum necessarium pro commoratione et labore in Europa disponere.",
+        "item5": "Sumptus volatus opificis tegere."
+      },
+      "queation2": "Quae sunt Tua Obligationes erga Opificem Exterum?",
+      "ans2": "Semel obtento permittit laboris pro opifice exteri, necesse est habitationem et cibum praebere eorum adventu. Habitatio debet standis vitae fundamentalibus satisfacere. Si cibus praeberi non potest, stipendium cibi opifici solvendum est. Praeterea, obligatus es opificem ad pensionem et assecurationem sanitatis inscribere, sicut faceres pro quolibet opifice locali.",
+      "queation3": "Quae sunt Requisita ad Obtinendum Permittit Commorationis et Laboris?",
+      "ans3": {
+        "title2": "Requisita ad obtinendum permittit necessaria includunt:",
+        "item1": "Operare activitatem oeconomicam quae in Europa inscripta est.",
+        "item2": "Employ saltem quartam partem civium Croaticorum comparatum ad cives terrarum tertiarum cum pleno tempore, indeterminato contractu per ultimos sex menses.",
+        "item3": "Certificatum ab Administratione Tributi quod nullum debitum pendens relatum ad beneficia publica confirmet, datum intra periodum recentem ante applicationem permittit.",
+        "item4": "Nulla damnatio legalis relata ad relationes laboris vel securitatem socialem."
+      }
+    },
+    "benefits": {
+      "title1": "Quae sunt Commoda Conductionis per Agentiam?",
+      "item1": "Nos gerimus praeparationem et submissionem omnium documentorum legalium requisitorum vice conductorum et eorum opificum selectorum.",
+      "item2": "Cum nostra ampla experientia in hoc campo, processús nostros rationalizavimus, offerentes conductoribus viam rapidam et efficacem ad conducendum.",
+      "title2": "Ductus Peritus",
+      "desc2": "Auxilium professionalem et consilia per totum processum conductionis praebemus, praestantes ut decisiones bene informatas facias.",
+      "title3": "Servatio Temporis et Opum",
+      "desc3": "Nos curamus de quaesitione candidatorum, negotiationibus et officiis administrativis, sinentes te concentrare in nucleis areis negotii tui.",
+      "title4": "Accessus ad Mercatum Latiorem",
+      "desc4": "Damus tibi accessum ad diversum vivarium candidatorum ex toto orbe per nostrum retis constitutum.",
+      "title5": "Reductio Periculi",
+      "desc5": "Securitatem praestamus per investigationem fundatam qualificationum et relationum candidatorum, reducentes periculum conductionum ineptarum et non conformitatis cum regulationibus."
+    },
+    "process": {
+      "title1": "Gressus 1: Consultationes",
+      "desc1": "Noster turma peritorum profundam analysim necessitatum tuorum virium laboris conducti, strategiam conductionis customizatam creans.",
+      "title2": "Gressus 2: Invenire Talenta",
+      "desc2": "Cum nostro amplo rete et facultatibus, candidatos peritos ex toto orbe identificamus qui requisitis negotii tui conveniunt.",
+      "title3": "Gressus 3: Processus Selectionis",
+      "desc3": "Diligenter aestimamus qualificationes, experientiam et relationes candidatorum ut praestemus nos optimos singulos pro tua turma deligere.",
+      "title4": "Gressus 4: Adducere Opifices in Europam",
+      "desc4": "Omnem documentationem necessariam gerimus et translationem opificum in Europam administramus.",
+      "title5": "Quomodo Apparet Processus?",
+      "desc5": "Omnes curas humanarum opum nobis relinque et optimum administrationem opificum tuorum cum nostris servitiis HR all-inclusive praesta!"
+    },
+    "faq": {
+      "title": "Quaestiones Saepe Factae",
+      "queation1": "Quae sunt Nostra Officia in Processu Mediationis?",
+      "ans1": "Officia agentiarum in mediatione employmenti opificum exterorum inclusa sunt: – Identificare opificem idoneum secundum criteria clientis, peragere processum selectionis et praebere documentationem requisitam. – Parare et submittere omnem documentationem necessariam ad obtinendum permittit temporaria commorationis et laboris pro civibus terrarum tertiarum. – Sumptus assecurationis itineris pro opificibus tegere. – Visum necessarium pro commoratione et labore in Europa disponere. – Sumptus volatus opificis tegere.",
+      "queation2": "Quae sunt Tua Officia erga Opificem Exterum?",
+      "ans2": "Semel obtento permittit laboris pro opifice exteri, habitationem et cibum praebere debent eorum adventu. Habitatio debet standis vitae fundamentalibus satisfacere. Si cibi praeberi non possunt, stipendium cibi opifici dandum est. Praeterea, obligatorium est opificem ad pensionem et assecurationem sanitatis inscribere, sicut pro quolibet opifice locali.",
+      "queation3": "Quae Conditiones Implendae sunt ad Obtinendum Permittit Commorationis et Laboris?",
+      "ans3": "Ad obtinendum permittit necessaria, sequentes conditiones implendae sunt: – Tuum negotium in Europa inscriptum esse debet. – Saltem quartam partem civium localium comparatum ad cives terrarum tertiarum cum pleno tempore, indeterminato contractu per ultimos sex menses employ debes. – Certificatum ab Administratione Tributi quod nullum debitum pendens relatum ad beneficia publica confirmet, datum intra periodum recentem ante applicationem permittit. – Nulla damnatio legalis relata ad relationes laboris vel securitatem socialem esse debet.",
+      "queation4": "Potestne Opifex Statim Incipere?",
+      "ans4": "Pro dolor, non. Quia hi opifices ex terris tertiis sunt, primum permittit laboris et visum obtinere debent antequam in Europam intrent. Totus processus ab 45 ad 90 dies accipere potest, secundum celeritatem institutionum involutarum. Praeparatio documentorum et negotiationes typice 4 ad 10 dies accipiunt, secundum promptitudinem conductoris. Conductio et selectio candidatorum a 1 ad 30 dies variare potest (usque ad 7 dies pro opificibus humilis peritiae, usque ad 30 dies pro opificibus peritis), vel diutius si specificae professiones requiruntur (usque ad 60 dies). Test mercatus laboris typice 15 dies durat. Obtinere permittit laboris typice inter 15 et 30 dies accipit. Processus visi additional 15 ad 30 dies accipit. Organizatio itineris et adventus opificis in Europa generaliter 1 ad 10 dies accipit."
+    }
+  },
+  "administration": {
+    "hero": {
+      "title": "Comprehensiva Officia Administrationis Employment",
+      "desc": "Curamus omnia officia administrativa ad conducendos peritos internationales pertinentia, inclusivis translationibus documentorum, processus visorum et licentiarum laboris, et conscriptione contractuum employment.",
+      "btn": "Contacta Nos"
+    },
+    "features": {
+      "title1": "Tempus et Impensas Serva",
+      "desc1": "Tollere onus complexarum procedurarum administrativarum et foca in nucleo negotio tuo.",
+      "title2": "Auxilium Peritorum",
+      "desc2": "Noster turma efficit processum sine impedimento dum adhaeret ultimis requisitis legalibus.",
+      "title3": "Solutiones Adaptatae",
+      "desc3": "Nos adaptamus nostra officia ad occurrendum tuis specificis necessitatibus conducendi."
+    },
+    "include": {
+      "title": "Quid includit officium administrationis employment?",
+      "desc1": "Adiuvamus negotia administrare complexitates conducendi operarios externos, assecutantes obsequium cum legibus immigrationis et laboris, et simplicantes processum administrativum.",
+      "title1": "Nostrum officium administrationis employment includit tractationem omnium officiorum administrativorum ad employment operariorum externorum pertinentium pro societatibus in UE operantibus. Officium typice operit:",
+      "desc2": {
+        "item1": "Processus licentiarum laboris et visorum",
+        "item2": "Assecutatio quod documentatio obsequitur legibus immigrationis",
+        "item3": "Praeparatio contractuum employment",
+        "item4": "Coordinatio cum auctoritatibus gubernationis"
+      }
+    },
+    "whenToconsider": {
+      "title": "Quando eligere officium administrationis?",
+      "faq1": "Iam invenisti employees te ipsum.",
+      "ans1": "Si iam peregisti processum selectionis operariorum externorum te ipsum et elegisti idealem virgam pro tuo negotio, possumus praebere tibi auxilium et adiutorium durante employment.",
+      "faq2": "Non habes satis temporis ad curandum de administratione.",
+      "ans2": "Nos liberamus te ab officiis et processibus administrativis, permittens te focare in tuas nucleares activitates negotii. Curamus omnem documentationem necessariam ut tu dedicare te possis ad developmentum negotii tui. Assequemur pro te visa, et permissiones residentiae et laboris, translatemus documentationem externam, praeparabimus contractus employment et omnia alia documenta necessaria.",
+      "faq3": "Non intellegis regulationes legales.",
+      "ans3": "Noster turma verificat qualificationes et assecutatur obsequium cum localibus regulationibus et legibus. Periti periti praebent auxilium in toto processu et assecutantur quod totus processus sequitur regulationes legales."
+    },
+    "faq": {
+      "title": "Frequenter Interrogata Quaesita",
+      "queation1": "Qualis est processus conducendi operarios externos?",
+      "ans1": {
+        "title1": "Ad conducendos operarios externos pro positionibus per Europam, sequentes essentiales gradus debent sequi:",
+        "item1": "Assequi licentiam laboris pro employee externo per competentem auctoritatem immigrationis vel employment.",
+        "item2": "Submittere applicationem pro permissione residentiae operarii.",
+        "item3": "Registrare employeum externum apud relevantes auctoritates fiscales et securitatis socialis.",
+        "item4": "Assecutari adhaesionem ad omnes applicabiles regulationes laboris et immigrationis."
+      },
+      "queation2": "Quae documenta requiruntur pro employment operariorum externorum?",
+      "ans2": {
+        "title2": "Necessaria documentatio includit:",
+        "item1": "Licentia laboris edita a competente auctoritate.",
+        "item2": "Contractus employment vel conventio formalis.",
+        "item3": "Validus passport vel identificatio operarii externi.",
+        "item4": "Coverage assecurationis sanitatis pro operario.",
+        "item5": "Probationem paymenti requisitarum taxarum administrativarum."
+      },
+      "queation3": "Quomodo officia auxilii administrativi possunt adiuvare employers navigare processum conducendi operarios externos in UE?",
+      "ans3": "Officia auxilii administrativi agunt partem crucialem in simplicando processu conducendi operarios externos, offerentes comprehensivum auxilium in omni stadio.",
+      "ans4": "Nos ducimus employers per totum processum applicationis pro licentia laboris et residentiae, adiuvamus in praeparando et submittendo necessaria documenta ad relevantes auctoritates, et assecutamur plenam obsequentiam cum requisitis legalibus. Nostra officia includunt continuum consilium in materiis laboris et immigrationis, dum simplicant officia administrativa. Hic accessus servat tempus et resources employers, assecutans sine impedimento et efficientem processum conducendi operarios externos per Europam."
+    }
+  },
+  "fullservicehr": {
+    "hero": {
+      "title": "Institutio Humanorum Operarum Plena",
+      "desc": "Ad comprehensivum adminiculium in procuratione operariorum, a delectu usque ad seamless integrationem conductorum.",
+      "btn": "Contacta Nos"
+    },
+    "features": {
+      "title1": "Adminiculum per Totum Processum Humanorum Operarum",
+      "desc1": "A delectu et administratione ad tutelam habitationis praebendam et continuum auxilium.",
+      "title2": "Accessus ad Peritos Humanorum Operarum",
+      "desc2": "Proficere ex peritia professionalium cum ampla experientia in rebus humanorum operarum.",
+      "title3": "Focus in Propositis Negotialibus",
+      "desc3": "Redire attentionem tuam ad assequenda proposita strategica dum nos gerimus necessitates tuas Humanorum Operarum."
+    },
+    "mean": {
+      "title": "Quid Significat Institutio Humanorum Operarum Plena?",
+      "desc1": "Optio Institutionis Humanorum Operarum Plenae praebet amplum adminiculi range quod omnem aspectum processus Humanorum Operarum tegit, a delectu usque ad lenem integrationem conductorum intra organizationem tuam.",
+      "desc2": "Hoc service omnia comprehendens includit delectum, procedures selectionis, opus administrativum, quaestiones assecurationis, habitationem, et continuum adminiculum per totum iter employment. Per adhibendum personalia altim specializata cum considerabili experientia in iure employment, hoc service curat accuratam attentionem ad detail et identificationem solutionum adaptatarum ad necessitates specificas societatis occurrendas.",
+      "desc3": "Outsourcing harum essentialium functionum Humanorum Operarum nonnullas offert advantages. Primum, praebet accessum ad peritiam peritorum professionalium, efficiens et coordinatum humanorum operarum procurationem curans. Secundum, outsourcing permittit societati ut suas opes internas ad proposita negotialia core reallocet, productivity augens et proposita strategica promovens. Ultimatim, optio Institutionis Humanorum Operarum Plenae non solum garantit seamless operationes Humanorum Operarum sed etiam sinit negotia ut focus in assequenda sua missione primaria cum aucta claritate et efficientia."
+    },
+    "whenToconsider": {
+      "title": "Quando Eligere Optionem Institutionis Humanorum Operarum Plenae?",
+      "faq1": "Deficitio Interni Team Humanorum Operarum",
+      "ans1": "Sine interno departmento Humanorum Operarum, gerens omnes aspectus processus Humanorum Operarum, a delectu usque ad onboarding conductorum, opprimens et tempus consumens fieri potest. Per outsourcing ad peritos, societates curare possunt quod quaeque phase processus Humanorum Operarum perite administratur, sinens eas ut focus in suis operationibus core sine onere munerum Humanorum Operarum.",
+      "faq2": "Limitatae Opes ad Processus Procurationem",
+      "ans2": "Sive sint limitationes financiales, temporis, sive professionales, outsourcing Institutionis Humanorum Operarum Plenae efficax solutionem offert. Nos praebemus infrastructuram, peritiam, et experientiam necessariam ad efficaciter tractandas omnes aspectus Humanorum Operarum, a delectu ad officia administrativa, curantes lenem et streamlined processum sine addendo pressura ad opes internas.",
+      "faq3": "Necessitas Solutionis Celeris et Fidae",
+      "ans3": "Quando societas solutionem Humanorum Operarum celerem et fidam necesse habet, optio Institutionis Humanorum Operarum Plenae est optimus choice. Nos efficaciter navigamus per complexitates Humanorum Operarum, tradentes opportunos et efficaces results. Per leveraging nostram specializatam scientiam et experientiam, societates curare possunt quod suas necessitates Humanorum Operarum occurruntur celeriter et cum minimo hasslio."
+    },
+    "faq": {
+      "title": "Frequenter Interrogata Quaestiones",
+      "queation1": "Quas Functiones Humanorum Operarum Tegimus?",
+      "ans1": "Nostra solutio Institutionis Humanorum Operarum Plenae omnem aspectum processus Humanorum Operarum comprehendit, includens delectum, procedures selectionis, officia administrativa, materias assecurationis, placement, et continuum adminiculum et guidance per totum vitae cyclum employment.",
+      "queation2": "Quomodo Curamus Conformitatem cum Relevanti Laboris Legibus et Regulationibus?",
+      "ans2": "Nos adhibemus personalia perita cum ampla experientia in iure employment, accuratam attentionem ad detail et identificationem aptissimarum solutionum pro unica necessitatibus societatis tuae curantes. Etiam manemus updated cum novissimis requisitis legalibus et optimis practicis ad plenam conformitatem curandam.",
+      "queation3": "Quam Flexibilitatem Offerimus in Adaptando Solutionem ad Specificas Societatis Tuae Necessitates?",
+      "ans3": "Intellegimus quod quaeque societas distinctas requisita Humanorum Operarum habet. Proinde, offerimus flexibilitatem in customizing nostra solutio Institutionis Humanorum Operarum Plenae ad occurrendum tuis unica necessitatibus, sive id involvat adjustendum componentia service, implendum specificas requisitas, vel adaptandum ad tuas evolving negotiales demands."
+    }
+  },
+  "about": {
+    "hireaforeigner": {
+      "title": "Conduc Peregrinum",
+      "desc": "Socius fidus et peritus in delectu operariorum peregrinorum. Noster turma peritorum deducit te per processum immigrationis, provisus exitus lenis et prosperus.",
+      "btn": "Contacta Nos"
+    },
+    "whoWeare": {
+      "title1": "QUIS SUMUS?",
+      "title2": "Agencia Occupationis Internationalis",
+      "desc1": "Adiuvamus clientes internationales opportunitates occupationis idoneas invenire, inclusis intra Europam, diligenter eos coniungentes positionibus quae eorum qualificationes congruunt. Insuper, efficimus ut societates, cum quibus cooperamur, non modo reverentur sed etiam aeque remunerentur suum operarum.",
+      "desc2": "Pro clientibus nostris conductoribus, diligenter quaerimus et assecuramur operarios qualificatos qui eorum postulationes specificas implent, sollicitudinem de vicissitudine laboris minuentes. Hic accessus stabilem operariorum praebet ad necessitates projecti vel temporis explendas, et localiter et internationaliter. Proinde, clientes nostri exspectare possunt projectum tempestive tradi sine interruptionibus non necessariis.",
+      "desc3": "Offerre solutionem comprehensivam ad recrutandum et conducendum talenta altae qualitatis, intendentes fovere ambitum laboris productivum et harmonicum pro conductoribus et operariis per orbem terrarum."
+    },
+    "WhyChoose": {
+      "title1": "Cur Elige",
+      "title2": "ArkaHire?",
+      "desc1": "Annos Peritiae",
+      "desc2": "Operarii Peregrini Feliciter Collocati",
+      "desc3": "Satisfactio Clientis"
+    },
+    "WhatDoWeOffer": {
+      "title1": "QUID OFFERIMUS?",
+      "title2": "Opus auxilio cum immigratione? Nostra turma peritorum hic est ad adiuvandum",
+      "desc1": "Contacta nostram turmam hodie ut plura discas de servitiis nostris et primum gradum facias ad feliciter conducendos operarios peregrinos.",
+      "title3": "Servitia Occupationis",
+      "btn": "Explora Omnia Servitia",
+      "title4": "Auxilium in Administratione",
+      "desc2": "Tractamus omnem administrationem necessariam pro occupatione, sicut translatio documentorum, obtentio visorum et licentiarum laboris, contractus laboris.",
+      "title5": "Mediatio Occupationis",
+      "desc3": "Serva tempus et opes utens nostris servitiis professionalibus ad inveniendos operarios qualificatos extra Europam.",
+      "title6": "Servitia HR Plena",
+      "desc4": "Auxilium comprehensivum in administratione virorum humanorum, incipiens a delectu usque ad plenam integrationem operarii.",
+      "title7": "Servitia Assignmentis Operariorum",
+      "desc5": "Offerre collocationem operariorum pro periodis specificis (sicut projecta vel labor temporis) cum optione transitionis ad occupationem permanentem."
+    },
+    "contactourteam": {
+      "title": "Contacta Nostram Turmam",
+      "desc1": "Disce plura de nostris servitiis professionalibus et",
+      "desc2": "inveni quomodo te adiuvare possumus.",
+      "btn": "Contacta Nos"
+    }
+  },
+  "footer": {
+    "title": "Ad tuum obsequium sumus.",
+    "desc": "Contacta nos pro quaecumque quaestiones ad conducent operarios exteras. Tibi auxilium dabimus omni tempore."
+  }
+}

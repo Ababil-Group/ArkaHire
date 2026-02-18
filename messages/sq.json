@@ -1,0 +1,550 @@
+{
+  "nav": {
+    "home": "Kreu",
+    "howToHire": "Si të punësoni talente ndërkombëtare?",
+    "solutions": {
+      "label": "Zgjidhje",
+      "navigating": "Navigimi në ligjet e emigracionit",
+      "seasonal": "Punësimi i punëtorëve sezonalë",
+      "construction": "Punësimi i punëtorëve të ndërtimit",
+      "medical": "Punësimi i punëtorëve mjekësorë"
+    },
+    "services": {
+      "label": "Shërbime",
+      "admin": "Administrimi i punësimit",
+      "fullHR": "Shërbim i plotë HR",
+      "mediation": "Ndërmjetësim punësimi",
+      "assignment": "Caktimi i punëtorëve"
+    },
+    "about": "Rreth nesh",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Thjeshtoni procesin e punësimit të një fuqie punëtore globale.",
+    "desc": "Qoftë një biznes i vogël apo një korporatë ndërkombëtare, ArkaHire ju ndihmon të gjeni punonjës të kualifikuar. Nga rekrutimi te integrimi — ne kujdesemi për gjithçka.",
+    "btn1": "Na kontaktoni",
+    "btn2": "Shfletoni shërbimet"
+  },
+  "achievements": {
+    "year1": "7+",
+    "exp1": "Vite eksperiencë",
+    "year2": "600+",
+    "exp2": "Punonjës të punësuar",
+    "year3": "100%",
+    "exp3": "Kënaqësi klientësh"
+  },
+  "whyChoose": {
+    "title": "Pse të zgjidhni një agjenci rekrutimi?",
+    "desc": "Në ArkaHire ofrojmë zgjidhje inovative, të shpejta dhe efikase për gjetjen dhe punësimin e talenteve ndërkombëtare.",
+    "question1": "Nuk dini ku të gjeni punonjës cilësorë?",
+    "ans1": "Ekipi ynë analizon kërkesat tuaja dhe krijon një strategji të personalizuar rekrutimi.",
+    "question2": "Ju duhet fleksibilitet në punësim?",
+    "ans2": "Ofronim zgjidhje të përkohshme për punëtorë ndërkombëtarë dhe merremi me të gjitha procedurat.",
+    "question3": "Nuk keni ekip të brendshëm HR?",
+    "ans3": "Shërbimi ynë i plotë HR mbulon gjithçka — nga rekrutimi deri te integrimi.",
+    "question4": "Nuk jeni njohur me rregulloret ligjore?",
+    "ans4": "Ne e thjeshtojmë procesin dhe sigurojmë përputhshmëri të plotë me ligjin."
+  },
+  "typeofemployees": {
+    "title": "Çfarë lloj punonjësish mund të gjejmë?",
+    "cardTitle1": "Punonjës Magazie",
+    "cardDesc1": "Proaktivë dhe të gatshëm për të mësuar — kandidatët tanë mund të marrin edhe role udhëheqëse.",
+    "cardTitle2": "Elektriçistë",
+    "cardDesc2": "Profesionalë të kualifikuar në nivele të ndryshme. Mund të organizojmë intervista me video për vlerësim.",
+    "cardTitle3": "Mekanikë",
+    "cardDesc3": "Të rinj, të aftë dhe të gatshëm për sfida të reja.",
+    "cardTitle4": "Punëtorë Ndërtimi",
+    "cardDesc4": "Nga aftësi bazike deri te profesione të specializuara — gjejmë personin e duhur për projektet tuaja.",
+    "cardTitle5": "Fasadistë / Vendosës pllaka",
+    "cardDesc5": "Profesionalë shumë të kërkuar të disponueshëm përmes procesit tonë të lehtësuar të punësimit.",
+    "cardTitle6": "Pozicione të Personalizuara",
+    "cardDesc6": "Kërkoni një rol specifik? Ne mund të ndihmojmë. Na kontaktoni.",
+    "btn": "Na kontaktoni"
+  },
+
+  "HireAForeigner": {
+    "title": "Punësimi i një të huaji",
+    "subtitle": "Procesi i punësimit të punonjësve të kualifikuar nga jashtë",
+    "desc1": "Kuptoni kërkesat kryesore që kompania juaj duhet të plotësojë për të punësuar profesionistë ndërkombëtarë.",
+    "desc2": "Biznesi operon për më shumë se 6 muaj",
+    "desc3": "Të paktën një punonjës me kohë të plotë për minimum 6 muaj",
+    "desc4": "Forca punëtore lokale përbën të paktën 25% të totalit të punonjësve"
+  },
+
+  "wowtohire": {
+    "title": "Si të punësoni talente ndërkombëtare?",
+    "desc": "Ju udhëheqim hap pas hapi në të gjithë procesin e punësimit të punonjësve ndërkombëtarë:",
+    "no1": "01",
+    "cardTitle1": "Kërkimi i fuqisë punëtore",
+    "cardDesc1": "Gjejmë kandidatë të përshtatur sipas nevojave tuaja. Intervistat online janë të disponueshme.",
+    "no2": "02",
+    "cardTitle2": "Kontratat",
+    "cardDesc2": "Hartojmë dhe administrojmë kontratat e punës.",
+    "no3": "03",
+    "cardTitle3": "Akomodimi",
+    "cardDesc3": "Ndihmojmë në gjetjen e strehimit të duhur për punonjësit.",
+    "no4": "04",
+    "cardTitle4": "Lejet e punës",
+    "cardDesc4": "Merremi me aplikimet për leje pune.",
+    "no5": "05",
+    "cardTitle5": "Vizat",
+    "cardDesc5": "Menaxhojmë aplikimet për vizë, të cilat zakonisht zgjasin 4–6 javë.",
+    "no6": "06",
+    "cardTitle6": "Udhëtimet",
+    "cardDesc6": "Rezervojmë fluturime dhe sigurojmë mbërritje të sigurt të punëtorëve.",
+    "no7": "07",
+    "cardTitle7": "Dokumentacioni",
+    "cardDesc7": "Ndihmojmë me karta identiteti, kontrolle mjekësore dhe hapjen e llogarive bankare.",
+    "no8": "08",
+    "cardTitle8": "Kënaqësia",
+    "cardDesc8": "Qëllimi ynë është të sigurojmë kënaqësinë e punëdhënësve dhe punëtorëve."
+  },
+  "bookconsultation": {
+    "title": "Rezervoni Konsultën Tuaj Falas.",
+    "desc1": "Partner i besueshëm dhe me përvojë në punësimin e punëtorëve të huaj. Ekspertët tanë janë gati të punojnë me ju për të hequr stresin nga çdo proces imigracioni, duke rritur shanset tuaja për një rezultat të suksesshëm.",
+    "decs2": "Kontaktoni ekipin tonë sot për të mësuar më shumë rreth shërbimeve tona dhe për të bërë hapin e parë drejt punësimit me sukses.",
+    "btn": "Na kontaktoni"
+  },
+  "whychooseus": {
+    "title": "Pse të Na Zgjedhni Ne?",
+    "desc": "ArkaHire është partneri juaj i besueshëm për të rekrutuar talente ndërkombëtare. Ekspertët tanë janë gati të thjeshtojnë procesin e imigrimit dhe të sigurojnë rezultate të suksesshme.",
+    "item1": "Konsulta falas",
+    "item2": "Kandidatë me cilësi të lartë",
+    "item3": "Kohë të shpejta përgjigjeje",
+    "item4": "Partneritete afatgjata",
+    "item5": "Disponueshmëri 24/7",
+    "item6": "Profesionistë të verifikuar",
+    "btn": "Na kontaktoni"
+  },
+  "faq": {
+    "title": "Pyetjet e Bëra Shpesh (FAQ)",
+    "faq1": "Kush është përgjegjës për sigurimin e akomodimit?",
+    "ans1": "Punëdhënësit kërkohet të ofrojnë akomodim të përshtatshëm dhe të rehatshëm për punëtorët e tyre.",
+    "faq2": "Sa kohë duhet që punëtorët të arrijnë?",
+    "ans2": "Procesi zakonisht zgjat të paktën tre muaj. Ky afat përfshin një periudhë dy-javore për marrjen e lejes për punë, e ndjekur nga të paktën gjashtë javë për përpunimin e vizës.",
+    "faq3": "Çfarë ndodh nëse nuk jemi të kënaqur me një punonjës?",
+    "ans3": "Nëse një punonjës nuk plotëson pritjet tuaja, keni të drejtë të ndërprerni kontratën e tij sipas rregulloreve standarde të punës. Në raste të tilla, ne e ndihmojmë punëtorin të sigurojë punësim alternativ. Nëse nuk shfaqen mundësi të përshtatshme, ne lehtësojmë kthimin e tij në vendin e origjinës.",
+    "faq4": "A mund të aplikojmë për leje pune më të gjata se 1 vit?",
+    "ans4": "Lejet e punës zakonisht lëshohen për një vit, ndërsa punëtorët sezonalë mund të marrin leje deri në gjashtë muaj. Për shkak të procedurave burokrative, marrja e një leje pune dhe vizë zakonisht zgjat dy deri në tre muaj.",
+    "faq5": "Si mund të rinovohen lejet e punës?",
+    "ans5": "Aplikimet për rinovim duhet të paraqiten të paktën një muaj para skadimit të lejes. Procesi kërkon pasaportën e punonjësit, kartën e mëparshme të identitetit, fotografi të fundit (për ID e re), një deklaratë nga ofruesi i akomodimit dhe një deklaratë e lëshuar nga kompania që konfirmon vazhdimësinë e akomodimit në vendndodhjen e caktuar.",
+    "faq6": "A ka kufizime në punësimin e punëtorëve të huaj?",
+    "ans6": "Disa profesione në Evropë janë të klasifikuara si me kërkesë të lartë, duke i lejuar punëdhënësit të aplikojnë për leje pune pa kaluar nëpër një test të tregut të punës. Lista zyrtare e këtyre profesioneve është në dispozicion nga autoritetet përkatëse. Për pozitat që nuk përfshihen në listën e profesioneve me mungesë, kërkohet një Test i Treut të Punës. Ky proces zgjat dy javë dhe vlerëson disponueshmërinë e punëtorëve vendas. Nëse verifikohet një mungesë fuqie pune, aplikimet për punëtorë të huaj mund të vazhdojnë në përputhje me rrethanat."
+  },
+  "contactus": {
+    "title": "Kontakt",
+    "subtitle": "Për çdo pyetje që nuk keni gjetur përgjigje, mos hezitoni të na kontaktoni, dhe ne do të shpjegojmë gjithçka në detaje.",
+    "time": "Orari i punës: E Hënë - E Premte 8:00 - 16:00",
+    "sendText": "Na Kontaktoni për Ndihmë Eksperti Keni Pyetje? Ne jemi Këtu për të Ndihmuar!"
+  },
+
+  "navigating": {
+    "hero": {
+      "title": "Lundrimi në Ligjet e Imigrimit për Punëdhënësit",
+      "desc": "Përputhja me ligjet e imigrimit mund të jetë komplekse për shkak të kornizës rregullatore që rregullon punësimin e punëtorëve të huaj. Këtu ekspertiza jonë ndihmon për të shpejtuar procesin.",
+      "btn": "Na kontaktoni"
+    },
+    "challenges": {
+      "title": "Sfidat e Pajtueshmërisë me Imigracionin",
+      "desc1": "Një nga sfidat më të mëdha që hasin kompanitë kur punësojnë profesionistë të huaj është lundrimi në ligjet komplekse të imigrimit, të cilat janë projektuar për të mbrojtur tregun vendor të punës, duke adresuar njëkohësisht kërkesat ekonomike të fuqisë punëtore.",
+      "desc2": "Sigurimi i përputhshmërisë me rregulloret e imigrimit mund të jetë kompleks, pasi bizneset duhet t'i përmbahen kërkesave të rrepta ligjore që rregullojnë punësimin e punëtorëve ndërkombëtarë. Punëdhënësit janë të detyruar të përmbushen rregulloret tatimore dhe të sigurimit shoqëror, si dhe kushte specifike, si mbajtja e punësimit me kohë të plotë për vendas ose qytetarë të BE-së për një periudhë të caktuar. Procesi përfshin gjithashtu marrjen e lejeve të punës dhe të qëndrimit, së bashku me përputhjen me politikën për punësimin e talenteve nga vendet jo-anëtare të BE-së.",
+      "desc3": "Këtu udhëzimi ekspert bëhet thelbësor. Ekipi ynë është i specializuar në shpejtësimin e procesit të punësimit, duke ndihmuar bizneset në marrjen e lejeve të punës, menaxhimin e dokumentacionit të nevojshëm dhe sigurimin e përputhshmërisë së plotë me të gjitha rregulloret e tregut të punës.",
+      "desc4": "Në ArkaHire, ne ofrojmë udhëzim profesional për të thjeshtuar procesin e punësimit. Ekspertët tanë ndihmojnë në marrjen e lejeve të punës, menaxhimin e dokumentacionit të kërkuar dhe sigurimin e përputhshmërisë së plotë me rregulloret e tregut të punës.",
+      "desc5": "Nëse jeni duke u përballur me kërkesa komplekse të punësimit, Shërbimi ynë i Administrimit të Punësimit ofron një zgjidhje të plotë."
+    },
+    "employment": {
+      "title": "Administrimi i Punësimit",
+      "desc": "Shërbimi ynë i Administrimit të Punësimit menaxhon të gjitha procedurat administrative që lidhen me punësimin e profesionistëve ndërkombëtarë. Ne sigurojmë përputhje me ligjet e punës dhe imigracionit, duke shpejtuar të gjithë procesin për kompaninë tuaj.",
+      "btn": "Mësoni më shumë"
+    },
+    "features": {
+      "title1": "Qasja në Punëtorë të Kualifikuar",
+      "desc1": "Një bazë të dhënash e kandidatëve të kontrolluar me kujdes dhe të kualifikuar.",
+      "title2": "Zgjidhje Fleksibile për Fuqinë Punëtore",
+      "desc2": "Opsione të personalizuara të punësimit që përshtaten me nevojat tuaja operative.",
+      "title3": "Proces i Shpejtë & Efikas i Rekrutimit",
+      "desc3": "Ne përshpejtojmë proceset e punësimit dhe administrative, duke e bërë rekrutimin të qetë."
+    }
+  },
+  "seasonal": {
+    "hero": {
+      "title": "Punësimi i Punëtorëve Stacionalë",
+      "desc": "Në ArkaHire, ne jemi të specializuar në rekrutimin e punëtorëve stacionalë në profesione të ndryshme, përfshirë kamarierë, bartenderë, kuzhinierë, staf ndihmës kuzhine, pastrues, dhe receptionistë. Ekspertiza jonë siguron që ju të gjeni talentet e duhura për nevojat tuaja.",
+      "btn": "Na Kontaktoni"
+    },
+    "challenges": {
+      "title": "Sfidat në Gjetjen e Punëtorëve Stacionalë",
+      "desc1": "Problemi i gjetjes së punëtorëve stacionalë në Kroaci, veçanërisht në industria si turizmi, ushqimi, bujqësia dhe ndërtimi, është shumëdimensional dhe shpesh përfaqëson një sfidë të rëndësishme për punëdhënësit.",
+      "desc2": "Industria e hotelierisë është më e ndjeshme ndaj ndryshimeve stacionale se kurrë më parë, krahasuar me çdo sferë tjetër veprimtarie.",
+      "desc3": "Shumica e klientëve tanë gjatë tremujorit të parë nuk mund të parashikojnë me saktësi numrin dhe nevojën për punëtorë të jashtëm ose të huaj gjatë sezonit të lartë.",
+      "desc4": "Situata ku shumica e resort-eve, hoteleve dhe restoranteve marrin vendime pune në momentin e fundit rezulton në një rritje të papritur të kërkesës për punëtorë. Kjo më pas rezulton në mungesë të gatishmërisë së tregut për të përmbushur menjëherë atë kërkesë. Domethënë, nga momenti i nënshkrimit të kontratës me Agjensinë e Punësimit, kalon një muaj ose madje dy derisa punëtorët e huaj të arrijnë në vendin e tyre të punës. Gjetja e punëtorëve, testimi i kualifikimeve, intervistat, dokumentet dhe procese të ngjashme marrin pjesën më të madhe të atij kohe.",
+      "desc5": "Prandaj, ne ju ofrojmë një zgjidhje që eliminon rreziqet e pritjeve të gjata dhe vonesave në arritjen e punëtorëve: outsourcingu i fuqisë punëtore."
+    },
+    "assignment": {
+      "title": "Caktimi i Punëtorëve",
+      "desc": "Shërbimi ynë i caktimit të punëtorëve lehtëson punësimin e shpejtë të fuqisë punëtore për projekte stacionale ose korniza kohore specifike. Duke përdorur punëtorë të disponueshëm që janë tashmë në Evropë, ne e përshpejtojmë ndjeshëm procesin e punësimit. Ne merremi me vendosjen e marrëveshjeve të caktimit dhe marrim përgjegjësinë për pagesat e pagave dhe detyrat administrative. Ky shërbim është krijuar për të ofruar një zgjidhje praktike për nevojat urgjente të fuqisë punëtore, duke siguruar fleksibilitet dhe efikasitet në menaxhimin e personelit në projekte të ndryshme dhe kërkesa stacionale.",
+      "btn": "Mëso Më Shumë"
+    },
+    "features": {
+      "title1": "Qasje te Talente të Kualifikuara",
+      "desc1": "Në ArkaHire, ne ofrojmë një bazë të dhënash të kandidatëve të parë-verifikuar, duke minimizuar rreziqet e lidhura me punësimin. Procesi ynë siguron qasje në punëtorë të kualifikuar të përshtatur për nevojat tuaja.",
+      "title2": "Zgjidhje Fleksibile të Fuqisë Punëtore",
+      "desc2": "Ne e kuptojmë rëndësinë e menaxhimit fleksibël të fuqisë punëtore, duke ju lejuar të përshtateni në mënyrë efikase ndaj kërkesave në ndryshim.",
+      "title3": "Proces Efikas Rekrutimi",
+      "desc3": "Procesi ynë i streamluar i rekrutimit përshpejton gjetjen, menaxhimin dhe punësimin e punëtorëve, duke siguruar që ju të përmbushni nevojat tuaja për fuqi punëtore në kohën e duhur."
+    }
+  },
+  "medical": {
+    "hero": {
+      "title": "Punësimi i Punëtorëve Mjekësorë",
+      "desc": "Mjekë, infermierë, teknikë mjekësorë, farmacistë dhe profesionistë të tjerë shëndetësorë – ne jemi të specializuar në rekrutimin e të gjitha llojeve të stafit mjekësor.",
+      "btn": "Na kontaktoni"
+    },
+    "challenges": {
+      "title": "Sfidat në gjetjen e punëtorëve mjekësorë",
+      "desc1": "Sfida e gjetjes së profesionistëve të kualifikuar mjekësorë, veçanërisht në rolet e specializuara shëndetësore, është një çështje e rëndësishme me të cilën përballen institucionet shëndetësore në mbarë botën.",
+      "desc2": "Ngjashëm me vendet e tjera, sistemi shëndetësor i Kroacisë po përballet me vështirësitë e gjetjes dhe mbajtjes së stafit të kualifikuar mjekësor. Kërkesa për profesionistë shëndetësorë, si mjekë, infermierë, farmacistë dhe teknikë, vazhdon të rritet për shkak të faktorëve si popullsia në plakje, përparimet mjekësore dhe nevojat në ndryshim shëndetësore.",
+      "desc3": "Nevoja për punëtorë mjekësorë po rritet vazhdimisht, e shtyrë nga faktorë si rritja e popullsisë, një shoqëri që plaket dhe përparimet në teknologjinë mjekësore.",
+      "desc4": "Sistemi shëndetësor i Kroacisë përfshinë si entitete publike ashtu edhe private, secili me kërkesat e veta të stafit. Edhe pse forca e punës mjekësore e vendit është përgjithësisht e kualifikuar, disa specialitete ose rajone mund të përjetojnë mungesa, duke krijuar boshllëqe në kujdesin e pacientëve dhe duke rritur presionin në stafin ekzistues.",
+      "desc5": "Objektet shëndetësore gjithashtu shpesh përballen me sfida në parashikimin e saktë të nevojave të tyre të stafit, duke çuar në mungesa në kohë kritike. Kjo paparashikueshmëri mund të shqetësojë cilësinë e kujdesit dhe të mbingarkojë stafin aktual."
+    },
+    "mediation": {
+      "title": "Ndërmjetësim i Punësimit",
+      "desc": "Ne ofrojmë qasje në një grup të gjerë kandidatësh të parakontrolluar, duke përfshirë ata me aftësi dhe përvojë të specializuar. Duke përdorur rrjetet dhe burimet tona, ne mund të përshpejtojmë procesin e punësimit, duke reduktuar kohën e nevojshme për të plotësuar vendet vakante dhe duke minimizuar ndërprerjet në kujdesin e pacientëve. Ne sigurojmë përputhshmërinë me të gjitha standardet e licencimit dhe rregullatoreve dhe ndihmojmë në reduktimin e rrezikut të punësimit të kandidatëve të pakualifikuar ose të pabesueshëm.",
+      "btn": "Mëso më shumë"
+    },
+    "features": {
+      "title1": "Qasje te Punëtorë të Përgjegjshëm",
+      "desc1": "Fitoni qasje në një fuqi punëtore të kontrolluar me kujdes dhe të kualifikuar",
+      "title2": "Parandalimi i Vonesave të Projektit",
+      "desc2": "Ne sigurojmë që projektet të përfundojnë sipas orarit me një fuqi punëtore të aftë.",
+      "title3": "Proces Efikas dhe i Streamluar i Rekrutimit",
+      "desc3": "Ne përshpejtojmë procesin e gjetjes, menaxhimit dhe punësimit të punëtorëve."
+    }
+  },
+  "construction": {
+    "hero": {
+      "title": "Punësimi i Punëtorëve të Ndërtimit",
+      "desc": "Ne ofrojmë zgjidhje stafi për një shumëllojshmëri të gjerë rolesh të lidhura me ndërtimin, përfshirë armëtorë, zdrukthtarë, muratorë, montues strukturash metalike, çatis dhe operatorë makinerish ndërtimi.",
+      "btn": "Na kontaktoni"
+    },
+    "challenges": {
+      "title": "Sfidat në Gjetjen e Punëtorëve të Ndërtimit",
+      "desc1": "Industria e ndërtimit aktualisht po përballet me sfida të konsiderueshme në gjetjen e fuqisë punëtore të kualifikuar. Kjo mungesë e punëtorëve pengon produktivitetin, shkakton vonesa në oraret e projektit dhe i ndërlikon përpjekjet për të përmbushur kërkesën në rritje për profesionistë të kualifikuar në sektor.",
+      "desc2": "Në të gjithë Evropë, ka një kërkesë në rritje për ekspertë ndërtimi, siç duket nga shumë ofertat e punës. Shumë kompani përballen me vështirësi në gjetjen e punëtorëve me përvojë dhe të aftë, duke rezultuar në vonesa në përfundimin e projekteve.",
+      "desc3": "Si një agjenci rekrutimi e specializuar në fuqinë punëtore të huaj, ArkaHire mbush boshllëkun midis kërkesës dhe ofertës duke lidhur punëtorë të kualifikuar nga vendet e botës së tretë me punëdhënës që kanë nevojë për ta. Ne gjithashtu i udhëheqim klientët tanë nëpër proceset ligjore të lidhura me punësimin e të punësuarve të huaj, duke siguruar një përvojë rekrutimi të qetë dhe të përputhur."
+    },
+    "mediation": {
+      "title": "Ndërmjetësim i Punësimit",
+      "desc": "Përmes shërbimeve tona të ndërmjetësimit të punësimit, ne ndihmojmë kompanitë të përfitojnë akses në një pool të gjerë punëtorësh të kualifikuar. Ne adresojmë sfidat me të cilat përballen në sigurimin e një fuqie punëtore të kualifikuar. Duke lejuar punësimin e talenteve të huaja dhe duke ofruar shërbime gjithëpërfshirëse rekrutimi, ne luajmë një rol kyç në përmbushjen e kërkesave për fuqi punëtore në industri të ndryshme në Evropë.",
+      "btn": "Mësoni më shumë"
+    },
+    "features": {
+      "title1": "Qasje në Punëtorë të Përgjegjshëm",
+      "desc1": "Fitoni akses në një fuqi punëtore të kontrolluar me kujdes dhe të kualifikuar.",
+      "title2": "Parandalimi i Vonesave të Projektit",
+      "desc2": "Ne sigurojmë që projektet të përfundojnë sipas orarit me një fuqi punëtore të aftë.",
+      "title3": "Proces Rekrutimi Efikas dhe i Streamluar",
+      "desc3": "Ne shpejtojmë procesin e gjetjes, menaxhimit dhe punësimit të punëtorëve."
+    }
+  },
+  "servicemain": {
+    "title1": "Mësoni më shumë rreth shërbimeve tona",
+    "desc1": "Ne ju mbështesim në çdo fazë të procesit të rekrutimit – nga gjetja e kandidatëve, menaxhimi i administratës, deri te integrimi i qetë.",
+    "btn1": "Na kontaktoni",
+    "title2": "Administrimi i Punësimit",
+    "desc2": "Ne kujdesemi për të gjitha detyrat administrative që lidhen me punësimin e profesionistëve ndërkombëtar, përfshirë përkthimet e dokumenteve, përpunimin e vizave dhe lejeve të punës dhe draftimin e kontratave të punës.",
+    "btn2": "Mëso më shumë",
+    "title3": "HR me Shërbim të Plotë",
+    "desc3": "Për mbështetje gjithëpërfshirëse në menaxhimin e burimeve njerëzore, nga rekrutimi deri te integrimi i qetë i të punësuarve.",
+    "title4": "Ndërmjetësim Punësimi",
+    "desc4": "Kurseni kohë dhe burime të çmuara duke përfituar nga ekspertiza jonë profesionale në gjetjen e punëtorëve të kualifikuar nga jashtë Evropës.",
+    "title5": "Shërbime të Caktimit të Punëtorëve",
+    "desc5": "ArkaHire ofron një shërbim për punësimin e punëtorëve për periudha specifike, si projekte ose sezone, me mundësinë e punësimit të përhershëm."
+  },
+
+  "assignmentworkers": {
+    "hero": {
+      "title": "Shërbimet e Caktimit të Punëtorëve",
+      "desc": "ArkaHire ofron një shërbim për punësimin e punëtorëve për periudha specifike, si projekte ose sezone, me mundësi për punësim të përhershëm.",
+      "btn": "Na kontaktoni"
+    },
+    "features": {
+      "title1": "Fleksibiliteti i Punësimit",
+      "desc1": "Ne ofrojmë zgjidhje efektive të fuqisë punëtore për projekte afatshkurtra ose kërkesa luhatëse të punës, duke siguruar efikasitet operacional.",
+      "title2": "Vlerësimi i Punëtorit Para Punësimit",
+      "desc2": "Ne lejojmë testimin e punëtorëve para punësimit të përhershëm për të siguruar bashkëpunim të suksesshëm dhe përputhshmëri.",
+      "title3": "Administrim i Streamlined",
+      "desc3": "Ne merremi me të gjitha detyrat administrative që lidhen me punësimin dhe HR, kështu që ju mund të përqendroheni në aktivitetet thelbësore të biznesit tuaj."
+    },
+    "include": {
+      "title": "Çfarë Përfshin Shërbimi i Caktimit të Punëtorëve?",
+      "desc1": "Ky shërbim ofron fleksibilitet në menaxhimin e fuqisë punëtore duke reduktuar barrët administrative. Ai siguron akses në talente të specializuara nga jashtë pa kompleksitetin e punësimit të drejtpërdrejtë.",
+      "desc2": "Ne thjeshtësojmë punësimin e përkohshëm duke draftuar Kontrata Formale të Punës dhe caktuar punëtorët në kompanitë e klientëve sipas kushteve të rënë dakord.",
+      "desc3": "Shërbimet tona shtrihen përtej punësimit duke menaxhuar detyra administrative si aplikimet e pensionit dhe sigurimit shëndetësor, llogaritjet e pagave dhe përpunimi i përfitimeve.",
+      "desc4": "Punëtorët vendosen në kompanitë e klientëve nën kushte të rënë dakord ndërsa ne marrim rolin zyrtar të punëdhënësit.",
+      "desc5": "Duke zgjedhur shërbimet tona, kompanitë përfitojnë nga një proces i streamlinuar që zgjidh sfidat burokratike, siguron përputhshmëri ligjore dhe përmirëson efikasitetin administrativ. Kjo u lejon bizneseve të përqendrohen në operacionet e tyre thelbësore."
+    },
+    "whenToconsider": {
+      "title": "Kur të Konsideroni Ndërmjetësimin e Punësimit?",
+      "faq1": "A keni nevojë për punëtorë për një projekt specifik ose në bazë sezonale?",
+      "ans1": "Shërbimi ynë ju ofron akses në një rezervë globale talentesh. Ne vlerësojmë kërkesat tuaja dhe ju lidhim me kandidatët më të mirë për të përmbushur ato nevoja.",
+      "faq2": "Ju dëshironi të shmangni kompleksitetin e punësimit të drejtpërdrejtë",
+      "ans2": "Ne merremi me të gjitha detyrat administrative dhe kontabël që lidhen me punëtorët, duke ju lejuar të përqendroheni në aktivitetet thelbësore të biznesit tuaj pa barrë shtesë.",
+      "faq3": "Ju dëshironi të siguroni cilësinë e fuqisë suaj punëtore",
+      "ans3": "Nëse keni nevojë të vlerësoni aftësitë e punëtorëve përpara se të bëni një punësim të përhershëm, shërbimi ynë ofron një zgjidhje ideale si fazë testuese. Për më tepër, punëtorët tanë të agjencisë janë kontrolluar tërësisht. Shumë prej tyre kanë përvojë të gjerë nga puna e mëparshme e agjencisë, duke kontribuar aftësi dhe njohuri të zhvilluara në çdo mjedis biznesi. Ne gjithashtu kryejmë kontroll shtesë për të gjithë punëtorët e rinj për të siguruar gatishmërinë e tyre."
+    },
+    "advantages": {
+      "title1": "Cilat janë përfitimet e punësimit përmes një agjencie?",
+      "desc1": "Duke përdorur shërbimet tona të punës së agjencisë, ne ofrojmë zgjidhje fleksibile për plotësimin e mungesave afatshkurtra ose afatgjata të punonjësve, optimizimin e nevojave sezonale të fuqisë punëtore dhe përmbushjen e kërkesave të projekteve specifike. Për më tepër, ne menaxhojmë të gjitha detyrat administrative, duke siguruar që procesi të jetë i qetë dhe efikas.",
+      "title2": "Udhëzim Ekspert",
+      "desc2": "Ne ofrojmë mbështetje profesionale dhe këshilla gjatë gjithë procesit të rekrutimit, duke siguruar që ju të merrni vendime të informuara.",
+      "title3": "Kursim Kohe dhe Burimesh",
+      "desc3": "Ne kujdesemi për kërkimin e kandidatëve, negociatat dhe detyrat administrative, duke ju lejuar të përqendroheni në fushat kryesore të biznesit tuaj.",
+      "title4": "Qasje në një Treg Më të Gjerë",
+      "desc4": "Ne ju japim akses në një rezervë të larmishme kandidatësh nga e gjithë bota përmes rrjetit tonë të vendosur.",
+      "title5": "Reduktimi i Rrezikut",
+      "desc5": "Ne sigurojmë siguri duke kontrolluar tërësisht kualifikimet dhe referencat e kandidatëve, duke reduktuar rrezikun e punësimeve të papërshtatshme dhe mospërputhjes me rregulloret."
+    },
+    "faq": {
+      "title": "Pyetjet e Bëra Shpesh",
+      "queation1": "Cilat janë përfitimet e punësimit përmes një agjencie?",
+      "ans1": "Duke përdorur shërbimin e punës së agjencisë, ne ju lejojmë të plotësoni në mënyrë fleksibile mungesat e shkurtra ose të gjata të punonjësve tuaj, të optimizoni nevojat e biznesit sezonal ose kërkesat për projekte specifike. Ne gjithashtu merremi me detyrat administrative, duke lehtësuar të gjithë procesin.",
+      "queation2": "Cilat detyra administrative marrim nga ju?",
+      "ans2": {
+        "title1": "Ne ju çlirojmë nga barrë administrative e lidhur me punëtorët e caktuar, e cila përfshin:",
+        "item1": "Draftimi dhe lidhja e kontratave të punës",
+        "item2": "Llogaritja dhe përpunimi i pagave dhe kontributeve",
+        "item3": "Regjistrimi dhe çregjistrimi i punëtorëve në Institutin e Pensionit dhe Sigurimit Shëndetësor",
+        "item4": "Mbajtja e regjistrave mujore dhe vjetore (ditë pushimi, pushim mjekësor, etj.)",
+        "item5": "Plotësimi dhe dorëzimi i raporteve të kërkuara tek autoritetet përkatëse"
+      },
+      "queation3": "Cilat janë detyrimet tuaja ndaj punëtorëve?",
+      "ans3": "Përdoruesi (punëdhënësi) duhet t'i përmbahet ligjeve të punës, duke përfshirë rregullat e shëndetësisë dhe sigurisë, si dhe mbrojtjet speciale për grupe të caktuara punëtorësh. Kjo përfshin ofrimin e rrobave dhe këpucëve mbrojtëse kur kërkohet nga natyra e punës. Për më tepër, përdoruesi është përgjegjës për organizimin dhe caktimin e punës sipas proceseve të vendosura, si dhe për mbajtjen e regjistrave të pranisë së punëtorëve në vendin e punës."
+    }
+  },
+  "employmentmediation": {
+    "hero": {
+      "title": "Ndërmjetësimi i Punësimit",
+      "desc": "Kurseni kohë dhe burime të çmuara duke përfituar nga ekspertiza jonë profesionale për të gjetur punëtorë të kualifikuar nga jashtë Evropës.",
+      "btn": "Na kontaktoni"
+    },
+    "features": {
+      "title1": "Qasje te Punëtorëve të Kualifikuar",
+      "desc1": "Ne kërkojmë në mënyrë proaktive dhe zgjedhim me kujdes kandidatët e mundshëm, duke përdorur rrjetet dhe bazat tona të mëdha të të dhënave.",
+      "title2": "Proces i Streamlinuar i Rekrutimit",
+      "desc2": "Ne sigurojmë që procesi i rekrutimit të kryhet në mënyrë efikase dhe të saktë.",
+      "title3": "Udhëzime dhe Mbështetje Eksperti në Çdo Fazë",
+      "desc3": "Ne ofrojmë njohuri ekspertësie, duke siguruar vendime të informuara dhe rezultate të suksesshme."
+    },
+    "what": {
+      "title": "Çfarë është Ndërmjetësimi i Punësimit?",
+      "desc1": "Ne shërbejmë si një urë midis punëdhënësve dhe kandidatëve të mundshëm, duke thjeshtuar procesin duke përcaktuar kërkesat e punës, duke ekzaminuar aplikantët dhe duke ofruar mbështetje gjithëpërfshirëse. Qëllimi ynë është të lidhim talentet më të mira me bizneset.",
+      "desc2": "Rekrutimi është një shërbim jetik që mbështet punëdhënësit në gjetjen e kandidatëve të kualifikuar për organizatat e tyre. Ky shërbim përfshin anëtarësimin e një agjencie rekrutimi që vepron si ndërmjetës midis bizneseve dhe punonjësve të mundshëm. Agjencia përqendrohet në të kuptuarit e nevojave të punëdhënësit, përcaktimin e kërkesave specifike të punës dhe kërkimin dhe përzgjedhjen e kujdesshme të kandidatëve që përshtaten me ato nevoja.",
+      "desc3": "Një rol themelor i agjencisë gjatë procesit të punësimit është të kryejë kontrollime të thella të kualifikimeve dhe përvojës së kandidatëve, duke siguruar përshtatshmërinë e tyre për rolin.",
+      "desc4": "Zgjedhja e shërbimeve të rekrutimit ofron shumë përparësi, duke përfshirë qasjen në një rezervë të gjerë talentesh, uljen e kohës dhe burimeve të nevojshme për rekrutim dhe sigurimin e standardeve të larta të profesionalizmit në përzgjedhjen e kandidatëve."
+    },
+    "commonfaq": {
+      "title": "Gjeni Përgjigje për Pyetjet më të Shpeshta",
+      "queation1": "Cilat janë Përgjegjësitë tona në Procesin e Ndërmjetësimit?",
+      "ans1": {
+        "title1": "Detyrat e agjencive të përfshira në ndërmjetësimin e punësimit të punëtorëve të huaj përfshijnë:",
+        "item1": "Gjetja e një punëtori të përshtatshëm bazuar në kriteret e klientit, kryerja e procesit të përzgjedhjes dhe sigurimi i dokumentacionit të kërkuar.",
+        "item2": "Përgatitja dhe dorëzimi i gjithë dokumentacionit të nevojshëm për të marrë leje të përkohshme të qëndrimit dhe punës për qytetarët e vendeve të treta.",
+        "item3": "Mbulimi i kostove të sigurimit të udhëtimit për punëtorët.",
+        "item4": "Organizimi i vizës së nevojshme për qëndrim dhe punë në Evropë.",
+        "item5": "Mbulimi i kostos së fluturimit të punëtorit."
+      },
+      "queation2": "Cilat janë Detyrimet tuaja ndaj një Punëtori të Huaj?",
+      "ans2": "Pasi të merret leja e punës për një punëtor të huaj, është e nevojshme të sigurohen akomodimi dhe ushqim pas mbërritjes së tyre. Akomodimi duhet të plotësojë standardet bazë të jetesës. Nëse ushqimi nuk mund të sigurohet, duhet t'i paguhet punëtorit një shtesë ushqimore. Përveç kësaj, ju jeni i detyruar të regjistroni punëtorin për pension dhe sigurim shëndetësor, ashtu siç do të bënit për çdo punonjës lokal.",
+      "queation3": "Cilat janë Kërkesat për të Marrë një Leje Qëndrimi dhe Pune?",
+      "ans3": {
+        "title2": "Kërkesat për marrjen e lejeve të nevojshme përfshijnë:",
+        "item1": "Të kryesh një veprimtari ekonomike që është e regjistruar në Evropë.",
+        "item2": "Punësimi i të paktën një të katërtës së qytetarëve kroatë në krahasim me kombëtarët e vendeve të treta me kohë të plotë, kontratë të pacaktuar për gjashtë muajt e fundit.",
+        "item3": "Një certifikatë nga Administrata Fiskale që konfirmon se nuk ka borxhe të prapambetura në lidhje me përfitimet publike, e datës së një periudhe të kohës së afërt para aplikimit për lejet.",
+        "item4": "Asnjë dënim ligjor në lidhje me marrëdhëniet e punës ose sigurimin shoqëror."
+      }
+    },
+    "benefits": {
+      "title1": "Cilat janë Përfitimet e Punësimit përmes një Agjencie?",
+      "item1": "Ne merremi me përgatitjen dhe dorëzimin e të gjitha dokumenteve të nevojshme ligjore në emër të punëdhënësve dhe punonjësve të tyre të përzgjedhur.",
+      "item2": "Me përvojën tonë të gjerë në këtë fushë, ne kemi optimizuar proceset tona, duke u ofruar punëdhënësve një mënyrë të shpejtë dhe efikase për të punësuar.",
+      "title2": "Udhëzime Ekspertiesh",
+      "desc2": "Ne ofrojmë mbështetje profesionale dhe këshilla gjatë gjithë procesit të rekrutimit, duke siguruar që ju të merrni vendime të informuara mirë.",
+      "title3": "Kursimi i Kohës dhe Burimeve",
+      "desc3": "Ne kujdesemi për kërkimin e kandidatëve, negociatat dhe detyrat administrative, duke ju lejuar të përqendroheni në fushat kryesore të biznesit tuaj.",
+      "title4": "Qasje në një Treg më të Gjerë",
+      "desc4": "Ne ju japim qasje në një grup të larmishëm kandidatësh nga e gjithë bota përmes rrjetit tonë të vendosur.",
+      "title5": "Reduktimi i Rrezikut",
+      "desc5": "Ne sigurojmë siguri duke verifikuar tërësisht kualifikimet dhe referencat e kandidatëve, duke ulur rrezikun e punësimeve të papërshtatshme dhe mospërputhjen me rregulloret."
+    },
+    "process": {
+      "title1": "Hapi 1: Këshillimet",
+      "desc1": "Ekipi ynë i specialistëve kryen një analizë të thellë të nevojave tuaja të fuqisë punëtore, duke krijuar një strategji të personalizuar rekrutimi.",
+      "title2": "Hapi 2: Gjetja e Talenteve",
+      "desc2": "Me rrjetin dhe burimet tona të gjera, ne identifikojmë kandidatë të kualifikuar nga e gjithë bota që përshtaten me kërkesat e biznesit tuaj.",
+      "title3": "Hapi 3: Procesi i Përzgjedhjes",
+      "desc3": "Ne vlerësojmë me kujdes kualifikimet, përvojën dhe referencat e kandidatëve për t'u siguruar që zgjedhim individët më të mirë për ekipin tuaj.",
+      "title4": "Hapi 4: Sjellja e Punëtorëve në Evropë",
+      "desc4": "Ne merremi me të gjithë dokumentacionin e nevojshëm dhe menaxhojmë zhvendosjen e punëtorëve në Evropë.",
+      "title5": "Si Duket Procesi?",
+      "desc5": "Lini të gjitha shqetësimet e burimeve njerëzore tek ne dhe siguroni menaxhim optimal të punonjësve tuaj me shërbimet tona të gjithëpërfshirëse HR!"
+    },
+    "faq": {
+      "title": "Pyetjet e Bëra Shpesh",
+      "queation1": "Cilat janë Përgjegjësitë tona në Procesin e Ndërmjetësimit?",
+      "ans1": "Detyrat e agjencive të përfshira në ndërmjetësimin e punësimit të punëtorëve të huaj përfshijnë: – Identifikimi i një punëtori të përshtatshëm bazuar në kriteret e klientit, kryerja e procesit të përzgjedhjes dhe sigurimi i dokumentacionit të kërkuar. – Përgatitja dhe dorëzimi i gjithë dokumentacionit të nevojshëm për të marrë leje të përkohshme të qëndrimit dhe punës për qytetarët e vendeve të treta. – Mbulimi i kostove të sigurimit të udhëtimit për punëtorët. – Organizimi i vizës së nevojshme për qëndrim dhe punë në Evropë. – Mbulimi i kostos së fluturimit të punëtorit.",
+      "queation2": "Cilat janë Detyrimet tuaja ndaj një Punëtori të Huaj?",
+      "ans2": "Pasi të merret leja e punës për një punëtor të huaj, duhet të sigurohen akomodimi dhe ushqim pas mbërritjes së tyre. Akomodimi duhet të plotësojë standardet bazë të jetesës. Nëse ushqimi nuk mund të sigurohet, duhet t'i jepet punëtorit një shtesë ushqimore. Përveç kësaj, është e detyrueshme të regjistrohet punëtori për pension dhe sigurim shëndetësor, ashtu si për çdo punonjës lokal.",
+      "queation3": "Cilat Kushte Duhet të Plotësohen për të Marrë një Leje Qëndrimi dhe Pune?",
+      "ans3": "Për të marrë lejet e nevojshme, duhet të plotësohen kushtet e mëposhtme: – Biznesi juaj duhet të jetë i regjistruar në Evropë. – Duhet të punësoni të paktën një të katërtën e qytetarëve lokalë në krahasim me kombëtarët e vendeve të treta me kohë të plotë, kontratë të pacaktuar për gjashtë muajt e fundit. – Një certifikatë nga Administrata Fiskale që konfirmon se nuk ka borxhe të prapambetura në lidhje me përfitimet publike, e datës së një periudhe të kohës së afërt para aplikimit për lejet. – Nuk duhet të ketë dënime ligjore në lidhje me marrëdhëniet e punës ose sigurimin shoqëror.",
+      "queation4": "A Mund të Fillojë Punëtori Menjëherë?",
+      "ans4": "Fatkeqësisht jo. Meqenëse këta punëtorë janë nga vendet e treta, ata së pari duhet të marrin leje pune dhe vizë përpara se të hyjnë në Evropë. I gjithë procesi mund të zgjasë nga 45 deri në 90 ditë, në varësi të shpejtësisë së institucioneve të përfshira. Përgatitja e dokumenteve dhe negociatat zakonisht zgjasin 4 deri në 10 ditë, në varësi të gatishmërisë së punëdhënësit. Rekrutimi dhe përzgjedhja e kandidatëve mund të variojnë nga 1 deri në 30 ditë (deri në 7 ditë për punëtorët me kualifikim të ulët, deri në 30 ditë për punëtorët e kualifikuar), ose më gjatë nëse kërkohen profesione specifike (deri në 60 ditë). Testi i tregut të punës zakonisht zgjat 15 ditë. Marrja e një leje pune zakonisht zgjat midis 15 dhe 30 ditësh. Përpunimi i vizës zgjat 15 deri në 30 ditë shtesë. Organizimi i udhëtimit dhe mbërritja e punëtorit në Evropë zakonisht zgjat 1 deri në 10 ditë."
+    }
+  },
+  "administration": {
+    "hero": {
+      "title": "Shërbime gjithëpërfshirëse të administrimit të punësimit",
+      "desc": "Ne kujdesemi për të gjitha detyrat administrative që lidhen me punësimin e profesionistëve ndërkombëtarë, duke përfshirë përkthimet e dokumenteve, përpunimin e vizave dhe lejeve të punës dhe draftimin e kontratave të punës.",
+      "btn": "Na kontaktoni"
+    },
+    "features": {
+      "title1": "Kurseni kohë dhe kosto",
+      "desc1": "Eliminoni barrën e procedurave komplekse administrative dhe përqendrohuni në biznesin tuaj thelbësor.",
+      "title2": "Ndihmë ekspertesh",
+      "desc2": "Ekipi ynë siguron një proces të qetë duke iu përmbajtur kërkesave më të fundit ligjore.",
+      "title3": "Zgjidhje të personalizuara",
+      "desc3": "Ne i përshtatim shërbimet tona për të përmbushur nevojat tuaja specifike të punësimit."
+    },
+    "include": {
+      "title": "Çfarë përfshin shërbimi i administrimit të punësimit?",
+      "desc1": "Ne ndihmojmë bizneset të menaxhojnë kompleksitetin e punësimit të punëtorëve të huaj, duke siguruar përputhshmëri me ligjet e imigracionit dhe të punës dhe duke thjeshtuar procesin administrativ.",
+      "title1": "Shërbimi ynë i administrimit të punësimit përfshin trajtimin e të gjitha detyrave administrative që lidhen me punësimin e punëtorëve të huaj për kompanitë që veprojnë në BE. Shërbimi zakonisht mbulon:",
+      "desc2": {
+        "item1": "Përpunimi i lejeve të punës dhe vizave",
+        "item2": "Sigurimi që dokumentacioni të përputhet me ligjet e imigracionit",
+        "item3": "Përgatitja e kontratave të punës",
+        "item4": "Koordinimi me autoritetet qeveritare"
+      }
+    },
+    "whenToconsider": {
+      "title": "Kur të zgjidhni një shërbim administrimi?",
+      "faq1": "Ju tashmë keni gjetur punonjësit vetë.",
+      "ans1": "Nëse e keni kryer vetë procesin e përzgjedhjes së punëtorëve të huaj dhe keni përzgjedhur stafin ideal për biznesin tuaj, ne mund t'ju ofrojmë mbështetje dhe ndihmë gjatë punësimit.",
+      "faq2": "Nuk keni kohë të mjaftueshme për t'u shqetësuar për administrimin.",
+      "ans2": "Ne ju çlirojmë nga detyrat dhe proceset administrative, duke ju lejuar të përqendroheni në aktivitetet tuaja kryesore të biznesit. Ne kujdesemi për të gjithë dokumentacionin e nevojshëm në mënyrë që ju të mund t'i përkushtoheni zhvillimit të biznesit tuaj. Ne do t'ju sigurojmë viza, leje qëndrimi dhe pune, do të përkthejmë dokumentacionin e huaj, do të përgatisim kontrata pune dhe të gjitha dokumentet e tjera të nevojshme.",
+      "faq3": "Ju nuk i kuptoni rregulloret ligjore.",
+      "ans3": "Ekipi ynë kontrollon kualifikimet dhe siguron përputhshmëri me rregulloret dhe ligjet lokale. Ekspertët me përvojë ofrojnë mbështetje në të gjithë procesin dhe sigurojnë që i gjithë procesi të ndjekë rregulloret ligjore."
+    },
+    "faq": {
+      "title": "Pyetjet e bëra më shpesh",
+      "queation1": "Si duket procesi i punësimit të punëtorëve të huaj?",
+      "ans1": {
+        "title1": "Për të punësuar punëtorë të huaj për pozita në të gjithë Evropën, duhet të ndiqen hapat thelbësorë të mëposhtëm:",
+        "item1": "Siguroni një leje pune për punonjësin e huaj përmes autoritetit përkatës të imigracionit ose të punësimit.",
+        "item2": "Paraqisni një aplikim për lejen e qëndrimit të punëtorit.",
+        "item3": "Regjistroni punonjësin e huaj te autoritetet përkatëse tatimore dhe të sigurimeve shoqërore.",
+        "item4": "Siguroni respektimin e të gjitha rregulloreve të zbatueshme të punës dhe imigracionit."
+      },
+      "queation2": "Çfarë dokumentesh kërkohen për punësimin e punëtorëve të huaj?",
+      "ans2": {
+        "title2": "Dokumentacioni i kërkuar përfshin:",
+        "item1": "Leja e punës e lëshuar nga autoriteti përkatës.",
+        "item2": "Kontratë pune ose marrëveshje formale.",
+        "item3": "Pasaporta e vlefshme ose identifikimi i punëtorit të huaj.",
+        "item4": "Mbulimi i sigurimit shëndetësor për punëtorin.",
+        "item5": "Dëshmi e pagesës së tarifave administrative të kërkuara."
+      },
+      "queation3": "Si mund t'u ndihmojnë shërbimet e asistencës administrative punëdhënësve të lundrojnë në procesin e punësimit të punëtorëve të huaj në BE?",
+      "ans3": "Shërbimet e asistencës administrative luajnë një rol kyç në thjeshtimin e procesit të punësimit të punëtorëve të huaj, duke ofruar mbështetje gjithëpërfshirëse në çdo fazë.",
+      "ans4": "Ne i udhëheqim punëdhënësit nëpër të gjithë procesin e aplikimit për leje pune dhe qëndrimi, ndihmojmë në përgatitjen dhe dorëzimin e dokumenteve të nevojshme tek autoritetet përkatëse dhe sigurojmë përputhshmëri të plotë me kërkesat ligjore. Shërbimet tona përfshijnë këshilla të vazhdueshme për çështjet e punës dhe imigracionit, duke thjeshtuar njëkohësisht detyrat administrative. Kjo qasje kursen kohë dhe burime për punëdhënësit, duke siguruar një proces të qetë dhe efikas të punësimit të punëtorëve të huaj në të gjithë Evropën."
+    }
+  },
+  "fullservicehr": {
+    "hero": {
+      "title": "Shërbim i Plotë i Burimeve Njerëzore (HR)",
+      "desc": "Për mbështetje gjithëpërfshirëse në menaxhimin e burimeve njerëzore, nga rekrutimi deri te integrimi i qetë i punonjësve.",
+      "btn": "Na kontaktoni"
+    },
+    "features": {
+      "title1": "Mbështetje Gjatë Gjithë Procesit HR",
+      "desc1": "Nga rekrutimi dhe administrimi deri te sigurimi i akomodimit dhe ofrimi i ndihmës së vazhdueshme.",
+      "title2": "Qasje te Ekspertëve HR",
+      "desc2": "Përfitoni nga ekspertiza e profesionistëve me përvojë të gjerë në burimet njerëzore.",
+      "title3": "Fokus në Objektivat e Biznesit",
+      "desc3": "Ridrejtoni vëmendjen tuaj drejt arritjes së qëllimeve strategjike, ndërsa ne menaxhojmë nevojat tuaja HR."
+    },
+    "mean": {
+      "title": "Çfarë Nënkupton Shërbimi i Plotë i Burimeve Njerëzore?",
+      "desc1": "Opsioni i Shërbimit të Plotë HR ofron një gamë të gjerë mbështetjesh që mbulon çdo aspekt të procesit HR, nga rekrutimi deri te integrimi i qetë i punonjësve brenda organizatës suaj.",
+      "desc2": "Ky shërbim gjithëpërfshirës përfshin rekrutim, procedura përzgjedhjeje, punë administrative, çështje sigurimesh, akomodim dhe mbështetje të vazhdueshme gjatë gjithë rrugës së punësimit. Duke punësuar staf shumë të specializuar me përvojë të konsiderueshme në ligjin e punës, ky shërbim siguron vëmendje të metikulshme ndaj detajeve dhe identifikimin e zgjidhjeve të përshtatura për të përmbushur nevojat specifike të një kompanie.",
+      "desc3": "Outsourcing-u i këtyre funksioneve thelbësore HR ofron disa përparësi. Së pari, siguron qasje në ekspertizën e profesionistëve me përvojë, duke garantuar menaxhim efikas dhe të koordinuar të burimeve njerëzore. Së dyti, outsourcing-u i lejon një kompanie të rialokojë burimet e saj të brendshme drejt qëllimeve themelore të biznesit, duke rritur produktivitetin dhe duke përparuar objektivat strategjike. Në fund të fundit, opsioni i Shërbimit të Plotë HR jo vetëm që garanton operacione të qeta HR, por gjithashtu i lejon bizneset të përqendrohen në arritjen e misionit të tyre primar me qartësi dhe efikasitet të shtuar."
+    },
+    "whenToconsider": {
+      "title": "Kur të Zgjidhni Opsionin e Shërbimit të Plotë HR?",
+      "faq1": "Mungesë e një Ekipi të Brendshëm HR",
+      "ans1": "Pa një departament të brendshëm HR, menaxhimi i të gjitha aspekteve të procesit HR, nga rekrutimi deri te integrimi i punonjësve, mund të bëhet i madh dhe kohë ngrënie. Duke i besuar ekspertëve, kompanitë mund të sigurojnë që çdo fazë e procesit HR të menaxhohet në mënyrë eksperte, duke i lejuar ato të përqendrohen në operacionet e tyre themelore pa barrën e detyrave HR.",
+      "faq2": "Burime të Kufizuara për Menaxhimin e Proceseve",
+      "ans2": "Pa marrë parasysh nëse janë kufizime financiare, kohore ose profesionale, outsourcing-u i Shërbimit të Plotë HR ofron një zgjidhje efektive. Ne ofrojmë infrastrukturën, ekspertizën dhe përvojën e nevojshme për të trajtuar në mënyrë efikase të gjitha aspektet HR, nga rekrutimi deri te detyrat administrative, duke siguruar një proces të qetë dhe të racionalizuar pa presion shtesë në burimet e brendshme.",
+      "faq3": "Nevojë për një Zgjidhje të Shpejtë dhe të Besueshme",
+      "ans3": "Kur një kompani ka nevojë për një zgjidhje të shpejtë dhe të besueshme HR, opsioni i Shërbimit të Plotë HR është zgjedhja më e mirë. Ne lundrojmë në mënyrë efikase nëpër kompleksitetin e HR, duke ofruar rezultate në kohë dhe efektive. Duke shfrytëzuar njohuritë dhe përvojën tonë të specializuara, kompanitë mund të sigurojnë që nevojat e tyre HR të plotësohen shpejt dhe me shqetësime minimale."
+    },
+    "faq": {
+      "title": "Pyetjet e Bëra Shpesh",
+      "queation1": "Cilat Funksione HR Mbulojmë?",
+      "ans1": "Zgjidhja jonë e Shërbimit të Plotë HR përfshin çdo aspekt të procesit HR, duke përfshirë rekrutimin, procedurat e përzgjedhjes, detyrat administrative, çështjet e sigurimeve, akomodimin dhe mbështetjen dhe udhëzimet e vazhdueshme gjatë gjithë ciklit të jetës së punësimit.",
+      "queation2": "Si Sigurojmë Pajtueshmërinë me Ligjet dhe Rregulloret e Punës?",
+      "ans2": "Ne punësojmë staf ekspert me përvojë të gjerë në ligjin e punës, duke siguruar vëmendje të kujdesshme ndaj detajeve dhe identifikimin e zgjidhjeve më të përshtatshme për nevojat unike të kompanisë suaj. Ne gjithashtu qëndrojmë të përditësuar me kërkesat më të fundit ligjore dhe praktikat më të mira për të siguruar pajtueshmëri të plotë.",
+      "queation3": "Çfarë Fleksibiliteti Oferojmë në Përshtatjen e Zgjidhjes për Nevojat Specifike të Kompanisë Suaj?",
+      "ans3": "Ne e kuptojmë që çdo kompani ka kërkesa të ndryshme HR. Prandaj, ne ofrojmë fleksibilitet në përshtatjen e zgjidhjes sonë të Shërbimit të Plotë HR për të përmbushur nevojat tuaja unike, qoftë duke përshtatur komponentët e shërbimit, plotësuar kërkesa specifike ose duke u përshtatur nevojave tuaja në evoluim të biznesit."
+    }
+  },
+
+  "about": {
+    "hireaforeigner": {
+      "title": "Punësoni një të huaj",
+      "desc": "Një partner i besueshëm dhe me përvojë në rekrutimin e punëtorëve të huaj. Ekipi ynë i ekspertëve është i përkushtuar të ju udhëheqë përmes procesit të imigrimit, duke siguruar një rezultat të qetë dhe të suksesshëm.",
+      "btn": "Na kontaktoni"
+    },
+    "whoWeare": {
+      "title1": "KUSH JEMI NE?",
+      "title2": "Agjencia Ndërkombëtare e Punësimit",
+      "desc1": "Ne i ndihmojmë klientët tanë ndërkombëtarë të gjejnë mundësi të përshtatshme punësimi, përfshirë ato brenda Evropës, duke i përputhur me kujdes me pozita që përputhen me kualifikimet e tyre. Për më tepër, sigurojmë që kompanitë me të cilat bashkëpunojmë jo vetëm që i respektojnë, por edhe i shpërblejnë në mënyrë të drejtë fuqinë e tyre punëtore.",
+      "desc2": "Për klientët tanë punëdhënës, ne me kujdes gjejmë dhe sigurojmë punëtorë të kualifikuar që plotësojnë kërkesat e tyre specifike, duke reduktuar shqetësimet në lidhje me qarkullimin e fuqisë punëtore. Kjo qasje garanton një fuqi punëtore të qëndrueshme për të plotësuar nevojat e projektit ose sezonale, si lokalisht ashtu edhe ndërkombëtarisht. Si rezultat, klientët tanë mund të presin dorëzim të përkohshëm të projektit pa ndërhyrje të panevojshme.",
+      "desc3": "Ne ofrojmë një zgjidhje gjithëpërfshirëse për rekrutimin dhe punësimin e talenteve me cilësi të lartë, me qëllim të nxitjes së një mjedisi pune produktiv dhe harmonik si për punëdhënësit ashtu edhe për punëtorët në mbarë botën."
+    },
+    "WhyChoose": {
+      "title1": "Pse të zgjidhni",
+      "title2": "ArkaHire?",
+      "desc1": "Vite Eksperience",
+      "desc2": "Punëtorë të Huaj Vendosur me Sukses",
+      "desc3": "Kënaqësia e Klientit"
+    },
+    "WhatDoWeOffer": {
+      "title1": "CFAR OFROJMË?",
+      "title2": "Keni nevojë për ndihmë me imigrimin? Ekipi ynë i ekspertëve është këtu për të ndihmuar",
+      "desc1": "Kontaktoni ekipin tonë sot për të mësuar më shumë rreth shërbimeve tona dhe për të bërë hapin e parë drejt punësimit të suksesshëm të punëtorëve të huaj.",
+      "title3": "Shërbime Punësimi",
+      "btn": "Eksploroni të gjitha shërbimet",
+      "title4": "Mbështetje në administrim",
+      "desc2": "Ne merremi me gjithë administratën e nevojshme për punësim, si përkthimi i dokumenteve, marrja e vizave dhe lejeve të punës, kontratat e punës.",
+      "title5": "Ndërmjetësim Punësimi",
+      "desc3": "Kurseni kohë dhe burime duke përdorur shërbimet tona profesionale për gjetjen e punëtorëve të kualifikuar jashtë Evropës.",
+      "title6": "Shërbime të Plota HR",
+      "desc4": "Mbështetje gjithëpërfshirëse në menaxhimin e burimeve njerëzore, duke filluar nga rekrutimi deri te integrimi i plotë i punonjësve.",
+      "title7": "Shërbime Caktimi Punëtorësh",
+      "desc5": "Ne ofrojmë vendosjen e punëtorëve për periudha specifike (si projekte ose punë sezonale) me mundësinë e kalimit në punësim të përhershëm."
+    },
+    "contactourteam": {
+      "title": "Kontaktoni ekipin tonë",
+      "desc1": "Mësoni më shumë rreth shërbimeve tona profesionale dhe",
+      "desc2": "zbuloni se si mund t'ju ndihmojmë.",
+      "btn": "Na kontaktoni"
+    }
+  },
+  "footer": {
+    "title": "Jemi në dispozicion tuaj.",
+    "desc": "Na kontaktoni për çdo pyetje që lidhet me punësimin e punëtorëve nga jashtë. Do t'ju ndihmojmë në çdo kohë."
+  }
+}

@@ -1,0 +1,550 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "howToHire": "Wie stellt man internationale Talente ein?",
+    "solutions": {
+      "label": "Lösungen",
+      "navigating": "Navigieren durch Einwanderungsgesetze",
+      "seasonal": "Beschäftigung von Saisonarbeitern",
+      "construction": "Beschäftigung von Bauarbeitern",
+      "medical": "Beschäftigung von medizinischen Fachkräften"
+    },
+    "services": {
+      "label": "Dienstleistungen",
+      "admin": "Beschäftigungsverwaltung",
+      "fullHR": "Vollständiger HR-Service",
+      "mediation": "Arbeitsvermittlung",
+      "assignment": "Zuweisung von Arbeitskräften"
+    },
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Vereinfachen Sie den Prozess der Einstellung einer globalen Belegschaft.",
+    "desc": "Ob kleines Unternehmen oder multinationaler Konzern – ArkaHire hilft Ihnen, qualifizierte Fachkräfte zu finden. Wir übernehmen alles, von der Rekrutierung bis zum Onboarding.",
+    "btn1": "Kontaktieren Sie uns",
+    "btn2": "Dienstleistungen ansehen"
+  },
+  "achievements": {
+    "year1": "7+",
+    "exp1": "Jahre Erfahrung",
+    "year2": "600+",
+    "exp2": "Vermittelte Mitarbeiter",
+    "year3": "100%",
+    "exp3": "Kundenzufriedenheit"
+  },
+  "whyChoose": {
+    "title": "Warum eine Personalagentur wählen?",
+    "desc": "Bei ArkaHire bieten wir innovative, schnelle und effiziente Lösungen zur Suche und Auswahl internationaler Talente.",
+    "question1": "Sie wissen nicht, wo Sie qualifizierte Arbeitskräfte finden?",
+    "ans1": "Unser Team analysiert Ihre Anforderungen und erstellt eine maßgeschneiderte Recruiting-Strategie.",
+    "question2": "Benötigen Sie Flexibilität bei der Einstellung?",
+    "ans2": "Wir bieten temporäre Beschäftigungslösungen und kümmern uns um alle Formalitäten.",
+    "question3": "Kein internes HR-Team?",
+    "ans3": "Unser Full-Service-HR deckt alles ab — von der Rekrutierung bis zur Integration.",
+    "question4": "Nicht vertraut mit gesetzlichen Vorschriften?",
+    "ans4": "Wir vereinfachen den Prozess und stellen die Einhaltung aller Gesetze sicher."
+  },
+
+  "typeofemployees": {
+    "title": "Welche Mitarbeiter können wir finden?",
+    "cardTitle1": "Lagerarbeiter",
+    "cardDesc1": "Proaktiv und lernbereit – unsere Kandidaten sind bereit, Führungspositionen zu übernehmen.",
+    "cardTitle2": "Elektriker",
+    "cardDesc2": "Fachkräfte mit verschiedenen Erfahrungsstufen. Videointerviews zur Bewertung sind möglich.",
+    "cardTitle3": "Mechaniker",
+    "cardDesc3": "Jung, fähig und bereit für neue Herausforderungen.",
+    "cardTitle4": "Bauarbeiter",
+    "cardDesc4": "Von Grundkenntnissen bis zu spezialisierten Gewerken – wir finden die richtige Besetzung für Ihre Projekte.",
+    "cardTitle5": "Fliesenleger",
+    "cardDesc5": "Gefragte Fachkräfte sind über unseren optimierten Einstellungsprozess verfügbar.",
+    "cardTitle6": "Individuelle Positionen",
+    "cardDesc6": "Benötigen Sie eine spezielle Rolle? Wir helfen Ihnen gerne weiter.",
+    "btn": "Kontaktieren Sie uns"
+  },
+  "HireAForeigner": {
+    "title": "Einen Ausländer einstellen",
+    "subtitle": "Der Prozess zur Einstellung qualifizierter Fachkräfte aus dem Ausland",
+    "desc1": "Verstehen Sie die wichtigsten Anforderungen, die Ihr Unternehmen erfüllen muss, um internationale Fachkräfte erfolgreich einzustellen.",
+    "desc2": "Unternehmen seit über 6 Monaten in Betrieb",
+    "desc3": "Mindestens ein Vollzeitmitarbeiter für mindestens 6 Monate",
+    "desc4": "Lokale Arbeitskräfte machen mindestens 25 % der Gesamtbelegschaft aus"
+  },
+  "wowtohire": {
+    "title": "Wie stellt man internationale Talente ein?",
+    "desc": "Wir führen Sie Schritt für Schritt durch den gesamten Prozess der Einstellung internationaler Fachkräfte:",
+    "no1": "01",
+    "cardTitle1": "Personalbeschaffung",
+    "cardDesc1": "Wir finden Kandidaten, die auf Ihre Bedürfnisse abgestimmt sind. Online-Interviews sind möglich.",
+    "no2": "02",
+    "cardTitle2": "Verträge",
+    "cardDesc2": "Wir erstellen und verwalten Arbeitsverträge.",
+    "no3": "03",
+    "cardTitle3": "Unterkunft",
+    "cardDesc3": "Wir unterstützen bei der Suche nach geeigneter Unterkunft.",
+    "no4": "04",
+    "cardTitle4": "Arbeitserlaubnisse",
+    "cardDesc4": "Wir kümmern uns um die Beantragung von Arbeitserlaubnissen.",
+    "no5": "05",
+    "cardTitle5": "Visa",
+    "cardDesc5": "Wir verwalten Visumanträge, die in der Regel 4–6 Wochen dauern.",
+    "no6": "06",
+    "cardTitle6": "Reiseplanung",
+    "cardDesc6": "Wir buchen Flüge und sorgen für eine sichere Ankunft der Mitarbeiter.",
+    "no7": "07",
+    "cardTitle7": "Dokumentation",
+    "cardDesc7": "Wir unterstützen bei Ausweisen, medizinischen Untersuchungen und Bankkonten.",
+    "no8": "08",
+    "cardTitle8": "Zufriedenheit",
+    "cardDesc8": "Unser Ziel ist es, sowohl Arbeitgeber als auch Arbeitnehmer zufrieden zu stellen."
+  },
+  "bookconsultation": {
+    "title": "Buchen Sie Ihre kostenlose Beratung.",
+    "desc1": "Zuverlässiger und erfahrener Partner bei der Einstellung ausländischer Arbeitnehmer. Unsere Experten sind bereit, mit Ihnen zusammenzuarbeiten, um den Stress aus jedem Einwanderungsprozess zu nehmen und Ihre Chancen auf einen erfolgreichen Abschluss zu erhöhen.",
+    "decs2": "Kontaktieren Sie unser Team noch heute, um mehr über unsere Dienstleistungen zu erfahren und den ersten Schritt zu einer erfolgreichen Einstellung zu tun.",
+    "btn": "Kontaktieren Sie uns"
+  },
+  "whychooseus": {
+    "title": "Warum uns wählen?",
+    "desc": "ArkaHire ist Ihr vertrauenswürdiger Partner für die Gewinnung internationaler Talente. Unsere Experten sind bereit, den Einwanderungsprozess zu vereinfachen und erfolgreiche Ergebnisse zu gewährleisten.",
+    "item1": "Kostenlose Beratungen",
+    "item2": "Hochqualifizierte Kandidaten",
+    "item3": "Schnelle Reaktionszeiten",
+    "item4": "Langfristige Partnerschaften",
+    "item5": "24/7 Verfügbarkeit",
+    "item6": "Geprüfte Fachkräfte",
+    "btn": "Kontaktieren Sie uns"
+  },
+
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "faq1": "Wer ist für die Unterbringung zuständig?",
+    "ans1": "Arbeitgeber sind verpflichtet, ihren Arbeitnehmern eine geeignete und komfortable Unterkunft anzubieten.",
+    "faq2": "Wie lange dauert es, bis die Arbeitnehmer eintreffen?",
+    "ans2": "Der Prozess dauert in der Regel mindestens drei Monate. Dieser Zeitrahmen beinhaltet eine zweiwöchige Frist für die Beantragung einer Arbeitserlaubnis, gefolgt von mindestens sechs Wochen für die Visumsbearbeitung.",
+    "faq3": "Was passiert, wenn wir mit einem Arbeitnehmer nicht zufrieden sind?",
+    "ans3": "Wenn ein Arbeitnehmer Ihre Erwartungen nicht erfüllt, haben Sie das Recht, seinen Vertrag gemäß den Standard-Arbeitsvorschriften zu kündigen. In solchen Fällen helfen wir dem Arbeitnehmer, eine alternative Beschäftigung zu finden. Wenn sich keine geeigneten Möglichkeiten ergeben, ermöglichen wir ihm die Rückkehr in sein Heimatland.",
+    "faq4": "Können wir Arbeitserlaubnisse für mehr als 1 Jahr beantragen?",
+    "ans4": "Arbeitserlaubnisse werden in der Regel für ein Jahr erteilt, während Saisonarbeiter Erlaubnisse für bis zu sechs Monate erhalten können. Aufgrund bürokratischer Verfahren dauert die Beantragung einer Arbeitserlaubnis und eines Visums in der Regel zwischen zwei und drei Monaten.",
+    "faq5": "Wie können Arbeitserlaubnisse verlängert werden?",
+    "ans5": "Verlängerungsanträge müssen mindestens einen Monat vor Ablauf der Erlaubnis eingereicht werden. Für den Prozess werden der Reisepass des Arbeitnehmers, der vorherige Personalausweis, aktuelle Fotos (für den neuen Ausweis), eine Erklärung des Unterkunftsanbieters und eine von der Firma ausgestellte Bestätigung benötigt, die die weitere Unterbringung am vorgesehenen Ort bestätigt.",
+    "faq6": "Gibt es Beschränkungen bei der Einstellung ausländischer Arbeitnehmer?",
+    "ans6": "Bestimmte Berufe in Europa gelten als Mangelberufe, was es Arbeitgebern ermöglicht, Arbeitserlaubnisse zu beantragen, ohne einen Arbeitsmarkttest durchlaufen zu müssen. Die offizielle Liste dieser Berufe ist bei den zuständigen Behörden erhältlich. Für Positionen, die nicht in der Mangelberufsliste enthalten sind, ist ein Arbeitsmarkttest erforderlich. Dieser Prozess dauert zwei Wochen und prüft die Verfügbarkeit lokaler Arbeitskräfte. Wenn ein Arbeitskräftemangel bestätigt wird, können Anträge für ausländische Arbeitnehmer entsprechend bearbeitet werden."
+  },
+  "contactus": {
+    "title": "Kontakt",
+    "subtitle": "Für alle Fragen, auf die Sie keine Antwort gefunden haben, können Sie sich gerne an uns wenden, und wir werden alles im Detail erklären.",
+    "time": "Öffnungszeiten: Mo - Fr 8:00 - 16:00 Uhr",
+    "sendText": "Kontaktieren Sie uns für fachkundige Unterstützung Haben Sie Fragen? Wir sind hier, um zu helfen!"
+  },
+
+  "navigating": {
+    "hero": {
+      "title": "Arbeitgeber: Navigieren im Einwanderungsrecht",
+      "desc": "Die Einhaltung von Einwanderungsgesetzen kann aufgrund des regulatorischen Rahmens für die Beschäftigung ausländischer Arbeitnehmer komplex sein. Hier hilft unser Fachwissen, den Prozess zu optimieren.",
+      "btn": "Kontaktieren Sie uns"
+    },
+    "challenges": {
+      "title": "Herausforderungen der Einwanderungskonformität",
+      "desc1": "Eine der größten Herausforderungen für Unternehmen bei der Einstellung ausländischer Fachkräfte ist die Navigation durch die komplexen Einwanderungsgesetze, die den lokalen Arbeitsmarkt schützen sollen, aber auch den wirtschaftlichen Arbeitskräftebedarf decken müssen.",
+      "desc2": "Die Gewährleistung der Konformität mit den Einwanderungsvorschriften kann komplex sein, da Unternehmen strenge gesetzliche Anforderungen für die Beschäftigung internationaler Arbeitnehmer einhalten müssen. Arbeitgeber sind verpflichtet, Steuer- und Sozialversicherungsvorschriften sowie spezifische Bedingungen einzuhalten, wie z. B. die Aufrechterhaltung einer Vollzeitbeschäftigung für lokale oder EU-Bürger über einen bestimmten Zeitraum. Der Prozess umfasst auch die Beantragung von Arbeits- und Aufenthaltserlaubnissen sowie die Einhaltung der Richtlinien für die Einstellung von Talenten aus Nicht-EU-Ländern.",
+      "desc3": "Hier wird fachkundige Anleitung unerlässlich. Unser Team ist auf die Optimierung des Einstellungsprozesses spezialisiert, unterstützt Unternehmen bei der Beantragung von Arbeitserlaubnissen, der Bearbeitung der erforderlichen Dokumente und gewährleistet die vollständige Einhaltung aller Arbeitsmarktvorschriften.",
+      "desc4": "Bei ArkaHire bieten wir professionelle Unterstützung, um den Einstellungsprozess zu vereinfachen. Unsere Experten helfen bei der Beantragung von Arbeitserlaubnissen, der Verwaltung der erforderlichen Dokumentation und der Gewährleistung der vollständigen Einhaltung der Arbeitsmarktvorschriften.",
+      "desc5": "Wenn Sie mit komplexen Beschäftigungsanforderungen konfrontiert sind, bietet unser Beschäftigungsverwaltungsdienst eine Komplettlösung."
+    },
+    "employment": {
+      "title": "Beschäftigungsverwaltung",
+      "desc": "Unser Beschäftigungsverwaltungsdienst übernimmt alle administrativen Verfahren im Zusammenhang mit der Einstellung internationaler Fachkräfte. Wir stellen die Einhaltung der Arbeits- und Einwanderungsgesetze sicher und optimieren den gesamten Prozess für Ihr Unternehmen.",
+      "btn": "Mehr erfahren"
+    },
+    "features": {
+      "title1": "Zugang zu qualifizierten Arbeitskräften",
+      "desc1": "Eine Datenbank mit sorgfältig geprüften und qualifizierten Kandidaten.",
+      "title2": "Flexible Personallösungen",
+      "desc2": "Maßgeschneiderte Einstellungsoptionen, die Ihren betrieblichen Anforderungen entsprechen.",
+      "title3": "Schneller & effizienter Einstellungsprozess",
+      "desc3": "Wir beschleunigen die Einstellungs- und Verwaltungsprozesse und machen die Rekrutierung nahtlos."
+    }
+  },
+  "seasonal": {
+    "hero": {
+      "title": "Beschäftigung von Saisonarbeitern",
+      "desc": "Bei ArkaHire sind wir auf die Vermittlung von Saisonarbeitern in verschiedenen Berufen spezialisiert, darunter Kellner, Barkeeper, Köche, Küchenhilfen, Zimmerpersonal, Reinigungskräfte und Rezeptionisten. Unser Know-how stellt sicher, dass Sie die richtigen Talente für Ihre Bedürfnisse finden.",
+      "btn": "Kontaktieren Sie uns"
+    },
+    "challenges": {
+      "title": "Herausforderungen bei der Suche nach Saisonarbeitern",
+      "desc1": "Das Problem, Saisonarbeiter in Kroatien zu finden, insbesondere in Branchen wie Tourismus, Gastgewerbe, Landwirtschaft und Bauwesen, ist vielschichtig und stellt Arbeitgeber oft vor eine große Herausforderung.",
+      "desc2": "Die Gastronomiebranche unterliegt saisonalen Schwankungen mehr denn je, verglichen mit jeder anderen Tätigkeitssphäre.",
+      "desc3": "Die meisten unserer Kunden können im ersten Quartal den Bedarf an externen oder ausländischen Arbeitskräften in der Hochsaison nicht genau vorhersagen.",
+      "desc4": "Die Tatsache, dass die meisten Resorts, Hotels und Restaurants ihre Einstellungsentscheidungen in letzter Minute treffen, führt zu einem plötzlichen Anstieg der Nachfrage nach Arbeitskräften. Dies wiederum führt dazu, dass der Markt nicht in der Lage ist, diese Nachfrage sofort zu decken. Vom Zeitpunkt der Vertragsunterzeichnung mit der Arbeitsagentur dauert es nämlich einen Monat oder sogar zwei, bis die ausländischen Arbeitnehmer am Arbeitsplatz eintreffen. Die Suche nach Arbeitnehmern, die Überprüfung von Qualifikationen, Vorstellungsgespräche, Papierkram und ähnliche Prozesse nehmen den größten Teil dieser Zeit in Anspruch.",
+      "desc5": "Daher bieten wir Ihnen eine Lösung an, die die Risiken langer Wartezeiten und Verzögerungen bei der Ankunft von Arbeitskräften beseitigt: Arbeitnehmerüberlassung."
+    },
+    "assignment": {
+      "title": "Arbeitnehmerüberlassung",
+      "desc": "Unser Dienst der Arbeitnehmerüberlassung erleichtert die schnelle Einstellung von Arbeitskräften für Saisonprojekte oder bestimmte Zeiträume. Durch den Einsatz verfügbarer Arbeitskräfte, die sich bereits in Europa befinden, beschleunigen wir den Einstellungsprozess erheblich. Wir kümmern uns um den Abschluss von Überlassungsverträgen und übernehmen die Verantwortung für die Gehaltszahlungen und administrative Aufgaben. Dieser Dienst ist als praktische Lösung für dringenden Personalbedarf konzipiert und gewährleistet gleichzeitig Flexibilität und Effizienz bei der Personalführung in verschiedenen Projekten und bei saisonalen Anforderungen.",
+      "btn": "Mehr erfahren"
+    },
+    "features": {
+      "title1": "Zugang zu qualifizierten Talenten",
+      "desc1": "Bei ArkaHire bieten wir eine Datenbank mit vorab geprüften Kandidaten, um die mit der Einstellung verbundenen Risiken zu minimieren. Unser Prozess gewährleistet den Zugang zu qualifizierten Arbeitskräften, die auf Ihre Bedürfnisse zugeschnitten sind.",
+      "title2": "Flexible Personallösungen",
+      "desc2": "Wir verstehen die Bedeutung eines flexiblen Personalmanagements, das es Ihnen ermöglicht, sich effizient an wechselnde Anforderungen anzupassen.",
+      "title3": "Effizienter Rekrutierungsprozess",
+      "desc3": "Unser optimierter Rekrutierungsprozess beschleunigt die Suche, Verwaltung und Einstellung von Arbeitskräften und stellt sicher, dass Sie Ihren Personalbedarf rechtzeitig decken."
+    }
+  },
+  "medical": {
+    "hero": {
+      "title": "Vermittlung von medizinischem Personal",
+      "desc": "Ärzte, Krankenschwestern, medizinisch-technische Assistenten, Apotheker und andere Fachkräfte im Gesundheitswesen – wir sind auf die Vermittlung aller Arten von medizinischem Personal spezialisiert.",
+      "btn": "Kontaktieren Sie uns"
+    },
+    "challenges": {
+      "title": "Herausforderungen bei der Suche nach medizinischem Personal",
+      "desc1": "Die Beschaffung qualifizierter medizinischer Fachkräfte, insbesondere in spezialisierten Gesundheitsberufen, ist eine große Herausforderung, der Gesundheitseinrichtungen weltweit gegenüberstehen.",
+      "desc2": "Ähnlich wie in anderen Ländern kämpft das kroatische Gesundheitssystem mit den Schwierigkeiten, qualifiziertes medizinisches Personal zu finden und zu binden. Die Nachfrage nach Gesundheitsfachkräften wie Ärzten, Krankenschwestern, Apothekern und Technikern steigt weiter an, bedingt durch Faktoren wie eine alternde Bevölkerung, medizinische Fortschritte und sich ändernde Gesundheitsbedürfnisse.",
+      "desc3": "Der Bedarf an medizinischen Fachkräften steigt kontinuierlich, angetrieben durch Faktoren wie Bevölkerungswachstum, eine alternde Gesellschaft und Fortschritte in der Medizintechnik.",
+      "desc4": "Das kroatische Gesundheitssystem umfasst sowohl öffentliche als auch private Einrichtungen, die jeweils ihren eigenen Personalbedarf haben. Obwohl die medizinische Arbeitnehmerschaft des Landes generell gut qualifiziert ist, kann es in bestimmten Fachgebieten oder Regionen zu Engpässen kommen, die Lücken in der Patientenversorgung verursachen und die Belastung des vorhandenen Personals erhöhen.",
+      "desc5": "Gesundheitseinrichtungen sehen sich auch oft mit der Herausforderung konfrontiert, ihren Personalbedarf genau vorherzusagen, was zu Engpässen in kritischen Zeiten führt. Diese Unvorhersehbarkeit kann die Versorgungsqualität beeinträchtigen und das derzeitige Personal überlasten."
+    },
+    "mediation": {
+      "title": "Personalvermittlung",
+      "desc": "Wir bieten Zugang zu einem großen Pool vorab geprüfter Kandidaten, einschließlich solcher mit spezialisierten Fähigkeiten und Erfahrungen. Durch die Nutzung unserer Netzwerke und Ressourcen können wir den Einstellungsprozess beschleunigen, die Zeit zur Besetzung offener Stellen verkürzen und Unterbrechungen in der Patientenversorgung minimieren. Wir stellen die Einhaltung aller Lizenz- und Regulierungsstandards sicher und helfen, das Risiko der Einstellung unqualifizierter oder unzuverlässiger Kandidaten zu verringern.",
+      "btn": "Mehr erfahren"
+    },
+    "features": {
+      "title1": "Zugang zu verantwortungsvollen Arbeitskräften",
+      "desc1": "Erhalten Sie Zugang zu einer gründlich geprüften und qualifizierten Belegschaft",
+      "title2": "Verhinderung von Projektverzögerungen",
+      "desc2": "Wir stellen sicher, dass Projekte termingerecht mit einer fähigen Belegschaft abgeschlossen werden.",
+      "title3": "Effizienter und optimierter Rekrutierungsprozess",
+      "desc3": "Wir beschleunigen den Prozess der Beschaffung, Verwaltung und Einstellung von Arbeitskräften."
+    }
+  },
+
+  "construction": {
+    "hero": {
+      "title": "Vermittlung von Bauarbeitern",
+      "desc": "Wir bieten Personallösungen für eine Vielzahl von baubezogenen Rollen, darunter Bewehrungsflechter, Zimmerleute, Maurer, Metallbauer, Dachdecker und Baumaschinenführer.",
+      "btn": "Kontaktieren Sie uns"
+    },
+    "challenges": {
+      "title": "Herausforderungen bei der Suche nach Bauarbeitern",
+      "desc1": "Die Bauindustrie steht derzeit vor erheblichen Herausforderungen bei der Beschaffung von qualifizierten Arbeitskräften. Dieser Mangel an Arbeitskräften beeinträchtigt die Produktivität, verursacht Verzögerungen in den Projektzeitplänen und erschwert die Bemühungen, die steigende Nachfrage nach qualifizierten Fachkräften in der Branche zu decken.",
+      "desc2": "In ganz Europa ist eine steigende Nachfrage nach Bauexperten zu verzeichnen, wie an den zahlreichen Stellenangeboten zu sehen ist. Viele Unternehmen haben Schwierigkeiten, erfahrene und fähige Arbeiter zu finden, was zu Verzögerungen bei der Projektfertigstellung führt.",
+      "desc3": "Als Personalvermittlungsagentur, die auf ausländische Arbeitskräfte spezialisiert ist, schließt ArkaHire die Lücke zwischen Angebot und Nachfrage, indem sie qualifizierte Arbeitskräfte aus Ländern der Dritten Welt mit Arbeitgebern zusammenbringt, die sie benötigen. Wir begleiten unsere Kunden auch durch die rechtlichen Prozesse im Zusammenhang mit der Einstellung ausländischer Arbeitnehmer und gewährleisten so eine reibungslose und konforme Rekrutierung."
+    },
+    "mediation": {
+      "title": "Arbeitsvermittlung",
+      "desc": "Durch unsere Arbeitsvermittlungsdienste helfen wir Unternehmen, auf einen großen Pool qualifizierter Arbeitskräfte zuzugreifen. Wir adressieren die Herausforderungen, die bei der Sicherung einer qualifizierten Belegschaft auftreten. Indem wir die Beschäftigung ausländischer Talente ermöglichen und umfassende Rekrutierungsdienstleistungen anbieten, spielen wir eine zentrale Rolle bei der Deckung des Arbeitskräftebedarfs in verschiedenen Branchen in Europa.",
+      "btn": "Mehr erfahren"
+    },
+    "features": {
+      "title1": "Zugang zu verantwortungsbewussten Arbeitern",
+      "desc1": "Erhalten Sie Zugang zu einer gründlich geprüften und qualifizierten Belegschaft.",
+      "title2": "Verhinderung von Projektverzögerungen",
+      "desc2": "Wir stellen sicher, dass Projekte pünktlich mit einer fähigen Belegschaft abgeschlossen werden.",
+      "title3": "Effizienter und optimierter Rekrutierungsprozess",
+      "desc3": "Wir beschleunigen den Prozess der Beschaffung, Verwaltung und Einstellung von Arbeitskräften."
+    }
+  },
+  "servicemain": {
+    "title1": "Erfahren Sie mehr über unsere Dienstleistungen",
+    "desc1": "Wir unterstützen Sie in jeder Phase des Einstellungsprozesses – von der Kandidatensuche über die administrative Abwicklung bis hin zur nahtlosen Integration.",
+    "btn1": "Kontaktieren Sie uns",
+    "title2": "Personalverwaltung",
+    "desc2": "Wir kümmern uns um alle administrativen Aufgaben im Zusammenhang mit der Einstellung internationaler Fachkräfte, einschließlich Dokumentenübersetzungen, Visum- und Arbeitsgenehmigungsbearbeitung sowie der Erstellung von Arbeitsverträgen.",
+    "btn2": "Erfahren Sie mehr",
+    "title3": "Full-Service HR",
+    "desc3": "Für eine umfassende Unterstützung im Personalmanagement, von der Rekrutierung bis zur nahtlosen Integration der Mitarbeiter.",
+    "title4": "Arbeitsvermittlung",
+    "desc4": "Sparen Sie wertvolle Zeit und Ressourcen, indem Sie unsere professionelle Expertise bei der Beschaffung qualifizierter Arbeitskräfte von außerhalb Europas nutzen.",
+    "title5": "Arbeitnehmerüberlassung",
+    "desc5": "ArkaHire bietet einen Service zur Einstellung von Arbeitnehmern für bestimmte Zeiträume, wie z.B. Projekte oder Saisonzeiten, mit der Option einer Festanstellung."
+  },
+  "assignmentworkers": {
+    "hero": {
+      "title": "Arbeitnehmerüberlassung",
+      "desc": "ArkaHire bietet einen Service zur Einstellung von Arbeitnehmern für bestimmte Zeiträume, wie Projekte oder Saisons, mit der Option für eine Festanstellung.",
+      "btn": "Kontaktieren Sie uns"
+    },
+    "features": {
+      "title1": "Flexibilität der Beschäftigung",
+      "desc1": "Wir bieten effektive Personallösungen für kurzfristige Projekte oder schwankenden Personalbedarf und gewährleisten so betriebliche Effizienz.",
+      "title2": "Bewertung vor der Einstellung",
+      "desc2": "Wir ermöglichen die Testung von Arbeitnehmern vor einer Festanstellung, um eine erfolgreiche Zusammenarbeit und Kompatibilität sicherzustellen.",
+      "title3": "Vereinfachte Administration",
+      "desc3": "Wir übernehmen alle administrativen Aufgaben im Zusammenhang mit der Beschäftigung und dem Personalwesen, damit Sie sich auf Ihr Kerngeschäft konzentrieren können."
+    },
+    "include": {
+      "title": "Was beinhaltet der Service der Arbeitnehmerüberlassung?",
+      "desc1": "Dieser Service bietet Flexibilität im Personalmanagement und reduziert gleichzeitig den administrativen Aufwand. Er gewährt Zugang zu spezialisierten Talenten aus dem Ausland ohne die Komplexität der Direkteinstellung.",
+      "desc2": "Wir vereinfachen die Zeitarbeit, indem wir formelle Arbeitsverträge erstellen und Arbeitnehmer nach vereinbarten Konditionen an Kundenunternehmen zuweisen.",
+      "desc3": "Unsere Dienstleistungen gehen über die Beschäftigung hinaus, indem wir administrative Aufgaben wie die Beantragung von Renten- und Krankenversicherung, Gehaltsabrechnung und die Abwicklung von Leistungen übernehmen.",
+      "desc4": "Die Arbeitnehmer werden unter vereinbarten Bedingungen in den Kundenunternehmen eingesetzt, während wir die offizielle Rolle des Arbeitgebers übernehmen.",
+      "desc5": "Durch die Wahl unserer Dienstleistungen profitieren Unternehmen von einem optimierten Prozess, der bürokratische Herausforderungen löst, rechtliche Compliance gewährleistet und die administrative Effizienz steigert. So können sich Unternehmen auf ihre Kernabläufe konzentrieren."
+    },
+    "whenToconsider": {
+      "title": "Wann ist Personaldienstleistung zu erwägen?",
+      "faq1": "Benötigen Sie Mitarbeiter für ein bestimmtes Projekt oder saisonal?",
+      "ans1": "Unser Service verschafft Ihnen Zugang zu einem globalen Talentpool. Wir bewerten Ihre Anforderungen und vermitteln Ihnen die besten Kandidaten, um diese zu erfüllen.",
+      "faq2": "Sie möchten die Komplexität einer Direktanstellung umgehen",
+      "ans2": "Wir übernehmen alle administrativen und buchhalterischen Aufgaben im Zusammenhang mit den Arbeitnehmern, sodass Sie sich ohne zusätzliche Belastung auf Ihr Kerngeschäft konzentrieren können.",
+      "faq3": "Sie möchten die Qualität Ihrer Belegschaft sicherstellen",
+      "ans3": "Wenn Sie die Fähigkeiten von Arbeitnehmern vor einer Festanstellung bewerten müssen, bietet unser Service eine ideale Lösung als Testphase. Darüber hinaus werden unsere Leiharbeitnehmer gründlich überprüft. Viele von ihnen bringen umfangreiche Erfahrungen aus früheren Zeitarbeitsverhältnissen mit und bereichern jede Geschäftsumgebung mit entwickelten Fähigkeiten und Wissen. Wir führen außerdem zusätzliche Überprüfungen aller neuen Arbeitnehmer durch, um deren Einsatzbereitschaft sicherzustellen."
+    },
+    "advantages": {
+      "title1": "Was sind die Vorteile der Einstellung über eine Zeitarbeitsfirma?",
+      "desc1": "Durch die Nutzung unserer Zeitarbeitsdienstleistungen bieten wir flexible Lösungen zur Besetzung von kurzfristigen oder langfristigen Abwesenheiten von Mitarbeitern, zur Optimierung des saisonalen Personalbedarfs und zur Erfüllung spezifischer Projektanforderungen. Darüber hinaus verwalten wir alle administrativen Aufgaben und gewährleisten einen reibungslosen und effizienten Ablauf.",
+      "title2": "Fachkundige Beratung",
+      "desc2": "Wir bieten professionelle Unterstützung und Beratung während des gesamten Einstellungsprozesses und sorgen so für fundierte Entscheidungen.",
+      "title3": "Zeit- und Ressourcenersparnis",
+      "desc3": "Wir kümmern uns um die Kandidatensuche, Vertragsverhandlungen und administrative Aufgaben, damit Sie sich auf die Kernbereiche Ihres Unternehmens konzentrieren können.",
+      "title4": "Zugang zu einem breiteren Markt",
+      "desc4": "Wir verschaffen Ihnen Zugang zu einem vielfältigen Pool von Kandidaten aus der ganzen Welt über unser etabliertes Netzwerk.",
+      "title5": "Risikominimierung",
+      "desc5": "Wir gewährleisten Sicherheit durch gründliche Überprüfung von Qualifikationen und Referenzen der Kandidaten, reduzieren das Risiko ungeeigneter Einstellungen und gewährleisten die Einhaltung von Vorschriften."
+    },
+    "faq": {
+      "title": "Häufig Gestellte Fragen",
+      "queation1": "Was sind die Vorteile der Einstellung über eine Zeitarbeitsfirma?",
+      "ans1": "Durch die Nutzung des Service der Arbeitnehmerüberlassung ermöglichen wir Ihnen, kurze oder lange Abwesenheiten Ihrer Mitarbeiter flexibel zu besetzen, saisonale Geschäftsanforderungen oder Anforderungen für bestimmte Projekte zu optimieren. Wir übernehmen auch administrative Aufgaben und erleichtern so den gesamten Prozess.",
+      "queation2": "Welche administrativen Aufgaben übernehmen wir für Sie?",
+      "ans2": {
+        "title1": "Wir entlasten Sie von der administrativen Belastung im Zusammenhang mit überlassenen Arbeitnehmern, die umfasst:",
+        "item1": "Erstellung und Abschluss von Arbeitsverträgen",
+        "item2": "Berechnung und Abwicklung von Löhnen und Beiträgen",
+        "item3": "An- und Abmeldung der Arbeitnehmer bei der Renten- und Krankenversicherung",
+        "item4": "Führen von monatlichen und jährlichen Aufzeichnungen (Urlaubstage, Krankheitsausfälle etc.)",
+        "item5": "Erstellung und Einreichung erforderlicher Berichte an die zuständigen Behörden"
+      },
+      "queation3": "Welche Pflichten haben Sie gegenüber den Arbeitnehmern?",
+      "ans3": "Der Entleiher (Nutzer) muss die Arbeitsgesetze einhalten, einschließlich der Gesundheits- und Sicherheitsvorschriften sowie des besonderen Schutzes für bestimmte Arbeitnehmergruppen. Dazu gehört die Bereitstellung von Schutzkleidung und -schuhen, wenn dies durch die Art der Arbeit erforderlich ist. Darüber hinaus ist der Entleiher für die Organisation und Zuweisung der Arbeit gemäß den festgelegten Prozessen sowie für die Führung von Anwesenheitsnachweisen der Arbeitnehmer am Arbeitsplatz verantwortlich."
+    }
+  },
+  "employmentmediation": {
+    "hero": {
+      "title": "Arbeitsvermittlung",
+      "desc": "Sparen Sie wertvolle Zeit und Ressourcen, indem Sie unsere professionelle Expertise bei der Beschaffung qualifizierter Arbeitskräfte von außerhalb Europas nutzen.",
+      "btn": "Kontaktieren Sie uns"
+    },
+    "features": {
+      "title1": "Zugang zu qualifizierten Arbeitskräften",
+      "desc1": "Wir suchen proaktiv und handverlesen potenzielle Kandidaten unter Nutzung unseres großen Netzwerks und unserer Datenbanken.",
+      "title2": "Optimierter Rekrutierungsprozess",
+      "desc2": "Wir stellen sicher, dass der Rekrutierungsprozess effizient und präzise durchgeführt wird.",
+      "title3": "Fachkundige Beratung und Unterstützung in jeder Phase",
+      "desc3": "Wir bieten fachkundige Einblicke, die fundierte Entscheidungen und erfolgreiche Ergebnisse gewährleisten."
+    },
+    "what": {
+      "title": "Was ist Arbeitsvermittlung?",
+      "desc1": "Wir dienen als Brücke zwischen Arbeitgebern und potenziellen Kandidaten, vereinfachen den Prozess durch die Definition von Stellenanforderungen, die Vorauswahl von Bewerbern und umfassende Unterstützung. Unser Ziel ist es, Spitzentalente mit Unternehmen zu verbinden.",
+      "desc2": "Die Personalbeschaffung ist eine wichtige Dienstleistung, die Arbeitgeber bei der Suche nach qualifizierten Kandidaten für ihre Organisationen unterstützt. Dieser Service umfasst die Beauftragung einer Personalvermittlungsagentur, die als Vermittler zwischen Unternehmen und potenziellen Arbeitnehmern agiert. Die Agentur konzentriert sich darauf, die Bedürfnisse des Arbeitgebers zu verstehen, die spezifischen Stellenanforderungen zu definieren und gezielt nach Kandidaten zu suchen und diese auszuwählen, die diesen Anforderungen entsprechen.",
+      "desc3": "Eine grundlegende Rolle der Agentur während des Einstellungsprozesses ist die Durchführung gründlicher Hintergrundüberprüfungen der Qualifikationen und Erfahrungen der Kandidaten, um deren Eignung für die Rolle sicherzustellen.",
+      "desc4": "Die Inanspruchnahme von Personalvermittlungsdienstleistungen bietet zahlreiche Vorteile, darunter Zugang zu einem großen Talentpool, Reduzierung des Zeit- und Ressourcenaufwands für die Personalbeschaffung und Gewährleistung hoher Professionalitätsstandards bei der Kandidatenauswahl."
+    },
+    "commonfaq": {
+      "title": "Finden Sie Antworten auf die am häufigsten gestellten Fragen",
+      "queation1": "Was sind unsere Aufgaben im Vermittlungsprozess?",
+      "ans1": {
+        "title1": "Die Pflichten der an der Vermittlung ausländischer Arbeitskräfte beteiligten Agenturen umfassen:",
+        "item1": "Beschaffung eines geeigneten Arbeitnehmers basierend auf den Kriterien des Kunden, Durchführung des Auswahlverfahrens und Bereitstellung der erforderlichen Dokumentation.",
+        "item2": "Vorbereitung und Einreichung aller erforderlichen Unterlagen zur Erlangung einer vorübergehenden Aufenthalts- und Arbeitserlaubnis für Drittstaatsangehörige.",
+        "item3": "Übernahme der Kosten für die Reiseversicherung der Arbeitnehmer.",
+        "item4": "Organisation des für Aufenthalt und Arbeit in Europa erforderlichen Visums.",
+        "item5": "Übernahme der Kosten für den Flug des Arbeitnehmers."
+      },
+      "queation2": "Welche Verpflichtungen haben Sie gegenüber einem ausländischen Arbeitnehmer?",
+      "ans2": "Sobald eine Arbeitserlaubnis für einen ausländischen Arbeitnehmer erteilt wurde, müssen bei dessen Ankunft Unterkunft und Verpflegung bereitgestellt werden. Die Unterkunft sollte grundlegenden Lebensstandards entsprechen. Wenn keine Verpflegung bereitgestellt werden kann, muss dem Arbeitnehmer eine Verpflegungspauschale gezahlt werden. Darüber hinaus sind Sie verpflichtet, den Arbeitnehmer für die Renten- und Krankenversicherung anzumelden, genau wie Sie es für jeden lokalen Arbeitnehmer tun würden.",
+      "queation3": "Welche Voraussetzungen müssen für den Erhalt einer Aufenthalts- und Arbeitserlaubnis erfüllt sein?",
+      "ans3": {
+        "title2": "Die Voraussetzungen für den Erhalt der erforderlichen Genehmigungen umfassen:",
+        "item1": "Ausübung einer wirtschaftlichen Tätigkeit, die in Europa registriert ist.",
+        "item2": "Beschäftigung mindestens eines Viertels kroatischer Staatsbürger im Vergleich zu Drittstaatsangehörigen in den letzten sechs Monaten mit einem unbefristeten Vollzeitvertrag.",
+        "item3": "Eine Bescheinigung der Steuerverwaltung, die bestätigt, dass keine ausstehenden Schulden im Zusammenhang mit öffentlichen Leistungen bestehen, die aus einem recenten Zeitraum vor Beantragung der Genehmigungen datiert.",
+        "item4": "Keine rechtlichen Verurteilungen im Zusammenhang mit Arbeitsbeziehungen oder sozialer Sicherheit."
+      }
+    },
+    "benefits": {
+      "title1": "Was sind die Vorteile einer Einstellung über eine Agentur?",
+      "item1": "Wir kümmern uns um die Vorbereitung und Einreichung aller erforderlichen legalen Dokumente im Namen der Arbeitgeber und ihrer ausgewählten Arbeitnehmer.",
+      "item2": "Durch unsere umfangreiche Erfahrung in diesem Bereich haben wir unsere Prozesse optimiert und bieten Arbeitgebern eine schnelle und effiziente Einstellungsmöglichkeit.",
+      "title2": "Fachkundige Beratung",
+      "desc2": "Wir bieten professionelle Unterstützung und Beratung während des gesamten Rekrutierungsprozesses und stellen sicher, dass Sie wohlüberlegte Entscheidungen treffen.",
+      "title3": "Zeit- und Ressourceneinsparung",
+      "desc3": "Wir kümmern uns um die Kandidatensuche, Verhandlungen und administrative Aufgaben, sodass Sie sich auf die Kernbereiche Ihres Unternehmens konzentrieren können.",
+      "title4": "Zugang zu einem breiteren Markt",
+      "desc4": "Durch unser etabliertes Netzwerk verschaffen wir Ihnen Zugang zu einem vielfältigen Pool von Kandidaten aus der ganzen Welt.",
+      "title5": "Risikominderung",
+      "desc5": "Wir gewährleisten Sicherheit durch gründliche Überprüfung der Qualifikationen und Referenzen der Kandidaten, verringern das Risiko ungeeigneter Einstellungen und die Nichteinhaltung von Vorschriften."
+    },
+    "process": {
+      "title1": "Schritt 1: Konsultationen",
+      "desc1": "Unser Team von Spezialisten führt eine eingehende Analyse Ihres Personalbedarfs durch und erarbeitet eine maßgeschneiderte Rekrutierungsstrategie.",
+      "title2": "Schritt 2: Talente finden",
+      "desc2": "Mit unserem umfangreichen Netzwerk und unseren Ressourcen identifizieren wir qualifizierte Kandidaten aus der ganzen Welt, die Ihren Geschäftsanforderungen entsprechen.",
+      "title3": "Schritt 3: Auswahlverfahren",
+      "desc3": "Wir bewerten gewissenhaft die Qualifikationen, Erfahrungen und Referenzen der Kandidaten, um sicherzustellen, dass wir die besten Personen für Ihr Team auswählen.",
+      "title4": "Schritt 4: Bringen von Arbeitskräften nach Europa",
+      "desc4": "Wir kümmern uns um die gesamte notwendige Dokumentation und organisieren die Verlegung der Arbeitskräfte nach Europa.",
+      "title5": "Wie sieht der Prozess aus?",
+      "desc5": "Überlassen Sie uns alle Personalangelegenheiten und sichern Sie sich ein optimales Management Ihrer Mitarbeiter mit unseren All-Inclusive-HR-Dienstleistungen!"
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "queation1": "Was sind unsere Aufgaben im Vermittlungsprozess?",
+      "ans1": "Die Pflichten der an der Vermittlung ausländischer Arbeitskräfte beteiligten Agenturen umfassen: – Identifizierung eines geeigneten Arbeitnehmers basierend auf den Kriterien des Kients, Durchführung des Auswahlverfahrens und Bereitstellung der erforderlichen Dokumentation. – Vorbereitung und Einreichung aller erforderlichen Unterlagen zur Erlangung einer vorübergehenden Aufenthalts- und Arbeitserlaubnis für Drittstaatsangehörige. – Übernahme der Kosten für die Reiseversicherung der Arbeitnehmer. – Organisation des für Aufenthalt und Arbeit in Europa erforderlichen Visums. – Übernahme der Kosten für den Flug des Arbeitnehmers.",
+      "queation2": "Welche Verpflichtungen haben Sie gegenüber einem ausländischen Arbeitnehmer?",
+      "ans2": "Sobald eine Arbeitserlaubnis für einen ausländischen Arbeitnehmer erteilt wurde, müssen bei dessen Ankunft Unterkunft und Verpflegung bereitgestellt werden. Die Unterkunft sollte grundlegenden Lebensstandards entsprechen. Wenn keine Verpflegung bereitgestellt werden kann, muss dem Arbeitnehmer eine Verpflegungspauschale gezahlt werden. Darüber hinaus sind Sie verpflichtet, den Arbeitnehmer für die Renten- und Krankenversicherung anzumelden, genau wie Sie es für jeden lokalen Arbeitnehmer tun würden.",
+      "queation3": "Welche Bedingungen müssen für den Erhalt einer Aufenthalts- und Arbeitserlaubnis erfüllt sein?",
+      "ans3": "Um die erforderlichen Genehmigungen zu erhalten, müssen folgende Bedingungen erfüllt sein: – Ihr Unternehmen muss in Europa registriert sein. – Sie müssen seit sechs Monaten mindestens ein Viertel lokaler Staatsbürger im Vergleich zu Drittstaatsangehörigen in einem unbefristeten Vollzeitvertrag beschäftigen. – Eine Bescheinigung der Steuerverwaltung, die bestätigt, dass keine ausstehenden Schulden im Zusammenhang mit öffentlichen Leistungen bestehen, die aus einem recenten Zeitraum vor Beantragung der Genehmigungen datiert. – Es dürfen keine rechtlichen Verurteilungen im Zusammenhang mit Arbeitsbeziehungen oder sozialer Sicherheit vorliegen.",
+      "queation4": "Kann der Arbeitnehmer sofort beginnen?",
+      "ans4": "Leider nein. Da es sich bei diesen Arbeitnehmern um Drittstaatsangehörige handelt, müssen sie zunächst eine Arbeitserlaubnis und ein Visum erhalten, bevor sie nach Europa einreisen können. Der gesamte Prozess kann je nach Geschwindigkeit der beteiligten Behörden zwischen 45 und 90 Tagen dauern. Die Vorbereitung der Dokumente und Verhandlungen dauert in der Regel 4 bis 10 Tage, abhängig von der Bereitschaft des Arbeitgebers. Die Rekrutierung und Kandidatenauswahl kann zwischen 1 und 30 Tagen dauern (bis zu 7 Tage für ungelernte Arbeitskräfte, bis zu 30 Tage für Fachkräfte) oder länger, wenn bestimmte Berufe erforderlich sind (bis zu 60 Tage). Der Arbeitsmarkttest dauert in der Regel 15 Tage. Die Beantragung einer Arbeitserlaubnis dauert in der Regel zwischen 15 und 30 Tagen. Die Visumbeantragung dauert weitere 15 bis 30 Tage. Die Organisation der Reise und die Ankunft des Arbeitnehmers in Europa dauert in der Regel 1 bis 10 Tage."
+    }
+  },
+  "administration": {
+    "hero": {
+      "title": "Umfassende Dienstleistungen zur Beschäftigungsverwaltung",
+      "desc": "Wir kümmern uns um alle administrativen Aufgaben im Zusammenhang mit der Einstellung internationaler Fachkräfte, einschließlich Dokumentenübersetzungen, Visum- und Arbeitsgenehmigungsbearbeitung sowie der Erstellung von Arbeitsverträgen.",
+      "btn": "Kontaktieren Sie uns"
+    },
+    "features": {
+      "title1": "Zeit & Kosten sparen",
+      "desc1": "Entlasten Sie sich von komplexen Verwaltungsverfahren und konzentrieren Sie sich auf Ihr Kerngeschäft.",
+      "title2": "Unterstützung durch Experten",
+      "desc2": "Unser Team gewährleistet einen reibungslosen Prozess unter Einhaltung der neuesten gesetzlichen Anforderungen.",
+      "title3": "Maßgeschneiderte Lösungen",
+      "desc3": "Wir passen unsere Dienstleistungen an Ihre spezifischen Einstellungsbedürfnisse an."
+    },
+    "include": {
+      "title": "Was beinhaltet der Service zur Beschäftigungsverwaltung?",
+      "desc1": "Wir unterstützen Unternehmen bei der Bewältigung der Komplexität der Einstellung ausländischer Arbeitnehmer, gewährleisten die Einhaltung von Einwanderungs- und Arbeitsgesetzen und vereinfachen den administrativen Prozess.",
+      "title1": "Unser Service zur Beschäftigungsverwaltung umfasst die Abwicklung aller administrativen Aufgaben im Zusammenhang mit der Beschäftigung ausländischer Arbeitnehmer für Unternehmen in der EU. Der Service umfasst in der Regel:",
+      "desc2": {
+        "item1": "Bearbeitung von Arbeitsgenehmigungen und Visa",
+        "item2": "Sicherstellung der Konformität der Dokumente mit den Einwanderungsgesetzen",
+        "item3": "Erstellung von Arbeitsverträgen",
+        "item4": "Abstimmung mit den Behörden"
+      }
+    },
+    "whenToconsider": {
+      "title": "Wann sollte man einen Verwaltungsservice wählen?",
+      "faq1": "Sie haben bereits selbst Mitarbeiter gefunden.",
+      "ans1": "Wenn Sie den Auswahlprozess für ausländische Arbeitnehmer bereits selbst durchgeführt und das ideale Personal für Ihr Unternehmen ausgewählt haben, können wir Sie während der Einstellung unterstützen und assistieren.",
+      "faq2": "Sie haben nicht genug Zeit, sich um die Administration zu kümmern.",
+      "ans2": "Wir entlasten Sie von administrativen Aufgaben und Prozessen, sodass Sie sich auf Ihre Kernaktivitäten konzentrieren können. Wir kümmern uns um die gesamte notwendige Dokumentation, damit Sie sich der Entwicklung Ihres Geschäfts widmen können. Wir besorgen für Sie Visa, Aufenthalts- und Arbeitsgenehmigungen, übersetzen ausländische Dokumente, erstellen Arbeitsverträge und alle anderen erforderlichen Unterlagen.",
+      "faq3": "Sie verstehen die rechtlichen Vorschriften nicht.",
+      "ans3": "Unser Team prüft Qualifikationen und stellt die Einhaltung lokaler Vorschriften und Gesetze sicher. Erfahrene Experten bieten Unterstützung im gesamten Prozess und gewährleisten, dass dieser den rechtlichen Vorschriften entspricht."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "queation1": "Wie läuft der Prozess zur Einstellung ausländischer Arbeitnehmer ab?",
+      "ans1": {
+        "title1": "Um ausländische Arbeitnehmer für Positionen in ganz Europa einzustellen, müssen die folgenden wesentlichen Schritte befolgt werden:",
+        "item1": "Beschaffung einer Arbeitsgenehmigung für den ausländischen Arbeitnehmer durch die zuständige Einwanderungs- oder Arbeitsbehörde.",
+        "item2": "Beantragung einer Aufenthaltsgenehmigung für den Arbeitnehmer.",
+        "item3": "Registrierung des ausländischen Arbeitnehmers bei den zuständigen Steuer- und Sozialversicherungsbehörden.",
+        "item4": "Sicherstellung der Einhaltung aller anwendbaren Arbeits- und Einwanderungsvorschriften."
+      },
+      "queation2": "Welche Dokumente werden für die Beschäftigung ausländischer Arbeitnehmer benötigt?",
+      "ans2": {
+        "title2": "Die erforderliche Dokumentation umfasst:",
+        "item1": "Von der zuständigen Behörde ausgestellte Arbeitsgenehmigung.",
+        "item2": "Arbeitsvertrag oder formelle Vereinbarung.",
+        "item3": "Gültiger Pass oder Ausweis des ausländischen Arbeitnehmers.",
+        "item4": "Krankenversicherungsschutz für den Arbeitnehmer.",
+        "item5": "Nachweis der Zahlung der erforderlichen Verwaltungsgebühren."
+      },
+      "queation3": "Wie können Verwaltungsunterstützungsdienste Arbeitgebern helfen, den Prozess der Einstellung ausländischer Arbeitnehmer in der EU zu bewältigen?",
+      "ans3": "Verwaltungsunterstützungsdienste spielen eine entscheidende Rolle bei der Vereinfachung des Einstellungsprozesses für ausländische Arbeitnehmer, indem sie umfassende Unterstützung in jeder Phase bieten.",
+      "ans4": "Wir begleiten Arbeitgeber durch den gesamten Antragsprozess für Arbeits- und Aufenthaltsgenehmigungen, unterstützen bei der Vorbereitung und Einreichung der erforderlichen Dokumente bei den zuständigen Behörden und gewährleisten die vollständige Einhaltung der rechtlichen Anforderungen. Unsere Dienstleistungen umfassen kontinuierliche Beratung in Arbeits- und Einwanderungsfragen und gleichzeitig die Straffung administrativer Aufgaben. Dieser Ansatz spart Arbeitgebern Zeit und Ressourcen und gewährleistet einen reibungslosen und effizienten Einstellungsprozess für ausländische Arbeitnehmer in ganz Europa."
+    }
+  },
+  "fullservicehr": {
+    "hero": {
+      "title": "Full-Service HR",
+      "desc": "Für umfassende Unterstützung im Personalmanagement, von der Rekrutierung bis zur nahtlosen Integration von Mitarbeitern.",
+      "btn": "Kontaktieren Sie uns"
+    },
+    "features": {
+      "title1": "Unterstützung im gesamten HR-Prozess",
+      "desc1": "Von der Rekrutierung und Administration bis zur Beschaffung von Unterkünften und laufender Unterstützung.",
+      "title2": "Zugang zu HR-Experten",
+      "desc2": "Profitieren Sie von der Expertise von Fachleuten mit umfangreicher Erfahrung im Personalwesen.",
+      "title3": "Fokus auf Geschäftsziele",
+      "desc3": "Lenken Sie Ihre Aufmerksamkeit auf die Erreichung strategischer Ziele, während wir uns um Ihre HR-Bedürfnisse kümmern."
+    },
+    "mean": {
+      "title": "Was bedeutet Full-Service HR?",
+      "desc1": "Die Full-Service HR-Option bietet eine breite Palette an Unterstützung, die jeden Aspekt des HR-Prozesses abdeckt, von der Rekrutierung bis zur reibungslosen Integration von Mitarbeitern in Ihr Unternehmen.",
+      "desc2": "Dieser umfassende Service umfasst Rekrutierung, Auswahlverfahren, administrative Arbeiten, Versicherungsfragen, Unterbringung und kontinuierliche Unterstützung während des gesamten Beschäftigungsverhältnisses. Durch den Einsatz hochspezialisierter Mitarbeiter mit beträchtlicher Erfahrung im Arbeitsrecht gewährleistet dieser Service sorgfältige Aufmerksamkeit für Details und die Identifizierung von Lösungen, die auf die spezifischen Bedürfnisse eines Unternehmens zugeschnitten sind.",
+      "desc3": "Das Auslagern dieser wesentlichen HR-Funktionen bietet mehrere Vorteile. Erstens bietet es Zugang zur Expertise erfahrener Fachleute und gewährleistet so ein effizientes und koordiniertes Personalmanagement. Zweitens ermöglicht das Outsourcing einem Unternehmen, seine internen Ressourcen auf die Erreichung der Kerngeschäftsziele umzulenken, was die Produktivität steigert und strategische Ziele vorantreibt. Letztendlich garantiert die Full-Service HR-Option nicht nur reibungslose HR-Abläufe, sondern ermöglicht es Unternehmen auch, sich mit größerer Klarheit und Effizienz auf die Erfüllung ihrer Hauptaufgabe zu konzentrieren."
+    },
+    "whenToconsider": {
+      "title": "Wann ist die Full-Service HR-Option die richtige Wahl?",
+      "faq1": "Fehlen eines internen HR-Teams",
+      "ans1": "Ohne eine interne Personalabteilung kann die Bewältigung aller Aspekte des HR-Prozesses, von der Rekrutierung bis zur Einarbeitung von Mitarbeitern, überwältigend und zeitaufwändig werden. Durch die Auslagerung an Experten können Unternehmen sicherstellen, dass jede Phase des HR-Prozesses fachmännisch verwaltet wird, sodass sie sich auf ihr Kerngeschäft konzentrieren können, ohne die Belastung durch HR-Aufgaben.",
+      "faq2": "Begrenzte Ressourcen für das Prozessmanagement",
+      "ans2": "Egal, ob es sich um finanzielle, zeitliche oder fachliche Einschränkungen handelt, das Outsourcing von Full-Service HR bietet eine effektive Lösung. Wir bieten die Infrastruktur, das Know-how und die Erfahrung, die erforderlich sind, um alle HR-Aspekte effizient zu handhaben, von der Rekrutierung bis zu administrativen Aufgaben, und gewährleisten so einen reibungslosen und optimierten Prozess, ohne internen Ressourcen zusätzlichen Druck auszusetzen.",
+      "faq3": "Bedarf an einer schnellen und zuverlässigen Lösung",
+      "ans3": "Wenn ein Unternehmen eine schnelle und zuverlässige HR-Lösung benötigt, ist die Full-Service HR-Option die beste Wahl. Wir navigieren effizient durch die Komplexitäten des Personalwesens und liefern zeitnahe und effektive Ergebnisse. Durch die Nutzung unseres spezialisierten Wissens und unserer Erfahrung können Unternehmen sicherstellen, dass ihre HR-Bedürfnisse schnell und mit minimalem Aufwand erfüllt werden."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "queation1": "Welche HR-Funktionen decken wir ab?",
+      "ans1": "Unsere Full-Service HR-Lösung umfasst jeden Aspekt des HR-Prozesses, einschließlich Rekrutierung, Auswahlverfahren, administrative Aufgaben, Versicherungsangelegenheiten, Unterbringung sowie kontinuierliche Unterstützung und Beratung während des gesamten Beschäftigungszyklus.",
+      "queation2": "Wie stellen wir die Einhaltung der relevanten Arbeitsgesetze und -vorschriften sicher?",
+      "ans2": "Wir beschäftigen erfahrene Mitarbeiter mit umfangreicher Erfahrung im Arbeitsrecht, die für eine sorgfältige Beachtung von Details und die Identifizierung der geeignetsten Lösungen für die individuellen Bedürfnisse Ihres Unternehmens sorgen. Außerdem halten wir uns über die neuesten gesetzlichen Anforderungen und Best Practices auf dem Laufenden, um vollständige Compliance zu gewährleisten.",
+      "queation3": "Welche Flexibilität bieten wir bei der Anpassung der Lösung an die spezifischen Bedürfnisse Ihres Unternehmens?",
+      "ans3": "Wir verstehen, dass jedes Unternehmen unterschiedliche HR-Anforderungen hat. Daher bieten wir Flexibilität bei der Anpassung unserer Full-Service HR-Lösung an Ihre individuellen Bedürfnisse, sei es durch Anpassung von Servicekomponenten, Erfüllung spezifischer Anforderungen oder Anpassung an sich entwickelnde Geschäftsanforderungen."
+    }
+  },
+
+  "about": {
+    "hireaforeigner": {
+      "title": "Einen Ausländer einstellen",
+      "desc": "Ein zuverlässiger und erfahrener Partner bei der Rekrutierung ausländischer Arbeitnehmer. Unser Expertenteam ist bestrebt, Sie durch das Einwanderungsverfahren zu führen und einen reibungslosen und erfolgreichen Abschluss zu gewährleisten.",
+      "btn": "Kontaktieren Sie uns"
+    },
+    "whoWeare": {
+      "title1": "WER SIND WIR?",
+      "title2": "Internationale Arbeitsvermittlung",
+      "desc1": "Wir unterstützen unsere internationalen Kunden bei der Suche nach geeigneten Beschäftigungsmöglichkeiten, auch innerhalb Europas, indem wir sie sorgfältig auf Positionen abstimmen, die ihren Qualifikationen entsprechen. Darüber hinaus stellen wir sicher, dass die von uns partnerschaftlich verbundenen Unternehmen ihre Arbeitskräfte nicht nur respektieren, sondern auch fair entlohnen.",
+      "desc2": "Für unsere Arbeitgeberkunden suchen und gewinnen wir sorgfältig qualifizierte Arbeitskräfte, die ihren spezifischen Anforderungen entsprechen, und reduzieren so die Bedenken hinsichtlich der Personalfluktuation. Dieser Ansatz garantiert eine stabile Belegschaft zur Deckung des Projekt- oder Saisonbedarfs, sowohl lokal als auch international. Infolgedessen können unsere Kunden eine termingerechte Projektdurchführung ohne unnötige Störungen erwarten.",
+      "desc3": "Wir bieten eine umfassende Lösung für die Rekrutierung und Einstellung hochqualifizierter Talente mit dem Ziel, eine produktive und harmonische Arbeitsumgebung für Arbeitgeber und Arbeitnehmer weltweit zu schaffen."
+    },
+    "WhyChoose": {
+      "title1": "Warum",
+      "title2": "ArkaHire wählen?",
+      "desc1": "Jahrelange Expertise",
+      "desc2": "Erfolgreich vermittelte ausländische Arbeitnehmer",
+      "desc3": "Kundenzufriedenheit"
+    },
+    "WhatDoWeOffer": {
+      "title1": "WAS BIETEN WIR AN?",
+      "title2": "Benötigen Sie Hilfe in Einwanderungsfragen? Unser Expertenteam ist hier, um zu helfen",
+      "desc1": "Kontaktieren Sie noch heute unser Team, um mehr über unsere Dienstleistungen zu erfahren und den ersten Schritt zur erfolgreichen Einstellung ausländischer Arbeitnehmer zu tun.",
+      "title3": "Beschäftigungsdienstleistungen",
+      "btn": "Alle Dienstleistungen erkunden",
+      "title4": "Unterstützung in der Verwaltung",
+      "desc2": "Wir erledigen alle notwendigen Verwaltungsarbeiten für die Beschäftigung, wie die Übersetzung von Dokumenten, die Beschaffung von Visa und Arbeitserlaubnissen sowie Arbeitsverträge.",
+      "title5": "Arbeitsvermittlung",
+      "desc3": "Sparen Sie Zeit und Ressourcen, indem Sie unsere professionellen Dienstleistungen bei der Suche nach qualifizierten Arbeitskräften von außerhalb Europas nutzen.",
+      "title6": "Full-Service HR",
+      "desc4": "Umfassende Unterstützung im Personalmanagement, von der Rekrutierung bis zur vollständigen Integration der Mitarbeiter.",
+      "title7": "Dienstleistungen zur Arbeitnehmerüberlassung",
+      "desc5": "Wir bieten die Überlassung von Arbeitnehmern für bestimmte Zeiträume (z. B. für Projekte oder Saisonarbeit) mit der Option des Übergangs zu einer Festanstellung."
+    },
+    "contactourteam": {
+      "title": "Kontaktieren Sie unser Team",
+      "desc1": "Erfahren Sie mehr über unsere professionellen Dienstleistungen und",
+      "desc2": "finden Sie heraus, wie wir Ihnen helfen können.",
+      "btn": "Kontaktieren Sie uns"
+    }
+  },
+  "footer": {
+    "title": "Wir stehen Ihnen zur Verfügung.",
+    "desc": "Kontaktieren Sie uns bei Fragen zur Einstellung von Arbeitskräften aus dem Ausland. Wir helfen Ihnen jederzeit gerne weiter."
+  }
+}

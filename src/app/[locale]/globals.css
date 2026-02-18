@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Optional: Add this to your global CSS file */
+.group:hover .dropdown {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.dropdown {
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition:
+    opacity 0.3s ease,
+    visibility 0.3s ease,
+    transform 0.3s ease;
+}
+
+.bg-gradient-310deg {
+  background: rgb(245, 245, 245);
+  background: linear-gradient(310deg, rgba(245, 245, 245, 1) 50%, #1bb0db 50%);
+}

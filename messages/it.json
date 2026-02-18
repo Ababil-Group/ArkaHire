@@ -1,0 +1,548 @@
+{
+  "nav": {
+    "home": "Home",
+    "howToHire": "How to hire international talent?",
+    "solutions": {
+      "label": "Solutions",
+      "navigating": "Navigating immigration laws",
+      "seasonal": "Employment of seasonal workers",
+      "construction": "Employment of construction workers",
+      "medical": "Employment of Medical Workers"
+    },
+    "services": {
+      "label": "Services",
+      "admin": "Employment administration",
+      "fullHR": "Full-Service HR",
+      "mediation": "Employment Mediation",
+      "assignment": "Assignment of Workers"
+    },
+    "about": "About us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Semplifica il processo di assunzione di una forza lavoro globale.",
+    "desc": "Che tu sia una piccola impresa o una multinazionale, ArkaHire ti aiuta a trovare personale qualificato. Dal recruiting all’onboarding — pensiamo a tutto noi.",
+    "btn1": "Contattaci",
+    "btn2": "Esplora i servizi"
+  },
+  "achievements": {
+    "year1": "7+",
+    "exp1": "Anni di esperienza",
+    "year2": "600+",
+    "exp2": "Dipendenti collocati",
+    "year3": "100%",
+    "exp3": "Soddisfazione dei clienti"
+  },
+  "whyChoose": {
+    "title": "Perché scegliere un’agenzia di reclutamento?",
+    "desc": "ArkaHire offre soluzioni innovative, rapide ed efficienti per trovare e assumere talenti internazionali.",
+    "question1": "Non sai dove trovare lavoratori qualificati?",
+    "ans1": "Il nostro team analizza le tue esigenze e crea una strategia personalizzata.",
+    "question2": "Hai bisogno di flessibilità nelle assunzioni?",
+    "ans2": "Offriamo soluzioni temporanee per lavoratori internazionali e gestiamo tutte le formalità.",
+    "question3": "Non hai un team HR interno?",
+    "ans3": "Il nostro servizio HR completo copre tutto — dal reclutamento all’integrazione.",
+    "question4": "Non conosci le normative legali?",
+    "ans4": "Semplifichiamo il processo e garantiamo il rispetto di tutte le leggi."
+  },
+  "typeofemployees": {
+    "title": "Che tipo di lavoratori possiamo trovare?",
+    "cardTitle1": "Magazzinieri",
+    "cardDesc1": "Proattivi e desiderosi di imparare — i nostri candidati sono pronti anche per ruoli di leadership.",
+    "cardTitle2": "Elettricisti",
+    "cardDesc2": "Professionisti qualificati con diversi livelli di esperienza. Possiamo organizzare colloqui video per la valutazione.",
+    "cardTitle3": "Meccanici",
+    "cardDesc3": "Giovani, capaci e pronti ad affrontare nuove sfide.",
+    "cardTitle4": "Operai edili",
+    "cardDesc4": "Dalle competenze di base alle mansioni specializzate — troviamo il personale giusto per i tuoi progetti.",
+    "cardTitle5": "Piastrellisti",
+    "cardDesc5": "Professionisti molto richiesti disponibili attraverso il nostro snellito processo di assunzione.",
+    "cardTitle6": "Posizioni personalizzate",
+    "cardDesc6": "Hai bisogno di un ruolo specifico? Possiamo aiutarti. Contattaci.",
+    "btn": "Contattaci"
+  },
+  "HireAForeigner": {
+    "title": "Assumere uno straniero",
+    "subtitle": "Il processo di assunzione di lavoratori qualificati dall'estero",
+    "desc1": "Comprendi i requisiti chiave che la tua azienda deve soddisfare per assumere professionisti internazionali.",
+    "desc2": "Attività operativa da oltre 6 mesi",
+    "desc3": "Almeno un dipendente a tempo pieno per un minimo di 6 mesi",
+    "desc4": "Forza lavoro locale pari ad almeno il 25% dei dipendenti totali"
+  },
+  "wowtohire": {
+    "title": "Come assumere talenti internazionali?",
+    "desc": "Ti guidiamo passo dopo passo nel processo di assunzione di lavoratori internazionali:",
+    "no1": "01",
+    "cardTitle1": "Ricerca del personale",
+    "cardDesc1": "Troviamo candidati adatti alle tue esigenze. Sono disponibili colloqui online.",
+    "no2": "02",
+    "cardTitle2": "Contratti",
+    "cardDesc2": "Redigiamo e gestiamo i contratti di lavoro.",
+    "no3": "03",
+    "cardTitle3": "Alloggio",
+    "cardDesc3": "Ti aiutiamo a trovare un alloggio adeguato per i lavoratori.",
+    "no4": "04",
+    "cardTitle4": "Permessi di lavoro",
+    "cardDesc4": "Ci occupiamo della presentazione delle domande di permesso di lavoro.",
+    "no5": "05",
+    "cardTitle5": "Visti",
+    "cardDesc5": "Gestiamo le richieste di visto, che richiedono solitamente 4–6 settimane.",
+    "no6": "06",
+    "cardTitle6": "Organizzazione del viaggio",
+    "cardDesc6": "Prenotiamo i voli e garantiamo l'arrivo sicuro dei lavoratori.",
+    "no7": "07",
+    "cardTitle7": "Documentazione",
+    "cardDesc7": "Assistiamo con carte d’identità, visite mediche e apertura di conti bancari.",
+    "no8": "08",
+    "cardTitle8": "Soddisfazione",
+    "cardDesc8": "Il nostro obiettivo è garantire la soddisfazione sia dei datori di lavoro che dei lavoratori."
+  },
+  "bookconsultation": {
+    "title": "Prenota la tua Consulenza Gratuita.",
+    "desc1": "Partner affidabile ed esperto nell'assunzione di lavoratori stranieri. I nostri esperti sono pronti a lavorare con te per eliminare lo stress da qualsiasi processo di immigrazione, aumentando le tue possibilità di successo.",
+    "decs2": "Contatta oggi il nostro team per saperne di più sui nostri servizi e fare il primo passo verso un'assunzione di successo.",
+    "btn": "Contattaci"
+  },
+  "whychooseus": {
+    "title": "Perché Sceglierci?",
+    "desc": "ArkaHire è il tuo partner di fiducia per l'assunzione di talenti internazionali. I nostri esperti sono pronti a semplificare il processo di immigrazione e garantire risultati di successo.",
+    "item1": "Consultazioni gratuite",
+    "item2": "Candidati di alta qualità",
+    "item3": "Tempi di risposta rapidi",
+    "item4": "Partenariati a lungo termine",
+    "item5": "Disponibilità 24/7",
+    "item6": "Professionisti verificati",
+    "btn": "Contattaci"
+  },
+  "faq": {
+    "title": "Domande Frequenti",
+    "faq1": "Chi è responsabile della fornitura dell'alloggio?",
+    "ans1": "I datori di lavoro sono tenuti a offrire un alloggio adeguato e confortevole ai propri lavoratori.",
+    "faq2": "Quanto tempo ci vuole per l'arrivo dei lavoratori?",
+    "ans2": "Il processo richiede tipicamente almeno tre mesi. Questo lasso di tempo include un periodo di due settimane per l'ottenimento di un permesso di lavoro, seguito da almeno sei settimane per l'elaborazione del visto.",
+    "faq3": "Cosa succede se non siamo soddisfatti di un dipendente?",
+    "ans3": "Se un dipendente non soddisfa le tue aspettative, hai il diritto di rescindere il suo contratto secondo le normative standard del lavoro. In tali casi, aiutiamo il lavoratore a trovare un'occupazione alternativa. Se non si presentano opportunità adeguate, ne facilitiamo il rimpatrio.",
+    "faq4": "Possiamo richiedere permessi di lavoro più lunghi di 1 anno?",
+    "ans4": "I permessi di lavoro sono generalmente rilasciati per un anno, mentre i lavoratori stagionali possono ottenere permessi fino a sei mesi. A causa delle procedure burocratiche, l'ottenimento di un permesso di lavoro e di un visto richiede tipicamente tra i due e i tre mesi.",
+    "faq5": "Come possono essere rinnovati i permessi di lavoro?",
+    "ans5": "Le domande di rinnovo devono essere presentate almeno un mese prima della scadenza del permesso. Il processo richiede il passaporto del dipendente, la precedente carta d'identità, fotografie recenti (per la nuova carta d'identità), una dichiarazione del fornitore dell'alloggio e una dichiarazione rilasciata dall'azienda che confermi la continuazione dell'alloggio nella sede designata.",
+    "faq6": "Ci sono restrizioni sull'assunzione di lavoratori stranieri?",
+    "ans6": "Alcune professioni in Europa sono classificate come ad alta domanda, consentendo ai datori di lavoro di richiedere permessi di lavoro senza sottoporsi a un test del mercato del lavoro. L'elenco ufficiale di queste professioni è disponibile presso le autorità competenti. Per le posizioni non incluse nell'elenco delle occupazioni carenti, è richiesto un Test del Mercato del Lavoro. Questo processo dura due settimane e valuta la disponibilità di lavoratori locali. Se viene confermata una carenza di manodopera, le domande per i lavoratori stranieri possono procedere di conseguenza."
+  },
+  "contactus": {
+    "title": "Contatto",
+    "subtitle": "Per qualsiasi domanda per cui non hai trovato una risposta, non esitare a contattarci e ti spiegheremo tutto in dettaglio.",
+    "time": "Orari di apertura: Lun - Ven 8:00 - 16:00",
+    "sendText": "Contattaci per un'assistenza esperta Hai domande? Siamo qui per aiutare!"
+  },
+
+  "navigating": {
+    "hero": {
+      "title": "Navigare nelle Leggi sull'Immigrazione per i Datori di Lavoro",
+      "desc": "Rispettare le leggi sull'immigrazione può essere complesso a causa del quadro normativo che regola l'occupazione dei lavoratori stranieri. È qui che la nostra esperienza aiuta a semplificare il processo.",
+      "btn": "Contattaci"
+    },
+    "challenges": {
+      "title": "Sfide della Conformità Immigratoria",
+      "desc1": "Una delle maggiori sfide che le aziende incontrano nell'assumere professionisti stranieri è navigare le intricate leggi sull'immigrazione, concepite per salvaguardare il mercato del lavoro locale rispondendo anche alle esigenze economiche della forza lavoro.",
+      "desc2": "Garantire la conformità con i regolamenti sull'immigrazione può essere complesso, poiché le imprese devono aderire a rigorosi requisiti legali che governano l'occupazione di lavoratori internazionali. I datori di lavoro sono obbligati a rispettare le normative fiscali e di sicurezza sociale, nonché condizioni specifiche, come mantenere un'occupazione a tempo pieno per cittadini locali o dell'UE per un periodo designato. Il processo comporta anche l'ottenimento di permessi di lavoro e di soggiorno, insieme all'adesione alle politiche per l'assunzione di talenti da paesi non UE.",
+      "desc3": "È qui che la guida esperta diventa essenziale. Il nostro team è specializzato nello snellire il processo di assunzione, assistendo le aziende nell'ottenere permessi di lavoro, gestendo la documentazione necessaria e garantendo la piena conformità a tutte le normative del mercato del lavoro.",
+      "desc4": "In ArkaHire, forniamo una guida professionale per semplificare il processo di assunzione. I nostri esperti assistono nell'ottenimento di permessi di lavoro, nella gestione della documentazione richiesta e nel garantire la piena conformità con le normative del mercato del lavoro.",
+      "desc5": "Se stai affrontando requisiti di assunzione complessi, il nostro Servizio di Amministrazione del Lavoro offre una soluzione completa."
+    },
+    "employment": {
+      "title": "Amministrazione del Lavoro",
+      "desc": "Il nostro Servizio di Amministrazione del Lavoro gestisce tutte le procedure amministrative relative all'assunzione di professionisti internazionali. Garantiamo la conformità con le leggi sul lavoro e sull'immigrazione, semplificando l'intero processo per la tua azienda.",
+      "btn": "Scopri di più"
+    },
+    "features": {
+      "title1": "Accesso a Lavoratori Qualificati",
+      "desc1": "Un database di candidati accuratamente controllati e qualificati.",
+      "title2": "Soluzioni Flessibili per la Forza Lavoro",
+      "desc2": "Opzioni di assunzione personalizzate per soddisfare le tue esigenze operative.",
+      "title3": "Processo di Reclutamento Veloce ed Efficace",
+      "desc3": "Acceleriamo i processi di assunzione e amministrativi, rendendo il reclutamento senza intoppi."
+    }
+  },
+  "seasonal": {
+    "hero": {
+      "title": "Impiego di Lavoratori Stagionali",
+      "desc": "In ArkaHire, siamo specializzati nel reclutamento di lavoratori stagionali in varie professioni, tra cui camerieri, baristi, cuochi, personale di cucina ausiliario, addetti alle pulizie e receptionist. La nostra esperienza garantisce che possiate trovare i talenti giusti per le vostre esigenze.",
+      "btn": "Contattaci"
+    },
+    "challenges": {
+      "title": "Sfide nel Trovare Lavoratori Stagionali",
+      "desc1": "Il problema di trovare lavoratori stagionali in Croazia, specialmente in settori come il turismo, la ristorazione, l'agricoltura e l'edilizia, è multifattoriale e rappresenta spesso una sfida significativa per i datori di lavoro.",
+      "desc2": "Il settore alberghiero è più soggetto a cambiamenti stagionali che mai, rispetto a qualsiasi altra sfera di attività.",
+      "desc3": "La maggior parte dei nostri clienti durante il primo trimestre non può prevedere con precisione il numero e la necessità di lavoratori esterni o stranieri durante l'alta stagione.",
+      "desc4": "La situazione in cui la maggior parte dei resort, hotel e ristoranti prende decisioni di assunzione all'ultimo minuto si traduce in un improvviso aumento della domanda di lavoratori. Ciò a sua volta si traduce nell'impossibilità del mercato di soddisfare immediatamente tale domanda. Nello specifico, dal momento della firma del contratto con l'Agenzia per l'Impiego, passa un mese o addirittura due prima che i lavoratori stranieri arrivino sul posto di lavoro. La ricerca di lavoratori, la verifica delle qualifiche, i colloqui, le pratiche burocratiche e processi simili richiedono la maggior parte di quel tempo.",
+      "desc5": "Pertanto, ti offriamo una soluzione che elimina i rischi di lunghe attese e ritardi nell'arrivo dei lavoratori: l'outsourcing del lavoro."
+    },
+    "assignment": {
+      "title": "Distacco dei Lavoratori",
+      "desc": "Il nostro servizio di distacco di lavoratori facilita l'assunzione rapida di manodopera per progetti stagionali o periodi specifici. Utilizzando lavoratori disponibili già in Europa, acceleriamo notevolmente il processo di assunzione. Ci occupiamo della stipula degli accordi di distacco e ci assumiamo la responsabilità per il pagamento degli stipendi e le incombenze amministrative. Questo servizio è progettato per fornire una soluzione pratica per le esigenze urgenti di personale, garantendo al contempo flessibilità ed efficienza nella gestione del personale per vari progetti e richieste stagionali.",
+      "btn": "Scopri di più"
+    },
+    "features": {
+      "title1": "Accesso a Talenti Qualificati",
+      "desc1": "In ArkaHire, offriamo un database di candidati pre-verificati, minimizzando i rischi associati all'assunzione. Il nostro processo garantisce l'accesso a lavoratori qualificati su misura per le vostre esigenze.",
+      "title2": "Soluzioni Flessibili per la Manodopera",
+      "desc2": "Comprendiamo l'importanza di una gestione flessibile della forza lavoro, consentendovi di adattarvi efficientemente alle richieste in cambiamento.",
+      "title3": "Processo di Reclutamento Efficiente",
+      "desc3": "Il nostro processo di reclutamento semplificato accelera la ricerca, la gestione e l'assunzione di lavoratori, garantendo che soddisfiate tempestivamente le vostre esigenze di personale."
+    }
+  },
+  "medical": {
+    "hero": {
+      "title": "Impiego di Personale Medico",
+      "desc": "Medici, infermieri, tecnici medici, farmacisti e altri professionisti sanitari – siamo specializzati nel reclutamento di tutti i tipi di personale medico.",
+      "btn": "Contattaci"
+    },
+    "challenges": {
+      "title": "Sfide nella ricerca di personale medico",
+      "desc1": "La sfida di reperire professionisti medici qualificati, in particolare per ruoli sanitari specializzati, è un problema significativo affrontato dalle istituzioni sanitarie a livello globale.",
+      "desc2": "Similmente ad altri paesi, il sistema sanitario croato sta affrontando le difficoltà nel trovare e trattenere personale medico qualificato. La domanda di professionisti sanitari, come medici, infermieri, farmacisti e tecnici, continua ad aumentare a causa di fattori come l'invecchiamento della popolazione, i progressi medici e l'evoluzione dei bisogni sanitari.",
+      "desc3": "La necessità di personale medico è in continuo aumento, trainata da fattori come la crescita della popolazione, una società che invecchia e i progressi nella tecnologia medica.",
+      "desc4": "Il sistema sanitario croato comprende entità sia pubbliche che private, ciascuna con le proprie esigenze di personale. Sebbene la forza lavoro medica del paese sia generalmente qualificata, alcune specialità o regioni possono sperimentare carenze, creando lacune nell'assistenza ai pazienti e aumentando il carico sul personale esistente.",
+      "desc5": "Le strutture sanitarie spesso affrontano anche sfide nel prevedere con precisione le loro esigenze di personale, portando a carenze durante i periodi critici. Questa imprevedibilità può compromettere la qualità dell'assistenza e sovraccaricare il personale attuale."
+    },
+    "mediation": {
+      "title": "Mediazione per l'Impiego",
+      "desc": "Forniamo accesso a un'ampia gamma di candidati pre-selezionati, inclusi quelli con competenze ed esperienze specializzate. Utilizzando le nostre reti e risorse, possiamo accelerare il processo di assunzione, riducendo il tempo necessario per coprire i posti vacanti e minimizzando le interruzioni nell'assistenza ai pazienti. Garantiamo il rispetto di tutti gli standard di licenza e regolamentazione e aiutiamo a ridurre il rischio di assumere candidati non qualificati o inaffidabili.",
+      "btn": "Scopri di più"
+    },
+    "features": {
+      "title1": "Accesso a Lavoratori Responsabili",
+      "desc1": "Ottieni accesso a una forza lavoro accuratamente selezionata e qualificata",
+      "title2": "Prevenzione dei Ritardi nei Progetti",
+      "desc2": "Garantiamo che i progetti vengano completati secondo i programmi con una forza lavoro capace.",
+      "title3": "Processo di Reclutamento Efficiente e Semplificato",
+      "desc3": "Acceleriamo il processo di ricerca, gestione e assunzione dei lavoratori."
+    }
+  },
+  "construction": {
+    "hero": {
+      "title": "Impiego di Lavoratori Edili",
+      "desc": "Forniamo soluzioni di staffing per un'ampia varietà di ruoli correlati all'edilizia, tra cui armatori, carpentieri, muratori, montatori di strutture metalliche, copritetti e operatori di macchine edili.",
+      "btn": "Contattaci"
+    },
+    "challenges": {
+      "title": "Sfide nella Ricerca di Lavoratori Edili",
+      "desc1": "Il settore delle costruzioni sta attualmente affrontando sfide significative nel reperire manodopera qualificata. Questa carenza di lavoratori ostacola la produttività, causa ritardi nei tempi di progetto e complica gli sforzi per soddisfare la crescente domanda di professionisti qualificati nel settore.",
+      "desc2": "In tutta Europa, c'è una crescente domanda di esperti di costruzioni, come si evide dai numerosi annunci di lavoro. Molte aziende incontrano difficoltà nel trovare lavoratori esperti e capaci, con conseguenti ritardi nel completamento dei progetti.",
+      "desc3": "Come agenzia di reclutamento specializzata in manodopera straniera, ArkaHire colma il divario tra domanda e offerta collegando lavoratori qualificati da paesi del terzo mondo con datori di lavoro che ne hanno bisogno. Guidiamo inoltre i nostri clienti attraverso le procedure legali associate all'assunzione di dipendenti stranieri, garantendo un'esperienza di reclutamento fluida e conforme."
+    },
+    "mediation": {
+      "title": "Mediazione dell'Impiego",
+      "desc": "Attraverso i nostri servizi di mediazione dell'impiego, aiutiamo le aziende ad attingere a un vasto bacino di lavoratori qualificati. Affrontiamo le sfide incontrate per garantire una forza lavoro qualificata. Consentendo l'impiego di talenti stranieri e fornendo servizi di reclutamento completi, svolgiamo un ruolo fondamentale nel soddisfare le esigenze di manodopera in vari settori industriali in Europa.",
+      "btn": "Scopri di più"
+    },
+    "features": {
+      "title1": "Accesso a Lavoratori Responsabili",
+      "desc1": "Ottieni l'accesso a una forza lavoro selezionata e qualificata.",
+      "title2": "Prevenzione dei Ritardi nei Progetti",
+      "desc2": "Garantiamo che i progetti vengano completati secondo i programmi con una forza lavoro capace.",
+      "title3": "Processo di Reclutamento Efficiente e Razionalizzato",
+      "desc3": "Acceleriamo il processo di reperimento, gestione e assunzione dei lavoratori."
+    }
+  },
+  "servicemain": {
+    "title1": "Scopri di più sui nostri servizi",
+    "desc1": "Ti supportiamo in ogni fase del processo di recruitment – dalla ricerca di candidati, alla gestione amministrativa, fino alla perfetta integrazione.",
+    "btn1": "Contattaci",
+    "title2": "Amministrazione del lavoro",
+    "desc2": "Ci occupiamo di tutte le questioni amministrative relative all'assunzione di professionisti internazionali, incluse traduzioni documenti, pratiche per visti e permessi di lavoro e redazione di contratti.",
+    "btn2": "Scopri di più",
+    "title3": "HR Full-Service",
+    "desc3": "Per un supporto completo nella gestione delle risorse umane, dal recruitment alla perfetta integrazione dei dipendenti.",
+    "title4": "Mediazione di lavoro",
+    "desc4": "Risparmia tempo e risorse preziosi sfruttando la nostra esperienza professionale nella ricerca di lavoratori qualificati fuori dall'Europa.",
+    "title5": "Servizi di distacco lavoratori",
+    "desc5": "ArkaHire fornisce un servizio per l'assunzione di lavoratori per periodi specifici, come progetti o stagioni, con l'opzione di un'occupazione permanente."
+  },
+
+  "assignmentworkers": {
+    "hero": {
+      "title": "Servizi di Assegnazione Lavoratori",
+      "desc": "ArkaHire fornisce un servizio per l'assunzione di lavoratori per periodi specifici, come progetti o stagioni, con l'opzione per un impiego permanente.",
+      "btn": "Contattaci"
+    },
+    "features": {
+      "title1": "Flessibilità dell'Impiego",
+      "desc1": "Offriamo soluzioni efficaci di manodopera per progetti a breve termine o richieste fluttuanti di forza lavoro, garantendo l'efficienza operativa.",
+      "title2": "Valutazione del Lavoratore Prima dell'Impiego",
+      "desc2": "Permettiamo di testare i lavoratori prima dell'assunzione permanente per garantire una cooperazione riuscita e la compatibilità.",
+      "title3": "Amministrazione Semplificata",
+      "desc3": "Gestiamo tutti i compiti amministrativi relativi all'impiego e alle Risorse Umane, in modo che tu possa concentrarti sulle attività principali della tua azienda."
+    },
+    "include": {
+      "title": "Cosa Include il Servizio di Assegnazione Lavoratori?",
+      "desc1": "Questo servizio offre flessibilità nella gestione della forza lavoro riducendo allo stesso tempo gli oneri amministrativi. Garantisce l'accesso a talenti specializzati dall'estero senza le complessità del reclutamento diretto.",
+      "desc2": "Semplifichiamo l'impiego temporaneo redigendo Contratti di Lavoro formali e assegnando i lavoratori alle aziende clienti secondo termini concordati.",
+      "desc3": "I nostri servizi vanno oltre l'impiego gestendo compiti amministrativi come le domande per la pensione e l'assicurazione sanitaria, il calcolo degli stipendi e l'elaborazione dei benefit.",
+      "desc4": "I lavoratori vengono collocati nelle aziende clienti secondo condizioni concordate mentre noi assumiamo il ruolo ufficiale di datore di lavoro.",
+      "desc5": "Scegliendo i nostri servizi, le aziende beneficiano di un processo semplificato che risolve le sfide burocratiche, garantisce la conformità legale e migliora l'efficienza amministrativa. Ciò permette alle imprese di concentrarsi sulle proprie operazioni principali."
+    },
+    "whenToconsider": {
+      "title": "Quando Considerare la Mediazione di Lavoro?",
+      "faq1": "Hai bisogno di lavoratori per un progetto specifico o su base stagionale?",
+      "ans1": "Il nostro servizio ti dà accesso a un bacino globale di talenti. Valutiamo le tue esigenze e ti mettiamo in contatto con i migliori candidati per soddisfare tali necessità.",
+      "faq2": "Vuoi evitare le complessità dell'impiego diretto",
+      "ans2": "Gestiamo tutti i compiti amministrativi e contabili relativi ai lavoratori, permettendoti di concentrarti sulle attività principali della tua azienda senza oneri aggiuntivi.",
+      "faq3": "Vuoi garantire la qualità della tua forza lavoro",
+      "ans3": "Se devi valutare le competenze dei lavoratori prima di un'assunzione permanente, il nostro servizio offre una soluzione ideale come fase di prova. Inoltre, i nostri lavoratori in somministrazione sono accuratamente controllati. Molti di loro hanno una vasta esperienza da precedenti lavori in agenzia, apportando competenze e conoscenze sviluppate in qualsiasi ambiente aziendale. Effettuiamo anche ulteriori controlli su tutti i nuovi lavoratori per garantirne la prontezza."
+    },
+    "advantages": {
+      "title1": "Quali sono i vantaggi dell'assunzione tramite un'agenzia?",
+      "desc1": "Utilizzando i nostri servizi di lavoro in somministrazione, offriamo soluzioni flessibili per coprire assenze brevi o lunghe dei dipendenti, ottimizzare le esigenze stagionali della forza lavoro e soddisfare i requisiti di progetti specifici. Inoltre, gestiamo tutti i compiti amministrativi, garantendo un processo fluido ed efficiente.",
+      "title2": "Guida Esperta",
+      "desc2": "Forniamo supporto professionale e consulenza durante l'intero processo di reclutamento, assicurando che tu prenda decisioni informate.",
+      "title3": "Risparmio di Tempo e Risorse",
+      "desc3": "Ci occupiamo della ricerca di candidati, delle trattative e dei compiti amministrativi, permettendoti di concentrarti sulle aree centrali della tua attività.",
+      "title4": "Accesso a un Mercato Più Ampio",
+      "desc4": "Ti diamo accesso a un bacino diversificato di candidati da tutto il mondo attraverso la nostra rete consolidata.",
+      "title5": "Riduzione del Rischio",
+      "desc5": "Garantiamo la sicurezza verificando accuratamente le qualifiche e i referti dei candidati, riducendo il rischio di assunzioni inadeguate e di non conformità alle normative."
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "queation1": "Quali sono i vantaggi dell'assunzione tramite un'agenzia?",
+      "ans1": "Utilizzando il servizio di lavoro in somministrazione, ti permettiamo di coprire flessibilmente le assenze brevi o lunghe dei tuoi dipendenti, di ottimizzare le esigenze aziendali stagionali o i requisiti per progetti specifici. Gestiamo anche i compiti amministrativi, facilitando l'intero processo.",
+      "queation2": "Quali compiti amministrativi prendiamo in carico per te?",
+      "ans2": {
+        "title1": "Ti solleviamo dall'onere amministrativo associato ai lavoratori distaccati, che include:",
+        "item1": "Redazione e conclusione di contratti di lavoro",
+        "item2": "Calcolo ed elaborazione di salari e contributi",
+        "item3": "Registrazione e cancellazione dei lavoratori presso l'Istituto Pensionistico e Assicurativo Sanitario",
+        "item4": "Mantenimento di registri mensili e annuali (giorni di ferie, permessi per malattia, ecc.)",
+        "item5": "Compilazione e invio dei rapporti richiesti alle autorità competenti"
+      },
+      "queation3": "Quali sono i tuoi obblighi verso i lavoratori?",
+      "ans3": "L'utilizzatore (datore di lavoro) deve rispettare le leggi sul lavoro, compresi i regolamenti sulla salute e sicurezza, nonché le tutele speciali per specifici gruppi di lavoratori. Ciò include la fornitura di indumenti e calzature protettive quando richiesto dalla natura del lavoro. Inoltre, l'utilizzatore è responsabile dell'organizzazione e dell'assegnazione del lavoro secondo i processi stabiliti, nonché del mantenimento dei registri di presenza dei lavoratori sul posto di lavoro."
+    }
+  },
+  "employmentmediation": {
+    "hero": {
+      "title": "Mediazione del Lavoro",
+      "desc": "Risparmia tempo prezioso e risorse sfruttando la nostra competenza professionale nella ricerca di lavoratori qualificati al di fuori dell'Europa.",
+      "btn": "Contattaci"
+    },
+    "features": {
+      "title1": "Accesso a Lavoratori Qualificati",
+      "desc1": "Cerchiamo e selezioniamo attivamente potenziali candidati, utilizzando le nostre vaste reti e database.",
+      "title2": "Processo di Reclutamento Semplificato",
+      "desc2": "Garantiamo che il processo di reclutamento sia condotto con efficienza e precisione.",
+      "title3": "Guida e Supporto Esperto in Ogni Fase",
+      "desc3": "Forniamo approfondimenti esperti, garantendo decisioni informate e risultati di successo."
+    },
+    "what": {
+      "title": "Cos'è la Mediazione del Lavoro?",
+      "desc1": "Facciamo da ponte tra datori di lavoro e potenziali candidati, semplificando il processo definendo i requisiti lavorativi, selezionando i candidati e offrendo supporto completo. Il nostro obiettivo è collegare i migliori talenti con le aziende.",
+      "desc2": "Il reclutamento è un servizio vitale che supporta i datori di lavoro nel trovare candidati qualificati per le loro organizzazioni. Questo servizio implica l'impegno di un'agenzia di reclutamento che agisce come mediatore tra le aziende e i potenziali dipendenti. L'agenzia si concentra sulla comprensione delle esigenze del datore di lavoro, sulla definizione dei requisiti specifici del lavoro e sulla ricerca e selezione diligente di candidati che soddisfino tali esigenze.",
+      "desc3": "Un ruolo fondamentale dell'agenzia durante il processo di assunzione è condurre controlli approfonditi sulle qualifiche e sull'esperienza dei candidati, garantendone l'idoneità per il ruolo.",
+      "desc4": "Scegliere i servizi di reclutamento offre numerosi vantaggi, tra cui l'accesso a un ampio bacino di talenti, la riduzione del tempo e delle risorse necessarie per il reclutamento e la garanzia di elevati standard di professionalità nella selezione dei candidati."
+    },
+    "commonfaq": {
+      "title": "Trova Risposte alle Domande più Frequenti",
+      "queation1": "Quali sono le Nostre Responsabilità nel Processo di Mediazione?",
+      "ans1": {
+        "title1": "I compiti delle agenzie coinvolte nella mediazione per l'impiego di lavoratori stranieri includono:",
+        "item1": "Ricercare un lavoratore idoneo in base ai criteri del cliente, condurre il processo di selezione e fornire la documentazione richiesta.",
+        "item2": "Preparare e presentare tutta la documentazione necessaria per ottenere i permessi di soggiorno e lavoro temporanei per cittadini di paesi terzi.",
+        "item3": "Coprire i costi dell'assicurazione di viaggio per i lavoratori.",
+        "item4": "Organizzare il visto necessario per il soggiorno e il lavoro in Europa.",
+        "item5": "Coprire il costo del volo del lavoratore."
+      },
+      "queation2": "Quali sono i Vostri Obblighi verso un Lavoratore Straniero?",
+      "ans2": "Una volta ottenuto il permesso di lavoro per un lavoratore straniero, è necessario fornire alloggio e pasti al suo arrivo. L'alloggio dovrebbe soddisfare gli standard di vita di base. Se non è possibile fornire il cibo, deve essere corrisposta un'indennità di vitto al lavoratore. Inoltre, si è obbligati a registrare il lavoratore per la pensione e l'assicurazione sanitaria, proprio come si farebbe per qualsiasi dipendente locale.",
+      "queation3": "Quali sono i Requisiti per Ottenere un Permesso di Soggiorno e Lavoro?",
+      "ans3": {
+        "title2": "I requisiti per ottenere i permessi necessari includono:",
+        "item1": "Svolgere un'attività economica registrata in Europa.",
+        "item2": "Impiegare almeno un quarto di cittadini croati rispetto ai cittadini di paesi terzi con un contratto a tempo indeterminato e full-time negli ultimi sei mesi.",
+        "item3": "Un certificato dell'Agenzia delle Entrate che confermi l'assenza di debiti pendenti relativi ai benefici pubblici, datato in un periodo recente prima della domanda dei permessi.",
+        "item4": "Nessuna condanna legale relativa alle relazioni di lavoro o alla sicurezza sociale."
+      }
+    },
+    "benefits": {
+      "title1": "Quali sono i Vantaggi dell'Assunzione tramite un'Agenzia?",
+      "item1": "Gestiamo la preparazione e la presentazione di tutti i documenti legali richiesti per conto dei datori di lavoro e dei loro dipendenti selezionati.",
+      "item2": "Con la nostra vasta esperienza in questo campo, abbiamo ottimizzato i nostri processi, offrendo ai datori di lavoro un modo rapido ed efficiente per assumere.",
+      "title2": "Guida Esperta",
+      "desc2": "Forniamo supporto professionale e consulenza durante l'intero processo di reclutamento, garantendo che tu prenda decisioni ben informate.",
+      "title3": "Risparmio di Tempo e Risorse",
+      "desc3": "Ci occupiamo della ricerca di candidati, delle trattative e delle attività amministrative, permettendoti di concentrarti sulle aree centrali della tua attività.",
+      "title4": "Accesso a un Mercato Più Ampio",
+      "desc4": "Ti diamo accesso a un pool diversificato di candidati da tutto il mondo attraverso la nostra rete consolidata.",
+      "title5": "Riduzione del Rischio",
+      "desc5": "Garantiamo la sicurezza attraverso un controllo approfondito delle qualifiche e dei riferimenti dei candidati, riducendo il rischio di assunzioni inadeguate e di mancata conformità alle normative."
+    },
+    "process": {
+      "title1": "Fase 1: Consultazioni",
+      "desc1": "Il nostro team di specialisti conduce un'analisi approfondita delle tue esigenze di personale, elaborando una strategia di reclutamento su misura.",
+      "title2": "Fase 2: Ricerca di Talenti",
+      "desc2": "Con la nostra vasta rete e risorse, identifichiamo candidati qualificati da tutto il mondo che soddisfano i requisiti della tua azienda.",
+      "title3": "Fase 3: Processo di Selezione",
+      "desc3": "Valutiamo meticolosamente le qualifiche, l'esperienza e i riferimenti dei candidati per assicurarci di selezionare i migliori individui per il tuo team.",
+      "title4": "Fase 4: Portare i Lavoratori in Europa",
+      "desc4": "Gestiamo tutta la documentazione necessaria e organizziamo il trasferimento dei lavoratori in Europa.",
+      "title5": "Come si Svolge il Processo?",
+      "desc5": "Lascia tutte le preoccupazioni relative alle risorse umane a noi e garantisci una gestione ottimale dei tuoi dipendenti con i nostri servizi HR all-inclusive!"
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "queation1": "Quali sono le Nostre Responsabilità nel Processo di Mediazione?",
+      "ans1": "I compiti delle agenzie coinvolte nella mediazione per l'impiego di lavoratori stranieri includono: – Identificare un lavoratore idoneo in base ai criteri del cliente, condurre il processo di selezione e fornire la documentazione richiesta. – Preparare e presentare tutta la documentazione necessaria per ottenere i permessi di soggiorno e lavoro temporanei per cittadini di paesi terzi. – Coprire i costi dell'assicurazione di viaggio per i lavoratori. – Organizzare il visto necessario per il soggiorno e il lavoro in Europa. – Coprire il costo del volo del lavoratore.",
+      "queation2": "Quali sono i Vostri Obblighi verso un Lavoratore Straniero?",
+      "ans2": "Una volta ottenuto il permesso di lavoro per un lavoratore straniero, è necessario fornire alloggio e pasti al suo arrivo. L'alloggio dovrebbe soddisfare gli standard di vita di base. Se non è possibile fornire i pasti, deve essere corrisposta un'indennità di vitto al lavoratore. Inoltre, è obbligatorio registrare il lavoratore per la pensione e l'assicurazione sanitaria, proprio come per qualsiasi dipendente locale.",
+      "queation3": "Quali Condizioni Devono essere Soddisfatte per Ottenere un Permesso di Soggiorno e Lavoro?",
+      "ans3": "Per ottenere i permessi necessari, devono essere soddisfatte le seguenti condizioni: – La tua azienda deve essere registrata in Europa. – Devi impiegare almeno un quarto di cittadini locali rispetto ai cittadini di paesi terzi con un contratto a tempo indeterminato e full-time negli ultimi sei mesi. – Un certificato dell'Agenzia delle Entrate che confermi l'assenza di debiti pendenti relativi ai benefici pubblici, datato in un periodo recente prima della domanda dei permessi. – Non devono esserci condanne legali relative alle relazioni di lavoro o alla sicurezza sociale.",
+      "queation4": "Il Lavoratore Può Iniziare Immediatamente?",
+      "ans4": "Purtroppo no. Poiché questi lavoratori provengono da paesi terzi, devono prima ottenere un permesso di lavoro e un visto prima di entrare in Europa. L'intero processo può richiedere da 45 a 90 giorni, a seconda della velocità delle istituzioni coinvolte. La preparazione dei documenti e le trattative richiedono solitamente da 4 a 10 giorni, a seconda della prontezza del datore di lavoro. Il reclutamento e la selezione dei candidati possono variare da 1 a 30 giorni (fino a 7 giorni per lavoratori non qualificati, fino a 30 giorni per lavoratori qualificati), o più a lungo se sono richieste professioni specifiche (fino a 60 giorni). Il test del mercato del lavoro (per professioni non in carenza) dura tipicamente 15 giorni. L'ottenimento di un permesso di lavoro richiede solitamente tra i 15 e i 30 giorni. L'elaborazione del visto richiede altri 15-30 giorni. L'organizzazione del viaggio e l'arrivo del lavoratore in Europa richiedono generalmente 1-10 giorni."
+    }
+  },
+  "administration": {
+    "hero": {
+      "title": "Servizi amministrativi completi per l'occupazione",
+      "desc": "Ci occupiamo di tutte le incombenze amministrative relative all'assunzione di professionisti internazionali, inclusi traduzioni documenti, elaborazione di visti e permessi di lavoro e redazione di contratti di lavoro.",
+      "btn": "Contattaci"
+    },
+    "features": {
+      "title1": "Risparmia Tempo e Costi",
+      "desc1": "Elimina il peso delle procedure amministrative complesse e concentrati sul tuo core business.",
+      "title2": "Assistenza Esperta",
+      "desc2": "Il nostro team garantisce un processo senza intoppi nel rispetto degli ultimi requisiti legali.",
+      "title3": "Soluzioni Su Misura",
+      "desc3": "Personalizziamo i nostri servizi per soddisfare le tue specifiche esigenze di assunzione."
+    },
+    "include": {
+      "title": "Cosa include il servizio di amministrazione del personale?",
+      "desc1": "Aiutiamo le aziende a gestire le complessità dell'assunzione di lavoratori stranieri, garantendo la conformità con le leggi sull'immigrazione e sul lavoro e semplificando il processo amministrativo.",
+      "title1": "Il nostro servizio di amministrazione del personale include la gestione di tutte le pratiche amministrative relative all'impiego di lavoratori stranieri per aziende operanti nell'UE. Il servizio copre tipicamente:",
+      "desc2": {
+        "item1": "Elaborazione di permessi di lavoro e visti",
+        "item2": "Assicurare la conformità della documentazione alle leggi sull'immigrazione",
+        "item3": "Preparazione dei contratti di lavoro",
+        "item4": "Coordinamento con le autorità governative"
+      }
+    },
+    "whenToconsider": {
+      "title": "Quando scegliere un servizio di amministrazione?",
+      "faq1": "Hai già trovato dipendenti in autonomia.",
+      "ans1": "Se hai già portato a termine il processo di selezione dei lavoratori stranieri e hai selezionato il personale ideale per la tua azienda, possiamo fornirti supporto e assistenza durante l'assunzione.",
+      "faq2": "Non hai abbastanza tempo per occuparti dell'amministrazione.",
+      "ans2": "Ti liberiamo dalle incombenze e dai processi amministrativi, consentendoti di concentrarti sulle tue attività commerciali principali. Ci occupiamo di tutta la documentazione necessaria in modo che tu possa dedicarti a sviluppare la tua attività. Provvederemo a ottenere per te visti, permessi di soggiorno e lavoro, tradurremo documentazione estera, prepareremo contratti di lavoro e tutti gli altri documenti necessari.",
+      "faq3": "Non comprendi le normative legali.",
+      "ans3": "Il nostro team verifica le qualifiche e garantisce la conformità con le normative e le leggi locali. Esperti esperti forniscono supporto nell'intero processo e garantiscono che l'intero processo segua le normative legali."
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "queation1": "Come si svolge il processo di assunzione dei lavoratori stranieri?",
+      "ans1": {
+        "title1": "Per assumere lavoratori stranieri per posizioni in tutta Europa, è necessario seguire questi passaggi essenziali:",
+        "item1": "Procurare un permesso di lavoro per il dipendente straniero presso l'autorità competente per l'immigrazione o l'impiego.",
+        "item2": "Presentare una domanda per il permesso di soggiorno del lavoratore.",
+        "item3": "Registrare il dipendente straniero presso le autorità fiscali e di sicurezza sociale competenti.",
+        "item4": "Garantire il rispetto di tutte le normative sul lavoro e sull'immigrazione applicabili."
+      },
+      "queation2": "Quali documenti sono richiesti per l'assunzione di lavoratori stranieri?",
+      "ans2": {
+        "title2": "La documentazione necessaria include:",
+        "item1": "Permesso di lavoro rilasciato dall'autorità competente.",
+        "item2": "Contratto di lavoro o accordo formale.",
+        "item3": "Passaporto valido o documento di identificazione del lavoratore straniero.",
+        "item4": "Copertura assicurativa sanitaria per il lavoratore.",
+        "item5": "Prova del pagamento delle tasse amministrative richieste."
+      },
+      "queation3": "In che modo i servizi di assistenza amministrativa possono aiutare i datori di lavoro a districarsi nel processo di assunzione di lavoratori stranieri nell'UE?",
+      "ans3": "I servizi di assistenza amministrativa svolgono un ruolo cruciale nel semplificare il processo di assunzione dei lavoratori stranieri, offrendo un supporto completo in ogni fase.",
+      "ans4": "Guidiamo i datori di lavoro attraverso l'intero processo di domanda per i permessi di lavoro e di soggiorno, assistiamo nella preparazione e nell'invio dei documenti necessari alle autorità competenti e garantiamo la piena conformità con i requisiti legali. I nostri servizi includono una consulenza continua in materia di lavoro e immigrazione, semplificando allo stesso tempo le attività amministrative. Questo approccio fa risparmiare tempo e risorse ai datori di lavoro, garantendo un processo di assunzione di lavoratori stranieri senza intoppi ed efficiente in tutta Europa."
+    }
+  },
+  "fullservicehr": {
+    "hero": {
+      "title": "Servizi HR Completi",
+      "desc": "Per un supporto completo nella gestione delle risorse umane, dal reclutamento alla perfetta integrazione dei dipendenti.",
+      "btn": "Contattaci"
+    },
+    "features": {
+      "title1": "Supporto Durante l'Intero Processo HR",
+      "desc1": "Dal reclutamento e l'amministrazione alla ricerca di alloggi e all'assistenza continua.",
+      "title2": "Accesso a Esperti HR",
+      "desc2": "Approfitta dell'esperienza di professionisti con una vasta esperienza nelle risorse umane.",
+      "title3": "Concentrazione sugli Obiettivi di Business",
+      "desc3": "Reindirizza la tua attenzione sul raggiungimento degli obiettivi strategici mentre noi gestiamo le tue esigenze HR."
+    },
+    "mean": {
+      "title": "Cosa Significano i Servizi HR Completi?",
+      "desc1": "L'opzione Servizi HR Completi fornisce un'ampia gamma di supporto che copre ogni aspetto del processo HR, dal reclutamento alla perfetta integrazione dei dipendenti all'interno della tua organizzazione.",
+      "desc2": "Questo servizio completo include reclutamento, procedure di selezione, lavoro amministrativo, questioni assicurative, alloggio e supporto continuo per l'intero percorso lavorativo. Impiegando personale altamente specializzato con notevole esperienza nel diritto del lavoro, questo servizio garantisce un'attenzione meticolosa ai dettagli e l'identificazione di soluzioni su misura per soddisfare le esigenze specifiche di un'azienda.",
+      "desc3": "outsourcing di queste funzioni HR essenziali offre diversi vantaggi. Innanzitutto, fornisce accesso all'expertise di professionisti esperti, garantendo una gestione delle risorse umane efficiente e coordinata. In secondo luogo, l'outsourcing consente a un'azienda di reindirizzare le proprie risorse interne verso gli obiettivi di business principali, aumentando la produttività e favorendo il raggiungimento degli obiettivi strategici. In definitiva, l'opzione Servizi HR Completi non solo garantisce operazioni HR senza intoppi, ma permette anche alle aziende di concentrarsi sul raggiungimento della propria missione primaria con maggiore chiarezza ed efficienza."
+    },
+    "whenToconsider": {
+      "title": "Quando Scegliere l'Opzione Servizi HR Completi?",
+      "faq1": "Mancanza di un Team HR Interno",
+      "ans1": "Senza un reparto HR interno, la gestione di tutti gli aspetti del processo HR, dal reclutamento all'onboarding dei dipendenti, può diventare opprimente e dispendiosa in termini di tempo. Ricorrendo all'outsourcing con esperti, le aziende possono assicurarsi che ogni fase del processo HR sia gestita in modo esperto, permettendo loro di concentrarsi sulle operazioni principali senza il peso delle attività HR.",
+      "faq2": "Risorse Limitate per la Gestione dei Processi",
+      "ans2": "Siano esse limitazioni finanziarie, di tempo o professionali, l'outsourcing dei Servizi HR Completi offre una soluzione efficace. Forniamo l'infrastruttura, l'expertise e l'esperienza necessarie per gestire in modo efficiente tutti gli aspetti HR, dal reclutamento ai compiti amministrativi, garantendo un processo fluido e semplificato senza esercitare una pressione aggiuntiva sulle risorse interne.",
+      "faq3": "Necessità di una Soluzione Rapida e Affidabile",
+      "ans3": "Quando un'azienda ha bisogno di una soluzione HR rapida e affidabile, l'opzione Servizi HR Completi è la scelta migliore. Navighiamo con efficienza attraverso le complessità dell'HR, fornendo risultati tempestivi ed efficaci. Sfruttando la nostra conoscenza specializzata e l'esperienza, le aziende possono assicurarsi che le loro esigenze HR siano soddisfatte rapidamente e con il minimo disagio."
+    },
+    "faq": {
+      "title": "Domande Frequenti",
+      "queation1": "Quali Funzioni HR Copriamo?",
+      "ans1": "La nostra soluzione Servizi HR Completi comprende ogni aspetto del processo HR, inclusi reclutamento, procedure di selezione, compiti amministrativi, questioni assicurative, sistemazione e supporto e orientamento continui durante l'intero ciclo di vita del lavoro.",
+      "queation2": "Come Garantiamo la Conformità con le Leggi e i Regolamenti Lavorativi Rilevanti?",
+      "ans2": "Impieghiamo personale esperto con una vasta esperienza nel diritto del lavoro, garantendo un'attenta considerazione dei dettagli e l'identificazione delle soluzioni più adatte per le esigenze uniche della tua azienda. Inoltre, restiamo aggiornati sugli ultimi requisiti legali e sulle migliori pratiche per garantire la piena conformità.",
+      "queation3": "Quale Flessibilità Offriamo nell'Adattare la Soluzione alle Esigenze Specifiche della Tua Azienda?",
+      "ans3": "Comprendiamo che ogni azienda ha requisiti HR distinti. Pertanto, offriamo flessibilità nella personalizzazione della nostra soluzione Servizi HR Completi per soddisfare le tue esigenze uniche, sia che ciò comporti la regolazione dei componenti del servizio, l'adempimento di requisiti specifici o l'adattamento alle tue esigenze aziendali in evoluzione."
+    }
+  },
+
+  "about": {
+    "hireaforeigner": {
+      "title": "Assumi uno straniero",
+      "desc": "Un partner affidabile ed esperto nel reclutamento di lavoratori stranieri. Il nostro team di esperti è dedicato a guidarti attraverso il processo di immigrazione, garantendo un esito fluido e di successo.",
+      "btn": "Contattaci"
+    },
+    "whoWeare": {
+      "title1": "CHI SIAMO?",
+      "title2": "Agenzia Internazionale per l'Impiego",
+      "desc1": "Assistiamo i nostri clienti internazionali nel trovare opportunità di lavoro adeguate, anche in Europa, abbinandoli attentamente a posizioni in linea con le loro qualifiche. Inoltre, ci assicuriamo che le aziende con cui collaboriamo non solo rispettino, ma ricompensino anche equamente la loro forza lavoro.",
+      "desc2": "Per i nostri clienti datori di lavoro, ricerchiamo e selezioniamo meticolosamente lavoratori qualificati che soddisfino le loro esigenze specifiche, riducendo le preoccupazioni sul turnover del personale. Questo approccio garantisce una forza lavoro stabile per soddisfare le esigenze progettuali o stagionali, sia a livello locale che internazionale. Di conseguenza, i nostri clienti possono aspettarsi una consegna tempestiva del progetto senza interruzioni inutili.",
+      "desc3": "Offriamo una soluzione completa per il reclutamento e l'assunzione di talenti di alta qualità, mirando a favorire un ambiente di lavoro produttivo e armonioso per datori di lavoro e dipendenti in tutto il mondo."
+    },
+    "WhyChoose": {
+      "title1": "Perché scegliere",
+      "title2": "ArkaHire?",
+      "desc1": "Anni di esperienza",
+      "desc2": "Lavoratori stranieri collocati con successo",
+      "desc3": "Soddisfazione del cliente"
+    },
+    "WhatDoWeOffer": {
+      "title1": "COSA OFFRIAMO?",
+      "title2": "Hai bisogno di assistenza con l'immigrazione? Il nostro team di esperti è qui per aiutare",
+      "desc1": "Contatta il nostro team oggi per saperne di più sui nostri servizi e fare il primo passo verso l'assunzione di successo di lavoratori stranieri.",
+      "title3": "Servizi per l'impiego",
+      "btn": "Esplora tutti i servizi",
+      "title4": "Supporto amministrativo",
+      "desc2": "Gestiamo tutta l'amministrazione necessaria per l'occupazione, come la traduzione di documenti, l'ottenimento di visti e permessi di lavoro, contratti di lavoro.",
+      "title5": "Mediazione di lavoro",
+      "desc3": "Risparmia tempo e risorse utilizzando i nostri servizi professionali per individuare lavoratori qualificati al di fuori dell'Europa.",
+      "title6": "Servizi HR completi",
+      "desc4": "Supporto completo nella gestione delle risorse umane, a partire dal reclutamento fino alla piena integrazione del dipendente.",
+      "title7": "Servizi di distacco lavoratori",
+      "desc5": "Offriamo il collocamento di lavoratori per periodi specifici (come progetti o lavori stagionali) con l'opzione di transizione verso un impiego permanente."
+    },
+    "contactourteam": {
+      "title": "Contatta il nostro team",
+      "desc1": "Scopri di più sui nostri servizi professionali e",
+      "desc2": "scopri come possiamo aiutarti.",
+      "btn": "Contattaci"
+    }
+  },
+  "footer": {
+    "title": "Siamo a vostra disposizione.",
+    "desc": "Contattateci per qualsiasi domanda relativa all'assunzione di lavoratori dall'estero. Vi aiuteremo in qualsiasi momento."
+  }
+}

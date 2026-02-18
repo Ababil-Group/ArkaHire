@@ -1,0 +1,550 @@
+{
+  "nav": {
+    "home": "Home",
+    "howToHire": "How to hire international talent?",
+    "solutions": {
+      "label": "Solutions",
+      "navigating": "Navigating immigration laws",
+      "seasonal": "Employment of seasonal workers",
+      "construction": "Employment of construction workers",
+      "medical": "Employment of Medical Workers"
+    },
+    "services": {
+      "label": "Services",
+      "admin": "Employment administration",
+      "fullHR": "Full-Service HR",
+      "mediation": "Employment Mediation",
+      "assignment": "Assignment of Workers"
+    },
+    "about": "About us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Simplify the process of hiring a global workforce.",
+    "desc": "Whether you’re a small business or a multinational corporation, ArkaHire is here to help you find the skilled workforce you need to grow. From recruitment to onboarding, we handle it all.",
+    "btn1": "Contact us",
+    "btn2": "Explore Services"
+  },
+  "achievements": {
+    "year1": "7+",
+    "exp1": "Years of experience",
+    "year2": "600+",
+    "exp2": "Employees placed",
+    "year3": "100%",
+    "exp3": "Client satisfaction"
+  },
+  "whyChoose": {
+    "title": "Why Choose a Recruitment Agency?",
+    "desc": " At ArkaHire, we provide innovative, fast, and efficient  solutions for sourcing, selecting, and hiring international talent.  Our expertise ensures a seamless hiring process tailored to your business needs.",
+    "question1": " Don’t Know Where to Find Quality Workers?",
+    "ans1": "  Our team of experts analyzes your requirements and crafts a personalized hiring strategy. Leveraging our global network, we connect you with skilled candidates from countries like India, Bangladesh, Nepal, Pakistan, Sri Lanka, and the Philippines.",
+    "question2": "Need Flexibility in Hiring?",
+    "ans2": "We offer temporary employment solutions for international workers. We handle the formalities, including employment contracts, while you focus on integrating them into your team.",
+    "question3": "No Internal HR Team?",
+    "ans3": "  Our Full-Service HR option covers everything from recruitment to employee integration. With expertise in labor laws and compliance, we ensure a smooth and hassle-free process.",
+    "question4": "Unfamiliar with Legal Regulations?",
+    "ans4": " Navigating immigration and labor laws can be complex. We simplify the process, ensuring compliance with all regulations and handling the necessary documentation."
+  },
+  "typeofemployees": {
+    "title": " What Type of Employees Can We Find?",
+    "cardTitle1": "Warehouse Workers",
+    "cardDesc1": " Proactive and eager to learn, our candidates are ready to take on leadership roles.",
+    "cardTitle2": "Electricians",
+    "cardDesc2": "Skilled professionals are available at various expertise levels. We can arrange video interviews for assessment.",
+    "cardTitle3": "Mechanics",
+    "cardDesc3": "Young, capable, and ready for new challenges.",
+    "cardTitle4": "Construction Workers",
+    "cardDesc4": " From basic skills to specialized trades, we find the right fit for your projects.",
+    "cardTitle5": "Tilers",
+    "cardDesc5": "  igh-demand professionals are available through our streamlined hiring process.",
+    "cardTitle6": "Customized Positions",
+    "cardDesc6": "Need a specific role? We can help. Contact us for inquiries.",
+    "btn": "Contact us"
+  },
+  "HireAForeigner": {
+    "title": "Hire a Foreigner",
+    "subtitle": "The Process of Hiring Skilled Workers from Abroad",
+    "desc1": "Understand the key requirements your company must meet to successfully employ international professionals.",
+    "desc2": "Business Operational for Over 6 Months",
+    "desc3": "At Least One Full-Time Employee for a Minimum of 6 Months",
+    "desc4": "Local Workforce Comprising at Least 25% of Total Employees"
+  },
+  "wowtohire": {
+    "title": "How to hire international talent?",
+    "desc": "We guide you step-by-step through the process of hiring international talent:",
+    "no1": "01",
+    "cardTitle1": "Workforce Sourcing",
+    "cardDesc1": "We find candidates tailored to your needs. Online interviews are available.",
+    "no2": "02",
+    "cardTitle2": "Contracts",
+    "cardDesc2": "We draft and manage employment contracts",
+    "no3": "03",
+    "cardTitle3": "Accommodation",
+    "cardDesc3": "We assist in finding suitable housing for workers.",
+    "no4": "04",
+    "cardTitle4": "Work Permits",
+    "cardDesc4": "We handle the submission of work permit applications.",
+    "no5": "05",
+    "cardTitle5": "Visas",
+    "cardDesc5": "We manage visa applications, which typically take 4-6 weeks.",
+    "no6": "06",
+    "cardTitle6": "Travel Arrangements",
+    "cardDesc6": "We book flights and ensure workers arrive safely.",
+    "no7": "07",
+    "cardTitle7": "Documentation",
+    "cardDesc7": "We assist with ID cards, medical exams, and bank account setup.",
+    "no8": "08",
+    "cardTitle8": "Satisfaction",
+    "cardDesc8": "Our goal is to ensure both employers and employees are satisfied."
+  },
+
+  "bookconsultation": {
+    "title": "Book your Free Consultation.",
+    "desc1": "Reliable and experienced partner in hiring foreign workers. Our experts are ready to work with you to remove the stress from any immigration process, increasing your chances of a successful outcome.",
+    "decs2": " Contact our team today to learn more about our services and take the first step towards successfully hiring.",
+    "btn": "Contact us"
+  },
+  "whychooseus": {
+    "title": "Why Choose Us?",
+    "desc": "  ArkaHire is your trusted partner for hiring international  talent. Our experts are ready to simplify the immigration process and ensure successful outcomes.",
+    "item1": "Free consultations",
+    "item2": "High-quality candidates",
+    "item3": "Quick response times",
+    "item4": "Long-term partnerships",
+    "item5": "24/7 availability",
+    "item6": "Verified professionals",
+    "btn": "Contact us"
+  },
+
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "faq1": " Who is responsible for providing accommodation?",
+    "ans1": "Employers are required to offer suitable and comfortable accommodation for their workers.",
+    "faq2": "How long does it take for workers to arrive?",
+    "ans2": "The process typically takes a minimum of three months. This  timeframe includes a two-week period for obtaining a work permit, followed by at least six weeks for visa processing.",
+    "faq3": "What happens if we are not satisfied with an employee?",
+    "ans3": "If an employee does not meet your expectations, you have the right to terminate their contract as per standard employment  regulations. In such cases, we assist the worker in securing alternative employment. If no suitable opportunities arise, we facilitate their return to their home country.",
+    "faq4": "Can we apply for work permits longer than 1 year?",
+    "ans4": " Work permits are generally issued for one year, while seasonal  workers can obtain permits for up to six months. Due to bureaucratic procedures, securing a work permit and visa typically takes between two to three months.",
+    "faq5": "How can work permits be renewed?",
+    "ans5": " Renewal applications must be submitted at least one month before  the permit expires. The process requires the employee’s passport, previous ID card, recent photographs (for the new ID),  a statement from the accommodation provider, and a company-issued declaration confirming continued accommodation at the designated location.",
+    "faq6": "Are there restrictions on hiring foreign workers?",
+    "ans6": "Certain professions in Europe are classified as high-demand,  allowing employers to apply for work permits without undergoing  a labor market test. The official list of these professions is available through the relevant authorities. For positions not included in the shortage occupation list, a Labor Market Test is required. This process lasts for two weeks and assesses the availability of local workers. If a labor shortage is confirmed, applications for foreign workers can proceed accordingly."
+  },
+  "contactus": {
+    "title": "Contact",
+    "subtitle": "For any questions you didn't find an answer to, feel free to reach out, and we'll explain everything in detail.",
+    "time": " Opening hours: Mon - Fri 8:00 AM - 4:00 PM",
+    "sendText": "Contact Us for Expert Assistance Have Questions? We’re Here to Help!"
+  },
+  "navigating": {
+    "hero": {
+      "title": "Navigating Immigration Laws for Employers",
+      "desc": "Adhering to immigration laws can be complex due to the regulatory framework governing the employment of foreign workers. This is where our expertise helps streamline the process.",
+      "btn": "Contact us"
+    },
+    "challenges": {
+      "title": "Challenges of Immigration Compliance",
+      "desc1": "  One of the biggest challenges companies encounter when hiring foreign professionals is navigating the intricate immigration laws, which are designed to safeguard the local labor market while also addressing economic workforce demands.",
+      "desc2": " Ensuring compliance with immigration regulations can be complex, as  businesses must adhere to strict legal requirements governing the employment of international workers. Employers are obligated to meet tax and social security regulations, as well as specific conditions, such as maintaining full-time employment for local or EU nationals for a designated period. The process also involves obtaining work and residence permits, along with adhering to policies for hiring talent from non-EU countries.",
+      "desc3": "This is where expert guidance becomes essential. Our team specializes in streamlining the employment process, assisting businesses in securing work permits, handling the necessary documentation, and ensuring full compliance with all labor market regulations.",
+      "desc4": " At ArkaHire, we provide professional guidance to simplify the hiring process. Our experts assist in obtaining work permits,managing required documentation, and ensuring full compliance with labor market regulations.",
+      "desc5": " If you’re dealing with complex employment requirements, our Employment Administration Service offers a complete solution."
+    },
+    "employment": {
+      "title": "Employment Administration",
+      "desc": "Our Employment Administration Service manages all administrative procedures related to hiring international professionals. We ensure compliance with labor and immigration laws, streamlining the entire process for your company.",
+      "btn": "Learn More"
+    },
+    "features": {
+      "title1": "Access to Skilled Workers",
+      "desc1": "A database of thoroughly vetted and qualified candidates.",
+      "title2": "  Flexible Workforce Solutions",
+      "desc2": "Tailored hiring options to suit your operational needs.",
+      "title3": " Fast & Efficient Recruitment Process",
+      "desc3": " We accelerate the hiring and administrative processes, making recruitment seamless."
+    }
+  },
+
+  "seasonal": {
+    "hero": {
+      "title": "Employment of Seasonal Workers",
+      "desc": " At ArkaHire, we specialize in recruiting seasonal workers across various professions, including waiters, bartenders, cooks, assistant  kitchen staff, maids, cleaners, and receptionists. Our expertise ensures that you can find the right talent for your needs.",
+      "btn": "Contact us"
+    },
+    "challenges": {
+      "title": "Challenges in Finding Seasonal Workers",
+      "desc1": " The problem of finding seasonal workers in Croatia, especially in industries such as tourism, catering, agriculture, and construction,  is multifaceted and often represents a significant challenge for  employers.",
+      "desc2": "The hospitality industry is more subject to seasonal changes than ever before, compared to any other sphere of activity.",
+      "desc3": "Most of our clients during the first quarter cannot accurately predict the number and need for external or foreign workers during the high season.",
+      "desc4": " The situation in which most resorts, hotels, and restaurants make  last-minute hiring decisions results in a sudden increase in demand  for workers. This further results in the market’s unwillingness to meet that demand immediately. Namely, from the moment of signing the contract with the Employment Agency, it takes a month or even two until the foreign workers arrive at their workplace. Finding workers, testing qualifications, interviewing, paperwork and similar processes take up most of that time.",
+      "desc5": "  Therefore, we offer you a solution that eliminates the risks of long  waits and delays in the arrival of workers: outsourcing of labor."
+    },
+    "assignment": {
+      "title": "Assignment of workers",
+      "desc": "Our worker assignment service facilitates the swift hiring of labor for seasonal projects or specific timeframes. By utilizing available workers already in Europe, we expedite the hiring process significantly. We handle the establishment of assignment agreements and take responsibility for salary payments and administrative tasks. This service is designed to provide a practical solution for urgent manpower needs while ensuring flexibility and efficiency in managing personnel across various projects and seasonal demands.",
+      "btn": "Learn More"
+    },
+    "features": {
+      "title1": " Access to Qualified Talent",
+      "desc1": " At ArkaHire, we offer a database of pre-verified candidates,  minimizing the risks associated with hiring. Our process ensures access to skilled workers tailored to your needs.",
+      "title2": " Flexible Workforce Solutions",
+      "desc2": " We understand the importance of flexible workforce management, allowing you to adapt to changing demands efficiently.",
+      "title3": "  Efficient Recruitment Process",
+      "desc3": " Our streamlined recruitment process accelerates finding, managing, and hiring workers, ensuring you meet your workforce needs promptly."
+    }
+  },
+  "medical": {
+    "hero": {
+      "title": " Employment of Medical Workers",
+      "desc": "Doctors, nurses, medical technicians, pharmacists, and other healthcare professionals – we specialize in recruiting all types of medical staff.",
+      "btn": "Contact us"
+    },
+    "challenges": {
+      "title": "Challenges in Finding Medical Workers",
+      "desc1": "The challenge of sourcing qualified medical professionals, particularly in specialized healthcare roles, is a significant issue faced by healthcare institutions globally",
+      "desc2": " Similar to other countries, Croatia’s healthcare system is grappling with the difficulties of finding and retaining skilled medical  staff. The demand for healthcare professionals, such as doctors, nurses, pharmacists, and technicians, continues to rise due to factors like an aging population, medical advancements, and changing healthcare needs.",
+      "desc3": " The need for medical workers is continuously increasing, driven by factors like population growth, an aging society, and advancements in medical technology.",
+      "desc4": " Croatia’s healthcare system includes both public and private entities, each with its own staffing requirements. While the country’s medical workforce is generally skilled, certain specialties or regions may experience shortages, creating gaps in  patient care and increasing the strain on existing staff.",
+      "desc5": " Healthcare facilities also often face challenges in accurately predicting their staffing needs, leading to shortages during critical times. This unpredictability can disrupt care quality and  overburden current staff."
+    },
+    "mediation": {
+      "title": "Employment Mediation",
+      "desc": "  We provide access to a broad pool of pre-screened candidates, including those with specialized skills and experience. By utilizing  our networks and resources, we can accelerate the hiring process, reducing the time needed to fill vacancies and minimizing  disruptions in patient care. We ensure adherence to all licensing  and regulatory standards and help reduce the risk of hiring  unqualified or unreliable candidates.",
+      "btn": "Learn More"
+    },
+    "features": {
+      "title1": " Access to Responsible Workers",
+      "desc1": "Gain access to a thoroughly vetted and skilled workforce",
+      "title2": " Preventing Project Delays",
+      "desc2": "  We ensure that projects are completed on schedule with a capable  workforce.",
+      "title3": "  Efficient and Streamlined Recruitment Process",
+      "desc3": " We expedite the process of sourcing, managing, and hiring workers."
+    }
+  },
+
+  "construction": {
+    "hero": {
+      "title": " Employment of Construction Workers",
+      "desc": " We provide staffing solutions for a wide variety of construction-related roles, including armorers, carpenters, masons,metal structure fitters, roofers, and construction machine operators.",
+      "btn": "Contact us"
+    },
+    "challenges": {
+      "title": "Challenges in Finding Construction Workers",
+      "desc1": "  The construction industry is currently encountering significant challenges in sourcing skilled labor. This shortage of workers hampers productivity, causes delays in project timelines, and  complicates efforts to meet the increasing demand for qualified professionals in the sector.",
+      "desc2": "  Across Europe, there is a rising demand for construction experts, as seen in the numerous job listings. Many companies face difficulties in locating experienced and capable workers, resulting in delays in project completion.",
+      "desc3": "   As a recruitment agency specializing in foreign labor, ArkaHire bridges the gap between demand and supply by connecting skilled workers from third-world countries with employers in need. We also guide our clients through the legal processes associated with hiring  foreign employees, ensuring a smooth and compliant recruitment experience."
+    },
+    "mediation": {
+      "title": "Employment Mediation",
+      "desc": "Through our employment mediation services, we assist companies in  tapping into a vast pool of skilled workers. We address the challenges faced in securing a qualified workforce. By enabling the  employment of foreign talent and providing all-encompassing  recruitment services, we play a pivotal role in meeting the workforce demands across various industries in Europe",
+      "btn": "Learn More"
+    },
+    "features": {
+      "title1": "  Access to Responsible Workers",
+      "desc1": "Gain access to a thoroughly vetted and skilled workforce.",
+      "title2": " Preventing Project Delays",
+      "desc2": "  We ensure that projects are completed on schedule with a capable  workforce.",
+      "title3": "  Efficient and Streamlined Recruitment Process",
+      "desc3": " We expedite the process of sourcing, managing, and hiring workers."
+    }
+  },
+  "servicemain": {
+    "title1": "Know more about our services",
+    "desc1": " We support you through every stage of the recruitment process – from sourcing candidates, handling administration, to seamless integration.",
+    "btn1": "Contact us",
+    "title2": "Employment administration",
+    "desc2": " We take care of all administrative tasks related to hiring  international professionals, including document translations, visa and work permit processing, and drafting employment contracts.",
+    "btn2": "Know more",
+    "title3": "Full-Service HR",
+    "desc3": " For comprehensive human resources management support, from recruitment to seamless employee integration.",
+    "title4": "Employment Mediation",
+    "desc4": " Save valuable time and resources by leveraging our professional expertise in sourcing qualified workers from outside Europe.",
+    "title5": "Worker Assignment Services",
+    "desc5": "  ArkaHire provides a service for hiring workers for specific  periods, such as projects or seasons, with the option for permanent employment."
+  },
+
+  "assignmentworkers": {
+    "hero": {
+      "title": "Worker Assignment Services",
+      "desc": " ArkaHire provides a service for hiring workers for specific  periods, such as projects or seasons, with the option for permanent employment.",
+      "btn": "Contact us"
+    },
+    "features": {
+      "title1": " Employment Flexibility",
+      "desc1": "We offer effective manpower solutions for short-term projects or  fluctuating workforce demands, ensuring operational efficiency.",
+      "title2": " Worker Assessment Before Employment",
+      "desc2": "  We enable testing of workers before permanent employment to ensure successful cooperation and compatibility.",
+      "title3": " Streamlined Administration",
+      "desc3": " We handle all administrative tasks related to employment and HR, so you can focus on your core business activities."
+    },
+    "include": {
+      "title": "What Does the Worker Assignment Service Include?",
+      "desc1": "This service provides flexibility in workforce management while reducing administrative burdens. It grants access to specialized talent from abroad without the complexities of direct recruitment.",
+      "desc2": "   We simplify temporary employment by drafting formal Employment Contracts and assigning workers to client companies under agreed terms.",
+      "desc3": "Our services extend beyond employment by managing administrative tasks such as pension and health insurance applications, salary calculations, and benefits processing.",
+      "desc4": " Workers are placed in client companies under agreed conditions while we assume the official role of the employer.",
+      "desc5": "  By choosing our services, companies benefit from a streamlined process that resolves bureaucratic challenges, ensures legal compliance, and enhances administrative efficiency. This allows businesses to focus on their core operations."
+    },
+    "whenToconsider": {
+      "title": "When to Consider Employment Mediation?",
+      "faq1": "Do you need workers for a specific project or on a seasonal basis?",
+      "ans1": "   Our service provides you with access to a global talent pool. We assess your requirements and connect you with the best candidates to meet those needs.",
+      "faq2": "You want to avoid the complexities of direct employment",
+      "ans2": "We handle all administrative and accounting tasks related to workers, allowing you to focus on your core business operations without the added burden.",
+      "faq3": "You want to ensure the quality of your workforce",
+      "ans3": " If you need to evaluate the skills of workers before making a permanent hire, our service offers an ideal solution as a test phase. Additionally, our agency workers are thoroughly vetted. Many of them have extensive experience from previous agency work, contributing developed skills and knowledge to any business environment. We also conduct additional checks on all new workers to ensure their readiness."
+    },
+    "advantages": {
+      "title1": " What are the advantages of hiring through an agency?",
+      "desc1": "By utilizing our agency work services, we offer flexible solutions for filling short- or long-term employee absences, optimizing seasonal workforce needs, and meeting specific project requirements. Additionally, we manage all administrative tasks, ensuring the process is smooth and efficient.",
+      "title2": "Expert Guidance",
+      "desc2": "We provide professional support and advice throughout the  recruitment process, ensuring you make well-informed decisions.",
+      "title3": " Saving Time and Resources",
+      "desc3": "   We take care of candidate searches, negotiations, and administrative tasks, allowing you to focus on the core areas of your business.",
+      "title4": "Access to a Wider Market",
+      "desc4": " We give you access to a diverse pool of candidates from across the globe through our established network.",
+      "title5": "Risk Reduction",
+      "desc5": "We ensure security by thoroughly vetting candidates' qualifications and references, reducing the risk of unsuitable hires and non-compliance with regulations."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "queation1": "What are the advantages of hiring through an agency?",
+      "ans1": "By using the service of agency work, we enable you to flexibly fill short or long absences of your employees, to optimize seasonal business needs or requirements for specific projects. We also handle administrative tasks, facilitating the entire process.",
+      "queation2": " What administrative tasks do we take over from you?",
+      "ans2": {
+        "title1": "  We relieve you from the administrative burden associated with seconded workers, which includes:",
+        "item1": "Drafting and concluding employment contracts",
+        "item2": "Calculating and processing wages and contributions",
+        "item3": "  Registering and deregistering workers with the Pension and Health Insurance Institute",
+        "item4": "Maintaining monthly and annual records (vacation days, sick leave, etc.)",
+        "item5": " Completing and submitting required reports to relevant authorities"
+      },
+      "queation3": "What are your obligations towards workers?",
+      "ans3": "   The user (employer) must adhere to labor laws, including health and safety regulations, as well as special protections for specific groups of workers. This includes providing protective clothing and footwear when required by the nature of the job. Additionally, the user is responsible for organizing and assigning work according to the established processes, as well as maintaining attendance records for workers at the workplace. Footer"
+    }
+  },
+  "employmentmediation": {
+    "hero": {
+      "title": "Employment Mediation",
+      "desc": "Save valuable time and resources by leveraging our professional expertise in sourcing qualified workers from outside Europe.",
+      "btn": "Contact us"
+    },
+    "features": {
+      "title1": " Access to Skilled Workers",
+      "desc1": "We proactively search and handpick potential candidates, utilizing our vast networks and databases.",
+      "title2": "Streamlined Recruitment Process",
+      "desc2": " We ensure the recruitment process is conducted with efficiency and precision.",
+      "title3": "Expert Guidance and Support at Every Stage",
+      "desc3": "  We provide expert insights, ensuring informed decisions and successful outcomes."
+    },
+    "what": {
+      "title": "What is Employment Mediation?",
+      "desc1": "We serve as a bridge between employers and prospective candidates, simplifying the process by defining job requirements, screening applicants, and offering comprehensive support. Our goal is to connect top-tier talent with businesses.",
+      "desc2": "Recruitment is a vital service that supports employers in finding qualified candidates for their organizations. This service involves engaging a recruitment agency that acts as a mediator between businesses and potential employees. The agency focuses on understanding the employer's needs, defining the specific job requirements, and diligently searching for and selecting candidates who align with those needs.",
+      "desc3": "A fundamental role of the agency during the hiring process is to conduct thorough background checks on candidates’ qualifications and experience, ensuring their suitability for the role.",
+      "desc4": "Opting for recruitment services offers numerous advantages, including access to an expansive talent pool, reducing the time and resources needed for recruitment, and ensuring high standards of professionalism in candidate selection."
+    },
+    "commonfaq": {
+      "title": "Find Answers to the Most Commonly Asked Questions",
+      "queation1": "What are Our Responsibilities in the Mediation Process?",
+      "ans1": {
+        "title1": " The duties of agencies involved in the mediation of foreign  worker employment include:",
+        "item1": "Sourcing a suitable worker based on the client’s criteria, conducting the selection process, and providing the required documentation.",
+        "item2": "Preparing and submitting all necessary paperwork to obtain temporary residence and work permits for citizens of third-world countries.",
+        "item3": "Covering travel insurance costs for workers.",
+        "item4": "Arranging for the visa required for residence and work in Europe.",
+        "item5": "Covering the cost of the worker's flight."
+      },
+      "queation2": "What Are Your Obligations Towards a Foreign Worker?",
+      "ans2": "Once a work permit is obtained for a foreign worker, it is necessary to provide accommodation and meals upon their arrival. The accommodation should meet basic living standards. If food cannot be provided, a food allowance must be paid to the worker. Additionally, you are obligated to register the worker for pension and health insurance, just as you would for any local employee.",
+      "queation3": "What Are the Requirements to Obtain a Residence and Work Permit?",
+      "ans3": {
+        "title2": "The requirements for obtaining the necessary permits include:",
+        "item1": "Operating an economic activity that is registered in Europe.",
+        "item2": "Employing at least one-quarter of Croatian citizens in comparison to third-country nationals on a full-time, indefinite contract for the past six months.",
+        "item3": "A certificate from the Tax Administration confirming no outstanding debts related to public benefits, dated within a recent period before applying for the permits.",
+        "item4": "No legal convictions related to labor relations or social security."
+      }
+    },
+    "benefits": {
+      "title1": "What Are the Benefits of Hiring Through an Agency?",
+      "item1": "We handle the preparation and submission of all required legal documents on behalf of employers and their selected employees.",
+      "item2": " With our extensive experience in this field, we have streamlined our  processes, offering employers a quick and efficient way to hire.",
+      "title2": "Expert Guidance",
+      "desc2": " We provide professional support and advice throughout the recruitment process, ensuring you make well-informed decisions.",
+      "title3": " Saving Time and Resources",
+      "desc3": " We take care of candidate searches, negotiations, and administrative tasks, allowing you to focus on the core areas of your business.",
+      "title4": "Access to a Wider Market",
+      "desc4": " We give you access to a diverse pool of candidates from across the  globe through our established network.",
+      "title5": "Risk Reduction",
+      "desc5": "We ensure security by thoroughly vetting candidates' qualifications and references, reducing the risk of unsuitable hires and non-compliance with regulations."
+    },
+    "process": {
+      "title1": "Step 1: Consultations",
+      "desc1": "Our team of specialists conducts an in-depth analysis of your workforce needs, crafting a tailored recruitment strategy.",
+      "title2": "Step 2: Finding Talent",
+      "desc2": " With our extensive network and resources, we identify skilled  candidates from across the globe that fit your business requirements.",
+      "title3": " Step 3: Selection Process",
+      "desc3": "   We meticulously evaluate candidates’ qualifications, experience, and references to ensure we select the best individuals for your team.",
+      "title4": " Step 4: Bringing Workers to Europe",
+      "desc4": " We handle all the necessary documentation and manage the relocation of workers to Europe.",
+      "title5": " What Does the Process Look Like?",
+      "desc5": "  Leave all human resources concerns to us and ensure optimal management of your employees with our all-inclusive HR services!"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "queation1": "What Are Our Responsibilities in the Mediation Process?",
+      "ans1": "The duties of agencies involved in foreign worker employment mediation include: – Identifying a suitable worker based on the client’s criteria, conducting the selection process, and providing the required documentation. – Preparing and submitting all necessary documentation to obtain temporary residence and work permits for third-country nationals. – Covering the costs of travel insurance for the workers. – Arranging the visa for residence and work in Europe. – Covering the cost of the worker's airfare.",
+      "queation2": "What Are Your Responsibilities Towards a Foreign Worker?",
+      "ans2": "Once a work permit is obtained for a foreign worker, accommodation and meals must be provided upon their arrival. Accommodation should meet basic living standards. If meals cannot be provided, a food allowance must be given. Additionally, it is mandatory to register the worker for pension and health insurance, just like any local employee.",
+      "queation3": "  What Conditions Must Be Met to Obtain a Residence and Work Permit?",
+      "ans3": "To obtain the necessary permits, the following conditions must be met: – Your business must be registered in Europe. – You must employ at least one-quarter of local citizens compared to third-country nationals on a full-time, indefinite basis for the past six months. – A certificate from the Tax Administration confirming no outstanding debts due to public benefits, dated within a recent period before applying for the permits. – There must be no legal convictions related to labor relations or social security.",
+      "queation4": "Can the Worker Start Immediately?",
+      "ans4": "Unfortunately, no. Since these workers are from third countries, they must first obtain a work permit and visa before entering Europe. The entire process can take anywhere from 45 to 90 days, depending on the speed of the involved institutions (CES, MUP, and MFA). Document preparation and negotiations typically take 4 to 10 days, depending on the employer’s readiness. Recruitment and candidate selection can range from 1 to 30 days (up to 7 days for low-skilled workers, up to 30 days for skilled workers), or longer if specific professions are required (up to 60 days). The labor market test (for professions with no shortage) typically lasts 15 days. Obtaining a work permit usually takes between 15 to 30 days, depending on the police station. Visa processing takes an additional 15 to 30 days, depending on the embassy. Organizing travel and the worker’s arrival in Europe generally takes 1 to 10 days."
+    }
+  },
+  "administration": {
+    "hero": {
+      "title": "Comprehensive Employment Administration Services",
+      "desc": "We take care of all administrative tasks related to hiring international professionals, including document translations, visa and  work permit processing, and drafting employment contracts.",
+      "btn": "Contact us"
+    },
+    "features": {
+      "title1": "Save Time & Costs",
+      "desc1": " Eliminate the burden of complex administrative procedures and focus on your core business.",
+      "title2": "Expert Assistance",
+      "desc2": "Our team ensures a seamless process while adhering to the latest  legal requirements.",
+      "title3": "Tailored Solutions",
+      "desc3": " We customize our services to meet your specific hiring needs."
+    },
+    "include": {
+      "title": "What does the employment administration service include?",
+      "desc1": "We assist businesses in managing the complexities of hiring foreign workers, ensuring compliance with immigration and labor laws, and simplifying the administrative process.",
+      "title1": " Our employment administration service includes handling all administrative tasks related to the employment of foreign workers for companies operating in the EU. The service typically covers:",
+      "desc2": {
+        "item1": "Processing work permits and visas",
+        "item2": "Ensuring documentation complies with immigration laws",
+        "item3": "Preparing employment contracts",
+        "item4": "Coordinating with government authorities"
+      }
+    },
+    "whenToconsider": {
+      "title": "When to choose an administration service?",
+      "faq1": "You have already found employees yourself.",
+      "ans1": "  If you have already carried out the process of selecting foreign  workers yourself and selected the ideal staff for your business, we can provide you with support and assistance during employment.",
+      "faq2": " You don't have enough time to worry about administration.",
+      "ans2": "We free you from administrative tasks and processes, allowing you to focus on your core business activities. We take care of all the necessary documentation so that you can dedicate yourself to developing your business. We will secure visas, and residence and work permits for you, translate foreign documentation, prepare employment contracts, and all other necessary documents.",
+      "faq3": "You don't understand the legal regulations.",
+      "ans3": "Our team checks qualifications and ensures compliance with local regulations and laws. Experienced experts provide support in the entire process and ensure that the entire process follows legal regulations."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "queation1": "What does the process of hiring foreign workers look like?",
+      "ans1": {
+        "title1": " To hire foreign workers for positions across Europe, the following essential steps must be followed:",
+        "item1": "Secure a work permit for the foreign employee through the appropriate immigration or employment authority.",
+        "item2": "Submit an application for the worker's residence permit.",
+        "item3": "Register the foreign employee with relevant tax and social security authorities.",
+        "item4": "Ensure adherence to all applicable labor and immigration regulations."
+      },
+      "queation2": "What documents are required for the employment of foreign workers?",
+      "ans2": {
+        "title2": "The necessary documentation includes:",
+        "item1": "Work permit issued by the relevant authority.",
+        "item2": "Employment contract or formal agreement.",
+        "item3": "Valid passport or identification of the foreign worker.",
+        "item4": "Health insurance coverage for the worker.",
+        "item5": "Proof of payment for required administrative fees."
+      },
+      "queation3": "How can administrative assistance services help employers navigate the process of hiring foreign workers in the EU?",
+      "ans3": "Administrative assistance services play a crucial role in simplifying the process of hiring foreign workers, offering thorough support at every stage.",
+      "ans4": "We guide employers through the entire work and residence permit application process, assist in preparing and submitting necessary documents to the relevant authorities, and ensure full compliance with legal requirements. Our services include continuous advice on labor and immigration matters, while streamlining administrative tasks. This approach saves employers time and resources, ensuring a seamless and efficient hiring process for foreign workers across Europe."
+    }
+  },
+  "fullservicehr": {
+    "hero": {
+      "title": "Full-service HR",
+      "desc": "For comprehensive human resources management support, from recruitment to seamless employee integration.",
+      "btn": "Contact us"
+    },
+    "features": {
+      "title1": "Support Throughout the Entire HR Process",
+      "desc1": "  From recruitment and administration to securing accommodation and providing ongoing assistance.",
+      "title2": "Access to HR Experts",
+      "desc2": "Benefit from the expertise of professionals with extensive  experience in human resources.",
+      "title3": "Focus on Business Goals",
+      "desc3": " Redirect your attention to achieving strategic objectives while we  manage your HR needs."
+    },
+    "mean": {
+      "title": "What Does Full-Service HR Mean?",
+      "desc1": "The Full-Service HR option provides a wide range of support that covers every aspect of the HR process, from recruitment to the smooth integration of employees within your organization.",
+      "desc2": " This all-encompassing service includes recruitment, selection procedures, administrative work, insurance concerns, accommodation, and ongoing support throughout the entire employment journey. By employing highly specialized staff with considerable experience in  employment law, this service ensures meticulous attention to detail and the identification of solutions tailored to meet a company’s specific needs.",
+      "desc3": "Outsourcing these essential HR functions offers several advantages. First, it provides access to the expertise of seasoned professionals, ensuring efficient and coordinated human resources management. Second, outsourcing allows a company to reallocate its internal resources toward core business goals, boosting productivity and advancing strategic objectives. Ultimately, the Full-Service HR option not only guarantees seamless HR operations but also enables businesses to focus on achieving their primary mission with enhanced clarity and efficiency."
+    },
+    "whenToconsider": {
+      "title": "When to Choose the Full-Service HR Option?",
+      "faq1": "Lack of an Internal HR Team",
+      "ans1": "Without an in-house HR department, managing all aspects of the HR process, from recruitment to employee onboarding, can become overwhelming and time-consuming. By outsourcing to experts, companies can ensure that each phase of the HR process is expertly managed, allowing them to focus on their core operations without the burden of HR-related tasks.",
+      "faq2": "Limited Resources for Process Management",
+      "ans2": "Whether it’s financial, time, or professional limitations, outsourcing Full-Service HR offers an effective solution. We provide the infrastructure, expertise, and experience needed to efficiently handle all HR aspects, from recruitment to administrative duties, ensuring a smooth and streamlined process without putting additional pressure on internal resources.",
+      "faq3": "Need for a Quick and Reliable Solution",
+      "ans3": "When a company needs a fast and dependable HR solution, the Full-Service HR option is the best choice. We efficiently navigate the complexities of HR, delivering timely and effective results. By leveraging our specialized knowledge and experience, companies can ensure their HR needs are met quickly and with minimal hassle."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "queation1": "What HR Functions Do We Cover?",
+      "ans1": "Our Full-Service HR solution encompasses every aspect of the HR process, including recruitment, selection procedures, administrative tasks, insurance matters, placements, and continuous support and guidance throughout the employment lifecycle.",
+      "queation2": "   How Do We Ensure Compliance With Relevant Labor Laws and Regulations?",
+      "ans2": "  We employ expert staff with extensive experience in employment law, ensuring careful attention to detail and the identification of the most suitable solutions for your company’s unique needs. We also stay up to date with the latest legal requirements and best practices to ensure full compliance.",
+      "queation3": "  What Flexibility Do We Offer in Adapting the Solution to Your Specific Company Needs?",
+      "ans3": "We understand that every company has distinct HR requirements. Therefore, we offer flexibility in customizing our Full-Service HR solution to meet your unique needs, whether that involves adjusting service components, fulfilling specific requirements, or adapting to your evolving business demands."
+    }
+  },
+  "about": {
+    "hireaforeigner": {
+      "title": "Hire a foreigner",
+      "desc": " A reliable and experienced partner in the recruitment of foreign workers. Our team of experts is dedicated to guiding you through the immigration process, ensuring a smooth and successful outcome.",
+      "btn": "Contact us"
+    },
+    "whoWeare": {
+      "title1": "WHO ARE WE?",
+      "title2": "International Employment Agency",
+      "desc1": "We assist our international clients in finding suitable employment opportunities, including those within Europe, by carefully matching them to positions that align with their qualifications. Additionally, we ensure that the companies we partner with not only respect but also reward their workforce fairly.",
+      "desc2": "For our employer clients, we meticulously source and secure qualified workers that meet their specific requirements, reducing concerns about labor turnover. This approach guarantees a stable workforce to meet project or seasonal needs, both locally and internationally. As a result, our clients can expect timely project delivery without unnecessary disruptions.",
+      "desc3": "We offer a comprehensive solution for recruiting and hiring high-quality talent, aiming to foster a productive and harmonious work environment for both employers and employees across the globe."
+    },
+    "WhyChoose": {
+      "title1": "Why Choose",
+      "title2": "ArkaHire?",
+      "desc1": "Years of Expertise",
+      "desc2": " Foreign Workers Successfully Placed",
+      "desc3": "Client Satisfaction"
+    },
+    "WhatDoWeOffer": {
+      "title1": "WHAT DO WE OFFER?",
+      "title2": " Need assistance with immigration? Our expert team is here to help",
+      "desc1": " Contact our team today to learn more about our services and take the first step towards successfully employing foreign workers.",
+      "title3": "Employment Services",
+      "btn": "Explore all services",
+      "title4": " Support in administration",
+      "desc2": "We handle all the necessary administration for employment, such as translation of documents, obtaining visas and work permits, employment contracts.",
+      "title5": " Employment Mediation",
+      "desc3": "  Save time and resources by utilizing our professional services in locating qualified workers from outside Europe.",
+      "title6": "Full-Service HR",
+      "desc4": " Comprehensive support in human resources management, starting from  recruitment through to full employee integration.",
+      "title7": "Worker Assignment Services",
+      "desc5": "  We offer worker placement for specific periods (such as projects or seasonal work) with the option to transition to permanent employment."
+    },
+    "contactourteam": {
+      "title": "Contact our team",
+      "desc1": "Learn more about our professional services and",
+      "desc2": "find out how we can help you.",
+      "btn": "Contact us"
+    }
+  },
+  "footer": {
+    "title": " We are at your disposal.",
+    "desc": "Contact us for any questions related to hiring workers from abroad. We will help you at any time."
+  }
+}

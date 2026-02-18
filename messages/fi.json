@@ -1,0 +1,553 @@
+{
+  "nav": {
+    "home": "Etusivu",
+    "howToHire": "Kuinka palkata kansainvälistä osaamista?",
+    "solutions": {
+      "label": "Ratkaisut",
+      "navigating": "Maahanmuuttolainsäädännön hallinta",
+      "seasonal": "Kausityöntekijöiden työllistäminen",
+      "construction": "Rakennustyöntekijöiden työllistäminen",
+      "medical": "Terveydenhuollon työntekijöiden työllistäminen"
+    },
+    "services": {
+      "label": "Palvelut",
+      "admin": "Työllisyyshallinto",
+      "fullHR": "Täyden palvelun HR",
+      "mediation": "Työllistymisen sovittelu",
+      "assignment": "Työntekijöiden sijoittaminen"
+    },
+    "about": "Tietoa meistä",
+    "contact": "Yhteystiedot"
+  },
+  "hero": {
+    "title": "Yksinkertaista kansainvälisen työvoiman palkkaaminen.",
+    "desc": "Olitpa pieni yritys tai monikansallinen yhtiö, ArkaHire auttaa sinua löytämään osaavat työntekijät. Rekrytoinnista perehdyttämiseen — hoidamme kaiken.",
+    "btn1": "Ota yhteyttä",
+    "btn2": "Tutustu palveluihin"
+  },
+  "achievements": {
+    "year1": "7+",
+    "exp1": "Vuoden kokemus",
+    "year2": "600+",
+    "exp2": "Sijoitettua työntekijää",
+    "year3": "100%",
+    "exp3": "Asiakastyytyväisyys"
+  },
+  "whyChoose": {
+    "title": "Miksi valita rekrytointitoimisto?",
+    "desc": "ArkaHire tarjoaa innovatiivisia, nopeita ja tehokkaita ratkaisuja kansainvälisten osaajien löytämiseen ja palkkaamiseen.",
+    "question1": "Etkö tiedä, mistä löytää laadukkaita työntekijöitä?",
+    "ans1": "Asiantuntijamme analysoivat tarpeesi ja luovat räätälöidyn rekrytointistrategian. Verkostomme kattaa Intian, Bangladeshin, Nepalin, Pakistanin, Sri Lankan ja Filippiinit.",
+    "question2": "Tarvitsetko joustavuutta rekrytointiin?",
+    "ans2": "Tarjoamme väliaikaisia kansainvälisiä työvoimaratkaisuja ja hoidamme kaikki viralliset asiat.",
+    "question3": "Ei sisäistä HR-tiimiä?",
+    "ans3": "Täyden palvelun HR-ratkaisumme kattaa kaiken rekrytoinnista työntekijän integrointiin.",
+    "question4": "Etkö tunne lakisääteisiä vaatimuksia?",
+    "ans4": "Teemme prosessista helpon ja varmistamme kaikkien lakien noudattamisen."
+  },
+
+
+  "typeofemployees": {
+    "title": "Millaisia työntekijöitä voimme löytää?",
+    "cardTitle1": "Varastotyöntekijät",
+    "cardDesc1": "Aktiivisia ja oppimishaluisia — ehdokkaamme ovat valmiita myös esimiestehtäviin.",
+    "cardTitle2": "Sähköasentajat",
+    "cardDesc2": "Ammattitaitoisia työntekijöitä eri tasoilta. Videoharjoittelut ovat mahdollisia arviointia varten.",
+    "cardTitle3": "Mekaanikot",
+    "cardDesc3": "Nuoria, osaavia ja valmiita uusiin haasteisiin.",
+    "cardTitle4": "Rakennustyöntekijät",
+    "cardDesc4": "Perustaidoista erikoisosaajiin — löydämme oikeat henkilöt projekteihisi.",
+    "cardTitle5": "Laatoittajat",
+    "cardDesc5": "Suuren kysynnän osaajat ovat saatavilla sujuvan rekrytointiprosessimme kautta.",
+    "cardTitle6": "Räätälöidyt tehtävät",
+    "cardDesc6": "Tarvitsetko tietyn roolin? Me voimme auttaa. Ota yhteyttä.",
+    "btn": "Ota yhteyttä"
+  },
+  "HireAForeigner": {
+  "title": "Ulkomaalaisen työntekijän palkkaaminen",
+  "subtitle": "Pätevien työntekijöiden palkkaus ulkomailta",
+  "desc1": "Ymmärrä keskeiset vaatimukset, jotka yrityksesi on täytettävä palkatakseen kansainvälisiä ammattilaisia.",
+  "desc2": "Yritys toiminut yli 6 kuukautta",
+  "desc3": "Vähintään yksi kokopäiväinen työntekijä vähintään 6 kuukauden ajan",
+  "desc4": "Paikallisen työvoiman osuus vähintään 25 % kaikista työntekijöistä"
+}
+,
+  "wowtohire": {
+    "title": "Kuinka palkata kansainvälistä työvoimaa?",
+    "desc": "Opastamme sinua askel askeleelta kansainvälisten työntekijöiden palkkaamisessa:",
+    "no1": "01",
+    "cardTitle1": "Työvoiman etsintä",
+    "cardDesc1": "Löydämme tarpeisiisi sopivat ehdokkaat. Verkkoharjoittelut ovat mahdollisia.",
+    "no2": "02",
+    "cardTitle2": "Sopimukset",
+    "cardDesc2": "Laadimme ja hallinnoimme työsopimuksia.",
+    "no3": "03",
+    "cardTitle3": "Majoitus",
+    "cardDesc3": "Autamme löytämään sopivan majoituksen työntekijöille.",
+    "no4": "04",
+    "cardTitle4": "Työluvat",
+    "cardDesc4": "Käsittelemme työluvan hakemukset.",
+    "no5": "05",
+    "cardTitle5": "Viisumit",
+    "cardDesc5": "Hallinnoimme viisumihakemuksia, jotka kestävät yleensä 4–6 viikkoa.",
+    "no6": "06",
+    "cardTitle6": "Matkajärjestelyt",
+    "cardDesc6": "Varaamme lennot ja varmistamme työntekijöiden turvallisen saapumisen.",
+    "no7": "07",
+    "cardTitle7": "Dokumentit",
+    "cardDesc7": "Autamme henkilökorteissa, terveystarkastuksissa ja pankkitilien avaamisessa.",
+    "no8": "08",
+    "cardTitle8": "Tyytyväisyys",
+    "cardDesc8": "Tavoitteenamme on työnantajien ja työntekijöiden tyytyväisyys."
+  },
+  "bookconsultation": {
+    "title": "Varaa ilmainen konsultaationsi.",
+    "desc1": "Luotettava ja kokenut kumppani ulkomaalaisten työntekijöiden palkkaamisessa. Asiantuntijamme ovat valmiita työskentelemään kanssasi poistaaksesi stressin maahanmuuttoprosesseista ja parantaaksesi mahdollisuuksia onnistuneeseen lopputulokseen.",
+    "decs2": "Ota yhteyttä tiimiimme tänään saadaksesi lisätietoja palveluistamme ja ottaaksesi ensimmäisen askeleen onnistunutta palkkaamista kohti.",
+    "btn": "Ota yhteyttä"
+  },
+
+  "whychooseus": {
+    "title": "Miksi valita meidät?",
+    "desc": "ArkaHire on luotettava kumppanisi kansainvälisten huippulahjakkuuksien palkkaamisessa. Asiantuntijamme ovat valmiita yksinkertaistamaan maahanmuuttoprosessia ja varmistamaan onnistuneet tulokset.",
+    "item1": "Ilmaiset konsultaatiot",
+    "item2": "Laadukkaat ehdokkaat",
+    "item3": "Nopeat vastausajat",
+    "item4": "Pitkäaikaiset kumppanuudet",
+    "item5": "Saatavuus 24/7",
+    "item6": "Varmennettujen ammattilaisten",
+    "btn": "Ota yhteyttä"
+  },
+  "faq": {
+    "title": "Usein Kysytyt Kysymykset",
+    "faq1": "Kuka vastaa majoituksesta?",
+    "ans1": "Työnantajien on tarjottava työntekijöilleen sopiva ja mukava majoitus.",
+    "faq2": "Kuinka kauan kestää, että työntekijät saapuvat?",
+    "ans2": "Prosessi kestää yleensä vähintään kolme kuukautta. Tähän aikaikkunaan kuuluu kaksiviikkoinen työluvan saamisen ajanjakso, jota seuraa vähintään kuusi viikkoa viisumin käsittelyyn.",
+    "faq3": "Mitä tapahtuu, jos emme ole tyytyväisiä työntekijään?",
+    "ans3": "Jos työntekijä ei vastaa odotuksianne, teillä on oikeus irtisanoa hänen sopimuksensa standardien työsääntöjen mukaisesti. Tällaisissa tapauksissa autamme työntekijää löytämään vaihtoehtoista työtä. Jos sopivia mahdollisuuksia ei löydy, autamme häntä palaamaan kotimaahansa.",
+    "faq4": "Voimmeko hakea työlupia, jotka ovat yli 1 vuoden?",
+    "ans4": "Työluvat myönnetään yleensä yhdeksi vuodeksi, kun taas kausityöntekijät voivat saada lupia jopa kuudeksi kuukaudeksi. Byrokraattisten menettelyjen vuoksi työluvan ja viisumin saaminen kestää yleensä kahdesta kolmeen kuukauteen.",
+    "faq5": "Miten työlupia voidaan uusia?",
+    "ans5": "Uusimisanomukset on toimitettava vähintään kuukausi ennen luvan umpeutumista. Prosessi edellyttää työntekijän passia, edellistä henkilökorttia, tuoreita valokuvia (uutta henkilökorttia varten), majoituksen tarjoajan lausuntoa ja yrityksen antamaa vahvistusta, jossa vahvistetaan majoituksen jatkuminen määrätyssä paikassa.",
+    "faq6": "Onko ulkomaalaisten työntekijöiden palkkaamiselle rajoituksia?",
+    "ans6": "Tietyt ammatit Euroopassa on luokiteltu korkean kysynnän aloiksi, mikä antaa työnantajille mahdollisuuden hakea työlupia läpikäymättä työvoimamarkkinatestia. Näiden ammatoiden virallinen luettelo on saatavilla asianomaisilta viranomaisilta. Viroissa, joita ei ole sisällytetty pula-ammattiluetteloon, vaaditaan työvoimamarkkinatesti. Tämä prosessi kestää kaksi viikkoa ja arvioi paikallisten työntekijöiden saatavuutta. Jos työvoimapula vahvistetaan, ulkomaalaisten työntekijöiden hakemukset voidaan käsitellä sen mukaisesti."
+  },
+  "contactus": {
+    "title": "Yhteystiedot",
+    "subtitle": "Kaikkiin kysymyksiin, joihin et löytänyt vastausta, voit vapaasti ottaa meihin yhteyttä, ja selitämme kaiken yksityiskohtaisesti.",
+    "time": "Aukioloajat: Ma - Pe 8.00 - 16.00",
+    "sendText": "Ota Yhteyttä Asiantuntevaan Apuun Onko Kysymyksiä? Olemme Täällä Auttaaksemme!"
+  },
+  "navigating": {
+    "hero": {
+      "title": "Maahanmuuttolakien navigointi työnantajille",
+      "desc": "Maahanmuuttolakien noudattaminen voi olla monimutkaista ulkomaalaisten työntekijöiden työllistämistä koskevan sääntelypuitteen vuoksi. Asiantuntemuksemme auttaa virtaviivaistamaan prosessia.",
+      "btn": "Ota meihin yhteyttä"
+    },
+    "challenges": {
+      "title": "Maahanmuuttosääntelyn noudattamisen haasteet",
+      "desc1": "Yksi suurimmista haasteista, johon yritykset törmäävät palkatessaan ulkomaisia ammattilaisia, on monimutkaisten maahanmuuttolakien navigointi. Nämä lait on suunniteltu suojelemaan paikallista työmarkkinoita samalla kun ne vastaavat talouden työvoimatarpeisiin.",
+      "desc2": "Maahanmuuttosääntelyn noudattaminen voi olla monimutkaista, sillä yritysten on noudatettava kansainvälisten työntekijöiden työllistämistä koskevia tiukkoja lakisääteisiä vaatimuksia. Työnantajat ovat velvollisia noudattamaan verotus- ja sosiaaliturva säännöksiä sekä erityisiä ehtoja, kuten paikallisten tai EU-kansalaisten kokoaikatyöllistämisen ylläpitoa määrätyn ajanjakson ajan. Prosessiin kuuluu myös työ- ja oleskelulupien hankkiminen sekä EU:n ulkopuolista maista tulevien osaajien palkkaamiseen liittyvien käytäntöjen noudattaminen.",
+      "desc3": "Tässä asiantuntijaohjaus on välttämätöntä. Tiimimme on erikoistunut työllistämisprosessin virtaviivaistamiseen, auttaen yrityksiä hankkimaan työlupia, käsittelemään tarvittavaa dokumentaatiota ja varmistamaan täydellisen yhteensopivuuden kaikkien työmarkkinasääntöjen kanssa.",
+      "desc4": "ArkaHireissa tarjoamme ammattitaitoista ohjausta rekrytointiprosessin yksinkertaistamiseksi. Asiantuntijamme auttavat työlupien hankinnassa, vaaditun dokumentaation hallinnassa ja työmarkkinasääntöjen täydellisessä noudattamisessa.",
+      "desc5": "Jos kohtaat monimutkaisia työllistämisvaatimuksia, Työllistämishallintopalvelumme tarjoaa täydellisen ratkaisun."
+    },
+    "employment": {
+      "title": "Työllistämishallinto",
+      "desc": "Työllistämishallintopalvelumme hoitaa kaikki kansainvälisten ammattilaisten palkkaamiseen liittyvät hallinnolliset menettelyt. Varmistamme työ- ja maahanmuuttolakien noudattamisen ja virtaviivaistamme koko prosessin yrityksellesi.",
+      "btn": "Lue lisää"
+    },
+    "features": {
+      "title1": "Pääsy koulutettuihin työntekijöihin",
+      "desc1": "Tietokanta huolellisesti tarkastetuista ja päteviksi todetuista hakijoista.",
+      "title2": "Joustavat työvoimaratkaisut",
+      "desc2": "Räätälöidyt palkkausvaihtoehdot toimintatarpeidesi mukaisesti.",
+      "title3": "Nopea ja tehokas rekrytointiprosessi",
+      "desc3": "Nopeutamme rekrytointi- ja hallintoprosesseja, mikä tekee rekrytoinnista saumattoman."
+    }
+  },
+
+
+  "seasonal": {
+    "hero": {
+      "title": "Kausityöntekijöiden palkkaaminen",
+      "desc": "ArkaHire-erikoistumme kausityöntekijöiden rekrytointiin eri ammateissa, kuten tarjoilijoita, baarimikkoja, kokkeja, keittiön avustajia, siivoojia ja vastaanottovirkailijoita. Asiantuntemusemme varmistaa, että löydät oikeat kyvyt tarpeisiisi.",
+      "btn": "Ota meihin yhteyttä"
+    },
+    "challenges": {
+      "title": "Haasteet kausityöntekijöiden löytämisessä",
+      "desc1": "Ongelma kausityöntekijöiden löytämisessä Kroatiassa, erityisesti aloilla kuten matkailu, ravitsemus, maatalous ja rakentaminen, on monitahoinen ja edustaa usein merkittävää haastetta työnantajille.",
+      "desc2": "Majoitusala on muita aloja enemmän alttiina kausivaihteluille kuin koskaan aiemmin.",
+      "desc3": "Useimmat asiakkaistamme eivät ensimmäisen neljänneksen aikana pysty ennustamaan tarkasti ulkoisten tai ulkomaalaisten työntekijöiden määrää ja tarvetta kausien huippuaikana.",
+      "desc4": "Tilanne, jossa useimmat lomakeskukset, hotellit ja ravintolat tekevät palkkauspäätöksiä viime hetkellä, johtaa työntekijöiden kysynnän äkilliseen kasvuun. Tämä puolestaan johtaa markkinoiden haluttomuuteen tai kyvyttömyyteen vastata tähän kysyntään välittömästi. Nimittäin työvoimaviranomaisen kanssa tehdyn sopimuksen allekirjoittamisesta kuluu kuukausi tai jopa kaksi, ennen kuin ulkomaalaiset työntekijät saapuvat työpaikalleen. Työntekijöiden löytäminen, pätevyyksien testaaminen, haastattelut, paperityöt ja vastaavat prosessit vievät suurimman osan tästä ajasta.",
+      "desc5": "Siksi tarjoamme sinulle ratkaisun, joka poistaa pitkien odotusaikojen ja työntekijöiden saapumisen viivästymisen riskit: työvoiman ulkoistamisen."
+    },
+    "assignment": {
+      "title": "Työntekijöiden vuokraus",
+      "desc": "Työntekijöiden vuokrauspalvelumme helpottaa työvoiman nopeaa palkkaamista kausiprojekteja tai tiettyjä ajanjaksoja varten. Hyödyntämällä käytettävissä olevia työntekijöitä, jotka ovat jo Euroopassa, nopeutamme palkkausprosessia merkittävästi. Hoidamme vuokrasopimusten laatimisen ja vastaamme palkkamaksuista ja hallinnollisista tehtävistä. Tämä palvelu on suunniteltu tarjoamaan käytännöllinen ratkaisu kiireellisiin työvoimatarpeisiin ja varmistamaan joustavuuden ja tehokkuuden henkilöstön hallinnassa eri projekteissa ja kausittaisissa vaatimuksissa.",
+      "btn": "Lue lisää"
+    },
+    "features": {
+      "title1": "Pääsy päteviin osaajiin",
+      "desc1": "Tarjoamme tietokannan ennakkotarkastetuista hakijoista, mikä vähentää palkkaamiseen liittyviä riskejä. Prosessimme varmistaa pääsyn taitaviin työntekijöihin, jotka on räätälöity tarpeitasi varten.",
+      "title2": "Joustavat työvoimaratkaisut",
+      "desc2": "Ymmärrämme joustavan työvoiman hallinnan merkityksen, mikä antaa sinun sopeutua tehokkaasti muuttuviin vaatimuksiin.",
+      "title3": "Tehokas rekrytointiprosessi",
+      "desc3": "Yksinkertaistettu rekrytointiprosessimme nopeuttaa työntekijöiden löytämistä, hallintaa ja palkkaamista varmistaen, että työvoimatarpeet täyttyvät ajallaan."
+    }
+  },
+  "medical": {
+    "hero": {
+      "title": "Lääketieteellisen henkilöstön työllistäminen",
+      "desc": "Lääkärit, sairaanhoitajat, lääketieteelliset teknikot, farmaseutit ja muut terveydenhuollon ammattilaiset – erikoistumme kaikenlaisen lääketieteellisen henkilöstön rekrytointiin.",
+      "btn": "Ota meihin yhteyttä"
+    },
+    "challenges": {
+      "title": "Haasteet lääketieteellisen henkilöstön löytämisessä",
+      "desc1": "Pätevien lääketieteellisten ammattilaisten, erityisesti erikoistuneissa terveydenhuollon tehtävissä, löytäminen on merkittävä haaste, jota terveydenhuolto laitokset kohtaavat maailmanlaajuisesti.",
+      "desc2": "Kuten muissakin maissa, Kroatian terveydenhuoltojärjestelmä kamppailee pätevän lääketieteellisen henkilöstön löytämisen ja pitämisen vaikeuksien kanssa. Terveydenhuollon ammattilaisten, kuten lääkäreiden, sairaanhoitajien, farmaseuttien ja teknikkojen, kysyntä jatkaa kasvuaan väestön ikääntymisen, lääketieteen edistymisen ja muuttuvien terveydenhuollon tarpeiden vuoksi.",
+      "desc3": "Lääketieteellisen henkilöstön tarve kasvaa jatkuvasti väestönkasvun, ikääntyvän yhteiskunnan ja lääketieteellisen tekniikan edistymisen myötä.",
+      "desc4": "Kroatian terveydenhuoltojärjestelmä sisältää sekä julkisia että yksityisiä tahoja, joilla kullakin on omat henkilöstötarpeensa. Vaikka maan lääketieteellinen työvoima on yleensä taitava, tietyillä erikoisaloilla tai alueilla voi olla pulaa, mikä luo aukkoja potilashoitoon ja lisää nykyisen henkilöstön kuormitusta.",
+      "desc5": "Terveydenhuolto laitokset kohtaavat usein myös haasteita henkilöstötarpeidensa tarkassa ennakoinnissa, mikä johtaa pulaan kriittisinä aikoina. Tämä arvaamattomuus voi häiritä hoidon laatua ja ylikuormittaa nykyistä henkilöstöä."
+    },
+    "mediation": {
+      "title": "Työllistymisvälitys",
+      "desc": "Tarjoamme pääsyn laajaan ennakkotarkastettujen hakijoiden joukkoon, mukaan lukien erikoistuneita taitoja ja kokemusta omaavien. Hyödyntämällä verkostojamme ja resurssejamme voimme nopeuttaa rekrytointiprosessia, vähentää avoimien työpaikkojen täyttöaikaa ja minimoida häiriöt potilashoidossa. Varmistamme kaikkien lisenssi- ja sääntelyvaatimusten noudattamisen ja autamme vähentämään riskiä palkata epäpäteviä tai epäluotettavia hakijoita.",
+      "btn": "Lue lisää"
+    },
+    "features": {
+      "title1": "Pääsy vastuullisiin työntekijöihin",
+      "desc1": "Saat pääsyn perusteellisesti tarkastettuun ja päteeseen työvoimaan",
+      "title2": "Projektiviivästysten estäminen",
+      "desc2": "Varmistamme, että projektit valmistuvat aikataulussa pätevän työvoiman avulla.",
+      "title3": "Tehokas ja virtaviivainen rekrytointiprosessi",
+      "desc3": "Nopeutamme työntekijöiden löytämisen, hallinnan ja palkkaamisen prosessia."
+    }
+  },
+  "construction": {
+    "hero": {
+      "title": "Rakennustyöntekijöiden työllistäminen",
+      "desc": "Tarjoamme henkilöstöratkaisuja laajaan valikoimaan rakentamiseen liittyviä tehtäviä, mukaan lukien raudoittajat, puusepät, muurarit, metallirakenteiden asentajat, kattomiehet ja rakennuskoneiden kuljettajat.",
+      "btn": "Ota meihin yhteyttä"
+    },
+    "challenges": {
+      "title": "Haasteet rakennustyöntekijöiden löytämisessä",
+      "desc1": "Rakennusteollisuus kohtaa tällä hetkellä merkittäviä haasteita ammattitaitoisten työvoiman löytämisessä. Tämä työvoimapula heikentää tuottavuutta, aiheuttaa viivästyksiä hankkeiden aikatauluissa ja vaikeuttaa pyrkimyksiä täyttää alan kasvava kysyntä päteville ammattilaisille.",
+      "desc2": "Erityisesti Euroopassa on kasvava kysyntä rakennusasiantuntijoille, kuten lukuisista työpaikkailmoituksista näkyy. Monilla yrityksillä on vaikeuksia löytää kokeneita ja päteviä työntekijöitä, mikä johtaa hankkeiden viivästymiseen.",
+      "desc3": "Rekrytointitoimistona, joka on erikoistunut ulkomaalaistyövoimaan, ArkaHire siltaa kuilun kysynnän ja tarjonnan välillä yhdistämällä taitavia työntekijöitä kehitysmaista tarvitseviin työnantajiin. Opastamme myös asiakkaitamme ulkomaalaistyöntekijöiden palkkaamiseen liittyvissä oikeusprosesseissa varmistaen sujuvan ja sääntöjenmukaisen rekrytointikokemuksen."
+    },
+    "mediation": {
+      "title": "Työnvälitys",
+      "desc": "Työnvälityspalveluidemme kautta autamme yrityksiä pääsemään laajaan ammattitaitoisten työntekijöiden pooliin. Ratkaisemme haasteita, joita yritykset kohtaavat pätevän työvoiman turvaamisessa. Mahdollistamalla ulkomaisten kykyjen työllistämisen ja tarjoamalla kattavia rekrytointipalveluja, meillä on keskeinen rooli Euroopan eri alojen työvoimatarpeiden tyydyttämisessä.",
+      "btn": "Lue lisää"
+    },
+    "features": {
+      "title1": "Pääsy vastuuntuntoisiin työntekijöihin",
+      "desc1": "Saat pääsyn huolellisesti tarkastettuun ja pätevään työvoimaan.",
+      "title2": "Hankkeiden viivästysten estäminen",
+      "desc2": "Varmistamme, että hankkeet valmistuvat aikataulussa pätevän työvoiman avulla.",
+      "title3": "Tehokas ja virtaviivainen rekrytointiprosessi",
+      "desc3": "Nopeutamme työntekijöiden löytämisen, hallinnan ja palkkaamisen prosessia."
+    }
+  },
+  "servicemain": {
+    "title1": "Lisätietoja palveluistamme",
+    "desc1": "Tuemme sinua rekrytointiprosessin jokaisessa vaiheessa – ehdokkaiden löytämisestä, hallinnon hoitamiseen saumattomaan integrointiin.",
+    "btn1": "Ota yhteyttä",
+    "title2": "Työllistymishallinto",
+    "desc2": "Hoidamme kaikki kansainvälisten asiantuntijoiden palkkaamiseen liittyvät hallinnolliset tehtävät, mukaan lukien asiakirjojen kääntämisen, viisumi- ja työlupien käsittelyn sekä työsopimusten laatimisen.",
+    "btn2": "Lisätietoja",
+    "title3": "Kokonaisvaltainen HR-palvelu",
+    "desc3": "Kattava tuki henkilöstönhallinnassa, rekrytoinnista työntekijöiden saumattomaan integrointiin.",
+    "title4": "Työnvälitys",
+    "desc4": "Säästä arvokasta aikaa ja resursseja hyödyntämällä ammattitaitoamme pätevä työvoiman löytämisessä Euroopan ulkopuolelta.",
+    "title5": "Työntekijöiden vuokrauspalvelut",
+    "desc5": "ArkaHire tarjoaa palvelun työntekijöiden palkkaamiseksi määräajaksi, kuten projekteihin tai kausityöhön, mahdollisuutena pysyvä työllistyminen."
+  },
+
+  "assignmentworkers": {
+    "hero": {
+      "title": "Työntekijöiden Vuokrauspalvelut",
+      "desc": "ArkaHire tarjoaa palvelun työntekijöiden palkkaamiseen määräajaksi, kuten projekteihin tai kausityöhön, jossa on mahdollisuus pysyvään työllistämiseen.",
+      "btn": "Ota meihin yhteyttä"
+    },
+    "features": {
+      "title1": "Työllistämisen Joustavuus",
+      "desc1": "Tarjoamme tehokkaita henkilöstöratkaisuja lyhytaikaisiin projekteihin tai vaihtelevaan työvoiman tarpeeseen, varmistaen toiminnan tehokkuuden.",
+      "title2": "Työntekijän Arviointi Ennen Työllistämistä",
+      "desc2": "Mahdollistamme työntekijöiden testaamisen ennen pysyvää työllistämistä varmistaaksemme onnistuneen yhteistyön ja yhteensopivuuden.",
+      "title3": "Yksinkertaistettu Hallinto",
+      "desc3": "Hoidamme kaikki työllistämiseen ja henkilöstöhallintoon liittyvät hallinnolliset tehtävät, jotta voit keskittyä yrityksesi ydintoimintaan."
+    },
+    "include": {
+      "title": "Mitä Työntekijöiden Vuokrauspalvelu Sisältää?",
+      "desc1": "Tämä palvelu tarjoaa joustavuutta työvoiman hallinnassa samalla kun se vähentää hallinnollista taakkaa. Se antaa pääsyn erikoistuneisiin osaajiin ulkomailta ilman suoran rekrytoinnin monimutkaisuuksia.",
+      "desc2": "Yksinkertaistamme määräaikaista työllistämistä laatimalla muodollisia työsopimuksia ja osoittamalla työntekijöitä asiakasyrityksiin sovittujen ehtojen mukaisesti.",
+      "desc3": "Palvelumme ulottuvat työllistämisen ulkopuolelle hallinnoimalla hallinnollisia tehtäviä, kuten eläke- ja sairausvakuutushakemusten käsittelyn, palkkojen laskennan ja etuuksien käsittelyn.",
+      "desc4": "Työntekijät sijoittuvat asiakasyrityksiin sovittujen ehtojen mukaisesti, kun taas me otamme virallisen työnantajan roolin.",
+      "desc5": "Valitsemalla palvelumme yritykset hyötyvät yksinkertaistetusta prosessista, joka ratkaisee byrokraattiset haasteet, varmistaa lainmukaisuuden ja parantaa hallinnollista tehokkuutta. Tämä antaa yrityksille mahdollisuuden keskittyä ydintoimintoihinsa."
+    },
+    "whenToconsider": {
+      "title": "Milloin Harkita Työvoimanvälitystä?",
+      "faq1": "Tarvitsetko työntekijöitä tiettyyn projektiin tai kausityöhön?",
+      "ans1": "Palvelumme tarjoaa sinulle pääsyn maailmanlaajuiseen osaajaresursseihin. Arvioimme tarpeesi ja yhdistämme sinut parhaisiin ehdokkaisiin nämä tarpeet täyttämään.",
+      "faq2": "Haluat välttää suoran rekrytoinnin monimutkaisuudet",
+      "ans2": "Hoidamme kaikki työntekijöihin liittyvät hallinnolliset ja kirjanpidolliset tehtävät, jotta voit keskittyä yrityksesi ydintoimintaan ilman ylimääräistä taakkaa.",
+      "faq3": "Haluat varmistaa työvoimasi laadun",
+      "ans3": "Jos sinun on arvioitava työntekijöiden taitoja ennen pysyvää palkkaamista, palvelumme tarjoaa ihanteellisen ratkaisun koejaksona. Lisäksi vuokratyöntekijämme on tarkasti tarkastettu. Monilla heistä on laajaa kokemusta aiemmasta vuokratyöstä, ja he tuovat kehittyneitä taitoja ja tietoa mihin tahansa liiketoimintaympäristöön. Suoritamme myös lisätarkastuksia kaikille uusille työntekijöille varmistaaksemme heidän valmiutensa."
+    },
+    "advantages": {
+      "title1": "Mitä etuja vuokratyöstä on?",
+      "desc1": "Hyödyntämällä vuokratyöpalvelujamme tarjoamme joustavia ratkaisuja lyhyiden tai pitkien poissaolojen täyttämiseen, kausityövoiman tarpeiden optimointiin ja erityisten projektivaatimusten täyttämiseen. Lisäksi hoidamme kaikki hallinnolliset tehtävät, varmistaen prosessin sujuvuuden ja tehokkuuden.",
+      "title2": "Asiantunteva Ohjaus",
+      "desc2": "Tarjoamme ammattitaitoista tukea ja neuvoja koko rekrytointiprosessin ajan, varmistaen että teet perustellut päätökset.",
+      "title3": "Ajan ja Resurssien Säästäminen",
+      "desc3": "Hoidamme ehdokkaiden haun, neuvottelut ja hallinnolliset tehtävät, jotta voit keskittyä liiketoimintasi keskeisiin alueisiin.",
+      "title4": "Pääsy Laajemmille Markkinoille",
+      "desc4": "Annamme sinulle pääsyn monipuoliseen ehdokaskantaan ympäri maailmaa vakiintuneen verkostomme kautta.",
+      "title5": "Riskien Vähentäminen",
+      "desc5": "Varmistamme turvallisuuden tarkistamalla perusteellisesti ehdokkaiden pätevyydet ja referenssit, vähentäen sopimattomien palkkausten riskiä ja määräysten noudattamatta jättämistä."
+    },
+    "faq": {
+      "title": "Usein Kysytyt Kysymykset",
+      "queation1": "Mitä etuja vuokratyöstä on?",
+      "ans1": "Käyttämällä vuokratyön palvelua, voimme antaa sinun täyttää joustavasti työntekijöidesi lyhyet tai pitkät poissaolot, optimoida kausittaisia liiketoiminnan tarpeita tai vaatimuksia tietyille projekteille. Hoidamme myös hallinnolliset tehtävät, helpottaen koko prosessia.",
+      "queation2": "Mitä hallinnollisia tehtäviä otamme haltuun?",
+      "ans2": {
+        "title1": "Vapautamme sinut vuokratyöntekijöihin liittyvästä hallinnollisesta taakasta, joka sisältää:",
+        "item1": "Työsopimusten laatiminen ja solmiminen",
+        "item2": "Palkkojen ja maksujen laskeminen ja käsittely",
+        "item3": "Työntekijöiden rekisteröinti ja poisto Eläke- ja Terveysvakuutuslaitoksesta",
+        "item4": "Kuukausittaisten ja vuotuisien tietojen ylläpito (lomapäivät, sairauspoissaolot jne.)",
+        "item5": "Tarvittavien raporttien täyttäminen ja toimittaminen asianomaisille viranomaisille"
+      },
+      "queation3": "Mitä velvoitteita teillä on työntekijöitä kohtaan?",
+      "ans3": "Käyttäjän (työnantajan) on noudatettava työlakeja, mukaan lukien terveys- ja turvallisuusmääräyksiä sekä erityissuojauksia tietyille työntekijäryhmille. Tämä sisältää suojavaatteiden ja -kenkien tarjoamisen, kun työn luonto niin vaatii. Lisäksi käyttäjä on vastuussa työn organisoinnista ja jakamisesta vakiintuneiden prosessien mukaisesti sekä työntekijöiden läsnäolon kirjaamisesta työpaikalla."
+    }
+  },
+  "employmentmediation": {
+    "hero": {
+      "title": "Työvoiman Välitys",
+      "desc": "Säästä arvokasta aikaa ja resursseja hyödyntämällä ammattitaitoamme päteviä työntekijöitä etsittäessä Euroopan ulkopuolelta.",
+      "btn": "Ota yhteyttä"
+    },
+    "features": {
+      "title1": "Pääsy Päteviin Työntekijöihin",
+      "desc1": "Etsimme ja valitsemme aktiivisesti mahdollisia ehdokkaita hyödyntäen laajoja verkostojamme ja tietokantojamme.",
+      "title2": "Tehokas Rekrytointiprosessi",
+      "desc2": "Varmistamme, että rekrytointiprosessi suoritetaan tehokkaasti ja tarkasti.",
+      "title3": "Asiantunteva Ohjaus ja Tuki Jokaisessa Vaiheessa",
+      "desc3": "Tarjoamme asiantuntevaa tietoa, varmistaen perustellut päätökset ja onnistuneet tulokset."
+    },
+    "what": {
+      "title": "Mikä on Työvoiman Välitys?",
+      "desc1": "Toimimme siltana työnantajien ja mahdollisten ehdokkaiden välillä, yksinkertaistaen prosessia määrittelemällä työvaatimukset, seulomalla hakijat ja tarjoamme kattavaa tukea. Tavoitteenamme on yhdistää huippuluokan kyvyt yrityksiin.",
+      "desc2": "Rekrytointi on tärkeä palvelu, joka tukee työnantajia löytämässä päteviä ehdokkaita organisaatioihinsa. Tämä palvelu sisältää rekrytointitoimiston käytön, joka toimii välikätenä yritysten ja mahdollisten työntekijöiden välillä. Toimisto keskittyy ymmärtämään työnantajan tarpeet, määrittelemään työn spesifiset vaatimukset ja etsimään sekä valitsemaan ahkerasti näihin tarpeisiin sopivia ehdokkaita.",
+      "desc3": "Toimiston perustehtävä rekrytointiprosessin aikana on suorittaa perusteellisia taustatarkistuksia ehdokkaiden pätevyyksistä ja kokemuksista, varmistaen heidän sopivuutensa rooliin.",
+      "desc4": "Rekrytointipalveluiden valitseminen tarjoaa lukuisia etuja, mukaan lukien pääsyn laajaan osaajareserviin, rekrytointiin tarvittavan ajan ja resurssien vähentämisen sekä ammattitaidon korkeiden standardien varmistamisen ehdokkaiden valinnassa."
+    },
+    "commonfaq": {
+      "title": "Löydä Vastaukset Yleisimpiin Kysymyksiin",
+      "queation1": "Mitä Vastuutamme Ovat Välitysprosessissa?",
+      "ans1": {
+        "title1": "Ulkomaalaistyövoiman välitykseen osallistuvien toimistojen velvollisuudet sisältävät:",
+        "item1": "Sopivan työntekijän löytäminen asiakkaan kriteerien perusteella, valintaprosessin suorittaminen ja tarvittavan dokumentaation tarjoaminen.",
+        "item2": "Kaikkien tarvittavien asiakirjojen valmistelu ja lähettäminen kolmansien maiden kansalaisten väliaikaisten oleskelu- ja työlupien saamiseksi.",
+        "item3": "Työntekijöiden matkavakuutuskustannusten kattaminen.",
+        "item4": "Euroopassa oleskelua ja työskentelyä varten tarvittavan viisumin järjestäminen.",
+        "item5": "Työntekijän lennon kustannusten kattaminen."
+      },
+      "queation2": "Mitä Velvollisuuksia Teillä On Ulkomaalaista Työntekijää Kohtaan?",
+      "ans2": "Kun ulkomaalaiselle työntekijälle on saatu työlupa, on tarjottava majoitus ja ateriat heidän saapuessaan. Majoituksen tulee täyttää peruselämän standardit. Jos ruokaa ei voida tarjota, työntekijälle on maksettava ruokakorvaus. Lisäksi olette velvollinen rekisteröimään työntekijän eläke- ja terveysvakuutukseen, aivan kuten tekisitte mille tahansa paikalliselle työntekijälle.",
+      "queation3": "Mitkä Ovat Oleskelu- ja Työluvan Saamisen Edellytykset?",
+      "ans3": {
+        "title2": "Tarvittavien lupien saamisen edellytyksiin kuuluvat:",
+        "item1": "Toimivan Euroopassa rekisteröidyn taloudellisen toiminnan harjoittaminen.",
+        "item2": "Ainakin neljännes kroaattien kansalaisten työllistäminen verrattuna kolmansien maiden kansalaisiin kokopäiväisellä, määräämättömällä sopimuksella viimeisen kuuden kuukauden ajalta.",
+        "item3": "Verohallinnon todistus, joka vahvistaa, että julkisiin etuihin liittyviä maksamattomia velkoja ei ole, joka on päivätty äskettäiseltä ajalta ennen lupien hakemista.",
+        "item4": "Ei oikeudellisia tuomioita työsuhteisiin tai sosiaaliturvaan liittyen."
+      }
+    },
+    "benefits": {
+      "title1": "Mitä Etyjä On Palkkaamisesta Toimiston Kautta?",
+      "item1": "Hoidamme kaikkien tarvittavien laillisten asiakirjojen valmistelun ja jättämisen työnantajien ja heidän valittujen työntekijöiden puolesta.",
+      "item2": "Laajan kokemuksemme ansiosta tällä alalla olemme virtaviivaistaneet prosessejamme, tarjoten työnantajille nopean ja tehokkaan tavan palkata.",
+      "title2": "Asiantunteva Ohjaus",
+      "desc2": "Tarjoamme ammattimaista tukea ja neuvoja koko rekrytointiprosessin ajan, varmistaen, että teette hyvin perusteltuja päätöksiä.",
+      "title3": "Ajan ja Resurssien Säästäminen",
+      "desc3": "Hoidamme ehdokkaiden haun, neuvottelut ja hallinnolliset tehtävät, jolloin voitte keskittyä liiketoimintanne ydinalueisiin.",
+      "title4": "Pääsy Laajemmille Markkinoille",
+      "desc4": "Annamme teille pääsyn monipuoliseen ehdokaskantaan ympäri maailmaa vakiintuneen verkostomme kautta.",
+      "title5": "Riskien Vähentäminen",
+      "desc5": "Varmistamme turvallisuuden tarkistamalla perusteellisesti ehdokkaiden pätevyydet ja referenssit, vähentäen sopimattomien palkkausten ja määräysten noudattamatta jättämisen riskiä."
+    },
+    "process": {
+      "title1": "Vaihe 1: Konsultaatiot",
+      "desc1": "Asiantuntijatiimimme suorittaa syväanalyysin työvoimatarpeistanne, luoden räätälöidyn rekrytointistrategian.",
+      "title2": "Vaihe 2: Kykyjen Löytäminen",
+      "desc2": "Laajan verkostomme ja resurssiemme avulla tunnistamme päteviä ehdokkaita ympäri maailmaa, jotka sopivat liiketoimintavaatimuksiinne.",
+      "title3": "Vaihe 3: Valintaprosessi",
+      "desc3": "Arvioimme huolellisesti ehdokkaiden pätevyydet, kokemuksen ja referenssit varmistaaksemme, että valitsemme parhaat henkilöt tiimiinne.",
+      "title4": "Vaihe 4: Työntekijöiden Tuominen Eurooppaan",
+      "desc4": "Hoidamme kaiken tarvittavan dokumentoinnin ja hallinnoimme työntekijöiden muuttoa Eurooppaan.",
+      "title5": "Miltä Prosessi Näyttää?",
+      "desc5": "Jätä kaikki henkilöstöasioit meidän huoleksemme ja varmista työntekijöidesi optimaalinen hallinta kattavilla HR-palveluillamme!"
+    },
+    "faq": {
+      "title": "Usein Kysytyt Kysymykset",
+      "queation1": "Mitä Vastuutamme Ovat Välitysprosessissa?",
+      "ans1": "Ulkomaalaistyövoiman välitykseen osallistuvien toimistojen velvollisuudet sisältävät: – Sopivan työntekijän tunnistaminen asiakkaan kriteerien perusteella, valintaprosessin suorittaminen ja tarvittavan dokumentaation tarjoaminen. – Kaikkien tarvittavien asiakirjojen valmistelu ja lähettäminen kolmansien maiden kansalaisten väliaikaisten oleskelu- ja työlupien saamiseksi. – Työntekijöiden matkavakuutuskustannusten kattaminen. – Euroopassa oleskelua ja työskentelyä varten tarvittavan viisumin järjestäminen. – Työntekijän lennon kustannusten kattaminen.",
+      "queation2": "Mitä Vastuutanne Ovat Ulkomaalaista Työntekijää Kohtaan?",
+      "ans2": "Kun ulkomaalaiselle työntekijälle on saatu työlupa, on tarjottava majoitus ja ateriat heidän saapuessaan. Majoituksen tulee täyttää peruselämän standardit. Jos aterioita ei voida tarjota, työntekijälle on annettava ruokakorvaus. Lisäksi on pakollista rekisteröidä työntekijä eläke- ja terveysvakuutukseen, aivan kuten mikä tahansa paikallinen työntekijä.",
+      "queation3": "Mitkä Ehdot On Täytettävä Oleskelu- ja Työluvan Saamiseksi?",
+      "ans3": "Tarvittavien lupien saamiseksi seuraavat ehdot on täytettävä: – Yrityksenne on rekisteröitävä Euroopassa. – Teidän on työllistettävä vähintään neljännes paikallisista kansalaisista verrattuna kolmansien maiden kansalaisiin kokopäiväisesti, määräämättömällä sopimuksella viimeisen kuuden kuukauden ajan. – Verohallinnon todistus, joka vahvistaa, että julkisiin etuihin liittyviä maksamattomia velkoja ei ole, joka on päivätty äskettäiseltä ajalta ennen lupien hakemista. – Ei saa olla oikeudellisia tuomioita työsuhteisiin tai sosiaaliturvaan liittyen.",
+      "queation4": "Voiko Työntekijä Aloittaa Välittömästi?",
+      "ans4": "Valitettavasti ei. Koska nämä työntekijät ovat kolmansista maista, heidän on ensin hankittava työlupa ja viisumi ennen Eurooppaan saapumista. Koko prosessi voi kestää 45–90 päivää riippuen osallistuvien laitosten nopeudesta. Asiakirjojen valmistelu ja neuvottelut kestävät yleensä 4–10 päivää riippuen työnantajan valmiudesta. Rekrytointi ja ehdokkaiden valinta voivat kestää 1–30 päivää (jopa 7 päivää matalan tason työntekijöille, jopa 30 päivää korkeamman tason työntekijöille) tai kauemmin, jos tiettyjä ammatteja tarvitaan (jopa 60 päivää). Työvoimamarkkinatesti kestää tyypillisesti 15 päivää. Työluvan saaminen kestää yleensä 15–30 päivää. Viisumin käsittely kestää vielä 15–30 päivää. Matkan ja työntekijän saapumisen järjestäminen Eurooppaan kestää yleensä 1–10 päivää."
+    }
+  },
+  "administration": {
+    "hero": {
+      "title": "Laaja-altaiset työllisyyshallinnon palvelut",
+      "desc": "Hoidamme kaikki kansainvälisten asiantuntijoiden palkkaamiseen liittyvät hallinnolliset tehtävät, mukaan lukien asiakirjojen kääntämisen, viisumien ja työlupien käsittelyn sekä työsopimusten laatimisen.",
+      "btn": "Ota meihin yhteyttä"
+    },
+    "features": {
+      "title1": "Säästä aikaa ja kustannuksia",
+      "desc1": "Vapaudu monimutkaisten hallintoprosessien taakasta ja keskity ydintoimintaasi.",
+      "title2": "Asiantuntija-apua",
+      "desc2": "Tiimimme varmistaa sujuvan prosessin noudattaen viimeisimpiä oikeusvaatimuksia.",
+      "title3": "Räätälöidyt ratkaisut",
+      "desc3": "Mukautamme palvelumme vastaamaan spesifejä rekrytointitarpeitasi."
+    },
+    "include": {
+      "title": "Mitä työllisyyshallinnon palvelu sisältää?",
+      "desc1": "Autamme yrityksiä hallitsemaan ulkomaalaisten työntekijöiden palkkaamisen monimutkaisuudet, varmistamme maahanmuutto- ja työlakien noudattamisen ja yksinkertaistamme hallintoprosessia.",
+      "title1": "Työllisyyshallintopalvelumme sisältää kaikkien EU-alueella toimivien yritysten ulkomaalaistyöntekijöiden työllistämiseen liittyvien hallintotehtävien hoitamisen. Palvelu kattaa tyypillisesti:",
+      "desc2": {
+        "item1": "Työlupien ja viisumien käsittely",
+        "item2": "Asiakirjojen vaatimustenmukaisuus maahanmuuttolakeihin",
+        "item3": "Työsopimusten valmistelu",
+        "item4": "Yhteistyö viranomaisten kanssa"
+      }
+    },
+    "whenToconsider": {
+      "title": "Milloin valita hallintopalvelu?",
+      "faq1": "Olet jo löytänyt työntekijät itse.",
+      "ans1": "Jos olet jo itse toteuttanut ulkomaalaisten työntekijöiden valintaprosessin ja valinnut yrityksellesi ihanteellisen henkilöstön, voimme tarjota sinulle tukea ja apaa työllistämisen aikana.",
+      "faq2": "Sinulla ei ole tarpeeksi aikaa huolehtia hallinnosta.",
+      "ans2": "Vapautamme sinut hallinnollisista tehtävistä ja prosesseista, jolloin voit keskittyä ydintoimintaasi. Hoidamme kaikki tarvittavat asiakirjat, jotta voit keskittyä liiketoiminnasi kehittämiseen. Hoidamme puolestasi viisumit, oleskeluluvat ja työluvat, käännämme ulkomaiset asiakirjat, valmistelemme työsopimukset ja kaikki muut tarvittavat asiakirjat.",
+      "faq3": "Et ymmärrä lakisääteisiä määräyksiä.",
+      "ans3": "Tiimimme tarkistaa pätevyydet ja varmistaa paikallisten määräysten ja lakien noudattamisen. Kokeneet asiantuntijat tarjoavat tukea koko prosessin ajan ja varmistavat, että koko prosessi noudattaa lakisääteisiä määräyksiä."
+    },
+    "faq": {
+      "title": "Usein Kysytyt Kysymykset",
+      "queation1": "Miltä ulkomaalaisten työntekijöiden palkkaamisprosessi näyttää?",
+      "ans1": {
+        "title1": "Ulkomaalaisten työntekijöiden palkkaamiseksi eri puolille Eurooppaa on noudatettava seuraavia keskeisiä vaiheita:",
+        "item1": "Hanki ulkomaiselle työntekijälle työlupa asianomaiselta maahanmuutto- tai työllisyysviranomaiselta.",
+        "item2": "Hae työntekijän oleskelulupaa.",
+        "item3": "Rekisteröi ulkomainen työntekijä asianomaisille verotoimistoille ja sosiaalivakuutusviranomaisille.",
+        "item4": "Varmista kaikkien sovellettavien työ- ja maahanmuuttosääntöjen noudattaminen."
+      },
+      "queation2": "Mitkä asiakirjat tarvitaan ulkomaalaisten työntekijöiden työllistämiseen?",
+      "ans2": {
+        "title2": "Tarvittava dokumentaatio sisältää:",
+        "item1": "Asianomaisen viranomaisen myöntämä työlupa.",
+        "item2": "Työsopimus tai muodollinen sopimus.",
+        "item3": "Ulkomaisen työntekijän voimassa oleva passi tai henkilötodistus.",
+        "item4": "Työntekijän terveysvakuutusturva.",
+        "item5": "Todistus vaadittujen hallintomaksujen suorituksesta."
+      },
+      "queation3": "Kuinka hallinnon avustuspalvelut voivat auttaa työnantajia navigoimaan ulkomaalaisten työntekijöiden palkkaamisprosessissa EU:ssa?",
+      "ans3": "Hallinnon avustuspalveluilla on ratkaiseva rooli ulkomaalaistyöntekijöiden palkkaamisprosessin yksinkertaistamisessa, ja ne tarjoavat kattavaa tukea joka vaiheessa.",
+      "ans4": "Opastamme työnantajat koko työ- ja oleskelulupahakemusprosessin läpi, autamme valmistelemaan ja jättämään tarvittavat asiakirjat asianomaisille viranomaisille ja varmistamme täydellisen lainvaatimustenmukaisuuden. Palvelumme sisältää jatkuvaa neuvontaa työ- ja maahanmuuttoasioissa samalla, kun hallinnollisia tehtäviä virtaviivaistetaan. Tämä lähestymistapa säästää työnantajien aikaa ja resursseja ja varmistaa sujuvan ja tehokkaan ulkomaalaistyöntekijöiden palkkaamisprosessin eri puolilla Eurooppaa."
+    }
+  },
+  "fullservicehr": {
+    "hero": {
+      "title": "Kokonaisvaltainen HR-palvelu",
+      "desc": "Kattava tuki henkilöstöhallinnassa, rekrytoinnista saumattomaan työntekijöiden integrointiin.",
+      "btn": "Ota yhteyttä"
+    },
+    "features": {
+      "title1": "Tuki koko HR-prosessin ajan",
+      "desc1": "Rekrytoinnista ja hallinnosta majoituksen turvaamiseen ja jatkuvaan tukeen.",
+      "title2": "Pääsy HR-asiantuntijoihin",
+      "desc2": "Hyödynnä ammattilaisten asiantuntemusta, joilla on laaja kokemus henkilöstöhallinnasta.",
+      "title3": "Keskittyminen liiketoimintatavoitteisiin",
+      "desc3": "Kohdista huomiosi strategisten tavoitteiden saavuttamiseen, kun me hoidamme HR-tarpeesi."
+    },
+    "mean": {
+      "title": "Mitä kokonaisvaltainen HR-palvelu tarkoittaa?",
+      "desc1": "Kokonaisvaltainen HR-palvelu tarjoaa laajan tuen, joka kattaa kaikki HR-prosessin osa-alueet rekrytoinnista työntekijöiden saumattomaan integrointiin organisaatioosi.",
+      "desc2": "Tämä kattava palvelu sisältää rekrytoinnin, valintamenettelyt, hallinnollisen työn, vakuutuskysymykset, majoituksen ja jatkuvan tuen koko työsuhteen ajan. Käyttämällä erikoistunutta henkilöstöä, jolla on huomattavaa kokemusta työoikeudesta, tämä palvelu varmistaa huolellisen yksityiskohtien huomioon ottamisen ja ratkaisujen löytämisen yrityksen erityistarpeisiin.",
+      "desc3": "Näiden keskeisten HR-toimintojen ulkoistaminen tarjoaa useita etuja. Ensinnäkin se tarjoaa pääsyn kokeneiden ammattilaisten asiantuntemukseen, varmistaen tehokkaan ja koordinoidun henkilöstöhallinnan. Toiseksi ulkoistaminen antaa yritykselle mahdollisuuden kohdentaa sisäiset resurssinsa ydintoimintatavoitteisiin, mikä parantaa tuottavuutta ja edistää strategisia tavoitteita. Lopuksi kokonaisvaltainen HR-palvelu ei vain takaa sujuvat HR-toiminnot, vaan antaa myös yrityksille mahdollisuuden keskittyä päätavoitteidensa saavuttamiseen lisääntyneellä selkeydellä ja tehokkuudella."
+    },
+    "whenToconsider": {
+      "title": "Milloin valita kokonaisvaltainen HR-palvelu?",
+      "faq1": "Sisäisen HR-tiimin puute",
+      "ans1": "Ilman omaa HR-osastoa kaikkien HR-prosessin osa-alueiden hallinta, rekrytoinnista työntekijöiden perehdytykseen, voi olla ylivoimaista ja aikaa vievää. Ulkoistamalla asiantuntijoille yritykset voivat varmistaa, että jokainen HR-prosessin vaihe hoidetaan ammattitaidolla, mikä mahdollistaa keskittymisen ydintoimintoihin ilman HR-tehtäväkuormaa.",
+      "faq2": "Rajatut resurssit prosessien hallintaan",
+      "ans2": "Oli kyse sitten rahoituksellisista, ajallisista tai ammatillisista rajoituksista, kokonaisvaltaisen HR-palvelun ulkoistaminen tarjoaa tehokkaan ratkaisun. Tarjoamme infrastruktuurin, asiantuntemuksen ja kokemuksen, joita tarvitaan kaikkien HR-näkökohdien tehokkaaseen käsittelyyn rekrytoinnista hallinnollisiin tehtäviin, varmistaen sujuvan ja virtaviivaistetun prosessin ilman ylimääräistä painetta sisäisille resursseille.",
+      "faq3": "Tarve nopealle ja luotettavalle ratkaisulle",
+      "ans3": "Kun yritys tarvitsee nopean ja luotettavan HR-ratkaisun, kokonaisvaltainen HR-palvelu on paras valinta. Navigoimme tehokkaasti HR-monimutkaisuuksien läpi, tuottaen ajallisia ja tehokkaita tuloksia. Hyödyntämällä erikoistunutta tietoamme ja kokemustamme yritykset voivat varmistaa, että heidän HR-tarpeensa täytetään nopeasti ja minimaalisin vaivuin."
+    },
+    "faq": {
+      "title": "Usein Kysytyt Kysymykset",
+      "queation1": "Mitä HR-toimintoja kattamme?",
+      "ans1": "Kokonaisvaltainen HR-ratkaisumme kattaa kaikki HR-prosessin osa-alueet, mukaan lukien rekrytointi, valintamenettelyt, hallinnolliset tehtävät, vakuutusasiat, sijoittelu sekä jatkuva tuki ja ohjaus koko työsuhteen ajan.",
+      "queation2": "Miten varmistamme vastaavuuden soveltuviin työlakeihin ja -määräyksiin?",
+      "ans2": "Käytämme asiantuntevaa henkilöstöä, jolla on laajaa kokemusta työoikeudesta, varmistaen huolellisen huomion yksityiskohtiin ja sopivimpien ratkaisujen löytämisen yrityksesi ainutlaatuisiin tarpeisiin. Pysymme myös ajan tasalla uusimmista lakisääteisistä vaatimuksista ja parhaista käytännöistä varmistaaksemme täyden vastaavuuden.",
+      "queation3": "Mitä joustavuutta tarjoamme ratkaisun mukauttamisessa yrityksesi erityistarpeisiin?",
+      "ans3": "Ymmärrämme, että jokaisella yrityksellä on omat HR-vaatimuksensa. Siksi tarjoamme joustavuutta kokonaisvaltaisen HR-ratkaisumme mukauttamisessa yksilöllisiin tarpeisiisi, olipa kyse palvelukomponenttien säätämisestä, erityisvaatimusten täyttämisestä tai sopeutumisesta yrityksesi muuttuviin liiketoimintatarpeisiin."
+    }
+  },
+  
+  "about": {
+    "hireaforeigner": {
+      "title": "Palkkaa ulkomaalainen",
+      "desc": "Luotettava ja kokenut kumppani ulkomaalaisten työntekijöiden rekrytoinnissa. Asiantuntijatiimimme on omistautunut auttamaan sinua maahanmuuttoprosessissa, varmistaen sujuvan ja onnistuneen lopputuloksen.",
+      "btn": "Ota meihin yhteyttä"
+    },
+    "whoWeare": {
+      "title1": "KEITÄ ME OLEMME?",
+      "title2": "Kansainvälinen työnvälitystoimisto",
+      "desc1": "Autamme kansainvälisiä asiakkaitamme löytämään sopivia työmahdollisuuksia, mukaan lukien Euroopassa, sovittamalla heidät huolellisesti heidän pätevyyksiinsä sopiviin tehtäviin. Lisäksi varmistamme, että kumppaniyrityksemme eivät ainoastaan kunnioita vaan myös palkitsevat työvoimaansa oikeudenmukaisesti.",
+      "desc2": "Työnantaja-asiakkaillemme hankimme ja turvaamme huolellisesti päteviä työntekijöitä, jotka täyttävät heidän erityisvaatimuksensa, vähentäen huolenaiheita työvoiman vaihtuvuudesta. Tämä lähestymistapa takaa vakaan työvoiman projektin tai kausityön tarpeisiin paikallisesti ja kansainvälisesti. Näin ollen asiakkaamme voivat odottaa projektien oikea-aikaista toteutusta ilman tarpeettomia keskeytyksiä.",
+      "desc3": "Tarjoamme kattavan ratkaisun korkealaatuisten huippuosaajien rekrytointiin ja palkkaamiseen, pyrkien edistämään tuottavaa ja harmonista työympäristöä niin työnantajille kuin työntekijöille ympäri maailmaa."
+    },
+    "WhyChoose": {
+      "title1": "Miksi valita",
+      "title2": "ArkaHire?",
+      "desc1": "Vuosien kokemus",
+      "desc2": "Ulkomaalaista työntekijää onnistuneesti sijoitettu",
+      "desc3": "Asiakastyytyväisyys"
+    },
+    "WhatDoWeOffer": {
+      "title1": "MITÄ TARJOAMME?",
+      "title2": "Tarvitsetko apua maahanmuuttoasioissa? Asiantuntijatiimimme on saatavilla auttamaan",
+      "desc1": "Ota yhteyttä tiimiimme tänään saadaksesi lisätietoja palveluistamme ja ottaaksesi ensimmäisen askeleen ulkomaalaisten työntekijöiden onnistunutta palkkaamista kohti.",
+      "title3": "Työllisyyspalvelut",
+      "btn": "Tutkaile kaikkia palveluja",
+      "title4": "Hallinnollinen tuki",
+      "desc2": "Hoidamme kaikki työllistymisen kannalta tarpeelliset hallinnolliset asiat, kuten asiakirjojen kääntämisen, viisumien ja työlupien hankkimisen sekä työsopimukset.",
+      "title5": "Työnvälitys",
+      "desc3": "Säästä aikaa ja resursseja hyödyntämällä ammattitaitoista palveluamme pätevien työntekijöiden löytämisessä Euroopan ulkopuolelta.",
+      "title6": "Kattava HR-palvelu",
+      "desc4": "Kattava tuki henkilöstöhallinnossa rekrytoinnista aina työntekijän täyteen integrointiin saakka.",
+      "title7": "Työntekijöiden vuokrauspalvelut",
+      "desc5": "Tarjoamme työntekijöiden sijoittamista määräajaksi (kuten projekteihin tai kausityöhön) mahdollisuudella siirtyä pysyvään työsuhteeseen."
+    },
+    "contactourteam": {
+      "title": "Ota yhteyttä tiimiimme",
+      "desc1": "Lisätietoja ammattimaisista palveluistamme ja",
+      "desc2": "selvitä, kuinka voimme auttaa sinua.",
+      "btn": "Ota meihin yhteyttä"
+    }
+  },
+  "footer": {
+    "title": "Olemme käytettävissänne.",
+    "desc": "Ota meihin yhteyttä kaikissa ulkomailta tulevien työntekijöiden palkkaamiseen liittyvissä kysymyksissä. Autamme sinua milloin tahansa."
+  }
+}

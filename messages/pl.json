@@ -1,0 +1,550 @@
+{
+  "nav": {
+    "home": "Strona główna",
+    "howToHire": "Jak zatrudnić międzynarodowe talenty?",
+    "solutions": {
+      "label": "Rozwiązania",
+      "navigating": "Poruszanie się po przepisach imigracyjnych",
+      "seasonal": "Zatrudnianie pracowników sezonowych",
+      "construction": "Zatrudnianie pracowników budowlanych",
+      "medical": "Zatrudnianie pracowników medycznych"
+    },
+    "services": {
+      "label": "Usługi",
+      "admin": "Administracja zatrudnienia",
+      "fullHR": "Kompleksowa obsługa HR",
+      "mediation": "Pośrednictwo pracy",
+      "assignment": "Przydział pracowników"
+    },
+    "about": "O nas",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Uprość proces zatrudniania globalnej siły roboczej.",
+    "desc": "Niezależnie od tego, czy jesteś małą firmą, czy międzynarodową korporacją — ArkaHire pomoże Ci znaleźć wykwalifikowanych pracowników. Od rekrutacji po onboarding — zajmujemy się wszystkim.",
+    "btn1": "Skontaktuj się z nami",
+    "btn2": "Zobacz usługi"
+  },
+  "achievements": {
+    "year1": "7+",
+    "exp1": "Lat doświadczenia",
+    "year2": "600+",
+    "exp2": "Zatrudnionych pracowników",
+    "year3": "100%",
+    "exp3": "Satysfakcja klientów"
+  },
+  "whyChoose": {
+    "title": "Dlaczego warto wybrać agencję rekrutacyjną?",
+    "desc": "W ArkaHire oferujemy innowacyjne, szybkie i skuteczne rozwiązania w zakresie pozyskiwania i zatrudniania międzynarodowych talentów.",
+    "question1": "Nie wiesz, gdzie znaleźć wykwalifikowanych pracowników?",
+    "ans1": "Nasz zespół analizuje Twoje potrzeby i przygotowuje spersonalizowaną strategię rekrutacji.",
+    "question2": "Potrzebujesz elastyczności w zatrudnianiu?",
+    "ans2": "Oferujemy tymczasowe rozwiązania kadrowe i zajmujemy się wszystkimi formalnościami.",
+    "question3": "Nie masz wewnętrznego działu HR?",
+    "ans3": "Nasza kompleksowa obsługa HR obejmuje wszystko — od rekrutacji po integrację pracowników.",
+    "question4": "Nie znasz przepisów prawnych?",
+    "ans4": "Ułatwiamy cały proces i dbamy o pełną zgodność z obowiązującymi przepisami."
+  },
+  "typeofemployees": {
+    "title": "Jakich pracowników możemy znaleźć?",
+    "cardTitle1": "Pracownicy magazynowi",
+    "cardDesc1": "Proaktywni i chętni do nauki — nasi kandydaci są gotowi również na role kierownicze.",
+    "cardTitle2": "Elektrycy",
+    "cardDesc2": "Wykwalifikowani specjaliści na różnych poziomach. Możemy zorganizować rozmowy wideo w celu oceny.",
+    "cardTitle3": "Mechanicy",
+    "cardDesc3": "Młodzi, zdolni i gotowi na nowe wyzwania.",
+    "cardTitle4": "Pracownicy budowlani",
+    "cardDesc4": "Od podstawowych umiejętności po specjalistyczne zawody — znajdziemy idealnych pracowników dla Twoich projektów.",
+    "cardTitle5": "Glazurnicy",
+    "cardDesc5": "Specjaliści o dużym popycie dostępni są dzięki naszemu usprawnionemu procesowi rekrutacji.",
+    "cardTitle6": "Stanowiska niestandardowe",
+    "cardDesc6": "Potrzebujesz konkretnej roli? Możemy pomóc. Skontaktuj się z nami.",
+    "btn": "Skontaktuj się z nami"
+  },
+
+  "HireAForeigner": {
+    "title": "Zatrudnianie cudzoziemca",
+    "subtitle": "Proces zatrudniania wykwalifikowanych pracowników z zagranicy",
+    "desc1": "Poznaj kluczowe wymagania, które Twoja firma musi spełnić, aby zatrudnić międzynarodowych specjalistów.",
+    "desc2": "Firma działa ponad 6 miesięcy",
+    "desc3": "Co najmniej jeden pracownik pełnoetatowy przez minimum 6 miesięcy",
+    "desc4": "Lokalna siła robocza stanowi co najmniej 25% wszystkich pracowników"
+  },
+  "wowtohire": {
+    "title": "Jak zatrudniać międzynarodowe talenty?",
+    "desc": "Prowadzimy Cię krok po kroku przez cały proces zatrudniania pracowników międzynarodowych:",
+    "no1": "01",
+    "cardTitle1": "Pozyskiwanie pracowników",
+    "cardDesc1": "Znajdujemy kandydatów dopasowanych do Twoich potrzeb. Dostępne są rozmowy online.",
+    "no2": "02",
+    "cardTitle2": "Umowy",
+    "cardDesc2": "Przygotowujemy i zarządzamy umowami o pracę.",
+    "no3": "03",
+    "cardTitle3": "Zakwaterowanie",
+    "cardDesc3": "Pomagamy znaleźć odpowiednie zakwaterowanie dla pracowników.",
+    "no4": "04",
+    "cardTitle4": "Zezwolenia na pracę",
+    "cardDesc4": "Zajmujemy się składaniem wniosków o pozwolenia na pracę.",
+    "no5": "05",
+    "cardTitle5": "Wizy",
+    "cardDesc5": "Prowadzimy proces uzyskiwania wiz, który zwykle trwa 4–6 tygodni.",
+    "no6": "06",
+    "cardTitle6": "Organizacja podróży",
+    "cardDesc6": "Rezerwujemy loty i dbamy o bezpieczny przyjazd pracowników.",
+    "no7": "07",
+    "cardTitle7": "Dokumentacja",
+    "cardDesc7": "Pomagamy w wyrobieniu dokumentów tożsamości, badań lekarskich i otwieraniu kont bankowych.",
+    "no8": "08",
+    "cardTitle8": "Satysfakcja",
+    "cardDesc8": "Naszym celem jest zapewnienie satysfakcji zarówno pracodawcom, jak i pracownikom."
+  },
+  "bookconsultation": {
+    "title": "Zarezerwuj Bezpłatną Konsultację.",
+    "desc1": "Rzetelny i doświadczony partner w zatrudnianiu pracowników z zagranicy. Nasi eksperci są gotowi współpracować z Tobą, aby usunąć stres z każdego procesu imigracyjnego, zwiększając Twoje szanse na sukces.",
+    "decs2": "Skontaktuj się z naszym zespołem już dziś, aby dowiedzieć się więcej o naszych usługach i zrobić pierwszy krok w kierunku udanego zatrudnienia.",
+    "btn": "Skontaktuj się z nami"
+  },
+  "whychooseus": {
+    "title": "Dlaczego Warto Nas Wybrać?",
+    "desc": "ArkaHire jest Twoim zaufanym partnerem w pozyskiwaniu talentów międzynarodowych. Nasi eksperci są gotowi uprościć proces imigracyjny i zapewnić pomyślne rezultaty.",
+    "item1": "Bezpłatne konsultacje",
+    "item2": "Wysokiej jakości kandydaci",
+    "item3": "Szybki czas odpowiedzi",
+    "item4": "Długoterminowe partnerstwa",
+    "item5": "Dostępność 24/7",
+    "item6": "Zweryfikowani profesjonaliści",
+    "btn": "Skontaktuj się z nami"
+  },
+  "faq": {
+    "title": "Często Zadawane Pytania (FAQ)",
+    "faq1": "Kto jest odpowiedzialny za zapewnienie zakwaterowania?",
+    "ans1": "Pracodawcy są zobowiązani zaoferować swoim pracownikom odpowiednie i komfortowe zakwaterowanie.",
+    "faq2": "Jak długo trwa przyjazd pracowników?",
+    "ans2": "Proces trwa zazwyczaj co najmniej trzy miesiące. Ten okres obejmuje dwa tygodnie na uzyskanie pozwolenia na pracę, a następnie co najmniej sześć tygodni na opracowanie wizy.",
+    "faq3": "Co się stanie, jeśli nie jesteśmy zadowoleni z pracownika?",
+    "ans3": "Jeśli pracownik nie spełnia Twoich oczekiwań, masz prawo rozwiązać jego umowę zgodnie ze standardowymi przepisami pracy. W takich przypadkach pomagamy pracownikowi znaleźć alternatywne zatrudnienie. Jeśli nie ma odpowiednich możliwości, ułatwiamy mu powrót do kraju ojczystego.",
+    "faq4": "Czy możemy ubiegać się o pozwolenia na pracę dłuższe niż 1 rok?",
+    "ans4": "Pozwolenia na pracę są zazwyczaj wydawane na rok, podczas gdy pracownicy sezonowi mogą uzyskać pozwolenia do sześciu miesięcy. Ze względu na procedury biurokratyczne uzyskanie pozwolenia na pracę i wizy trwa zazwyczaj od dwóch do trzech miesięcy.",
+    "faq5": "Jak można przedłużyć pozwolenia na pracę?",
+    "ans5": "Wnioski o przedłużenie należy złożyć co najmniej miesiąc przed upływem ważności pozwolenia. Proces wymaga paszportu pracownika, poprzedniego dowodu tożsamości, aktualnych zdjęć (do nowego dowodu), oświadczenia od dostawcy zakwaterowania oraz oświadczenia wydanego przez firmę potwierdzającego kontynuację zakwaterowania w wyznaczonym miejscu.",
+    "faq6": "Czy istnieją ograniczenia w zatrudnianiu pracowników z zagranicy?",
+    "ans6": "Niektóre zawody w Europie są sklasyfikowane jako deficytowe, co pozwala pracodawcom ubiegać się o pozwolenia na pracę bez przechodzenia testu rynku pracy. Oficjalna lista tych zawodów jest dostępna u odpowiednich władz. W przypadku stanowisk nieujętych na liście zawodów deficytowych wymagany jest Test Rynku Pracy. Proces ten trwa dwa tygodnie i ocenia dostępność pracowników lokalnych. Jeśli potwierdzi się niedobór siły roboczej, wnioski o pracowników zagranicznych mogą być rozpatrywane odpowiednio."
+  },
+
+  "contactus": {
+    "title": "Kontakt",
+    "subtitle": "W przypadku pytań, na które nie znalazłeś odpowiedzi, śmiało skontaktuj się z nami, a my wyjaśnimy wszystko szczegółowo.",
+    "time": "Godziny otwarcia: Pn - Pt 8:00 - 16:00",
+    "sendText": "Skontaktuj się z nami po fachową pomoc Masz pytania? Jesteśmy tutaj, aby pomóc!"
+  },
+
+  "navigating": {
+    "hero": {
+      "title": "Praca z Przepisami Imigracyjnymi dla Pracodawców",
+      "desc": "Przestrzeganie przepisów imigracyjnych może być złożone ze względu na ramy regulacyjne dotyczące zatrudniania zagranicznych pracowników. Tutaj nasza wiedza specjalistyczna pomaga usprawnić ten proces.",
+      "btn": "Skontaktuj się z nami"
+    },
+    "challenges": {
+      "title": "Wyzwania Zgodności Imigracyjnej",
+      "desc1": "Jednym z największych wyzwań, przed którymi stoją firmy zatrudniające zagranicznych specjalistów, jest poruszanie się w skomplikowanych przepisach imigracyjnych, które mają na celu ochronę lokalnego rynku pracy, jednocześnie zaspokajając ekonomiczne zapotrzebowanie na siłę roboczą.",
+      "desc2": "Zapewnienie zgodności z przepisami imigracyjnymi może być złożone, ponieważ firmy muszą przestrzegać surowych wymogów prawnych regulujących zatrudnianie pracowników międzynarodowych. Pracodawcy są zobowiązani do przestrzegania przepisów podatkowych i zabezpieczenia społecznego, a także określonych warunków, takich jak utrzymanie pełnego wymiaru czasu pracy dla miejscowych lub obywateli UE przez określony okres. Proces ten obejmuje również uzyskiwanie zezwoleń na pracę i pobyt, a także przestrzeganie polityk zatrudniania talentów z krajów spoza UE.",
+      "desc3": "Tutaj niezbędne staje się fachowe doradztwo. Nasz zespół specjalizuje się w usprawnianiu procesu zatrudnienia, pomagając firmom w uzyskiwaniu zezwoleń na pracę, zarządzaniu wymaganą dokumentacją i zapewnianiu pełnej zgodności ze wszystkimi przepisami rynku pracy.",
+      "desc4": "W ArkaHire zapewniamy profesjonalne wsparcie w celu uproszczenia procesu zatrudnienia. Nasi eksperci pomagają w uzyskaniu zezwoleń na pracę, zarządzaniu wymaganą dokumentacją i zapewnieniu pełnej zgodności z przepisami rynku pracy.",
+      "desc5": "Jeśli masz do czynienia ze złożonymi wymaganiami związanymi z zatrudnieniem, nasza Usługa Administracji Zatrudnienia oferuje kompleksowe rozwiązanie."
+    },
+    "employment": {
+      "title": "Administracja Zatrudnienia",
+      "desc": "Nasza Usługa Administracji Zatrudnienia zarządza wszystkimi procedurami administracyjnymi związanymi z zatrudnianiem międzynarodowych specjalistów. Zapewniamy zgodność z prawem pracy i imigracyjnym, usprawniając cały proces dla Twojej firmy.",
+      "btn": "Dowiedz się więcej"
+    },
+    "features": {
+      "title1": "Dostęp do Wykwalifikowanych Pracowników",
+      "desc1": "Baza danych starannie sprawdzonych i wykwalifikowanych kandydatów.",
+      "title2": "Elastyczne Rozwiązania Kadrowe",
+      "desc2": "Dopasowane opcje zatrudnienia odpowiadające Twoim potrzebom operacyjnym.",
+      "title3": "Szybki i Wydajny Proces Rekrutacji",
+      "desc3": "Przyspieszamy procesy rekrutacji i administracyjne, czyniąc rekrutację bezproblemową."
+    }
+  },
+  "seasonal": {
+    "hero": {
+      "title": "Zatrudnianie Pracowników Sezonowych",
+      "desc": "W ArkaHire specjalizujemy się w rekrutacji pracowników sezonowych różnych zawodów, w tym kelnerów, barmanów, kucharzy, pomocników kuchennych, pokojówek, sprzątaczy i recepcjonistów. Nasza wiedza zapewnia, że znajdziesz odpowiednie talenty na swoje potrzeby.",
+      "btn": "Skontaktuj się z nami"
+    },
+    "challenges": {
+      "title": "Wyzwania w Znajdowaniu Pracowników Sezonowych",
+      "desc1": "Problem ze znalezieniem pracowników sezonowych w Chorwacji, szczególnie w branżach takich jak turystyka, gastronomia, rolnictwo i budownictwo, jest wieloaspektowy i często stanowi znaczące wyzwanie dla pracodawców.",
+      "desc2": "Branża hotelarska jest bardziej podatna na wahania sezonowe niż kiedykolwiek wcześniej, w porównaniu z jakąkolwiek inną sferą działalności.",
+      "desc3": "Większość naszych klientów w pierwszym kwartale nie jest w stanie dokładnie przewidzieć liczby i zapotrzebowania na pracowników zewnętrznych lub zagranicznych w wysokim sezonie.",
+      "desc4": "Sytuacja, w której większość kurortów, hoteli i restauracji podejmuje decyzje zatrudnienia w ostatniej chwili, skutkuje nagłym wzrostem popytu na pracowników. To z kolei skutkuje niezdolnością rynku do natychmiastowego zaspokojenia tego popytu. Mianowicie, od momentu podpisania umowy z Urzędem Pracy mija miesiąc lub nawet dwa, zanim zagraniczni pracownicy przybędą do miejsca pracy. Znajdowanie pracowników, testowanie kwalifikacji, rozmowy kwalifikacyjne, papierkowa robota i podobne procesy zajmują większość tego czasu.",
+      "desc5": "Dlatego oferujemy Ci rozwiązanie, które eliminuje ryzyko długiego oczekiwania i opóźnień w przybyciu pracowników: outsourcing siły roboczej."
+    },
+    "assignment": {
+      "title": "Dyspozycyjność Pracowników",
+      "desc": "Nasza usługa dyspozycyjności pracowników ułatwia szybkie zatrudnienie siły roboczej na projekty sezonowe lub w określonych ramach czasowych. Wykorzystując dostępnych pracowników już znajdujących się w Europie, znacznie przyspieszamy proces zatrudnienia. Zajmujemy się zawieraniem umów dyspozycyjności i przejmujemy odpowiedzialność za wypłatę wynagrodzeń oraz zadania administracyjne. Usługa ta ma na celu zapewnienie praktycznego rozwiązania na pilne zapotrzebowanie na siłę roboczą, gwarantując jednocześnie elastyczność i wydajność w zarządzaniu personelem w różnych projektach i potrzebach sezonowych.",
+      "btn": "Dowiedz się więcej"
+    },
+    "features": {
+      "title1": "Dostęp do Wykwalifikowanych Talentów",
+      "desc1": "W ArkaHire oferujemy bazę danych wstępnie zweryfikowanych kandydatów, minimalizując ryzyko związane z zatrudnieniem. Nasz proces zapewnia dostęp do wykwalifikowanych pracowników dostosowanych do Twoich potrzeb.",
+      "title2": "Elastyczne Rozwiązania Kadrowe",
+      "desc2": "Rozumiemy znaczenie elastycznego zarządzania personelem, pozwalając na efektywne dostosowanie się do zmieniających się wymagań.",
+      "title3": "Wydajny Proces Rekrutacji",
+      "desc3": "Nasz usprawniony proces rekrutacji przyspiesza znajdowanie, zarządzanie i zatrudnianie pracowników, zapewniając terminowe zaspokojenie potrzeb kadrowych."
+    }
+  },
+  "medical": {
+    "hero": {
+      "title": "Zatrudnianie Pracowników Medycznych",
+      "desc": "Lekarze, pielęgniarki, technicy medyczni, farmaceuci i inni pracownicy służby zdrowia – specjalizujemy się w rekrutacji wszystkich rodzajów personelu medycznego.",
+      "btn": "Skontaktuj się z nami"
+    },
+    "challenges": {
+      "title": "Wyzwania w znalezieniu pracowników medycznych",
+      "desc1": "Wyzwanie związane z pozyskiwaniem wykwalifikowanych pracowników medycznych, szczególnie na wyspecjalizowanych stanowiskach opieki zdrowotnej, jest znaczącym problemem, z jakim borykają się instytucje opieki zdrowotnej na całym świecie.",
+      "desc2": "Podobnie jak w innych krajach, system opieki zdrowotnej w Chorwacji boryka się z trudnościami w znajdowaniu i utrzymaniu wykwalifikowanego personelu medycznego. Popyt na pracowników służby zdrowia, takich jak lekarze, pielęgniarki, farmaceuci i technicy, nadal rośnie z powodu takich czynników jak starzejące się społeczeństwo, postęp medycyny i zmieniające się potrzeby zdrowotne.",
+      "desc3": "Zapotrzebowanie na pracowników medycznych stale rośnie, napędzane przez czynniki takie jak wzrost liczby ludności, starzejące się społeczeństwo i postęp w technologii medycznej.",
+      "desc4": "System opieki zdrowotnej Chorwacji obejmuje zarówno podmioty publiczne, jak i prywatne, z których każdy ma swoje własne wymagania kadrowe. Chociaż siła robocza w sektorze medycznym tego kraju jest ogólnie wykwalifikowana, w niektórych specjalnościach lub regionach mogą występować niedobory, co tworzy luki w opiece nad pacjentem i zwiększa obciążenie istniejącego personelu.",
+      "desc5": "Placówki służby zdrowia często borykają się również z wyzwaniami w dokładnym przewidywaniu swoich potrzeb kadrowych, co prowadzi do niedoborów w krytycznych momentach. Ta nieprzewidywalność może zakłócić jakość opieki i przeciążyć obecny personel."
+    },
+    "mediation": {
+      "title": "Pośrednictwo Pracy",
+      "desc": "Zapewniamy dostęp do szerokiej puli wstępnie sprawdzonych kandydatów, w tym osób z wyspecjalizowanymi umiejętnościami i doświadczeniem. Wykorzystując nasze sieci i zasoby, możemy przyspieszyć proces zatrudnienia, skracając czas potrzebny na obsadzenie wakatów i minimalizując zakłócenia w opiece nad pacjentem. Zapewniamy przestrzeganie wszystkich standardów licencyjnych i regulacyjnych oraz pomagamy zmniejszyć ryzyko zatrudnienia nieodpowiednich lub niewiarygodnych kandydatów.",
+      "btn": "Dowiedz się więcej"
+    },
+    "features": {
+      "title1": "Dostęp do Odpowiedzialnych Pracowników",
+      "desc1": "Zyskaj dostęp do starannie sprawdzonej i wykwalifikowanej siły roboczej",
+      "title2": "Zapobieganie Opóźnieniom Projektów",
+      "desc2": "Zapewniamy, że projekty są realizowane zgodnie z harmonogramem dzięki kompetentnej sile roboczej.",
+      "title3": "Wydajny i Usprawniony Proces Rekrutacji",
+      "desc3": "Przyspieszamy proces pozyskiwania, zarządzania i zatrudniania pracowników."
+    }
+  },
+  "construction": {
+    "hero": {
+      "title": "Zatrudnianie Pracowników Budowlanych",
+      "desc": "Zapewniamy rozwiązania kadrowe dla szerokiej gamy stanowisk związanych z budownictwem, w tym zbrojarzy, cieśli, murarzy, monterów konstrukcji metalowych, dekarzy i operatorów maszyn budowlanych.",
+      "btn": "Skontaktuj się z nami"
+    },
+    "challenges": {
+      "title": "Wyzwania w Znajdowaniu Pracowników Budowlanych",
+      "desc1": "Branża budowlana obecnie boryka się z poważnymi wyzwaniami w pozyskiwaniu wykwalifikowanej siły roboczej. Ten brak pracowników hamuje produktywność, powoduje opóźnienia w harmonogramach projektów i utrudnia wysiłki mające na celu zaspokojenie rosnącego zapotrzebowania na wykwalifikowanych profesjonalistów w sektorze.",
+      "desc2": "W całej Europie rośnie zapotrzebowanie na ekspertów budowlanych, co widać po licznych ofertach pracy. Wiele firm ma trudności ze znalezieniem doświadczonych i zdolnych pracowników, co skutkuje opóźnieniami w realizacji projektów.",
+      "desc3": "Jako agencja rekrutacyjna specjalizująca się w zagranicznej sile roboczej, ArkaHire wypełnia lukę między popytem a podażą, łącząc wykwalifikowanych pracowników z krajów trzeciego świata z pracodawcami, którzy ich potrzebują. Prowadzimy również naszych klientów przez procesy prawne związane z zatrudnianiem pracowników zagranicznych, zapewniając płynne i zgodne z przepisami doświadczenie rekrutacyjne."
+    },
+    "mediation": {
+      "title": "Pośrednictwo Pracy",
+      "desc": "Poprzez nasze usługi pośrednictwa pracy pomagamy firmom uzyskać dostęp do dużej puli wykwalifikowanych pracowników. Zajmujemy się wyzwaniami związanymi z zabezpieczeniem wykwalifikowanej siły roboczej. Umożliwiając zatrudnienie zagranicznych talentów i zapewniając kompleksowe usługi rekrutacyjne, odgrywamy kluczową rolę w zaspokajaniu zapotrzebowania na siłę roboczą w różnych branżach w Europie.",
+      "btn": "Dowiedz się więcej"
+    },
+    "features": {
+      "title1": "Dostęp do Odpowiedzialnych Pracowników",
+      "desc1": "Zyskaj dostęp do starannie sprawdzonej i wykwalifikowanej siły roboczej.",
+      "title2": "Zapobieganie Opóźnieniom Projektów",
+      "desc2": "Zapewniamy, że projekty są realizowane zgodnie z harmonogramem dzięki zdolnej sile roboczej.",
+      "title3": "Wydajny i Usprawniony Proces Rekrutacji",
+      "desc3": "Przyspieszamy proces pozyskiwania, zarządzania i zatrudniania pracowników."
+    }
+  },
+  "servicemain": {
+    "title1": "Dowiedz się więcej o naszych usługach",
+    "desc1": "Wspieramy Cię na każdym etapie procesu rekrutacji – od pozyskiwania kandydatów, przez obsługę administracyjną, po płynną integrację.",
+    "btn1": "Skontaktuj się z nami",
+    "title2": "Administracja zatrudnienia",
+    "desc2": "Zajmujemy się wszystkimi zadaniami administracyjnymi związanymi z zatrudnianiem specjalistów międzynarodowych, w tym tłumaczeniami dokumentów, obsługą wiz i zezwoleń na pracę oraz sporządzaniem umów o pracę.",
+    "btn2": "Dowiedz się więcej",
+    "title3": "Kompleksowa Obsługa HR",
+    "desc3": "Kompleksowe wsparcie w zarządzaniu zasobami ludzkimi, od rekrutacji po płynną integrację pracowników.",
+    "title4": "Pośrednictwo pracy",
+    "desc4": "Oszczędzaj cenny czas i zasoby, wykorzystując naszą profesjonalną wiedzę w zakresie pozyskiwania wykwalifikowanych pracowników z krajów spoza Europy.",
+    "title5": "Usługi Zlecenia Pracowników",
+    "desc5": "ArkaHire świadczy usługę wynajmowania pracowników na określone okresy, np. na projekty lub sezony, z opcją zatrudnienia stałego."
+  },
+
+  "assignmentworkers": {
+    "hero": {
+      "title": "Usługi Przydzielania Pracowników",
+      "desc": "ArkaHire świadczy usługę zatrudniania pracowników na określone okresy, takie jak projekty lub sezony, z opcją zatrudnienia stałego.",
+      "btn": "Skontaktuj się z nami"
+    },
+    "features": {
+      "title1": "Elastyczność Zatrudnienia",
+      "desc1": "Oferujemy efektywne rozwiązania kadrowe dla projektów krótkoterminowych lub zmieniającego się zapotrzebowania na siłę roboczą, zapewniając wydajność operacyjną.",
+      "title2": "Ocena Pracownika Przed Zatrudnieniem",
+      "desc2": "Umożliwiamy testowanie pracowników przed zatrudnieniem stałym, aby zapewnić udaną współpracę i kompatybilność.",
+      "title3": "Uproszczona Administracja",
+      "desc3": "Zajmujemy się wszystkimi zadaniami administracyjnymi związanymi z zatrudnieniem i HR, abyś mógł skupić się na podstawowej działalności swojej firmy."
+    },
+    "include": {
+      "title": "Co Zawiera Usługa Przydzielania Pracowników?",
+      "desc1": "Ta usługa zapewnia elastyczność w zarządzaniu siłą roboczą przy jednoczesnym zmniejszeniu obciążeń administracyjnych. Umożliwia dostęp do wyspecjalizowanych talentów z zagranicy bez złożoności bezpośredniego zatrudnienia.",
+      "desc2": "Upraszczamy tymczasowe zatrudnienie poprzez sporządzanie formalnych Umów o Pracę i przydzielanie pracowników firmom klientów na uzgodnionych warunkach.",
+      "desc3": "Nasze usługi wykraczają poza zatrudnienie, obejmując zarządzanie zadaniami administracyjnymi, takimi jak wnioski emerytalne i zdrowotne, obliczanie wynagrodzeń i przetwarzanie świadczeń.",
+      "desc4": "Pracownicy są umieszczani w firmach klientów na uzgodnionych warunkach, podczas gdy my przejmujemy oficjalną rolę pracodawcy.",
+      "desc5": "Wybierając nasze usługi, firmy korzystają z uproszczonego procesu, który rozwiązuje biurokratyczne wyzwania, zapewnia zgodność z przepisami i poprawia wydajność administracyjną. Pozwala to przedsiębiorstwom skupić się na ich podstawowych operacjach."
+    },
+    "whenToconsider": {
+      "title": "Kiedy Rozważyć Pośrednictwo Pracy?",
+      "faq1": "Czy potrzebujesz pracowników do konkretnego projektu lub sezonowo?",
+      "ans1": "Nasza usługa zapewnia dostęp do globalnej puli talentów. Oceniamy Twoje wymagania i łączymy Cię z najlepszymi kandydatami, aby sprostać tym potrzebom.",
+      "faq2": "Chcesz uniknąć złożoności bezpośredniego zatrudnienia",
+      "ans2": "Zajmujemy się wszystkimi zadaniami administracyjnymi i księgowymi związanymi z pracownikami, pozwalając Ci skupić się na podstawowej działalności firmy bez dodatkowego obciążenia.",
+      "faq3": "Chcesz zapewnić jakość swojej siły roboczej",
+      "ans3": "Jeśli musisz ocenić umiejętności pracowników przed stałym zatrudnieniem, nasza usługa oferuje idealne rozwiązanie jako faza testowa. Ponadto nasi pracownicy agencji są dokładnie sprawdzani. Wielu z nich ma bogate doświadczenie z poprzedniej pracy w agencji, wnosi rozwinięte umiejętności i wiedzę do dowolnego środowiska biznesowego. Przeprowadzamy również dodatkowe kontrole wszystkich nowych pracowników, aby zapewnić ich gotowość."
+    },
+    "advantages": {
+      "title1": "Jakie są zalety zatrudnienia przez agencję?",
+      "desc1": "Korzystając z naszych usług pracy tymczasowej, oferujemy elastyczne rozwiązania wypełniania krótkich lub długich nieobecności pracowników, optymalizacji sezonowych potrzeb kadrowych i spełniania wymagań konkretnych projektów. Ponadto zarządzamy wszystkimi zadaniami administracyjnymi, zapewniając płynny i wydajny proces.",
+      "title2": "Eksperckie Wsparcie",
+      "desc2": "Zapewniamy profesjonalne wsparcie i porady przez cały proces rekrutacji, zapewniając, że podejmujesz świadome decyzje.",
+      "title3": "Oszczędność Czasu i Zasobów",
+      "desc3": "Zajmujemy się wyszukiwaniem kandydatów, negocjacjami i zadaniami administracyjnymi, pozwalając Ci skupić się na kluczowych obszarach Twojej firmy.",
+      "title4": "Dostęp do Szerszego Rynku",
+      "desc4": "Zapewniamy dostęp do zróżnicowanej puli kandydatów z całego świata poprzez naszą ustaloną sieć.",
+      "title5": "Redukcja Ryzyka",
+      "desc5": "Zapewniamy bezpieczeństwo poprzez dokładne sprawdzanie kwalifikacji i referencji kandydatów, zmniejszając ryzyko niewłaściwych zatrudnień i niezgodności z przepisami."
+    },
+    "faq": {
+      "title": "Często Zadawane Pytania",
+      "queation1": "Jakie są zalety zatrudnienia przez agencję?",
+      "ans1": "Korzystając z usługi pracy tymczasowej, umożliwiamy elastyczne wypełnianie krótkich lub długich nieobecności pracowników, optymalizowanie sezonowych potrzeb biznesowych lub wymagań dla konkretnych projektów. Zajmujemy się również zadaniami administracyjnymi, ułatwiając cały proces.",
+      "queation2": "Jakie zadania administracyjne przejmujemy od Ciebie?",
+      "ans2": {
+        "title1": "Zwalniamy Cię z administracyjnego obciążenia związanego z oddelegowanymi pracownikami, co obejmuje:",
+        "item1": "Sporządzanie i zawieranie umów o pracę",
+        "item2": "Obliczanie i przetwarzanie wynagrodzeń i składek",
+        "item3": "Rejestrowanie i wyrejestrowywanie pracowników w Zakładzie Emerytalnym i Ubezpieczeń Zdrowotnych",
+        "item4": "Prowadzenie miesięcznych i rocznych ewidencji (dni urlopu, zwolnienia lekarskie itp.)",
+        "item5": "Wypełnianie i składanie wymaganych sprawozdań do właściwych organów"
+      },
+      "queation3": "Jakie są Twoje zobowiązania wobec pracowników?",
+      "ans3": "Użytkownik (pracodawca) musi przestrzegać prawa pracy, w tym przepisów BHP, a także szczególnej ochrony określonych grup pracowników. Obejmuje to zapewnienie odzieży i obuwia ochronnego, gdy wymaga tego charakter pracy. Ponadto użytkownik jest odpowiedzialny za organizację i przydzielanie pracy zgodnie z ustalonymi procesami, a także za prowadzenie ewidencji obecności pracowników w miejscu pracy."
+    }
+  },
+  "employmentmediation": {
+    "hero": {
+      "title": "Pośrednictwo Pracy",
+      "desc": "Oszczędzaj cenny czas i zasoby, wykorzystując naszą profesjonalną wiedzę w pozyskiwaniu wykwalifikowanych pracowników z krajów spoza Europy.",
+      "btn": "Skontaktuj się z nami"
+    },
+    "features": {
+      "title1": "Dostęp do Wykwalifikowanych Pracowników",
+      "desc1": "Aktywnie poszukujemy i ręcznie wybieramy potencjalnych kandydatów, wykorzystując nasze rozległe sieci i bazy danych.",
+      "title2": "Usprawniony Proces Rekrutacji",
+      "desc2": "Zapewniamy, że proces rekrutacji jest prowadzony sprawnie i precyzyjnie.",
+      "title3": "Eksperckie Wsparcie na Każdym Etapie",
+      "desc3": "Zapewniamy ekspercką wiedzę, gwarantując świadome decyzje i pomyślne rezultaty."
+    },
+    "what": {
+      "title": "Czym jest Pośrednictwo Pracy?",
+      "desc1": "Służymy jako pomost między pracodawcami a potencjalnymi kandydatami, upraszczając proces poprzez definiowanie wymagań stanowiska, selekcję kandydatów i oferowanie kompleksowego wsparcia. Naszym celem jest łączenie najlepszych talentów z firmami.",
+      "desc2": "Rekrutacja to kluczowa usługa wspierająca pracodawców w znajdowaniu wykwalifikowanych kandydatów do ich organizacji. Usługa ta obejmuje zaangażowanie agencji rekrutacyjnej, która działa jako pośrednik między firmami a potencjalnymi pracownikami. Agencja koncentruje się na zrozumieniu potrzeb pracodawcy, zdefiniowaniu konkretnych wymagań stanowiska oraz sumiennym poszukiwaniu i selekcji kandydatów spełniających te potrzeby.",
+      "desc3": "Podstawową rolą agencji podczas procesu zatrudnienia jest przeprowadzenie gruntownych kontroli kwalifikacji i doświadczenia kandydatów, zapewniając ich przydatność do roli.",
+      "desc4": "Wybór usług rekrutacyjnych oferuje liczne korzyści, w tym dostęp do szerokiej puli talentów, zmniejszenie czasu i zasobów potrzebnych do rekrutacji oraz zapewnienie wysokich standardów profesjonalizmu w doborze kandydatów."
+    },
+    "commonfaq": {
+      "title": "Znajdź Odpowiedzi na Najczęściej Zadawane Pytania",
+      "queation1": "Jakie są Nasze Obowiązki w Procesie Pośrednictwa?",
+      "ans1": {
+        "title1": "Obowiązki agencji zaangażowanych w pośrednictwo zatrudnienia pracowników zagranicznych obejmują:",
+        "item1": "Pozyskanie odpowiedniego pracownika na podstawie kryteriów klienta, przeprowadzenie procesu selekcji i dostarczenie wymaganej dokumentacji.",
+        "item2": "Przygotowanie i złożenie całej wymaganej dokumentacji w celu uzyskania tymczasowych zezwoleń na pobyt i pracę dla obywateli krajów trzecich.",
+        "item3": "Pokrycie kosztów ubezpieczenia podróżnego dla pracowników.",
+        "item4": "Zorganizowanie wizy wymaganej do pobytu i pracy w Europie.",
+        "item5": "Pokrycie kosztów lotu pracownika."
+      },
+      "queation2": "Jakie są Twoje Zobowiązania wobec Pracownika Zagranicznego?",
+      "ans2": "Po uzyskaniu pozwolenia na pracę dla pracownika zagranicznego konieczne jest zapewnienie zakwaterowania i wyżywienia po jego przyjeździe. Zakwaterowanie powinno spełniać podstawowe standardy życiowe. Jeśli nie można zapewnić wyżywienia, pracownikowi musi zostać wypłacony dodatek żywieniowy. Ponadto jesteś zobowiązany zarejestrować pracownika do ubezpieczenia emerytalnego i zdrowotnego, tak jak dla każdego lokalnego pracownika.",
+      "queation3": "Jakie są Wymagania aby Uzyskać Zezwolenie na Pobyt i Pracę?",
+      "ans3": {
+        "title2": "Wymagania dotyczące uzyskania niezbędnych zezwoleń obejmują:",
+        "item1": "Prowadzenie działalności gospodarczej zarejestrowanej w Europie.",
+        "item2": "Zatrudnianie przez ostatnie sześć miesięcy co najmniej jednej czwartej obywateli chorwackich w porównaniu z obywatelami krajów trzecich na pełny etat, na czas nieokreślony.",
+        "item3": "Zaświadczenie z Administracji Podatkowej potwierdzające brak zaległych zobowiązań związanych ze świadczeniami publicznymi, datowane na okres niedawny przed złożeniem wniosku o zezwolenia.",
+        "item4": "Brak prawomocnych skazań związanych ze stosunkami pracy lub ubezpieczeniami społecznymi."
+      }
+    },
+    "benefits": {
+      "title1": "Jakie są Korzyści z Zatrudnienia przez Agencję?",
+      "item1": "Zajmujemy się przygotowaniem i złożeniem wszystkich wymaganych dokumentów prawnych w imieniu pracodawców i ich wybranych pracowników.",
+      "item2": "Dzięki naszemu dużemu doświadczeniu w tej dziedzinie usprawniliśmy nasze procesy, oferując pracodawcom szybki i efektywny sposób zatrudniania.",
+      "title2": "Wsparcie Eksperckie",
+      "desc2": "Zapewniamy profesjonalne wsparcie i doradztwo przez cały proces rekrutacji, zapewniając, że podejmujesz dobrze poinformowane decyzje.",
+      "title3": "Oszczędność Czasu i Zasobów",
+      "desc3": "Zajmujemy się wyszukiwaniem kandydatów, negocjacjami i zadaniami administracyjnymi, pozwalając Ci skupić się na kluczowych obszarach Twojego biznesu.",
+      "title4": "Dostęp do Szerszego Rynku",
+      "desc4": "Dzięki naszej ugruntowanej sieci dajemy Ci dostęp do zróżnicowanej puli kandydatów z całego świata.",
+      "title5": "Redukcja Ryzyka",
+      "desc5": "Zapewniamy bezpieczeństwo poprzez dokładną weryfikację kwalifikacji i referencji kandydatów, zmniejszając ryzyko niewłaściwych zatrudnień i braku zgodności z przepisami."
+    },
+    "process": {
+      "title1": "Krok 1: Konsultacje",
+      "desc1": "Nasz zespół specjalistów przeprowadza dogłębną analizę Twoich potrzeb kadrowych, opracowując spersonalizowaną strategię rekrutacji.",
+      "title2": "Krok 2: Znajdowanie Talentów",
+      "desc2": "Dzięki naszej rozległej sieci i zasobom identyfikujemy wykwalifikowanych kandydatów z całego świata, którzy spełniają wymagania Twojej firmy.",
+      "title3": "Krok 3: Proces Selekcji",
+      "desc3": "Skrupulatnie oceniamy kwalifikacje, doświadczenie i referencje kandydatów, aby zapewnić wybór najlepszych osób do Twojego zespołu.",
+      "title4": "Krok 4: Sprowadzanie Pracowników do Europy",
+      "desc4": "Zajmujemy się całą wymaganą dokumentacją i zarządzamy relokacją pracowników do Europy.",
+      "title5": "Jak Wygląda Proces?",
+      "desc5": "Zostaw wszystkie kwestie związane z zasobami ludzkimi nam i zapewnij optymalne zarządzanie pracownikami dzięki naszym all-inclusive usługom HR!"
+    },
+    "faq": {
+      "title": "Często Zadawane Pytania",
+      "queation1": "Jakie są Nasze Obowiązki w Procesie Pośrednictwa?",
+      "ans1": "Obowiązki agencji zaangażowanych w pośrednictwo zatrudnienia pracowników zagranicznych obejmują: – Identyfikację odpowiedniego pracownika na podstawie kryteriów klienta, przeprowadzenie procesu selekcji i dostarczenie wymaganej dokumentacji. – Przygotowanie i złożenie całej wymaganej dokumentacji w celu uzyskania tymczasowych zezwoleń na pobyt i pracę dla obywateli krajów trzecich. – Pokrycie kosztów ubezpieczenia podróżnego dla pracowników. – Zorganizowanie wizy wymaganej do pobytu i pracy w Europie. – Pokrycie kosztów lotu pracownika.",
+      "queation2": "Jakie są Twoje Obowiązki wobec Pracownika Zagranicznego?",
+      "ans2": "Po uzyskaniu pozwolenia na pracę dla pracownika zagranicznego należy zapewnić zakwaterowanie i wyżywienie po jego przyjeździe. Zakwaterowanie powinno spełniać podstawowe standardy życiowe. Jeśli nie można zapewnić wyżywienia, pracownikowi należy wypłacić dodatek żywieniowy. Ponadto obowiązkowe jest zarejestrowanie pracownika do ubezpieczenia emerytalnego i zdrowotnego, tak jak w przypadku każdego lokalnego pracownika.",
+      "queation3": "Jakie Warunki Muszą Zostać Spełnione Aby Uzyskać Zezwolenie na Pobyt i Pracę?",
+      "ans3": "Aby uzyskać niezbędne zezwolenia, muszą zostać spełnione następujące warunki: – Twoja firma musi być zarejestrowana w Europie. – Musisz zatrudniać co najmniej jedną czwartą lokalnych obywateli w porównaniu z obywatelami krajów trzecich na pełny etat, na czas nieokreślony przez ostatnie sześć miesięcy. – Zaświadczenie z Administracji Podatkowej potwierdzające brak zaległych zobowiązań związanych ze świadczeniami publicznymi, datowane na okres niedawny przed złożeniem wniosku o zezwolenia. – Nie może być prawomocnych wyroków skazujących związanych ze stosunkami pracy lub ubezpieczeniami społecznymi.",
+      "queation4": "Czy Pracownik Może Zacząć Natychmiast?",
+      "ans4": "Niestety, nie. Ponieważ ci pracownicy pochodzą z krajów trzecich, muszą najpierw uzyskać pozwolenie na pracę i wizę przed wjazdem do Europy. Cały proces może zająć od 45 do 90 dni, w zależności od szybkości zaangażowanych instytucji. Przygotowanie dokumentów i negocjacje zwykle trwają od 4 do 10 dni, w zależności od gotowości pracodawcy. Rekrutacja i selekcja kandydatów może trwać od 1 do 30 dni (do 7 dni dla pracowników niewykwalifikowanych, do 30 dni dla wykwalifikowanych), lub dłużej, jeśli wymagane są konkretne zawody (do 60 dni). Test rynku pracy trwa zazwyczaj 15 dni. Uzyskanie pozwolenia na pracę zazwyczaj trwa od 15 do 30 dni. Przetworzenie wizy zajmuje kolejne 15 do 30 dni. Zorganizowanie podróży i przyjazdu pracownika do Europy generalnie trwa od 1 do 10 dni."
+    }
+  },
+  "administration": {
+    "hero": {
+      "title": "Kompleksowe usługi administracji zatrudnienia",
+      "desc": "Zajmujemy się wszystkimi zadaniami administracyjnymi związanymi z zatrudnianiem międzynarodowych specjalistów, w tym tłumaczeniami dokumentów, obsługą wiz i pozwoleń na pracę oraz sporządzaniem umów o pracę.",
+      "btn": "Skontaktuj się z nami"
+    },
+    "features": {
+      "title1": "Oszczędzaj czas i koszty",
+      "desc1": "Uwolnij się od ciężaru skomplikowanych procedur administracyjnych i skup się na swojej podstawowej działalności.",
+      "title2": "Wsparcie eksperckie",
+      "desc2": "Nasz zespół zapewnia płynny proces przy zachowaniu najnowszych wymogów prawnych.",
+      "title3": "Rozwiązania szyte na miarę",
+      "desc3": "Dostosowujemy nasze usługi do Twoich specyficznych potrzeb rekrutacyjnych."
+    },
+    "include": {
+      "title": "Co obejmuje usługa administracji zatrudnienia?",
+      "desc1": "Pomagamy firmom zarządzać złożonością zatrudniania pracowników zagranicznych, zapewniamy zgodność z przepisami imigracyjnymi i prawem pracy oraz upraszczamy proces administracyjny.",
+      "title1": "Nasza usługa administracji zatrudnienia obejmuje obsługę wszystkich zadań administracyjnych związanych z zatrudnianiem pracowników zagranicznych dla firm działających w UE. Usługa zazwyczaj obejmuje:",
+      "desc2": {
+        "item1": "Obsługa pozwoleń na pracę i wiz",
+        "item2": "Zapewnienie zgodności dokumentacji z przepisami imigracyjnymi",
+        "item3": "Przygotowanie umów o pracę",
+        "item4": "Koordynacja z organami rządowymi"
+      }
+    },
+    "whenToconsider": {
+      "title": "Kiedy wybrać usługę administracyjną?",
+      "faq1": "Samodzielnie znalazłeś już pracowników.",
+      "ans1": "Jeśli samodzielnie przeprowadziłeś proces selekcji pracowników zagranicznych i wybrałeś idealny personel dla swojej firmy, możemy zapewnić Ci wsparcie i pomoc podczas zatrudnienia.",
+      "faq2": "Nie masz wystarczająco czasu na kwestie administracyjne.",
+      "ans2": "Uwolniamy Cię od zadań i procesów administracyjnych, pozwalając skupić się na kluczowych działaniach biznesowych. Zajmujemy się całą niezbędną dokumentacją, abyś mógł poświęcić się rozwojowi swojego biznesu. Załatwimy za Ciebie wizy, zezwolenia na pobyt i pracę, przetłumaczymy dokumentację zagraniczną, przygotujemy umowy o pracę i wszystkie inne niezbędne dokumenty.",
+      "faq3": "Nie rozumiesz przepisów prawnych.",
+      "ans3": "Nasz zespół weryfikuje kwalifikacje i zapewnia zgodność z lokalnymi przepisami i prawem. Doświadczeni eksperci zapewniają wsparcie w całym procesie i dbają o to, aby cały proces przebiegał zgodnie z przepisami prawnymi."
+    },
+    "faq": {
+      "title": "Często Zadawane Pytania",
+      "queation1": "Jak wygląda proces zatrudniania pracowników zagranicznych?",
+      "ans1": {
+        "title1": "Aby zatrudnić pracowników zagranicznych na stanowiska w całej Europie, należy przestrzegać następujących istotnych kroków:",
+        "item1": "Uzyskanie pozwolenia na pracę dla zagranicznego pracownika od właściwego urzędu imigracyjnego lub ds. zatrudnienia.",
+        "item2": "Złożenie wniosku o zezwolenie na pobyt pracownika.",
+        "item3": "Zarejestrowanie zagranicznego pracownika we właściwych urzędach podatkowych i ubezpieczeń społecznych.",
+        "item4": "Zapewnienie zgodności ze wszystkimi obowiązującymi przepisami pracy i imigracyjnymi."
+      },
+      "queation2": "Jakie dokumenty są wymagane do zatrudnienia pracowników zagranicznych?",
+      "ans2": {
+        "title2": "Wymagana dokumentacja obejmuje:",
+        "item1": "Pozwolenie na pracę wydane przez właściwy organ.",
+        "item2": "Umowa o pracę lub formalna umowa.",
+        "item3": "Ważny paszport lub dowód tożsamości zagranicznego pracownika.",
+        "item4": "Ubezpieczenie zdrowotne pracownika.",
+        "item5": "Dowód zapłaty wymaganych opłat administracyjnych."
+      },
+      "queation3": "W jaki sposób usługi wsparcia administracyjnego mogą pomóc pracodawcom w procesie zatrudniania pracowników zagranicznych w UE?",
+      "ans3": "Usługi wsparcia administracyjnego odgrywają kluczową rolę w uproszczeniu procesu zatrudniania pracowników zagranicznych, oferując kompleksowe wsparcie na każdym etapie.",
+      "ans4": "Prowadzimy pracodawców przez cały proces ubiegania się o zezwolenie na pracę i pobyt, pomagamy w przygotowaniu i złożeniu wymaganych dokumentów do właściwych organów oraz zapewniamy pełną zgodność z wymogami prawnymi. Nasze usługi obejmują ciągłe doradztwo w zakresie kwestii pracy i imigracji, jednocześnie usprawniając zadania administracyjne. To podejście oszczędza pracodawcom czas i zasoby, zapewniając płynny i efektywny proces zatrudniania pracowników zagranicznych w całej Europie."
+    }
+  },
+  "fullservicehr": {
+    "hero": {
+      "title": "Kompleksowa Obsługa Kadrowo-Płacowa (HR)",
+      "desc": "Kompleksowe wsparcie w zarządzaniu zasobami ludzkimi, od rekrutacji po płynną integrację pracowników.",
+      "btn": "Skontaktuj się z nami"
+    },
+    "features": {
+      "title1": "Wsparcie przez Cały Proces HR",
+      "desc1": "Od rekrutacji i administracji po zapewnienie zakwaterowania i ciągłe wsparcie.",
+      "title2": "Dostęp do Ekspertów HR",
+      "desc2": "Korzystaj z wiedzy profesjonalistów z dużym doświadczeniem w zarządzaniu zasobami ludzkimi.",
+      "title3": "Skupienie na Celach Biznesowych",
+      "desc3": "Skieruj swoją uwagę na osiąganie strategicznych celów, podczas gdy my zarządzamy Twoimi potrzebami HR."
+    },
+    "mean": {
+      "title": "Co Oznacza Kompleksowa Obsługa HR?",
+      "desc1": "Opcja Kompleksowej Obsługi HR zapewnia szerokie wsparcie, które obejmuje każdy aspekt procesu HR, od rekrutacji po płynną integrację pracowników w Twojej organizacji.",
+      "desc2": "Ta kompleksowa usługa obejmuje rekrutację, procedury selekcji, prace administracyjne, kwestie ubezpieczeniowe, zakwaterowanie i ciągłe wsparcie przez cały okres zatrudnienia. Zatrudniając wysoko wykwalifikowany personel z dużym doświadczeniem w prawie pracy, usługa ta zapewnia skrupulatną dbałość o szczegóły i identyfikację rozwiązań dostosowanych do specyficznych potrzeb firmy.",
+      "desc3": "Outsourcing tych kluczowych funkcji HR oferuje kilka zalet. Po pierwsze, zapewnia dostęp do wiedzy doświadczonych profesjonalistów, gwarantując efektywne i skoordynowane zarządzanie zasobami ludzkimi. Po drugie, outsourcing pozwala firmie przesunąć swoje wewnętrzne zasoby na kluczowe cele biznesowe, zwiększając produktywność i wspierając cele strategiczne. Ostatecznie opcja Kompleksowej Obsługi HR nie tylko gwarantuje płynne operacje HR, ale także pozwala firmom skupić się na osiąganiu ich głównej misji z większą przejrzystością i efektywnością."
+    },
+    "whenToconsider": {
+      "title": "Kiedy Wybrać Opcję Kompleksowej Obsługi HR?",
+      "faq1": "Brak Wewnętrznego Zespołu HR",
+      "ans1": "Bez wewnętrznego działu HR zarządzanie wszystkimi aspektami procesu HR, od rekrutacji do wdrażania pracowników, może stać się przytłaczające i czasochłonne. Zlecając ekspertom, firmy mogą zapewnić, że każda faza procesu HR jest zarządzana fachowo, pozwalając im skupić się na podstawowej działalności bez obciążenia zadaniami HR.",
+      "faq2": "Ograniczone Zasoby do Zarządzania Procesami",
+      "ans2": "Niezależnie od tego, czy są to ograniczenia finansowe, czasowe czy profesjonalne, outsourcing Kompleksowej Obsługi HR oferuje skuteczne rozwiązanie. Zapewniamy infrastrukturę, wiedzę i doświadczenie niezbędne do efektywnego zarządzania wszystkimi aspektami HR, od rekrutacji po obowiązki administracyjne, zapewniając płynny i usprawniony proces bez dodatkowego obciążenia zasobów wewnętrznych.",
+      "faq3": "Potrzeba Szybkiego i Niezawodnego Rozwiązania",
+      "ans3": "Kiedy firma potrzebuje szybkiego i niezawodnego rozwiązania HR, opcja Kompleksowej Obsługi HR jest najlepszym wyborem. Skutecznie poruszamy się po złożonościach HR, dostarczając terminowe i efektywne wyniki. Wykorzystując naszą specjalistyczną wiedzę i doświadczenie, firmy mogą zapewnić, że ich potrzeby HR są zaspokajane szybko i przy minimalnych trudnościach."
+    },
+    "faq": {
+      "title": "Często Zadawane Pytania",
+      "queation1": "Jakie Funkcje HR Obejmujemy?",
+      "ans1": "Nasze rozwiązanie Kompleksowej Obsługi HR obejmuje każdy aspekt procesu HR, w tym rekrutację, procedury selekcji, zadania administracyjne, kwestie ubezpieczeniowe, zakwaterowanie oraz ciągłe wsparcie i doradztwo przez cały cykl życia zatrudnienia.",
+      "queation2": "W Jaki Sposób Zapewniamy Zgodność z Odpowiednimi Przepisami Prawa Pracy?",
+      "ans2": "Zatrudniamy wykwalifikowany personel z dużym doświadczeniem w prawie pracy, zapewniając staranną uwagę do szczegółów i identyfikację najbardziej odpowiednich rozwiązań dla unikalnych potrzeb Twojej firmy. Śledzimy również najnowsze wymagania prawne i najlepsze praktyki, aby zapewnić pełną zgodność.",
+      "queation3": "Jaką Elastyczność Oferujemy w Dostosowaniu Rozwiązania do Specyficznych Potrzeb Twojej Firmy?",
+      "ans3": "Rozumiemy, że każda firma ma inne wymagania HR. Dlatego oferujemy elastyczność w dostosowywaniu naszego rozwiązania Kompleksowej Obsługi HR do Twoich unikalnych potrzeb, niezależnie od tego, czy chodzi o dostosowanie komponentów usługi, spełnienie określonych wymagań czy adaptację do zmieniających się potrzeb biznesowych."
+    }
+  },
+
+  "about": {
+    "hireaforeigner": {
+      "title": "Zatrudnij cudzoziemca",
+      "desc": "Rzetelny i doświadczony partner w rekrutacji pracowników z zagranicy. Nasz zespół ekspertów jest dedykowany, aby poprowadzić Cię przez proces imigracyjny, zapewniając płynny i udany rezultat.",
+      "btn": "Skontaktuj się z nami"
+    },
+    "whoWeare": {
+      "title1": "KIM JESTEŚMY?",
+      "title2": "Międzynarodowa Agencja Zatrudnienia",
+      "desc1": "Pomagamy naszym międzynarodowym klientom znaleźć odpowiednie możliwości zatrudnienia, w tym w Europie, poprzez staranne dopasowanie ich do stanowisk zgodnych z ich kwalifikacjami. Dodatkowo zapewniamy, że firmy, z którymi współpracujemy, nie tylko szanują, ale także sprawiedliwie wynagradzają swoich pracowników.",
+      "desc2": "Dla naszych klientów-pracodawców starannie pozyskujemy i zabezpieczamy wykwalifikowanych pracowników spełniających ich specyficzne wymagania, redukując obawy związane z rotacją personelu. To podejście gwarantuje stabilną siłę roboczą do zaspokojenia potrzeb projektowych lub sezonowych, zarówno lokalnie, jak i międzynarodowo. W rezultacie nasi klienci mogą oczekiwać terminowej realizacji projektu bez niepotrzebnych zakłóceń.",
+      "desc3": "Oferujemy kompleksowe rozwiązanie w zakresie rekrutacji i zatrudniania wysokiej jakości talentów, mające na celu stworzenie produktywnego i harmonijnego środowiska pracy zarówno dla pracodawców, jak i pracowników na całym świecie."
+    },
+    "WhyChoose": {
+      "title1": "Dlaczego wybrać",
+      "title2": "ArkaHire?",
+      "desc1": "Lata doświadczenia",
+      "desc2": "Zagranicznych pracowników zatrudnionych pomyślnie",
+      "desc3": "Zadowolenie klienta"
+    },
+    "WhatDoWeOffer": {
+      "title1": "CO OFERUJEMY?",
+      "title2": "Potrzebujesz pomocy z imigracją? Nasz zespół ekspertów jest tutaj, aby pomóc",
+      "desc1": "Skontaktuj się z naszym zespołem już dziś, aby dowiedzieć się więcej o naszych usługach i zrobić pierwszy krok w kierunku udanego zatrudnienia pracowników z zagranicy.",
+      "title3": "Usługi zatrudnienia",
+      "btn": "Poznaj wszystkie usługi",
+      "title4": "Wsparcie administracyjne",
+      "desc2": "Zajmujemy się całą niezbędną administracją związaną z zatrudnieniem, taką jak tłumaczenie dokumentów, uzyskiwanie wiz i pozwoleń na pracę, umowy o pracę.",
+      "title5": "Pośrednictwo pracy",
+      "desc3": "Oszczędzaj czas i zasoby, korzystając z naszych profesjonalnych usług w zakresie pozyskiwania wykwalifikowanych pracowników z poza Europy.",
+      "title6": "Kompleksowa obsługa HR",
+      "desc4": "Kompleksowe wsparcie w zarządzaniu zasobami ludzkimi, począwszy od rekrutacji aż po pełną integrację pracownika.",
+      "title7": "Usługi delegowania pracowników",
+      "desc5": "Oferujemy oddelegowanie pracowników na określone okresy (np. na projekty lub prace sezonowe) z opcją przejścia na stałe zatrudnienie."
+    },
+    "contactourteam": {
+      "title": "Skontaktuj się z naszym zespołem",
+      "desc1": "Dowiedz się więcej o naszych profesjonalnych usługach i",
+      "desc2": "dowiedz się, jak możemy Ci pomóc.",
+      "btn": "Skontaktuj się z nami"
+    }
+  },
+  "footer": {
+    "title": "Jesteśmy do Państwa dyspozycji.",
+    "desc": "Skontaktuj się z nami w sprawie zatrudniania pracowników z zagranicy. Pomagamy o każdej porze."
+  }
+}

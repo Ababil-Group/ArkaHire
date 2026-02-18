@@ -1,0 +1,549 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "howToHire": "Cum să angajezi talente internaționale?",
+    "solutions": {
+      "label": "Soluții",
+      "navigating": "Navigarea legislației privind imigrația",
+      "seasonal": "Angajarea lucrătorilor sezonieri",
+      "construction": "Angajarea muncitorilor în construcții",
+      "medical": "Angajarea lucrătorilor medicali"
+    },
+    "services": {
+      "label": "Servicii",
+      "admin": "Administrarea angajării",
+      "fullHR": "Servicii complete de HR",
+      "mediation": "Medierea angajării",
+      "assignment": "Repartizarea lucrătorilor"
+    },
+    "about": "Despre noi",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Simplifică procesul de angajare a unei forțe de muncă globale.",
+    "desc": "Fie că ești o afacere mică sau o corporație multinațională, ArkaHire te ajută să găsești personal calificat. De la recrutare la integrare — ne ocupăm de tot.",
+    "btn1": "Contactează-ne",
+    "btn2": "Explorează serviciile"
+  },
+  "achievements": {
+    "year1": "7+",
+    "exp1": "Ani de experiență",
+    "year2": "600+",
+    "exp2": "Angajați plasați",
+    "year3": "100%",
+    "exp3": "Satisfacția clienților"
+  },
+  "whyChoose": {
+    "title": "De ce să alegi o agenție de recrutare?",
+    "desc": "La ArkaHire oferim soluții rapide, eficiente și inovatoare pentru recrutarea talentelor internaționale.",
+    "question1": "Nu știi de unde să găsești muncitori calificați?",
+    "ans1": "Echipa noastră analizează cerințele tale și creează o strategie personalizată.",
+    "question2": "Ai nevoie de flexibilitate la angajare?",
+    "ans2": "Oferim soluții temporare și gestionăm toate formalitățile.",
+    "question3": "Nu ai un departament HR intern?",
+    "ans3": "Serviciul nostru complet HR acoperă totul — de la recrutare la integrare.",
+    "question4": "Nu cunoști reglementările legale?",
+    "ans4": "Simplificăm procesul și asigurăm respectarea legislației."
+  },
+  "typeofemployees": {
+    "title": "Ce tipuri de angajați putem găsi?",
+    "cardTitle1": "Lucrători în depozit",
+    "cardDesc1": "Proactivi și dornici să învețe — candidații noștri sunt pregătiți chiar și pentru roluri de conducere.",
+    "cardTitle2": "Electricieni",
+    "cardDesc2": "Profesioniști calificați la diferite niveluri. Putem organiza interviuri video pentru evaluare.",
+    "cardTitle3": "Mecanici",
+    "cardDesc3": "Tineri, capabili și pregătiți pentru noi provocări.",
+    "cardTitle4": "Muncitori în construcții",
+    "cardDesc4": "De la abilități de bază la meserii specializate — găsim oamenii potriviți pentru proiectele tale.",
+    "cardTitle5": "Faianțari",
+    "cardDesc5": "Profesioniști foarte căutați disponibili prin procesul nostru eficient de recrutare.",
+    "cardTitle6": "Posturi personalizate",
+    "cardDesc6": "Ai nevoie de un rol specific? Te putem ajuta. Contactează-ne.",
+    "btn": "Contactează-ne"
+  },
+  "HireAForeigner": {
+    "title": "Angajarea unui lucrător străin",
+    "subtitle": "Procesul de angajare a lucrătorilor calificați din străinătate",
+    "desc1": "Înțelegeți cerințele cheie pe care compania dvs. trebuie să le îndeplinească pentru a angaja profesioniști internaționali.",
+    "desc2": "Afacerea este activă de peste 6 luni",
+    "desc3": "Cel puțin un angajat cu normă întreagă pentru minimum 6 luni",
+    "desc4": "Forța de muncă locală reprezintă cel puțin 25% din totalul angajaților"
+  },
+  "wowtohire": {
+    "title": "Cum să angajezi talente internaționale?",
+    "desc": "Te ghidăm pas cu pas prin întregul proces de angajare a talentelor internaționale:",
+    "no1": "01",
+    "cardTitle1": "Recrutarea forței de muncă",
+    "cardDesc1": "Găsim candidați adaptați nevoilor tale. Interviurile online sunt disponibile.",
+    "no2": "02",
+    "cardTitle2": "Contracte",
+    "cardDesc2": "Redactăm și gestionăm contractele de muncă.",
+    "no3": "03",
+    "cardTitle3": "Cazare",
+    "cardDesc3": "Ajutăm la găsirea unei cazări potrivite pentru angajați.",
+    "no4": "04",
+    "cardTitle4": "Permise de muncă",
+    "cardDesc4": "Ne ocupăm de depunerea cererilor pentru permisele de muncă.",
+    "no5": "05",
+    "cardTitle5": "Vize",
+    "cardDesc5": "Gestionăm cererile pentru viză, care durează de obicei 4–6 săptămâni.",
+    "no6": "06",
+    "cardTitle6": "Aranjamente de călătorie",
+    "cardDesc6": "Rezervăm zborurile și ne asigurăm că angajații ajung în siguranță.",
+    "no7": "07",
+    "cardTitle7": "Documente",
+    "cardDesc7": "Oferim sprijin pentru acte de identitate, examene medicale și deschiderea conturilor bancare.",
+    "no8": "08",
+    "cardTitle8": "Satisfacție",
+    "cardDesc8": "Obiectivul nostru este satisfacția atât a angajatorilor, cât și a angajaților."
+  },
+
+  "bookconsultation": {
+    "title": "Rezervă Consultația Ta Gratuită.",
+    "desc1": "Partener de încredere și cu experiență în angajarea muncitorilor străini. Experții noștri sunt gata să lucreze cu tine pentru a elimina stresul din orice proces de imigrare, crescându-ți șansele de succes.",
+    "decs2": "Contactează echipa noastră astăzi pentru a afla mai multe despre serviciile noastre și pentru a face primul pas către o angajare de succes.",
+    "btn": "Contactează-ne"
+  },
+  "whychooseus": {
+    "title": "De Să Ne Alegem Pe Noi?",
+    "desc": "ArkaHire este partenerul tău de încredere pentru angajarea de talente internaționale. Experții noștri sunt gata să simplifice procesul de imigrare și să asigure rezultate de succes.",
+    "item1": "Consultații gratuite",
+    "item2": "Candidați de înaltă calitate",
+    "item3": "Timp rapid de răspuns",
+    "item4": "Parteneriate pe termen lung",
+    "item5": "Disponibilitate 24/7",
+    "item6": "Profesioniști verificați",
+    "btn": "Contactează-ne"
+  },
+  "faq": {
+    "title": "Întrebări Frecvente",
+    "faq1": "Cine este responsabil pentru cazare?",
+    "ans1": "Angajatorii sunt obligați să ofere o cazare adecvată și confortabilă pentru lucrătorii lor.",
+    "faq2": "Cât durează până ajung lucrătorii?",
+    "ans2": "Procesul durează de obicei minimum trei luni. Acest termen include o perioadă de două săptămâni pentru obținerea unei permise de muncă, urmată de cel puțin șase săptămâni pentru procesarea vizei.",
+    "faq3": "Ce se întâmplă dacă nu suntem mulțumiți de un angajat?",
+    "ans3": "Dacă un angajat nu îndeplinește așteptările dumneavoastră, aveți dreptul să-i reziliați contractul conform reglementărilor standard de muncă. În astfel de cazuri, îl ajutăm pe lucrător să găsească un loc de muncă alternativ. Dacă nu apar oportunități adecvate, îi facilităm întoarcerea în țara de origine.",
+    "faq4": "Putem aplica pentru permise de muncă mai lungi de 1 an?",
+    "ans4": "Permisele de muncă sunt în general eliberate pentru un an, în timp ce lucrătorii sezonieri pot obține permise de până la șase luni. Din cauza procedurilor birocratice, obținerea unei permise de muncă și a unei vize durează de obicei între două și trei luni.",
+    "faq5": "Cum pot fi reînnoite permisele de muncă?",
+    "ans5": "Cererile de reînnoire trebuie depuse cu cel puțin o lună înainte de expirarea permisului. Procesul necesită pașaportul angajatului, cartea de identitate anterioară, fotografii recente (pentru noul buletin), o declarație de la furnizorul de cazare și o declarație eliberată de companie care confirmă continuarea cazării la locația desemnată.",
+    "faq6": "Există restricții privind angajarea muncitorilor străini?",
+    "ans6": "Anumite profesii din Europa sunt clasificate ca fiind de mare demand, permițând angajatorilor să solicite permise de muncă fără a trece printr-un test al pieței muncii. Lista oficială a acestor profesii este disponibilă la autoritățile competente. Pentru posturile neincluse în lista ocupațiilor deficitare, este necesar un Test al Pieței Muncii. Acest proces durează două săptămâni și evaluează disponibilitatea lucrătorilor locali. Dacă se confirmă un deficit de forță de muncă, cererile pentru muncitori străini pot fi procesate în consecință."
+  },
+  "contactus": {
+    "title": "Contact",
+    "subtitle": "Pentru orice întrebări la care nu ai găsit un răspuns, nu ezita să ne contactezi, și noi îți vom explica totul în detaliu.",
+    "time": "Program de lucru: Lun - Vineri 8:00 - 16:00",
+    "sendText": "Contactează-ne pentru Asistență Expertă Ai Întrebări? Suntem Aici Să Ajutăm!"
+  },
+
+  "navigating": {
+    "hero": {
+      "title": "Navigarea Legilor privind Imigrația pentru Angajatori",
+      "desc": "respectarea legilor privind imigrația poate fi complexă datorită cadrului regulator care guvernează ocuparea forței de muncă străine. Aici expertiza noastră ajută la simplificarea procesului.",
+      "btn": "Contactați-ne"
+    },
+    "challenges": {
+      "title": "Provocările Conformității Imigrației",
+      "desc1": "Una dintre cele mai mari provocări cu care se confruntă companiile atunci când angajează profesioniști străini este navigarea prin legile complexe privind imigrația, care sunt concepute pentru a proteja piața muncii locale, abordând în același timp cerințele economice ale forței de muncă.",
+      "desc2": "Asigurarea conformității cu reglementările privind imigrația poate fi complexă, deoarece întreprinderile trebuie să respecte cerințe legale stricte care guvernează ocuparea forței de muncă internaționale. Angajatorii sunt obligați să respecte reglementările fiscale și de securitate socială, precum și condiții specifice, cum ar fi menținerea unui loc de muncă cu normă întreagă pentru cetățenii locali sau ai UE pentru o perioadă desemnată. Procesul implică, de asemenea, obținerea permiselor de muncă și de ședere, împreună cu respectarea politicilor de angajare a talentelor din țările non-UE.",
+      "desc3": "Aici îndrumarea expertă devine esențială. Echipa noastră este specializată în optimizarea procesului de angajare, asistând companiile în obținerea permiselor de muncă, gestionarea documentației necesare și asigurarea conformității complete cu toate reglementările pieței muncii.",
+      "desc4": "La ArkaHire, oferim îndrumare profesională pentru a simplifica procesul de angajare. Experții noștri ajută la obținerea permiselor de muncă, gestionarea documentației solicitate și asigurarea conformității complete cu reglementările pieței muncii.",
+      "desc5": "Dacă vă confruntați cu cerințe complexe de angajare, Serviciul nostru de Administrare a Angajării oferă o soluție completă."
+    },
+    "employment": {
+      "title": "Administrarea Angajării",
+      "desc": "Serviciul nostru de Administrare a Angajării gestionează toate procedurile administrative legate de angajarea profesioniștilor internaționali. Asigurăm conformitatea cu legile muncii și imigrației, optimizând întregul proces pentru compania dvs.",
+      "btn": "Aflați mai multe"
+    },
+    "features": {
+      "title1": "Acces la Lucrători Calificați",
+      "desc1": "O bază de date cu candidați verificați atent și calificați.",
+      "title2": "Soluții Flexibile pentru Forța de Muncă",
+      "desc2": "Opțiuni de angajare personalizate pentru a se potrivi nevoilor dvs. operaționale.",
+      "title3": "Proces de Angajare Rapid și Eficient",
+      "desc3": "Accelerăm procesele de angajare și administrative, făcând recrutarea fără efort."
+    }
+  },
+  "seasonal": {
+    "hero": {
+      "title": "Angajarea Lucrătorilor Sezonieri",
+      "desc": "La ArkaHire, suntem specializați în recrutarea lucrătorilor sezonieri din diverse profesii, inclusiv chelneri, barmani, bucătari, personal auxiliar de bucătărie, cameriste, curățenii și recepționeri. Expertiza noastră asigură că puteți găsi talentele potrivite pentru nevoile dumneavoastră.",
+      "btn": "Contactați-ne"
+    },
+    "challenges": {
+      "title": "Provocări în Găsirea Lucrătorilor Sezonieri",
+      "desc1": "Problema găsirii lucrătorilor sezonieri în Croația, în special în industrii precum turism, alimentație publică, agricultură și construcții, este multilaterală și reprezintă adesea o provocare semnificativă pentru angajatori.",
+      "desc2": "Industria hotelieră este mai supusă schimbărilor sezoniere decât oricând, în comparație cu orice altă sferă de activitate.",
+      "desc3": "Majoritatea clienților noștri în primul trimestru nu pot prezice cu exactitate numărul și nevoia de lucrători externi sau străini în sezonul mare.",
+      "desc4": "Situația în care majoritatea complexelor, hotelurilor și restaurantelor iau decizii de angajare în ultimul moment are ca rezultat o creștere bruscă a cererii de lucrători. Acest lucru, la rândul său, duce la reticența pieței de a răspunde imediat acelei cereri. Și anume, din momentul semnării contractului cu Agenția pentru Ocuparea Forței de Muncă, trece o lună sau chiar două până când lucrătorii străini ajung la locul de muncă. Găsirea lucrătorilor, testarea calificărilor, interviurile, actele și procesele similare ocupă cea mai mare parte a acestui timp.",
+      "desc5": "Prin urmare, vă oferim o soluție care elimină riscurile așteptărilor lungi și întârzierilor în sosirea lucrătorilor: externalizarea forței de muncă."
+    },
+    "assignment": {
+      "title": "Detasarea Lucrătorilor",
+      "desc": "Serviciul nostru de detașare a lucrătorilor facilitează angajarea rapidă a forței de muncă pentru proiecte sezoniere sau perioade specifice de timp. Prin utilizarea lucrătorilor disponibili care se află deja în Europa, accelerăm semnificativ procesul de angajare. Ne ocupăm de încheierea acordurilor de detașare și ne asumăm responsabilitatea pentru plățile salariale și sarcinile administrative. Acest serviciu este conceput pentru a oferi o soluție practică pentru nevoile urgente de forță de muncă, asigurând în același timp flexibilitate și eficiență în gestionarea personalului across various projects and seasonal demands.",
+      "btn": "Aflați mai multe"
+    },
+    "features": {
+      "title1": "Acces la Talente Calificate",
+      "desc1": "La ArkaHire, oferim o bază de date cu candidați pre-verificați, minimizând riscurile asociate angajării. Procesul nostru asigură acces la lucrători calificați adaptați nevoilor dumneavoastră.",
+      "title2": "Soluții Flexibile de Forță de Muncă",
+      "desc2": "Înțelegem importanța managementului flexibil al forței de muncă, permițându-vă să vă adaptați eficient la cerințele în schimbare.",
+      "title3": "Proces de Recrutare Eficient",
+      "desc3": "Procesul nostru de recrutare simplificat accelerează găsirea, gestionarea și angajarea lucrătorilor, asigurând vă nevoile de forță de muncă în timp util."
+    }
+  },
+  "medical": {
+    "hero": {
+      "title": "Ocuparea Forței de Muncă Medicale",
+      "desc": "Medici, asistente medicale, tehnicieni medicali, farmaciști și alți profesioniști din domeniul sănătății – ne specializăm în recrutarea tuturor tipurilor de personal medical.",
+      "btn": "Contactați-ne"
+    },
+    "challenges": {
+      "title": "Provocări în găsirea personalului medical",
+      "desc1": "Provocarea de a găsi profesioniști medicali calificați, în special în roluri de sănătate specializate, este o problemă semnificativă cu care se confruntă instituțiile de sănătate la nivel global.",
+      "desc2": "Similar cu alte țări, sistemul de sănătate din Croația se confruntă cu dificultățile de a găsi și păstra personal medical calificat. Cererea de profesioniști din sănătate, cum ar fi medici, asistente medicale, farmaciști și tehnicieni, continuă să crească din cauza unor factori precum îmbătrânirea populației, avansurile medicale și nevoile de sănătate în schimbare.",
+      "desc3": "Nevoia de lucrători medicali este în continuă creștere, alimentată de factori precum creșterea populației, o societate îmbătrânită și avansurile în tehnologia medicală.",
+      "desc4": "Sistemul de sănătate din Croația include atât entități publice, cât și private, fiecare cu propriile cerințe de personal. Deși forța de muncă medicală a țării este în general calificată, anumite specialități sau regiuni pot experimenta deficiențe, creând lacune în îngrijirea pacienților și crescând presiunea asupra personalului existent.",
+      "desc5": "Unitățile sanitare se confruntă, de asemenea, adesea cu provocări în prezicerea precisă a nevoilor de personal, ducând la deficiențe în perioadele critice. Această imprevizibilitate poate perturba calitatea îngrijirii și supraîncărca personalul actual."
+    },
+    "mediation": {
+      "title": "Intermediere pentru Ocuparea Forței de Muncă",
+      "desc": "Oferim acces la un pool larg de candidați preselectați, inclusiv cei cu abilități și experiență specializate. Utilizând rețelele și resursele noastre, putem accelera procesul de angajare, reducând timpul necesar pentru ocuparea posturilor vacante și minimizând întreruperile în îngrijirea pacienților. Asigurăm respectarea tuturor standardelor de licențiere și reglementare și ajutăm la reducerea riscului de angajare a candidaților necalificați sau nesiguri.",
+      "btn": "Aflați mai multe"
+    },
+    "features": {
+      "title1": "Acces la Lucrători Responsabili",
+      "desc1": "Obțineți acces la o forță de muncă verificată atent și calificată",
+      "title2": "Prevenirea Întârzierilor de Proiect",
+      "desc2": "Ne asigurăm că proiectele sunt finalizate conform programului cu o forță de muncă capabilă.",
+      "title3": "Proces de Recrutare Eficient și Raționalizat",
+      "desc3": "Accelerăm procesul de găsire, gestionare și angajare a lucrătorilor."
+    }
+  },
+  "construction": {
+    "hero": {
+      "title": "Ocuparea Forței de Muncă în Construcții",
+      "desc": "Oferim soluții de personal pentru o mare varietate de roluri în construcții, inclusiv armatori, tâmplari, zidari, montatori structuri metalice, acoperișieri și operatori utilaje construcții.",
+      "btn": "Contactați-ne"
+    },
+    "challenges": {
+      "title": "Provocări în Găsirea Lucrătorilor din Construcții",
+      "desc1": "Industria construcțiilor se confruntă în prezent cu provocări semnificative în găsirea de forță de muncă calificată. Această lipsă de muncitori reduce productivitatea, cauzează întârzieri în cronograma proiectelor și complică eforturile de a satisface cererea tot mai mare de profesioniști calificați în sector.",
+      "desc2": "Peste tot în Europa, există o cerere tot mai mare pentru experți în construcții, așa cum se poate vedea din numeroasele anunțuri de locuri de muncă. Multe companii se confruntă cu dificultăți în a găsi muncitori experimentați și capabili, ceea ce duce la întârzieri în finalizarea proiectelor.",
+      "desc3": "Ca agenție de recrutare specializată în forța de muncă străină, ArkaHire acoperă decalajul dintre cerere și ofertă, conectând muncitori calificați din țările lumii a treia cu angajatorii care au nevoie de ei. De asemenea, îndrumăm clienții noștri prin procedurile legale asociate cu angajarea lucrătorilor străini, asigurând o experiență de recrutare fără probleme și conformă."
+    },
+    "mediation": {
+      "title": "Intermediere Forță de Muncă",
+      "desc": "Prin serviciile noastre de intermediere a forței de muncă, ajutăm companiile să acceseze un pool vast de lucrători calificați. Abordăm provocările cu care se confruntă în asigurarea unei forțe de muncă calificate. Permițând ocuparea forței de muncă străine și oferind servicii complete de recrutare, jucăm un rol pivotal în satisfacerea cererii de forță de muncă din diferite industrii din Europa.",
+      "btn": "Aflați mai multe"
+    },
+    "features": {
+      "title1": "Acces la Lucrători Responsabili",
+      "desc1": "Obțineți acces la o forță de muncă verificată atent și calificată.",
+      "title2": "Prevenirea Întârzierilor Proiectelor",
+      "desc2": "Ne asigurăm că proiectele sunt finalizate la timp cu o forță de muncă capabilă.",
+      "title3": "Proces de Recrutare Eficient și Simplificat",
+      "desc3": "Accelerăm procesul de găsire, gestionare și angajare a lucrătorilor."
+    }
+  },
+  "servicemain": {
+    "title1": "Aflați mai multe despre serviciile noastre",
+    "desc1": "Vă sprijinim în fiecare etapă a procesului de recrutare – de la găsirea candidaților, gestionarea administrației, până la integrarea perfectă.",
+    "btn1": "Contactați-ne",
+    "title2": "Administrarea angajării",
+    "desc2": "Ne ocupăm de toate sarcinile administrative legate de angajarea profesioniștilor internaționali, inclusiv traducerea documentelor, procesarea vizei și a permisului de muncă și întocmirea contractelor de muncă.",
+    "btn2": "Aflați mai multe",
+    "title3": "Servicii Complete de Resurse Umane",
+    "desc3": "Pentru sprijin comprehensiv în managementul resurselor umane, de la recrutare până la integrarea perfectă a angajaților.",
+    "title4": "Intermediere pentru angajare",
+    "desc4": "Economisiți timp și resurse prețioase profitând de expertiza noastră profesională în găsirea de lucrători calificați din afara Europei.",
+    "title5": "Servicii de Împrumut de Personal",
+    "desc5": "ArkaHire oferă un serviciu de angajare a lucrătorilor pentru perioade specifice, cum ar fi proiecte sau sezoane, cu opțiunea de angajare permanentă."
+  },
+
+  "assignmentworkers": {
+    "hero": {
+      "title": "Servicii de Detașare a Lucrătorilor",
+      "desc": "ArkaHire oferă un serviciu de angajare a lucrătorilor pentru perioade specifice, cum ar fi proiecte sau sezoane, cu opțiunea de angajare permanentă.",
+      "btn": "Contactați-ne"
+    },
+    "features": {
+      "title1": "Flexibilitate în Angajare",
+      "desc1": "Oferim soluții eficiente de forță de muncă pentru proiecte pe termen scurt sau cereri fluctuante, asigurând eficiență operațională.",
+      "title2": "Evaluarea Lucrătorului înainte de Angajare",
+      "desc2": "Permitem testarea lucrătorilor înainte de angajarea permanentă pentru a asigura o cooperare de succes și compatibilitate.",
+      "title3": "Administrare Simplificată",
+      "desc3": "Ne ocupăm de toate sarcinile administrative legate de angajare și Resurse Umane, astfel încât să vă puteți concentra asupra activităților de bază ale afacerii dvs."
+    },
+    "include": {
+      "title": "Ce Include Serviciul de Detașare a Lucrătorilor?",
+      "desc1": "Acest serviciu oferă flexibilitate în managementul forței de muncă, reducând în același timp povara administrativă. Acorda acces la talente specializate din străinătate fără complexitățile angajării directe.",
+      "desc2": "Simplificăm angajarea temporară prin întocmirea de Contracte de Muncă formale și atribuirea lucrătorilor către companiile client în condiții convenite.",
+      "desc3": "Serviciile noastre se extind dincolo de angajare prin gestionarea sarcinilor administrative, cum ar fi cererile de pensie și asigurări de sănătate, calculele salariale și procesarea beneficiilor.",
+      "desc4": "Lucrătorii sunt plasați în companiile client în condiții convenite, în timp ce noi preluăm rolul oficial de angajator.",
+      "desc5": "Prin alegerea serviciilor noastre, companiile beneficiază de un proces simplificat care rezolvă provocările birocratice, asigură conformitatea legală și îmbunătățește eficiența administrativă. Acest lucru permite afacerilor să se concentreze asupra operațiunilor lor de bază."
+    },
+    "whenToconsider": {
+      "title": "Când să Luați în Considerare Medierea în Angajare?",
+      "faq1": "Aveți nevoie de lucrători pentru un proiect specific sau sezonier?",
+      "ans1": "Serviciul nostru vă oferă acces la un pool global de talente. Evaluăm cerințele dvs. și vă conectăm cu cei mai buni candidați pentru a le îndeplini.",
+      "faq2": "Doriți să evitați complexitățile angajării directe",
+      "ans2": "Ne ocupăm de toate sarcinile administrative și contabile legate de lucrători, permițându-vă să vă concentrați asupra activităților de bază ale afacerii fără povară suplimentară.",
+      "faq3": "Doriți să asigurați calitatea forței de muncă",
+      "ans3": "Dacă trebuie să evaluați abilitățile lucrătorilor înainte de o angajare permanentă, serviciul nostru oferă o soluție ideală ca fază de testare. În plus, lucrătorii noștri din agenție sunt verificați temeinic. Mulți au experiență vastă din munca anterioară în agenție, aducând abilități și cunoștințe dezvoltate în orice mediu de afaceri. De asemenea, efectuăm verificări suplimentare pentru toți lucrătorii noi pentru a ne asigura de pregătirea lor."
+    },
+    "advantages": {
+      "title1": "Care sunt avantajele angajării printr-o agenție?",
+      "desc1": "Utilizând serviciile noastre de muncă temporară, oferim soluții flexibile pentru completarea absențelor pe termen scurt sau lung ale angajaților, optimizarea nevoilor sezoniere de forță de muncă și îndeplinirea cerințelor proiectelor specifice. În plus, gestionăm toate sarcinile administrative, asigurând un proces fluid și eficient.",
+      "title2": "Ghidare Experță",
+      "desc2": "Oferim sprijin profesional și consiliere pe parcursul întregului proces de angajare, asigurând că luați decizii informate.",
+      "title3": "Economisirea Timpului și a Resurselor",
+      "desc3": "Ne ocupăm de căutarea candidaților, negocieri și sarcini administrative, permițându-vă să vă concentrați asupra zonelor cheie ale afacerii dvs.",
+      "title4": "Acces la o Piață Mai Largă",
+      "desc4": "Vă oferim acces la un pool divers de candidați din întreaga lume prin rețeaua noastră stabilită.",
+      "title5": "Reducerea Riscurilor",
+      "desc5": "Asigurăm securitatea prin verificarea amănunțită a calificărilor și referințelor candidaților, reducând riscul de angajări nepotrivite și de neconformitate cu reglementările."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "queation1": "Care sunt avantajele angajării printr-o agenție?",
+      "ans1": "Folosind serviciul de muncă temporară, vă permitem să completați flexibil absențele scurte sau lungi ale angajaților dvs., să optimizați nevoile de afaceri sezoniere sau cerințele pentru proiecte specifice. De asemenea, gestionăm sarcinile administrative, facilitând întregul proces.",
+      "queation2": "Ce sarcini administrative preluăm de la dvs.?",
+      "ans2": {
+        "title1": "Vă eliberăm de povara administrativă asociată cu lucrătorii detașați, care include:",
+        "item1": "Întocmirea și încheierea contractelor de muncă",
+        "item2": "Calcularea și procesarea salariilor și contribuțiilor",
+        "item3": "Înregistrarea și radierea lucrătorilor la Institutul de Pensii și Asigurări de Sănătate",
+        "item4": "Menținerea evidențelor lunare și anuale (zile de concediu, concediu medical etc.)",
+        "item5": "Completarea și depunerea rapoartelor necesare către autoritățile competente"
+      },
+      "queation3": "Care sunt obligațiile dvs. față de lucrători?",
+      "ans3": "Utilizatorul (angajatorul) trebuie să respecte legile muncii, inclusiv reglementările privind sănătatea și securitatea, precum și protecțiile speciale pentru anumite grupuri de lucrători. Aceasta include furnizarea de îmbrăcăminte și încălțăminte de protecție atunci când natura locului de muncă o cere. În plus, utilizatorul este responsabil pentru organizarea și atribuirea muncii în conformitate cu procesele stabilite, precum și pentru menținerea evidențelor de prezență ale lucrătorilor la locul de muncă."
+    }
+  },
+  "employmentmediation": {
+    "hero": {
+      "title": "Intermediere Forță de Muncă",
+      "desc": "Economisiți timp și resurse valoroase profitând de expertiza noastră profesională în găsirea de lucrători calificați din afara Europei.",
+      "btn": "Contactați-ne"
+    },
+    "features": {
+      "title1": "Acces la Lucrători Calificați",
+      "desc1": "Căutăm proactiv și selecționăm manual candidați potențiali, utilizând rețelele și bazele noastre de date vaste.",
+      "title2": "Proces de Recrutare Simplificat",
+      "desc2": "Ne asigurăm că procesul de recrutare este desfășurat cu eficiență și precizie.",
+      "title3": "Ghidare și Suport Expert în Fiecare Etapă",
+      "desc3": "Oferim perspective experte, asigurând decizii informate și rezultate de succes."
+    },
+    "what": {
+      "title": "Ce este Intermedierea Forței de Muncă?",
+      "desc1": "Servim ca o punte între angajatori și candidații potențiali, simplificând procesul prin definirea cerințelor postului, screeningul candidaților și oferirea suportului cuprinzător. Scopul nostru este să conectăm talentele de top cu afacerile.",
+      "desc2": "Recrutarea este un serviciu vital care sprijină angajatorii în găsirea de candidați calificați pentru organizațiile lor. Acest serviciu implică angajarea unei agenții de recrutare care acționează ca intermediar între companii și potențialii angajați. Agenția se concentrează pe înțelegerea nevoilor angajatorului, definirea cerințelor specifice ale postului și căutarea și selectarea diligentă a candidaților care se aliniază cu aceste nevoi.",
+      "desc3": "Un rol fundamental al agenției în timpul procesului de angajare este efectuarea de verificări aprofundate ale calificărilor și experienței candidaților, asigurându-și astfel idoneitatea pentru rol.",
+      "desc4": "Alegerea serviciilor de recrutare oferă numeroase avantaje, inclusiv accesul la un pool vast de talente, reducerea timpului și resurselor necesare pentru recrutare și asigurarea unor standarde înalte de profesionalism în selecția candidaților."
+    },
+    "commonfaq": {
+      "title": "Găsiți Răspunsuri la Cele Mai Frecvente Întrebări",
+      "queation1": "Care sunt Responsabilitățile Noastre în Procesul de Intermediere?",
+      "ans1": {
+        "title1": "Sarcinile agențiilor implicate în intermedierea ocupării forței de muncă străine includ:",
+        "item1": "Găsirea unui muncitor potrivit pe baza criteriilor clientului, desfășurarea procesului de selecție și furnizarea documentației necesare.",
+        "item2": "Pregătirea și depunerea întregii documentații necesare pentru obținerea permiselor de ședere și muncă temporare pentru cetățenii din țările terțe.",
+        "item3": "Acoperirea costurilor asigurării de călătorie pentru lucrători.",
+        "item4": "Organizarea vizei necesare pentru șederea și munca în Europa.",
+        "item5": "Acoperirea costului zborului lucrătorului."
+      },
+      "queation2": "Care sunt Obligațiile Dvs. față de un Lucrător Străin?",
+      "ans2": "Odată obținut permisul de muncă pentru un lucrător străin, este necesar să se asigure cazare și mese la sosirea acestuia. Cazarea trebuie să îndeplinească standardele de bază de trai. Dacă nu se poate asigura mâncarea, trebuie plătită o indemnizație de masă lucrătorului. În plus, sunteți obligat să înregistrați lucrătorul la pensie și asigurare de sănătate, la fel cum ați face pentru orice angajat local.",
+      "queation3": "Care sunt Cerințele pentru Obținerea unui Permis de Ședere și Muncă?",
+      "ans3": {
+        "title2": "Cerințele pentru obținerea permiselor necesare includ:",
+        "item1": "Desfășurarea unei activități economice înregistrate în Europa.",
+        "item2": "Angajarea a cel puțin un sfert de cetățeni croați în comparație cu cetățenii țărilor terțe, cu contract pe durată nedeterminată, cu normă întreagă, în ultimele șase luni.",
+        "item3": "O certificare de la Administrația Fiscală care confirmă lipsa datoriilor restante legate de prestațiile publice, datată într-o perioadă recentă înainte de aplicarea pentru permise.",
+        "item4": "Nicio condamnare legală legată de relațiile de muncă sau securitatea socială."
+      }
+    },
+    "benefits": {
+      "title1": "Care sunt Beneficiile Angajării prin Intermediul unei Agenții?",
+      "item1": "Ne ocupăm de pregătirea și depunerea tuturor documentelor legale necesare în numele angajatorilor și angajaților lor selectați.",
+      "item2": "Cu experiența noastră vastă în acest domeniu, am simplificat procesele noastre, oferind angajatorilor o modalitate rapidă și eficientă de angajare.",
+      "title2": "Ghidare Expertă",
+      "desc2": "Oferim sprijin profesional și sfaturi pe tot parcursul procesului de recrutare, asigurându-ne că luați decizii bine informate.",
+      "title3": "Economisirea Timpului și a Resurselor",
+      "desc3": "Ne ocupăm de căutarea candidaților, negocieri și sarcini administrative, permițându-vă să vă concentrați asupra zonelor de bază ale afacerii dvs.",
+      "title4": "Acces la o Piață Mai Largă",
+      "desc4": "Vă oferim acces la un pool divers de candidați din întreaga lume prin rețeaua noastră stabilită.",
+      "title5": "Reducerea Riscurilor",
+      "desc5": "Asigurăm securitatea prin verificarea aprofundată a calificărilor și referințelor candidaților, reducând riscul de angajări inadecvate și de neconformitate cu reglementările."
+    },
+    "process": {
+      "title1": "Pasul 1: Consultanță",
+      "desc1": "Echipa noastră de specialiști efectuează o analiză aprofundată a nevoilor dvs. de forță de muncă, elaborând o strategie de recrutare personalizată.",
+      "title2": "Pasul 2: Găsirea de Talente",
+      "desc2": "Cu rețeaua și resursele noastre vaste, identificăm candidați calificați din întreaga lume care se potrivesc cerințelor afacerii dvs.",
+      "title3": "Pasul 3: Procesul de Selecție",
+      "desc3": "Evaluăm meticulos calificările, experiența și referințele candidaților pentru a ne asigura că selectăm cele mai bune persoane pentru echipa dvs.",
+      "title4": "Pasul 4: Aducerea Lucrătorilor în Europa",
+      "desc4": "Ne ocupăm de toată documentația necesară și gestionăm relocarea lucrătorilor în Europa.",
+      "title5": "Cum Arată Procesul?",
+      "desc5": "Lăsați toate preocupările legate de resursele umane pe seama noastră și asigurați-vă un management optim al angajaților cu serviciile noastre HR all-inclusive!"
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "queation1": "Care sunt Responsabilitățile Noastre în Procesul de Intermediere?",
+      "ans1": "Sarcinile agențiilor implicate în intermedierea ocupării forței de muncă străine includ: – Identificarea unui muncitor potrivit pe baza criteriilor clientului, desfășurarea procesului de selecție și furnizarea documentației necesare. – Pregătirea și depunerea întregii documentații necesare pentru obținerea permiselor de ședere și muncă temporare pentru cetățenii din țările terțe. – Acoperirea costurilor asigurării de călătorie pentru lucrători. – Organizarea vizei necesare pentru șederea și munca în Europa. – Acoperirea costului zborului lucrătorului.",
+      "queation2": "Care sunt Obligațiile Dvs. față de un Lucrător Străin?",
+      "ans2": "Odată obținut permisul de muncă pentru un lucrător străin, trebuie asigurate cazare și mese la sosirea acestuia. Cazarea trebuie să îndeplinească standardele de bază de trai. Dacă nu se pot asigura mese, trebuie acordată o indemnizație de masă lucrătorului. În plus, este obligatoriu să înregistrați lucrătorul la pensie și asigurare de sănătate, la fel ca pentru orice angajat local.",
+      "queation3": "Ce Condiții Trebuie Îndeplinite pentru a Obține un Permis de Ședere și Muncă?",
+      "ans3": "Pentru a obține permisele necesare, trebuie îndeplinite următoarele condiții: – Afacerea dvs. trebuie să fie înregistrată în Europa. – Trebuie să angajați cel puțin un sfert de cetățeni locali în comparație cu cetățenii țărilor terțe, cu normă întreagă, cu contract pe durată nedeterminată, în ultimele șase luni. – O certificare de la Administrația Fiscală care confirmă lipsa datoriilor restante legate de prestațiile publice, datată într-o perioadă recentă înainte de aplicarea pentru permise. – Nu trebuie să existe condamnări legate de relațiile de muncă sau securitatea socială.",
+      "queation4": "Poate Lucrătorul să Înceapă Imediat?",
+      "ans4": "Din păcate, nu. Deoarece acești lucrători sunt din țări terțe, trebuie mai întâi să obțină un permis de muncă și viză înainte de a intra în Europa. Întregul proces poate dura între 45 și 90 de zile, în funcție de viteza instituțiilor implicate. Pregătirea documentelor și negocierile durează de obicei 4 până la 10 zile, în funcție de pregătirea angajatorului. Recrutarea și selecția candidaților pot varia de la 1 la 30 de zile (până la 7 zile pentru muncitori necalificați, până la 30 de zile pentru muncitori calificați) sau mai mult dacă sunt necesare profesii specifice (până la 60 de zile). Testul pieței muncii durează de obicei 15 zile. Obținerea unui permis de muncă durează de obicei între 15 și 30 de zile. Procesarea vizei durează încă 15 până la 30 de zile. Organizarea călătoriei și sosirea lucrătorului în Europa durează în general 1 până la 10 zile."
+    }
+  },
+  "administration": {
+    "hero": {
+      "title": "Servicii complete de administrare a angajării",
+      "desc": "Ne ocupăm de toate sarcinile administrative legate de angajarea profesioniștilor internaționali, inclusiv traduceri de documente, procesarea vizelor și a permiselor de muncă și întocmirea contractelor de muncă.",
+      "btn": "Contactați-ne"
+    },
+    "features": {
+      "title1": "Economisiți timp și costuri",
+      "desc1": "Eliminați povara procedurilor administrative complexe și concentrați-vă asupra afacerii dumneavoastră de bază.",
+      "title2": "Asistență expertă",
+      "desc2": "Echipa noastră asigură un proces fără probleme, respectând cele mai recente cerințe legale.",
+      "title3": "Soluții personalizate",
+      "desc3": "Ne personalizăm serviciile pentru a vă satisface nevoile specifice de angajare."
+    },
+    "include": {
+      "title": "Ce include serviciul de administrare a angajării?",
+      "desc1": "Ajutăm companiile să gestioneze complexitatea angajării lucrătorilor străini, asigurând conformitatea cu legile privind imigrația și munca și simplificând procesul administrativ.",
+      "title1": "Serviciul nostru de administrare a angajării include gestionarea tuturor sarcinilor administrative legate de angajarea lucrătorilor străini pentru companiile care activează în UE. Serviciul acoperă în mod tipic:",
+      "desc2": {
+        "item1": "Procesarea permiselor de muncă și a vizelor",
+        "item2": "Asigurarea conformității documentației cu legile privind imigrația",
+        "item3": "Întocmirea contractelor de muncă",
+        "item4": "Coordonarea cu autoritățile guvernamentale"
+      }
+    },
+    "whenToconsider": {
+      "title": "Când să alegeți un serviciu de administrare?",
+      "faq1": "Ați găsit deja singur angajați.",
+      "ans1": "Dacă ați efectuat deja procesul de selecție a lucrătorilor străini și ați selectat personalul ideal pentru afacerea dvs., vă putem oferi sprijin și asistență în timpul angajării.",
+      "faq2": "Nu aveți suficient timp pentru aspectele administrative.",
+      "ans2": "Vă eliberăm de sarcinile și procesele administrative, permițându-vă să vă concentrați asupra activităților de bază. Ne ocupăm de toată documentația necesară pentru a vă putea dedica dezvoltării afacerii. Vă vom obține vize, permise de ședere și muncă, vom traduce documentația străină, vom pregăti contractele de muncă și toate celelalte documente necesare.",
+      "faq3": "Nu înțelegeți reglementările legale.",
+      "ans3": "Echipa noastră verifică calificările și asigură conformitatea cu reglementările și legile locale. Experții cu experiență oferă sprijin în întregul proces și asigură că întregul proces respectă reglementările legale."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "queation1": "Cum arată procesul de angajare a lucrătorilor străini?",
+      "ans1": {
+        "title1": "Pentru a angaja lucrători străini pentru posturi în întreaga Europă, trebuie urmați următorii pași esențiali:",
+        "item1": "Obțineți o permis de muncă pentru angajatul străin de la autoritatea competentă de imigrare sau pentru ocuparea forței de muncă.",
+        "item2": "Depuneți o cerere pentru permisul de ședere al lucrătorului.",
+        "item3": "Înregistrați angajatul străin la autoritățile fiscale și de securitate socială relevante.",
+        "item4": "Asigurați respectarea tuturor reglementărilor aplicabile privind munca și imigrația."
+      },
+      "queation2": "Ce documente sunt necesare pentru angajarea lucrătorilor străini?",
+      "ans2": {
+        "title2": "Documentația necesară include:",
+        "item1": "Permis de muncă eliberat de autoritatea competentă.",
+        "item2": "Contract de muncă sau acord formal.",
+        "item3": "Pașaport valabil sau act de identitate al lucrătorului străin.",
+        "item4": "Acoperire asigurării de sănătate pentru lucrător.",
+        "item5": "Dovada plății taxelor administrative necesare."
+      },
+      "queation3": "Cum pot serviciile de asistență administrativă să ajute angajatorii în procesul de angajare a lucrătorilor străini în UE?",
+      "ans3": "Serviciile de asistență administrativă joacă un rol crucial în simplificarea procesului de angajare a lucrătorilor străini, oferind sprijin cuprinzător în fiecare etapă.",
+      "ans4": "Îndrumăm angajatorii prin întregul proces de cerere a permisului de muncă și de ședere, ajutăm la pregătirea și depunerea documentelor necesare către autoritățile competente și asigurăm conformitatea deplină cu cerințele legale. Serviciile noastre includ consultanță continuă privind aspectele legate de muncă și imigrare, simplificând în același timp sarcinile administrative. Această abordare economisește timp și resurse pentru angajatori, asigurând un proces de angajare a lucrătorilor străini fără probleme și eficient în întreaga Europă."
+    }
+  },
+  "fullservicehr": {
+    "hero": {
+      "title": "Servicii HR Complete",
+      "desc": "Pentru sprijin comprehensiv în managementul resurselor umane, de la recrutare până la integrarea perfectă a angajaților.",
+      "btn": "Contactați-ne"
+    },
+    "features": {
+      "title1": "Sprijin de-a Lungul Întregului Proces HR",
+      "desc1": "De la recrutare și administrare până la asigurarea cazării și asistență continuă.",
+      "title2": "Acces la Experți HR",
+      "desc2": "Beneficiați de expertiza profesioniștilor cu experiență extinsă în resurse umane.",
+      "title3": "Concentrare pe Obiectivele de Business",
+      "desc3": "Redirecționați-vă atenția către atingerea obiectivelor strategice în timp ce noi vă gestionăm nevoile HR."
+    },
+    "mean": {
+      "title": "Ce Înseamnă Servicii HR Complete?",
+      "desc1": "Opțiunea de Servicii HR Complete oferă o gamă largă de sprijin care acoperă fiecare aspect al procesului HR, de la recrutare până la integrarea fără probleme a angajaților în cadrul organizației dumneavoastră.",
+      "desc2": "Acest serviciu cuprinzător include recrutare, proceduri de selecție, muncă administrativă, aspecte legate de asigurări, cazare și sprijin continuu de-a lungul întregii perioade de angajare. Prin angajarea de personal extrem de specializat cu experiență considerabilă în dreptul muncii, acest serviciu asigură o atenție meticuloasă la detalii și identificarea de soluții adaptate pentru a satisface nevoile specifice ale unei companii.",
+      "desc3": "Externalizarea acestor funcții HR esențiale oferă mai multe avantaje. În primul rând, oferă acces la expertiza profesioniștilor experimentați, asigurând o gestionare eficientă și coordonată a resurselor umane. În al doilea rând, externalizarea permite unei companii să realoce resursele interne către obiectivele de business de bază, sporind productivitatea și înaintând obiectivele strategice. În cele din urmă, opțiunea de Servicii HR Complete nu numai că garantează operațiuni HR fără probleme, dar, de asemenea, permite companiilor să se concentreze pe atingerea misiunii primare cu o claritate și eficiență sporită."
+    },
+    "whenToconsider": {
+      "title": "Când să Alegeți Opțiunea de Servicii HR Complete?",
+      "faq1": "Lipsă unei Echipe HR Interne",
+      "ans1": "Fără un departament HR intern, gestionarea tuturor aspectelor procesului HR, de la recrutare până la onboarding-ul angajaților, poate deveni copleșitoare și consumatoare de timp. Prin externalizare către experți, companiile pot asigura că fiecare fază a procesului HR este gestionată expert, permițându-le să se concentreze pe operațiunile de bază fără povara sarcinilor HR.",
+      "faq2": "Resurse Limit pentru Managementul Proceselor",
+      "ans2": "Fie că sunt limitări financiare, de timp sau profesionale, externalizarea Serviciilor HR Complete oferă o soluție eficientă. Oferim infrastructura, expertiza și experiența necesare pentru a gestiona eficient toate aspectele HR, de la recrutare până la sarcinile administrative, asigurând un proces fluid și optimizat fără a pune presiune suplimentară pe resursele interne.",
+      "faq3": "Nevoia de o Soluție Rapidă și Fiabilă",
+      "ans3": "Atunci când o companie are nevoie de o soluție HR rapidă și fiabilă, opțiunea de Servicii HR Complete este cea mai bună alegere. Navigăm eficient prin complexitățile HR, oferind rezultate prompte și eficiente. Prin utilizarea cunoștințelor și experienței noastre specializate, companiile pot asigura că nevoile lor HR sunt îndeplinite rapid și cu un efort minim."
+    },
+    "faq": {
+      "title": "Întrebări Frecvente",
+      "queation1": "Ce Funcții HR Acoperim?",
+      "ans1": "Soluția noastră de Servicii HR Complete acoperă fiecare aspect al procesului HR, inclusiv recrutare, proceduri de selecție, sarcini administrative, aspecte legate de asigurări, cazare, precum și sprijin și îndrumare continuă de-a lungul întregului ciclu de viață al angajării.",
+      "queation2": "Cum Asigurăm Conformitatea cu Legile și Reglementările de Muncă Relevante?",
+      "ans2": "Angajăm personal expert cu experiență extinsă în dreptul muncii, asigurând o atenție atentă la detalii și identificarea celor mai potrivite soluții pentru nevoile unice ale companiei dumneavoastră. De asemenea, rămânem la curent cu cele mai recente cerințe legale și cele mai bune practici pentru a asigura conformitatea deplină.",
+      "queation3": "Ce Flexibilitate Oferim în Adaptarea Soluției la Nevoile Specifice ale Companiei Dumneavoastră?",
+      "ans3": "Înțelegem că fiecare companie are cerințe HR distincte. Prin urmare, oferim flexibilitate în personalizarea soluției noastre de Servicii HR Complete pentru a vă satisface nevoile unice, fie că implică ajustarea componentelor serviciului, îndeplinirea unor cerințe specifice sau adaptarea la cerințele de business în evoluție."
+    }
+  },
+
+  "about": {
+    "hireaforeigner": {
+      "title": "Angajează un străin",
+      "desc": "Un partener fiabil și experimentat în recrutarea muncitorilor străini. Echipa noastră de experți este dedicată să vă ghideze prin procesul de imigrare, asigurând un rezultat lin și de succes.",
+      "btn": "Contactați-ne"
+    },
+    "whoWeare": {
+      "title1": "CINE SUNTEM?",
+      "title2": "Agenție Internațională de Angajare",
+      "desc1": "Îi ajutăm pe clienții noștri internaționali să găsească oportunități de angajare adecvate, inclusiv în Europa, potrivindu-i cu grijă cu poziții care se aliniază cu calificările lor. În plus, ne asigurăm că companiile cu care colaborăm nu numai că respectă, dar și recompensează corect forța de muncă.",
+      "desc2": "Pentru clienții noștri angajatori, căutăm și asigurăm meticulos muncitori calificați care îndeplinesc cerințele lor specifice, reducând îngrijorările privind fluctuația forței de muncă. Această abordare garantează o forță de muncă stabilă pentru a satisface nevoile de proiect sau sezoniere, atât la nivel local, cât și internațional. Ca rezultat, clienții noștri pot aștepta o livrare la timp a proiectului fără întreruperi inutile.",
+      "desc3": "Oferim o soluție cuprinzătoare pentru recrutarea și angajarea de talente de înaltă calitate, cu scopul de a promova un mediu de muncă productiv și armonios atât pentru angajatori, cât și pentru angajați din întreaga lume."
+    },
+    "WhyChoose": {
+      "title1": "De ce să alegeți",
+      "title2": "ArkaHire?",
+      "desc1": "Ani de expertiză",
+      "desc2": "Lucrători străini plasați cu succes",
+      "desc3": "Satisfacția clientului"
+    },
+    "WhatDoWeOffer": {
+      "title1": "CE OFERIM?",
+      "title2": "Aveți nevoie de ajutor cu imigrarea? Echipa noastră de experți este aici pentru a vă ajuta",
+      "desc1": "Contactați echipa noastră astăzi pentru a afla mai multe despre serviciile noastre și pentru a face primul pas către angajarea cu succes a lucrătorilor străini.",
+      "title3": "Servicii de angajare",
+      "btn": "Explorați toate serviciile",
+      "title4": "Sprijin în administrație",
+      "desc2": "Ne ocupăm de toate procedurile administrative necesare pentru angajare, cum ar fi traducerea documentelor, obținerea vizelor și a permiselor de muncă, contractele de muncă.",
+      "title5": "Intermediere pentru angajare",
+      "desc3": "Economisiți timp și resurse utilizând serviciile noastre profesionale pentru localizarea lucrătorilor calificați din afara Europei.",
+      "title6": "Servicii HR complete",
+      "desc4": "Sprijin cuprinzător în managementul resurselor umane, începând de la recrutare până la integrarea completă a angajatului.",
+      "title7": "Servicii de detașare a lucrătorilor",
+      "desc5": "Oferim plasarea lucrătorilor pentru perioade specifice (cum ar fi proiecte sau muncă sezonieră) cu opțiunea de tranziție către un angajament permanent."
+    },
+    "contactourteam": {
+      "title": "Contactați echipa noastră",
+      "desc1": "Aflați mai multe despre serviciile noastre profesionale și",
+      "desc2": "descoperiți cum vă putem ajuta.",
+      "btn": "Contactați-ne"
+    }
+  },
+  "footer": {
+    "title": "Suntem la dispoziția dumneavoastră.",
+    "desc": "Contactați-ne pentru orice întrebări legate de angajarea lucrătorilor din străinătate. Vă vom ajuta în orice moment."
+  }
+}

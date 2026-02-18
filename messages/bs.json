@@ -1,0 +1,552 @@
+{
+  "nav": {
+    "home": "Početna",
+    "howToHire": "Kako zaposliti međunarodne talente?",
+    "solutions": {
+      "label": "Rješenja",
+      "navigating": "Navigacija kroz imigracione zakone",
+      "seasonal": "Zapošljavanje sezonskih radnika",
+      "construction": "Zapošljavanje građevinskih radnika",
+      "medical": "Zapošljavanje medicinskih radnika"
+    },
+    "services": {
+      "label": "Usluge",
+      "admin": "Administracija zapošljavanja",
+      "fullHR": "Potpuni HR servis",
+      "mediation": "Posredovanje pri zapošljavanju",
+      "assignment": "Dodjela radnika"
+    },
+    "about": "O nama",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Pojednostavite proces zapošljavanja globalne radne snage.",
+    "desc": "Bilo da ste mali biznis ili multinacionalna korporacija, ArkaHire vam pomaže da pronađete kvalifikovanu radnu snagu. Od regrutacije do onboarding-a — mi se brinemo o svemu.",
+    "btn1": "Kontaktirajte nas",
+    "btn2": "Istražite usluge"
+  },
+  "achievements": {
+    "year1": "7+",
+    "exp1": "Godina iskustva",
+    "year2": "600+",
+    "exp2": "Zaposlenih radnika",
+    "year3": "100%",
+    "exp3": "Zadovoljstvo klijenata"
+  },
+
+  "whyChoose": {
+    "title": "Zašto odabrati agenciju za regrutaciju?",
+    "desc": "U ArkaHire-u nudimo inovativna, brza i efikasna rješenja za pronalazak i zapošljavanje međunarodnih talenata.",
+    "question1": "Ne znate gdje pronaći kvalitetne radnike?",
+    "ans1": "Naš tim kreira strategiju zapošljavanja na osnovu vaših potreba i povezuje vas sa kandidatima iz Indije, Bangladeša, Nepala, Pakistana, Šri Lanke i Filipina.",
+    "question2": "Trebate fleksibilnost pri zapošljavanju?",
+    "ans2": "Nudimo privremena rješenja za međunarodne radnike i brinemo se o svim formalnostima.",
+    "question3": "Nemate interni HR tim?",
+    "ans3": "Naša kompletna HR usluga pokriva sve — od zapošljavanja do integracije zaposlenika.",
+    "question4": "Niste upoznati sa zakonskim regulativama?",
+    "ans4": "Mi pojednostavljujemo proces i osiguravamo potpunu usklađenost sa zakonima."
+  },
+  "typeofemployees": {
+    "title": "Koje radnike možemo pronaći?",
+    "cardTitle1": "Magacioneri",
+    "cardDesc1": "Proaktivni i spremni za učenje, naši kandidati mogu preuzeti i rukovodeće pozicije.",
+    "cardTitle2": "Električari",
+    "cardDesc2": "Kvalifikovani stručnjaci na različitim nivoima. Moguća su video-intervjua za procjenu.",
+    "cardTitle3": "Mehaničari",
+    "cardDesc3": "Mladi, sposobni i spremni za nove izazove.",
+    "cardTitle4": "Građevinski radnici",
+    "cardDesc4": "Od osnovnih vještina do specijalizovanih zanata — nalazimo pravi kadar za vaše projekte.",
+    "cardTitle5": "Keramičari",
+    "cardDesc5": "Stručnjaci koji su veoma traženi dostupni su kroz naš pojednostavljeni proces zapošljavanja.",
+    "cardTitle6": "Prilagođene pozicije",
+    "cardDesc6": "Trebate posebnu poziciju? Možemo pomoći. Kontaktirajte nas.",
+    "btn": "Kontaktirajte nas"
+  },
+  "HireAForeigner": {
+    "title": "Zapošljavanje stranog radnika",
+    "subtitle": "Proces zapošljavanja kvalifikovanih radnika iz inostranstva",
+    "desc1": "Razumijte ključne zahtjeve koje vaša kompanija mora ispuniti za zapošljavanje međunarodnih profesionalaca.",
+    "desc2": "Poslovanje aktivno više od 6 mjeseci",
+    "desc3": "Najmanje jedan zaposleni na puno radno vrijeme najmanje 6 mjeseci",
+    "desc4": "Lokalna radna snaga čini najmanje 25% ukupnog broja zaposlenih"
+  },
+  "wowtohire": {
+    "title": "Kako zaposliti međunarodne talente?",
+    "desc": "Vodimo vas korak po korak kroz proces zapošljavanja međunarodnih radnika:",
+    "no1": "01",
+    "cardTitle1": "Pronalaženje radne snage",
+    "cardDesc1": "Pronalazimo kandidate prilagođene vašim potrebama. Online intervjui su dostupni.",
+    "no2": "02",
+    "cardTitle2": "Ugovori",
+    "cardDesc2": "Pripremamo i upravljamo ugovorima o radu.",
+    "no3": "03",
+    "cardTitle3": "Smještaj",
+    "cardDesc3": "Pomažemo u pronalasku odgovarajućeg smještaja za radnike.",
+    "no4": "04",
+    "cardTitle4": "Radne dozvole",
+    "cardDesc4": "Podnosimo zahtjeve za radne dozvole.",
+    "no5": "05",
+    "cardTitle5": "Vize",
+    "cardDesc5": "Vodimo proces apliciranja za vize, koji obično traje 4–6 sedmica.",
+    "no6": "06",
+    "cardTitle6": "Putne pripreme",
+    "cardDesc6": "Rezervišemo letove i osiguravamo siguran dolazak radnika.",
+    "no7": "07",
+    "cardTitle7": "Dokumentacija",
+    "cardDesc7": "Pomažemo sa ličnim dokumentima, ljekarskim pregledima i otvaranjem bankovnih računa.",
+    "no8": "08",
+    "cardTitle8": "Zadovoljstvo",
+    "cardDesc8": "Naš cilj je da budu zadovoljni i poslodavci i radnici."
+  },
+
+  "bookconsultation": {
+    "title": "Zakažite besplatnu konsultaciju.",
+    "desc1": "Pouzdan i iskusan partner u zapošljavanju stranih radnika. Naši stručnjaci su spremni raditi s vama kako bi uklonili stres iz bilo kog imigracionog procesa, povećavajući vaše šanse za uspješan ishod.",
+    "decs2": "Kontaktirajte naš tim danas da saznate više o našim uslugama i napravite prvi korak ka uspješnom zapošljavanju.",
+    "btn": "Kontaktirajte nas"
+  },
+  "whychooseus": {
+    "title": "Zašto odabrati nas?",
+    "desc": "ArkaHire je vaš pouzdani partner za zapošljavanje međunarodnih talenata. Naši stručnjaci su spremni pojednostaviti imigracioni proces i osigurati uspješne rezultate.",
+    "item1": "Besplatne konsultacije",
+    "item2": "Kandidati visokog kvaliteta",
+    "item3": "Brzo vrijeme odgovora",
+    "item4": "Dugoročna partnerstva",
+    "item5": "Dostupnost 24/7",
+    "item6": "Verifikovani profesionalci",
+    "btn": "Kontaktirajte nas"
+  },
+  "faq": {
+    "title": "Često postavljana pitanja",
+    "faq1": "Ko je odgovoran za smještaj?",
+    "ans1": "Poslodavci su dužni ponuditi pogodan i udoban smještaj svojim radnicima.",
+    "faq2": "Koliko je vremena potrebno da radnici stignu?",
+    "ans2": "Proces obično traje najmanje tri mjeseca. Ovaj vremenski okvir uključuje dvonedeljni period za dobijanje radne dozvole, nakon čega slijedi najmanje šest sedmica za procesuiranje vize.",
+    "faq3": "Šta se dešava ako nismo zadovoljni zaposlenikom?",
+    "ans3": "Ako zaposlenik ne ispunjava vaša očekivanja, imate pravo raskinuti njegov ugovor u skladu sa standardnim radnim propisima. U takvim slučajevima, pomažemo radniku da pronađe alternativno zaposlenje. Ako se ne pojavi nijedna pogodna prilika, olakšavamo njegov povratak u matičnu zemlju.",
+    "faq4": "Možemo li aplicirati za radne dozvole duže od 1 godine?",
+    "ans4": "Radne dozvole se generalno izdaju na godinu dana, dok sezonski radnici mogu dobiti dozvole do šest mjeseci. Zbog birokratskih procedura, dobijanje radne dozvole i vize obično traje između dva i tri mjeseca.",
+    "faq5": "Kako se mogu obnoviti radne dozvole?",
+    "ans5": "Zahtjevi za obnovu moraju biti podnijeti najmanje mjesec dana prije isteka dozvole. Proces zahtijeva pasoš zaposlenika, prethodnu ličnu kartu, nedavne fotografije (za novu ličnu kartu), izjavu pružaoca smještaja i izjavu kompanije koja potvrđuje nastavak smještaja na određenoj lokaciji.",
+    "faq6": "Postoje li ograničenja pri zapošljavanju stranih radnika?",
+    "ans6": "Određene profesije u Evropi su klasificirane kao visoko tražene, što omogućava poslodavcima da apliciraju za radne dozvole bez prolaska kroz test tržišta rada. Službeni spisak ovih profesija dostupan je kod nadležnih vlasti. Za pozicije koje nisu uključene na listu deficitarnih zanimanja, potreban je Test tržišta rada. Ovaj proces traje dvije sedmice i procjenjuje dostupnost lokalnih radnika. Ako se potvrdi nedostatak radne snage, aplikacije za strane radnike mogu se nastaviti u skladu s tim."
+  },
+
+  "contactus": {
+    "title": "Kontakt",
+    "subtitle": "Za sva pitanja na koja niste pronašli odgovor, slobodno nam se obratite, a mi ćemo vam sve detaljno objasniti.",
+    "time": "Radno vrijeme: Pon - Pet 8:00 - 16:00",
+    "sendText": "Kontaktirajte nas za stručnu pomoć Imate pitanja? Tu smo da vam pomognemo!"
+  },
+  "navigating": {
+    "hero": {
+      "title": "Navigacija imigracionim zakonima za poslodavce",
+      "desc": "Poštovanje imigracionih zakona može biti složeno zbog regulatornog okvira koji upravlja zapošljavanjem stranih radnika. Tu naša stručnost pomaže u pojednostavljenju procesa.",
+      "btn": "Kontaktirajte nas"
+    },
+    "challenges": {
+      "title": "Izazovi usklađenosti sa imigracionim zakonima",
+      "desc1": "Jedan od najvećih izazova sa kojim se kompanije susreću pri zapošljavanju stranih profesionalaca je navigacija složenim imigracionim zakonima, koji su osmišljeni da zaštite lokalno tržište rada, a istovremeno rješavaju ekonomske potrebe za radnom snagom.",
+      "desc2": "Osiguravanje usklađenosti sa imigracionim propisima može biti složeno, jer preduzeća moraju da se pridržavaju strogih zakonskih zahtjeva koji regulišu zapošljavanje međunarodnih radnika. Poslodavci su dužni da ispune poreske propise i propise o socijalnom osiguranju, kao i specifične uslove, poput održavanja punog radnog vremena za lokalne ili državljane EU tokom određenog perioda. Proces takođe uključuje dobijanje radnih i boravišnih dozvola, zajedno sa poštovanjem politika za zapošljavanje talenata iz zemalja izvan EU.",
+      "desc3": "Tu stručno vodstvo postaje ključno. Naš tim je specijalizovan za pojednostavljenje procesa zapošljavanja, pomažući preduzećima u dobijanju radnih dozvola, rukovanju potrebne dokumentacije i osiguravanju pune usklađenosti sa svim propisima tržišta rada.",
+      "desc4": "U ArkaHire-u, pružamo profesionalno vodstvo za pojednostavljenje procesa zapošljavanja. Naši stručnjaci pomažu u dobijanju radnih dozvola, upravljanju potrebnom dokumentacijom i osiguravanju pune usklađenosti sa propisima tržišta rada.",
+      "desc5": "Ako se suočavate sa složenim zahtjevima za zapošljavanje, naša Usluga administracije zapošljavanja nudi kompletno rješenje."
+    },
+    "employment": {
+      "title": "Administracija zapošljavanja",
+      "desc": "Naša Usluga administracije zapošljavanja upravlja svim administrativnim procedurama povezanim sa zapošljavanjem međunarodnih profesionalaca. Osiguravamo usklađenost sa radnim i imigracionim zakonima, pojednostavljujući cijeli proces za vašu kompaniju.",
+      "btn": "Saznajte više"
+    },
+    "features": {
+      "title1": "Pristup kvalificiranim radnicima",
+      "desc1": "Baza podataka pažljivo provjerenih i kvalificiranih kandidata.",
+      "title2": "Fleksibilna rješenja za radnu snagu",
+      "desc2": "Prilagođene opcije zapošljavanja koje odgovaraju vašim operativnim potrebama.",
+      "title3": "Brzi i efikasni proces zapošljavanja",
+      "desc3": "Ubrzavamo procese zapošljavanja i administracije, čineći regrutovanje jednostavnim."
+    }
+  },
+  "seasonal": {
+    "hero": {
+      "title": "Zapošljavanje sezonskih radnika",
+      "desc": "U ArkaHire specijalizirani smo za regrutiranje sezonskih radnika različitih profesija, uključujući konobare, barmene, kuhare, pomoćno kuhinjsko osoblje, sobarice, čistače i recepcionere. Naša stručnost osigurava da možete pronaći prave talente za svoje potrebe.",
+      "btn": "Kontaktirajte nas"
+    },
+    "challenges": {
+      "title": "Izazovi u pronalaženju sezonskih radnika",
+      "desc1": "Problem pronalaženja sezonskih radnika u Hrvatskoj, posebno u industrijama kao što su turizam, ugostiteljstvo, poljoprivreda i građevinarstvo, je višestruk i često predstavlja značajan izazov za poslodavce.",
+      "desc2": "Ugostiteljska industrija je podložnija sezonskim promjenama nego ikada prije, u poređenju sa bilo kojom drugom djelatnošću.",
+      "desc3": "Većina naših klijenata tokom prvog kvartala ne može tačno predvidjeti broj i potrebu za eksternim ili stranim radnicima tijekom visoke sezone.",
+      "desc4": "Situacija u kojoj većina resorta, hotela i restorana donosi odluke o zapošljavanju u posljednjem trenutku rezultira naglim porastom potražnje za radnicima. Ovo dalje rezultira nespremnošću tržišta da odmah odgovori na tu potražnju. Naime, od trenutka potpisivanja ugovora sa Zavodom za zapošljavanje, prođe mjesec ili čak dva dok strani radnici ne stignu na svoje radno mjesto. Pronalaženje radnika, testiranje kvalifikacija, intervjui, papirologija i slični procesi oduzimaju većinu tog vremena.",
+      "desc5": "Stoga vam nudimo rješenje koje eliminira rizike dugog čekanja i kašnjenja u dolasku radnika: autsorsing radne snage."
+    },
+    "assignment": {
+      "title": "Dodjela radnika",
+      "desc": "Naša usluga dodjele radnika olakšava brzo zapošljavanje radne snage za sezonske projekte ili specifične vremenske okvire. Korištenjem dostupnih radnika koji su već u Evropi, mi ubrzavamo proces zapošljavanja. Mi rješavamo uspostavljanje ugovora o dodjeli i preuzimamo odgovornost za isplate plata i administrativne zadatke. Ova usluga je dizajnirana da pruži praktično rješenje za hitne potrebe za radnom snagom, uz osiguranje fleksibilnosti i efikasnosti u upravljanju osobljem na različitim projektima i sezonskim zahtjevima.",
+      "btn": "Saznajte više"
+    },
+    "features": {
+      "title1": "Pristup kvalificiranim talentima",
+      "desc1": "U ArkaHire nudimo bazu podataka prethodno provjerenih kandidata, smanjujući rizike povezane sa zapošljavanjem. Naš proces osigurava pristup kvalificiranim radnicima prilagođenim vašim potrebama.",
+      "title2": "Fleksibilna rješenja za radnu snagu",
+      "desc2": "Razumijemo važnost fleksibilnog upravljanja radnom snagom, omogućavajući vam da se efikasno prilagodite promjenjivim zahtjevima.",
+      "title3": "Efikasan proces regrutacije",
+      "desc3": "Naš pojednostavljen regrutacijski proces ubrzava pronalaženje, upravljanje i zapošljavanje radnika, osiguravajući da pravovremeno zadovoljite svoje potrebe za radnom snagom."
+    }
+  },
+
+  "medical": {
+    "hero": {
+      "title": "Zapošljavanje medicinskih radnika",
+      "desc": "Liječnici, medicinske sestre, medicinski tehničari, farmaceuti i drugi zdravstveni djelatnici – specijalizirani smo za regrutovanje svih vrsta medicinskog osoblja.",
+      "btn": "Kontaktirajte nas"
+    },
+    "challenges": {
+      "title": "Izazovi u pronalaženju medicinskih radnika",
+      "desc1": "Izazov pronalaženja kvalificiranih medicinskih stručnjaka, posebno u specijaliziranim zdravstvenim ulogama, značajan je problem s kojim se zdravstvene ustanove suočavaju širom svijeta.",
+      "desc2": "Slično kao i u drugim zemljama, zdravstveni sistem Hrvatske se bori sa poteškoćama u pronalaženju i zadržavanju kvalificiranog medicinskog osoblja. Potražnja za zdravstvenim djelatnicima, kao što su liječnici, medicinske sestre, farmaceuti i tehničari, i dalje raste zbog činjenica kao što su starenje populacije, medicinski napredak i promjenjive zdravstvene potrebe.",
+      "desc3": "Potreba za medicinskim radnicima kontinuirano raste, potaknuta faktorima kao što su rast stanovništva, starenje društva i napredak u medicinskoj tehnologiji.",
+      "desc4": "Zdravstveni sistem Hrvatske uključuje i javne i privatne entitete, svaki sa svojim vlastitim zahtjevima za osobljem. Iako je medicinska radna snaga u zemlji općenito vješta, određene specijalnosti ili regije mogu imati nedostatke, što stvara praznine u njezi pacijenata i povećava pritisak na postojeće osoblje.",
+      "desc5": "Zdravstvene ustanove također se često suočavaju sa izazovima u tačnom predviđanju svojih potreba za osobljem, što dovodi do nedostataka u kritičnim vremenima. Ova nepredvidljivost može poremetiti kvalitet njege i preopteretiti postojeći osob."
+    },
+    "mediation": {
+      "title": "Posredovanje u zapošljavanju",
+      "desc": "Mi pružamo pristup širokom spektru prethodno provjerenih kandidata, uključujući one sa specijaliziranim vještinama i iskustvom. Korištenjem naših mreža i resursa, možemo ubrzati proces zapošljavanja, smanjujući vrijeme potrebno za popunjavanje slobodnih radnih mjesta i minimizirajući prekide u njezi pacijenata. Osiguravamo poštivanje svih standarda licenciranja i propisa i pomažemo u smanjenju rizika od zapošljavanja nekvalificiranih ili nepouzdanih kandidata.",
+      "btn": "Saznajte više"
+    },
+    "features": {
+      "title1": "Pristup odgovornim radnicima",
+      "desc1": "Dobijte pristup temeljito provjerenoj i kvalificiranoj radnoj snazi",
+      "title2": "Sprečavanje kašnjenja projekta",
+      "desc2": "Osiguravamo da se projekti završavaju prema rasporedu sa sposobnom radnom snagom.",
+      "title3": "Efikasan i pojednostavljen proces regrutacije",
+      "desc3": "Ubrzavamo proces pronalaženja, upravljanja i zapošljavanja radnika."
+    }
+  },
+  "construction": {
+    "hero": {
+      "title": "Zapošljavanje građevinskih radnika",
+      "desc": "Pružamo rješenja za zapošljavanje za širok spektar građevinskih uloga, uključujući armirače, stolare, zidare, montere metalnih konstrukcija, krovopokrivače i operatere građevinskih mašina.",
+      "btn": "Kontaktirajte nas"
+    },
+    "challenges": {
+      "title": "Izazovi u pronalaženju građevinskih radnika",
+      "desc1": "Građevinska industrija se trenutno suočava sa značajnim izazovima u pronalaženju kvalificirane radne snage. Ovaj nedostatak radnika koči produktivnost, uzrokuje kašnjenja u vremenskim okvirima projekata i otežava napore da se ispuni sve veća potražnja za kvalificiranim stručnjacima u sektoru.",
+      "desc2": "Širom Evrope postoji sve veća potražnja za građevinskim stručnjacima, što se vidi u brojnim oglasima za posao. Mnoge kompanije imaju poteškoća u pronalaženju iskusnih i sposobnih radnika, što rezultira kašnjenjima u završetku projekata.",
+      "desc3": "Kao regrutacijska agencija specijalizirana za stranu radnu snagu, ArkaHire premošćuje jaz između potražnje i ponude povezujući kvalificirane radnike iz zemalja trećeg svijeta sa poslodavcima kojima su potrebni. Također vodi naše klijente kroz pravne procese povezane sa zapošljavanjem stranih zaposlenika, osiguravajući glatko i usklađeno regrutacijsko iskustvo."
+    },
+    "mediation": {
+      "title": "Posredovanje u zapošljavanju",
+      "desc": "Kroz naše usluge posredovanja u zapošljavanju, pomažemo kompanijama da pristupe velikom broju kvalificiranih radnika. Rješavamo izazove s kojima se suočavaju u osiguravanju kvalificirane radne snage. Omogućavajući zapošljavanje stranih talenata i pružajući sveobuhvatne usluge zapošljavanja, igramo ključnu ulogu u zadovoljavanju potreba za radnom snagom u različitim industrijama u Evropi.",
+      "btn": "Saznajte više"
+    },
+    "features": {
+      "title1": "Pristup odgovornim radnicima",
+      "desc1": "Dobijte pristup pažljivo provjerenoj i kvalificiranoj radnoj snazi.",
+      "title2": "Sprečavanje kašnjenja projekata",
+      "desc2": "Osiguravamo da se projekti završavaju prema rasporedu sa sposobnom radnom snagom.",
+      "title3": "Efikasan i pojednostavljen proces zapošljavanja",
+      "desc3": "Ubrzavamo proces pronalaženja, upravljanja i zapošljavanja radnika."
+    }
+  },
+  "servicemain": {
+    "title1": "Saznajte više o našim uslugama",
+    "desc1": "Podržavamo vas kroz svaku fazu procesa zapošljavanja – od pronalaženja kandidata, rješavanja administracije, do besprijekorne integracije.",
+    "btn1": "Kontaktirajte nas",
+    "title2": "Administracija zapošljavanja",
+    "desc2": "Mi brinemo o svim administrativnim zadacima vezanim za zapošljavanje međunarodnih profesionalaca, uključujući prijevode dokumenata, procesuiranje viza i radnih dozvola te izradu ugovora o radu.",
+    "btn2": "Saznajte više",
+    "title3": "Cjeloviti HR servis",
+    "desc3": "Za sveobuhvatnu podršku upravljanja ljudskim resursima, od zapošljavanja do besprijekorne integracije zaposlenika.",
+    "title4": "Posredovanje u zapošljavanju",
+    "desc4": "Uštedite vrijedno vrijeme i resurse koristeći našu stručnu ekspertizu u pronalaženju kvalificiranih radnika izvan Europe.",
+    "title5": "Usluge dodjele radnika",
+    "desc5": "ArkaHire pruža uslugu zapošljavanja radnika za određene periode, kao što su projekti ili sezone, uz opciju trajnog zapošljavanja."
+  },
+
+  "assignmentworkers": {
+    "hero": {
+      "title": "Usluge Dodjele Radnika",
+      "desc": "ArkaHire pruža uslugu zapošljavanja radnika za određene periode, kao što su projekti ili sezone, sa opcijom za trajno zapošljavanje.",
+      "btn": "Kontaktirajte nas"
+    },
+    "features": {
+      "title1": "Fleksibilnost Zapošljavanja",
+      "desc1": "Nudimo efikasna rješenja radne snage za kratkoročne projekte ili fluktuirajuće potrebe radne snage, osiguravajući operativnu efikasnost.",
+      "title2": "Procjena Radnika Prije Zapošljavanja",
+      "desc2": "Omogućavamo testiranje radnika prije trajnog zapošljavanja kako bismo osigurali uspješnu saradnju i kompatibilnost.",
+      "title3": "Pojednostavljena Administracija",
+      "desc3": "Mi rješavamo sve administrativne zadatke vezane za zapošljavanje i HR, tako da se vi možete fokusirati na osnovne poslovne aktivnosti."
+    },
+    "include": {
+      "title": "Šta Uključuje Usluga Dodjele Radnika?",
+      "desc1": "Ova usluga pruža fleksibilnost u upravljanju radnom snagom uz istovremeno smanjenje administrativnog opterećenja. Omogućava pristup specijalizovanim talentima iz inostranstva bez kompleksnosti direktnog zapošljavanja.",
+      "desc2": "Pojednostavljujemo privremeno zapošljavanje sastavljanjem formalnih Ugovora o radu i dodjelom radnika klijentskim kompanijama pod dogovorenim uslovima.",
+      "desc3": "Naše usluge nadilaze zapošljavanje upravljanjem administrativnim zadacima kao što su prijave za penzijsko i zdravstveno osiguranje, obračun plata i procesuiranje beneficija.",
+      "desc4": "Radnici se postavljaju u klijentske kompanije pod dogovorenim uslovima dok mi preuzimamo službenu ulogu poslodavca.",
+      "desc5": "Odabirom naših usluga, kompanije imaju koristi od pojednostavljenog procesa koji rješava birokratske izazove, osigurava zakonsku usklađenost i poboljšava administrativnu efikasnost. Ovo omogućava preduzećima da se fokusiraju na svoje ključne operacije."
+    },
+    "whenToconsider": {
+      "title": "Kada Razmotriti Posredovanje u Zapošljavanju?",
+      "faq1": "Trebate li radnike za određeni projekt ili na sezonskoj osnovi?",
+      "ans1": "Naša usluga vam pruža pristup globalnom bazí talenata. Mi procjenjujemo vaše zahtjeve i povezujemo vas sa najboljim kandidatima koji će zadovoljiti te potrebe.",
+      "faq2": "Želite izbjeći složenost direktnog zapošljavanja",
+      "ans2": "Mi rješavamo sve administrativne i računovodstvene zadatke vezane za radnike, dopuštajući vam da se fokusirate na osnovne poslovne aktivnosti bez dodatnog opterećenja.",
+      "faq3": "Želite osigurati kvalitet svoje radne snage",
+      "ans3": "Ako trebate procijeniti vještine radnika prije nego što ih zaposlite trajno, naša usluga nudi idealno rješenje kao probni period. Osim toga, naši agencijski radnici su temeljito provjereni. Mnogi od njih imaju opsežno iskustvo iz prethodnog agencijskog rada, doprinoseći razvijenim vještinama i znanju bilo kojoj poslovnoj sredini. Također provodimo dodatne provjere svih novih radnika kako bismo osigurali njihovu spremnost."
+    },
+    "advantages": {
+      "title1": "Koje su prednosti zapošljavanja preko agencije?",
+      "desc1": "Korištenjem naših usluga agencijskog rada, nudimo fleksibilna rješenja za popunjavanje kratkoročnih ili dugoročnih odsutnosti zaposlenika, optimiziranje sezonskih potreba radne snage i ispunjavanje zahtjeva specifičnih projekata. Osim toga, upravljamo svim administrativnim zadacima, osiguravajući da je proces glatak i efikasan.",
+      "title2": "Stručno Vodstvo",
+      "desc2": "Pružamo profesionalnu podršku i savjete tokom cijelog procesa zapošljavanja, osiguravajući da donosite dobro informisane odluke.",
+      "title3": "Ušteda Vremena i Resursa",
+      "desc3": "Mi se brinemo o potrazi za kandidatima, pregovorima i administrativnim zadacima, dopuštajući vam da se fokusirate na ključna područja vašeg poslovanja.",
+      "title4": "Pristup Širem Tržištu",
+      "desc4": "Dajemo vam pristup raznolikom bazenu kandidata iz cijelog svijeta putem naše uspostavljene mreže.",
+      "title5": "Smanjenje Rizika",
+      "desc5": "Osiguravamo sigurnost temeljitim provjeravanjem kvalifikacija i referenci kandidata, smanjujući rizik od neprikladnog zapošljavanja i neuskladenosti s propisima."
+    },
+    "faq": {
+      "title": "Često Postavljana Pitanja",
+      "queation1": "Koje su prednosti zapošljavanja preko agencije?",
+      "ans1": "Korištenjem usluge agencijskog rada, omogućavamo vam da fleksibilno popunite kratke ili duge odsutnosti vaših zaposlenika, da optimizirate sezonske poslovne potrebe ili zahtjeve za određene projekte. Također rješavamo administrativne zadatke, olakšavajući cijeli proces.",
+      "queation2": "Koje administrativne zadatke preuzimamo od vas?",
+      "ans2": {
+        "title1": "Os-lobađamo vas administrativnog tereta povezanog s upućenim radnicima, što uključuje:",
+        "item1": "Izradu i sklapanje ugovora o radu",
+        "item2": "Obračun i obradu plata i doprinosa",
+        "item3": "Registraciju i odjavu radnika u Zavodu za mirovinsko i zdravstveno osiguranje",
+        "item4": "Vodenje mjesečnih i godišnjih evidencija (dani godišnjeg odmora, bolovanje, itd.)",
+        "item5": "Popunjavanje i podnošenje potrebnih izvještaja nadležnim tijelima"
+      },
+      "queation3": "Koje su vaše obaveze prema radnicima?",
+      "ans3": "Korisnik (poslodavac) mora se pridržavati zakona o radu, uključujući propise o zdravlju i sigurnosti, kao i posebne zaštite za određene grupe radnika. To uključuje pružanje zaštitne odjeće i obuće kada to zahtijeva priroda posla. Osim toga, korisnik je odgovoran za organizaciju i dodjelu posla prema utvrđenim procesima, kao i za vođenje evidencije o prisustvu radnika na radnom mjestu."
+    }
+  },
+  "employmentmediation": {
+    "hero": {
+      "title": "Posredovanje u Zapošljavanju",
+      "desc": "Uštedite vrijedno vrijeme i resurse koristeći se našom stručnošću u pronalaženju kvalifikovanih radnika izvan Evrope.",
+      "btn": "Kontaktirajte nas"
+    },
+    "features": {
+      "title1": "Pristup Kvalifikovanim Radnicima",
+      "desc1": "Aktivno tražimo i ručno biramo potencijalne kandidate, koristeći naše velike mreže i baze podataka.",
+      "title2": "Pojednostavljen Proces Regrutacije",
+      "desc2": "Osiguravamo da se proces regrutacije obavlja efikasno i precizno.",
+      "title3": "Stručno Vodenje i Podrška na Svakom Koraku",
+      "desc3": "Pružamo stručne uvide, osiguravajući informirane odluke i uspješne ishode."
+    },
+    "what": {
+      "title": "Šta je Posredovanje u Zapošljavanju?",
+      "desc1": "Služimo kao most između poslodavaca i potencijalnih kandidata, pojednostavljujući proces definiranjem zahtjeva za posao, provjerom kandidata i pružanjem sveobuhvatne podrške. Naš cilj je povezati vrhunske talente sa kompanijama.",
+      "desc2": "Regrutiranje je vitalna usluga koja pomaže poslodavcima da pronađu kvalifikovane kandidate za svoje organizacije. Ova usluga uključuje angažovanje regrutacijske agencije koja djeluje kao posrednik između kompanija i potencijalnih zaposlenika. Agencija se fokusira na razumijevanje potreba poslodavca, definiranje specifičnih zahtjeva za posao te marljivo traženje i odabir kandidata koji odgovaraju tim potrebama.",
+      "desc3": "Osnovna uloga agencije tokom procesa zapošljavanja je provođenje temeljitih provjera kvalifikacija i iskustva kandidata, osiguravajući njihovu podobnost za ulogu.",
+      "desc4": "Odabir regrutacijskih usluga nudi brojne prednosti, uključujući pristup širokom poolu talenata, smanjenje vremena i resursa potrebnih za zapošljavanje te osiguravanje visokih standarda profesionalizma u odabiru kandidata."
+    },
+    "commonfaq": {
+      "title": "Pronađite Odgovore na Najčešća Pitanja",
+      "queation1": "Koje su Naše Odgovornosti u Procesu Posredovanja?",
+      "ans1": {
+        "title1": "Dužnosti agencija uključenih u posredovanje pri zapošljavanju stranih radnika uključuju:",
+        "item1": "Pronalaženje odgovarajućeg radnika na osnovu kriterija klijenta, provođenje procesa selekcije i pružanje potrebne dokumentacije.",
+        "item2": "Priprema i podnošenje sve potrebne dokumentacije za dobivanje privremene boravišne i radne dozvole za državljane trećih zemalja.",
+        "item3": "Pokrivanje troškova putnog osiguranja za radnike.",
+        "item4": "Organiziranje vize potrebne za boravak i rad u Evropi.",
+        "item5": "Pokrivanje troškova leta radnika."
+      },
+      "queation2": "Koje su Vaše Obaveze Prema Stranom Radniku?",
+      "ans2": "Nakon što se dobije radna dozvola za stranog radnika, potrebno je osigurati smještaj i obroke po njihovom dolasku. Smještaj treba da ispunjava osnovne životne standarde. Ako se hrana ne može osigurati, radniku se mora isplatiti naknada za hranu. Dodatno, dužni ste registrirati radnika za mirovinsko i zdravstveno osiguranje, baš kao što biste to učinili za svakog lokalnog zaposlenika.",
+      "queation3": "Koji su Uslovi za Dobijanje Boravišne i Radne Dozvole?",
+      "ans3": {
+        "title2": "Zahtjevi za dobijanje potrebnih dozvola uključuju:",
+        "item1": "Obavljanje privredne aktivnosti koja je registrovana u Evropi.",
+        "item2": "Zapošljavanje najmanje jedne četvrtine hrvatskih državljana u poređenju sa državljanim trećih zemalja na puno radno vrijeme, na neodređeni ugovor, u posljednjih šest mjeseci.",
+        "item3": "Potvrda Poreske uprave koja potvrđuje da nema nepodmirenih duga po osnovu javnih davanja, izdata u nedavnom periodu prije podnošenja zahtjeva za dozvole.",
+        "item4": "Nema pravosnažnih osuda u vezi sa radnim odnosima ili socijalnim osiguranjem."
+      }
+    },
+    "benefits": {
+      "title1": "Koje su Prednosti Zapošljavanja preko Agencije?",
+      "item1": "Mi rješavamo pripremu i podnošenje svih potrebnih pravnih dokumentata u ime poslodavaca i njihovih odabranih zaposlenika.",
+      "item2": "Uz naše opsežno iskustvo u ovoj oblasti, unaprijedili smo naše procese, nudeći poslodavcima brz i efikasan način zapošljavanja.",
+      "title2": "Stručno Vodenje",
+      "desc2": "Pružamo profesionalnu podršku i savjete tokom cijelog procesa regrutacije, osiguravajući da donosite dobro informirane odluke.",
+      "title3": "Ušteda Vremena i Resursa",
+      "desc3": "Mi vodimo brigu o potrazi za kandidatima, pregovorima i administrativnim zadacima, dopuštajući vam da se fokusirate na ključne aspekte vašeg poslovanja.",
+      "title4": "Pristup Širem Tržištu",
+      "desc4": "Kroz našu ustaljenu mrežu, dajemo vam pristup raznolikom poolu kandidata iz cijelog svijeta.",
+      "title5": "Smanjenje Rizika",
+      "desc5": "Osiguravamo sigurnost temeljitom provjerom kvalifikacija i referenci kandidata, smanjujući rizik od neprikladnih zapošljavanja i neuskladenosti sa propisima."
+    },
+    "process": {
+      "title1": "Korak 1: Konzultacije",
+      "desc1": "Naš tim stručnjaka provodi dubinsku analizu vaših potreba za radnom snagom, kreirajući prilagođenu regrutacijsku strategiju.",
+      "title2": "Korak 2: Pronalaženje Talenata",
+      "desc2": "Uz našu opsežnu mrežu i resurse, identificiramo kvalificirane kandidate širom svijeta koji odgovaraju zahtjevima vašeg poslovanja.",
+      "title3": "Korak 3: Proces Selekcije",
+      "desc3": "Pažljivo procjenjujemo kvalifikacije, iskustvo i reference kandidata kako bismo osigurali da odaberemo najbolje pojedince za vaš tim.",
+      "title4": "Korak 4: Dovodenje Radnika u Evropu",
+      "desc4": "Mi rješavamo svu potrebnu dokumentaciju i upravljamo preseljenjem radnika u Evropu.",
+      "title5": "Kako Izgleda Proces?",
+      "desc5": "Prepustite sve brige o ljudskim resursima nama i osigurajte optimalno upravljanje svojim zaposlenicima s našim all-inclusive HR uslugama!"
+    },
+    "faq": {
+      "title": "Često Postavljana Pitanja",
+      "queation1": "Koje su Naše Odgovornosti u Procesu Posredovanja?",
+      "ans1": "Dužnosti agencija uključenih u posredovanje pri zapošljavanju stranih radnika uključuju: – Identifikacija odgovarajućeg radnika na osnovu kriterija klijenta, provođenje procesa selekcije i pružanje potrebne dokumentacije. – Priprema i podnošenje sve potrebne dokumentacije za dobivanje privremene boravišne i radne dozvole za državljane trećih zemalja. – Pokrivanje troškova putnog osiguranja za radnike. – Organiziranje vize potrebne za boravak i rad u Evropi. – Pokrivanje troškova leta radnika.",
+      "queation2": "Koje su Vaše Obaveze Prema Stranom Radniku?",
+      "ans2": "Nakon što se dobije radna dozvola za stranog radnika, potrebno je osigurati smještaj i obroke po njihovom dolasku. Smještaj treba da ispunjava osnovne životne standarde. Ako se obroci ne mogu osigurati, radniku se mora dati naknada za hranu. Dodatno, obavezno je registrirati radnika za mirovinsko i zdravstveno osiguranje, baš kao i za svakog lokalnog zaposlenika.",
+      "queation3": "Koji Uslovi Moraju Biti Ispunjeni za Dobijanje Boravišne i Radne Dozvole?",
+      "ans3": "Da biste dobili potrebne dozvole, moraju biti ispunjeni sljedeći uslovi: – Vaša kompanija mora biti registrovana u Evropi. – Morate zapošljavati najmanje jednu četvrtinu lokalnih državljana u poređenju sa državljanima trećih zemalja na puno radno vrijeme, na neodređeni ugovor, u posljednjih šest mjeseci. – Potvrda Poreske uprave koja potvrđuje da nema nepodmirenih duga po osnovu javnih davanja, izdata u nedavnom periodu prije podnošenja zahtjeva za dozvole. – Ne smije biti pravosnažnih osuda u vezi sa radnim odnosima ili socijalnim osiguranjem.",
+      "queation4": "Može li Radnik Početi Odmah?",
+      "ans4": "Nažalost, ne. Budući da su ovi radnici iz trećih zemalja, oni prvo moraju dobiti radnu dozvolu i vizu prije ulaska u Evropu. Cijeli proces može trajati od 45 do 90 dana, ovisno o brzini uključenih institucija. Priprema dokumenata i pregovori obično traju 4 do 10 dana, ovisno o spremnosti poslodavca. Regrutiranje i odabir kandidata može trajati od 1 do 30 dana (do 7 dana za nekvalificirane radnike, do 30 dana za kvalificirane radnike), ili duže ako su potrebne specifične profesije (do 60 dana). Test tržišta rada obično traje 15 dana. Dobivanje radne dozvole obično traje između 15 i 30 dana. Obrada vize traje dodatnih 15 do 30 dana. Organizacija putovanja i dolazak radnika u Evropu obično traje 1 do 10 dana."
+    }
+  },
+  "administration": {
+    "hero": {
+      "title": "Sveobuhvatne usluge administracije zapošljavanja",
+      "desc": "Mi brinemo o svim administrativnim zadacima vezanim za zapošljavanje internacionalnih profesionalaca, uključujući prevode dokumenata, procesuiranje viza i radnih dozvola te izradu ugovora o radu.",
+      "btn": "Kontaktirajte nas"
+    },
+    "features": {
+      "title1": "Uštedite vrijeme i troškove",
+      "desc1": "Oslobodite se tereta složenih administrativnih procedura i usredsredite se na svoj glavni posao.",
+      "title2": "Stručna pomoć",
+      "desc2": "Naš tim osigurava nesmetan proces uz poštivanje najnovijih zakonskih zahtjeva.",
+      "title3": "Prilagođena rješenja",
+      "desc3": "Mi prilagođavamo naše usluge kako bismo zadovoljili vaše specifične potrebe zapošljavanja."
+    },
+    "include": {
+      "title": "Šta uključuje usluga administracije zapošljavanja?",
+      "desc1": "Pomažemo kompanijama da upravljaju složenostima zapošljavanja stranih radnika, osiguravajući usklađenost sa imigracionim i radnim zakonima i pojednostavljujući administrativni proces.",
+      "title1": "Naša usluga administracije zapošljavanja uključuje rješavanje svih administrativnih zadataka vezanih za zapošljavanje stranih radnika za kompanije koje posluju u EU. Usluga tipično obuhvata:",
+      "desc2": {
+        "item1": "Procesuiranje radnih dozvola i viza",
+        "item2": "Osiguravanje da dokumentacija bude u skladu sa imigracionim zakonima",
+        "item3": "Priprema ugovora o radu",
+        "item4": "Koordinacija sa državnim vlastima"
+      }
+    },
+    "whenToconsider": {
+      "title": "Kada odabrati uslugu administracije?",
+      "faq1": "Već ste sami pronašli zaposlenike.",
+      "ans1": "Ako ste već sami proveli proces selekcije stranih radnika i odabrali idealno osoblje za svoju kompaniju, možemo vam pružiti podršku i pomoć tokom zapošljavanja.",
+      "faq2": "Nemate dovoljno vremena da brinete o administraciji.",
+      "ans2": "Oslobađamo vas od administrativnih zadataka i procesa, omogućavajući vam da se usredsredite na svoje ključne poslovne aktivnosti. Mi brinemo o svoj potrebnoj dokumentaciji kako biste se vi mogli posvetiti razvoju svog poslovanja. Obavićemo za vas vize, boravak i radne dozvole, prevesti stranu dokumentaciju, pripremiti ugovore o radu i sve druge potrebne dokumente.",
+      "faq3": "Ne razumijete pravne propise.",
+      "ans3": "Naš tim provjerava kvalifikacije i osigurava usklađenost sa lokalnim propisima i zakonima. Iskusni stručnjaci pružaju podršku u cijelom procesu i osiguravaju da cijeli proces slijedi pravne propise."
+    },
+    "faq": {
+      "title": "Često postavljana pitanja",
+      "queation1": "Kako izgleda proces zapošljavanja stranih radnika?",
+      "ans1": {
+        "title1": "Da biste zaposlili strane radnike na pozicijama širom Evrope, morate slijediti sljedeće bitne korake:",
+        "item1": "Obavite radnu dozvolu za stranog zaposlenika preko odgovarajuće imigracione službe ili vlasti za zapošljavanje.",
+        "item2": "Podnesite zahtjev za radnikovu boravaknu dozvolu.",
+        "item3": "Registrujte stranog zaposlenika kod relevantnih poreskih vlasti i vlasti socijalnog osiguranja.",
+        "item4": "Osigurajte poštivanje svih primjenjivih radnih i imigracionih propisa."
+      },
+      "queation2": "Koji dokumenti su potrebni za zapošljavanje stranih radnika?",
+      "ans2": {
+        "title2": "Potrebna dokumentacija uključuje:",
+        "item1": "Radna dozvola izdata od strane nadležnog organa.",
+        "item2": "Ugovor o radu ili formalni sporazum.",
+        "item3": "Važeća putovnica ili identifikacioni dokument stranog radnika.",
+        "item4": "Zdravstveno osiguranje za radnika.",
+        "item5": "Dokaz o plaćanju potrebnih administrativnih taksi."
+      },
+      "queation3": "Kako usluge administrativne pomoći mogu pomoći poslodavcima da se snalaze u procesu zapošljavanja stranih radnika u EU?",
+      "ans3": "Usluge administrativne pomoći igraju ključnu ulogu u pojednostavljivanju procesa zapošljavanja stranih radnika, nudeći sveobuhvatnu podršku na svakom koraku.",
+      "ans4": "Mi vodimo poslodavce kroz cijeli proces prijave za radnu i boravaknu dozvolu, pomažemo u pripremi i podnošenju potrebnih dokumenata nadležnim vlastima i osiguravamo potpunu usklađenost sa zakonskim zahtjevima. Naše usluge uključuju kontinuirane savjete o radnim i imigracionim pitanjima, dok istovremeno pojednostavljuju administrativne zadatke. Ovaj pristup štedi vrijeme i resurse poslodavcima, osiguravajući nesmetan i efikasan proces zapošljavanja stranih radnika širom Evrope."
+    }
+  },
+
+  "fullservicehr": {
+    "hero": {
+      "title": "Kompletne HR usluge",
+      "desc": "Za sveobuhvatnu podršku upravljanju ljudskim resursima, od regrutacije do besprekorne integracije zaposlenika.",
+      "btn": "Kontaktirajte nas"
+    },
+    "features": {
+      "title1": "Podrška tokom cijelog HR procesa",
+      "desc1": "Od regrutacije i administracije do osiguravanja smještaja i pružanja stalne pomoći.",
+      "title2": "Pristup HR stručnjacima",
+      "desc2": "Iskoristite iskustvo profesionalaca sa opsežnim iskustvom u ljudskim resursima.",
+      "title3": "Fokus na poslovne ciljeve",
+      "desc3": "Preusmjerite svoju pažnju na postizanje strateških ciljeva dok mi upravljamo vašim HR potrebama."
+    },
+    "mean": {
+      "title": "Šta znače kompletne HR usluge?",
+      "desc1": "Opcija kompletnih HR usluga pruža širok spektar podrške koji pokriva svaki aspekt HR procesa, od regrutacije do glatke integracije zaposlenika unutar vaše organizacije.",
+      "desc2": "Ova sveobuhvatna usluga uključuje regrutaciju, procedure selekcije, administrativni rad, pitanja osiguranja, smještaj i stalnu podršku tokom cijelog radnog puta. Korištenjem visoko specijaliziranog osoblja sa značajnim iskustvom u radnom pravu, ova usluga osigurava pomnu pažnju prema detaljima i identifikaciju rješenja prilagođenih specifičnim potrebama kompanije.",
+      "desc3": "Outsourcing ovih ključnih HR funkcija nudi nekoliko prednosti. Prvo, pruža pristup stručnosti iskusnih profesionalaca, osiguravajući efikasno i koordinirano upravljanje ljudskim resursima. Drugo, outsourcing omogućava kompaniji da preusmjeri svoje interne resurse ka ključnim poslovnim ciljevima, povećavajući produktivnost i unapređujući strateške ciljeve. Na kraju, opcija kompletnih HR usluga ne samo da garantira nesmetane HR operacije već također omogućava kompanijama da se fokusiraju na postizanje svoje primarne misije s poboljšanom jasnoćom i efikasnošću."
+    },
+    "whenToconsider": {
+      "title": "Kada odabrati opciju kompletnih HR usluga?",
+      "faq1": "Nedostatak internog HR tima",
+      "ans1": "Bez internog HR odjela, upravljanje svim aspektima HR procesa, od regrutacije do uvođenja zaposlenika, može postati neodrživo i oduzimati previše vremena. Povjeravanjem stručnjacima, kompanije mogu osigurati da se svaka faza HR procesa stručno vodi, omogućavajući im da se fokusiraju na svoje osnovne operacije bez tereta HR zadataka.",
+      "faq2": "Ograničeni resursi za upravljanje procesima",
+      "ans2": "Bez obzira da li su u pitanju finansijska, vremenska ili profesionalna ograničenja, outsourcing kompletnih HR usluga nudi efikasno rješenje. Mi pružamo infrastrukturu, stručnost i iskustvo potrebno za efikasno rješavanje svih HR aspekata, od regrutacije do administrativnih dužnosti, osiguravajući glatak i pojednostavljen proces bez dodatnog pritiska na interne resurse.",
+      "faq3": "Potreba za brzim i pouzdanim rješenjem",
+      "ans3": "Kada kompaniji treba brzo i pouzdano HR rješenje, opcija kompletnih HR usluga je najbolji izbor. Mi efikasno navigiramo kroz složenost HR-a, isporučujući pravovremene i efikasne rezultate. Koristeći naše specijalizirano znanje i iskustvo, kompanije mogu osigurati da su njihove HR potrebe brzo zadovoljene i uz minimalne poteškoće."
+    },
+    "faq": {
+      "title": "Često postavljana pitanja",
+      "queation1": "Koje HR funkcije pokrivamo?",
+      "ans1": "Naše rješenje za kompletne HR usluge obuhvata svaki aspekt HR procesa, uključujući regrutaciju, procedure selekcije, administrativne zadatke, pitanja osiguranja, smještaj te kontinuiranu podršku i usmjeravanje tokom cijelog životnog ciklusa zapošljavanja.",
+      "queation2": "Kako osiguravamo usklađenost s relevantnim radnim zakonima i propisima?",
+      "ans2": "Zapošljavamo stručno osoblje sa opsežnim iskustvom u radnom pravu, osiguravajući pažljivu pažnju prema detaljima i identifikaciju najprikladnijih rješenja za jedinstvene potrebe vaše kompanije. Također, pratimo najnovije zakonske zahtjeve i najbolje prakse kako bismo osigurali potpunu usklađenost.",
+      "queation3": "Kakvu fleksibilnost nudimo u prilagođavanju rješenja specifičnim potrebama vaše kompanije?",
+      "ans3": "Shvatamo da svaka kompanija ima različite HR zahtjeve. Stoga, nudimo fleksibilnost u prilagođavanju našeg rješenja za kompletne HR usluge kako bismo zadovoljili vaše jedinstvene potrebe, bilo da to uključuje prilagođavanje komponenti usluge, ispunjavanje specifičnih zahtjeva ili prilagođavanje vašim poslovnim potrebama koje se razvijaju."
+    }
+  },
+
+  "about": {
+    "hireaforeigner": {
+      "title": "Zaposlite stranca",
+      "desc": "Pouzdan i iskusan partner u regrutaciji stranih radnika. Naš tim stručnjaka posvećen je vodenju kroz imigracioni proces, osiguravajući glatki i uspješan ishod.",
+      "btn": "Kontaktirajte nas"
+    },
+    "whoWeare": {
+      "title1": "KO SMO MI?",
+      "title2": "Internacionalna agencija za zapošljavanje",
+      "desc1": "Pomažemo našim međunarodnim klijentima da pronađu odgovarajuće mogućnosti zapošljavanja, uključujući one unutar Evrope, pažljivo ih uparujući sa pozicijama koje odgovaraju njihovim kvalifikacijama. Dodatno, osiguravamo da kompanije sa kojima sarađujemo ne samo da poštuju, već i pošteno nagrađuju svoju radnu snagu.",
+      "desc2": "Za naše klijente poslodavce, pažljivo tražimo i osiguravamo kvalifikovane radnike koji zadovoljavaju njihove specifične zahtjeve, smanjujući zabrinutost u vezi fluktuacije radne snage. Ovaj pristup garantira stabilnu radnu snagu za potrebe projekta ili sezonske potrebe, kako lokalno tako i internacionalno. Kao rezultat, naši klijenti mogu očekivati pravovremenu isporuku projekta bez nepotrebnih prekida.",
+      "desc3": "Nudimo sveobuhvatno rješenje za regrutaciju i zapošljavanje visokokvalitetnih talenata, sa ciljem podsticanja produktivne i skladne radne sredine za poslodavce i zaposlenike širom svijeta."
+    },
+    "WhyChoose": {
+      "title1": "Zašto izabrati",
+      "title2": "ArkaHire?",
+      "desc1": "Godine iskustva",
+      "desc2": "Stranih radnika uspješno zaposleno",
+      "desc3": "Zadovoljstvo klijenata"
+    },
+    "WhatDoWeOffer": {
+      "title1": "ŠTA MI NUDIMO?",
+      "title2": "Trebate pomoć sa imigracijom? Naš tim stručnjaka je tu da pomogne",
+      "desc1": "Kontaktirajte naš tim danas da saznate više o našim uslugama i napravite prvi korak ka uspješnom zapošljavanju stranih radnika.",
+      "title3": "Usluge zapošljavanja",
+      "btn": "Istražite sve usluge",
+      "title4": "Podrška u administraciji",
+      "desc2": "Mi rješavamo svu neophodnu administraciju za zapošljavanje, kao što je prevod dokumenata, dobijanje viza i radnih dozvola, ugovori o radu.",
+      "title5": "Posredovanje u zapošljavanju",
+      "desc3": "Uštedite vrijeme i resurse korištenjem naših profesionalnih usluga u pronalaženju kvalifikovanih radnika izvan Evrope.",
+      "title6": "Potpuna HR usluga",
+      "desc4": "Sveobuhvatna podrška u upravljanju ljudskim resursima, počevši od regrutacije pa do pune integracije zaposlenika.",
+      "title7": "Usluge dodjele radnika",
+      "desc5": "Nudimo postavljanje radnika na određene periode (kao što su projekti ili sezonski rad) sa opcijom prelaska na stalno zapošljavanje."
+    },
+    "contactourteam": {
+      "title": "Kontaktirajte naš tim",
+      "desc1": "Saznajte više o našim profesionalnim uslugama i",
+      "desc2": "saznajte kako vam možemo pomoći.",
+      "btn": "Kontaktirajte nas"
+    }
+  },
+  "footer": {
+    "title": "Stojimo Vam na raspolaganju.",
+    "desc": "Kontaktirajte nas sa bilo kakvim pitanjima u vezi zapošljavanja radnika iz inostranstva. Pomoci ćemo Vam u bilo koje vrijeme."
+  }
+}

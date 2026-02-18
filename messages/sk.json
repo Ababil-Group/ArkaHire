@@ -1,0 +1,548 @@
+{
+  "nav": {
+    "home": "Domov",
+    "howToHire": "Ako najať medzinárodné talenty?",
+    "solutions": {
+      "label": "Riešenia",
+      "navigating": "Orientácia v imigračných zákonoch",
+      "seasonal": "Zamestnávanie sezónnych pracovníkov",
+      "construction": "Zamestnávanie stavebných pracovníkov",
+      "medical": "Zamestnávanie zdravotníckych pracovníkov"
+    },
+    "services": {
+      "label": "Služby",
+      "admin": "Administrácia zamestnania",
+      "fullHR": "Kompletné HR služby",
+      "mediation": "Sprostredkovanie zamestnania",
+      "assignment": "Pridelenie pracovníkov"
+    },
+    "about": "O nás",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Zjednodušte proces náboru globálnej pracovnej sily.",
+    "desc": "Či ste malé podnikanie alebo medzinárodná korporácia, ArkaHire vám pomôže nájsť kvalifikovaných pracovníkov. Od náboru až po zaškolenie — postaráme sa o všetko.",
+    "btn1": "Kontaktujte nás",
+    "btn2": "Preskúmať služby"
+  },
+  "achievements": {
+    "year1": "7+",
+    "exp1": "Rokov skúseností",
+    "year2": "600+",
+    "exp2": "Umiestnených zamestnancov",
+    "year3": "100%",
+    "exp3": "Spokojnosť klientov"
+  },
+  "whyChoose": {
+    "title": "Prečo si vybrať náborovú agentúru?",
+    "desc": "V ArkaHire ponúkame inovatívne, rýchle a efektívne riešenia pre vyhľadávanie a nábor medzinárodných talentov.",
+    "question1": "Neviete, kde nájsť kvalitných pracovníkov?",
+    "ans1": "Náš tím analyzuje vaše potreby a vytvorí personalizovanú stratégiu.",
+    "question2": "Potrebujete flexibilitu pri nábore?",
+    "ans2": "Ponúkame dočasné riešenia a zabezpečíme všetky formality.",
+    "question3": "Nemáte interný HR tím?",
+    "ans3": "Naša kompletná HR služba pokrýva všetko — od náboru po integráciu.",
+    "question4": "Nevyznáte sa v právnych predpisoch?",
+    "ans4": "Zjednodušujeme proces a zabezpečujeme plnú legislatívnu zhodu."
+  },
+  "typeofemployees": {
+    "title": "Akých zamestnancov vieme nájsť?",
+    "cardTitle1": "Skladoví pracovníci",
+    "cardDesc1": "Proaktívni a ochotní učiť sa — naši kandidáti sú pripravení aj na vedúce pozície.",
+    "cardTitle2": "Elektrikári",
+    "cardDesc2": "Kvalifikovaní odborníci na rôznych úrovniach. Môžeme zabezpečiť video pohovory na posúdenie.",
+    "cardTitle3": "Mechanici",
+    "cardDesc3": "Mladí, schopní a pripravení na nové výzvy.",
+    "cardTitle4": "Stavební pracovníci",
+    "cardDesc4": "Od základných zručností po špecializované profesie — nájdeme správnych ľudí pre vaše projekty.",
+    "cardTitle5": "Obkladači",
+    "cardDesc5": "Vysoko žiadaní odborníci dostupní cez náš efektívny náborový proces.",
+    "cardTitle6": "Prispôsobené pozície",
+    "cardDesc6": "Potrebujete špecifickú rolu? Radi pomôžeme. Kontaktujte nás.",
+    "btn": "Kontaktovať nás"
+  },
+  "HireAForeigner": {
+    "title": "Zamestnávanie cudzinca",
+    "subtitle": "Proces zamestnávania kvalifikovaných pracovníkov zo zahraničia",
+    "desc1": "Pochopte kľúčové požiadavky, ktoré musí vaša spoločnosť splniť na zamestnanie medzinárodných odborníkov.",
+    "desc2": "Spoločnosť funguje viac ako 6 mesiacov",
+    "desc3": "Aspoň jeden zamestnanec na plný úväzok minimálne 6 mesiacov",
+    "desc4": "Miestna pracovná sila tvorí najmenej 25% celkového počtu zamestnancov"
+  },
+  "wowtohire": {
+    "title": "Ako najať medzinárodné talenty?",
+    "desc": "Vedieme vás krok za krokom celým procesom náboru medzinárodných pracovníkov:",
+    "no1": "01",
+    "cardTitle1": "Vyhľadávanie pracovnej sily",
+    "cardDesc1": "Nájdeme kandidátov prispôsobených vašim potrebám. Online pohovory sú dostupné.",
+    "no2": "02",
+    "cardTitle2": "Zmluvy",
+    "cardDesc2": "Pripravujeme a spravujeme pracovné zmluvy.",
+    "no3": "03",
+    "cardTitle3": "Ubytovanie",
+    "cardDesc3": "Pomáhame nájsť vhodné ubytovanie pre zamestnancov.",
+    "no4": "04",
+    "cardTitle4": "Pracovné povolenia",
+    "cardDesc4": "Zabezpečujeme podanie žiadostí o pracovné povolenia.",
+    "no5": "05",
+    "cardTitle5": "Vízá",
+    "cardDesc5": "Spravujeme žiadosti o víza, ktoré zvyčajne trvajú 4–6 týždňov.",
+    "no6": "06",
+    "cardTitle6": "Cestovné usporiadanie",
+    "cardDesc6": "Rezervujeme letenky a zabezpečujeme bezpečný príchod zamestnancov.",
+    "no7": "07",
+    "cardTitle7": "Dokumenty",
+    "cardDesc7": "Pomáhame s preukazmi totožnosti, lekárskymi prehliadkami a zakladaním bankových účtov.",
+    "no8": "08",
+    "cardTitle8": "Spokojnosť",
+    "cardDesc8": "Naším cieľom je spokojnosť zamestnávateľov aj zamestnancov."
+  },
+  "bookconsultation": {
+    "title": "Rezervujte si Bezplatnú Konzultáciu.",
+    "desc1": "Spoľahlivý a skúsený partner pri nábore zahraničných pracovníkov. Naši odborníci sú pripravení s vami spolupracovať na odstránení stresu z akéhokoľvek imigračného procesu a zvýšenia vašich šancí na úspešný výsledok.",
+    "decs2": "Kontaktujte náš tím ešte dnes, aby ste sa dozvedeli viac o našich službách a urobili prvý krok k úspešnému náboru.",
+    "btn": "Kontaktujte nás"
+  },
+  "whychooseus": {
+    "title": "Prečo Si Vybrať Nás?",
+    "desc": "ArkaHire je váš dôveryhodný partner pri nábere medzinárodných talentov. Naši odborníci sú pripravení zjednodušiť imigračný proces a zabezpečiť úspešné výsledky.",
+    "item1": "Bezplatné konzultácie",
+    "item2": "Kvalitní kandidáti",
+    "item3": "Rýchla doba odozvy",
+    "item4": "Dlhodobé partnerstvá",
+    "item5": "Dostupnosť 24/7",
+    "item6": "Overení profesionáli",
+    "btn": "Kontaktujte nás"
+  },
+  "faq": {
+    "title": "Často Kladené Otázky",
+    "faq1": "Kto je zodpovedný za ubytovanie?",
+    "ans1": "Zamestnávatelia sú povinní ponúknuť svojim pracovníkom vhodné a pohodlné ubytovanie.",
+    "faq2": "Ako dlho trvá, kým pracovníci prídu?",
+    "ans2": "Proces zvyčajne trvá aspoň tri mesiace. Toto časové obdobie zahŕňa dvojtýždňové obdobie na získanie pracovného povolenia, po ktorom nasleduje aspoň šesť týždňov na spracovanie víza.",
+    "faq3": "Čo sa stane, ak nie sme spokojní so zamestnancom?",
+    "ans3": "Ak zamestnanec nespĺňa vaše očakávania, máte právo zrušiť jeho zmluvu podľa štandardných pracovných predpisov. V takýchto prípadoch pomáhame pracovníkovi zabezpečiť si alternatívne zamestnanie. Ak sa nevyskytnú vhodné príležitosti, uľahčíme mu návrat do domovskej krajiny.",
+    "faq4": "Môžeme požiadať o pracovné povolenia dlhšie ako 1 rok?",
+    "ans4": "Pracovné povolenia sa všeobecne vydávajú na jeden rok, kým sezónni pracovníci môžu získať povolenia na až šesť mesiacov. Kvôli byrokratickým postupom získanie pracovného povolenia a víza zvyčajne trvá dva až tri mesiace.",
+    "faq5": "Ako je možné predĺžiť pracovné povolenia?",
+    "ans5": "Žiadosti o predĺženie musia byť podané aspoň mesiac pred uplynutím platnosti povolenia. Proces si vyžaduje zamestnancov pas, predchádzajúcu občiansku kartu, recentné fotografie (pre nový preukaz), vyhlásenie od poskytovateľa ubytovania a vyhlásenie vydané spoločnosťou potvrdzujúce pokračovanie ubytovania na určenom mieste.",
+    "faq6": "Existujú obmedzenia pri nábere zahraničných pracovníkov?",
+    "ans6": "Niektoré profesie v Európe sú klasifikované ako vysokodopytové, čo umožňuje zamestnávateľom žiadať o pracovné povolenia bez absolvovania testu trhu práce. Oficiálny zoznam týchto profesií je k dispozícii u príslušných orgánov. Pre pozície, ktoré nie sú zahrnuté v zozname povolaní s nedostatkom, je potrebný Test Trhu Prace. Tento proces trvá dva týždne a hodnotí dostupnosť miestnych pracovníkov. Ak sa potvrdí nedostatok pracovnej sily, žiadosti o zahraničných pracovníkov môžu pokračovať primerane."
+  },
+  "contactus": {
+    "title": "Kontakt",
+    "subtitle": "Pre akékoľvek otázky, na ktoré ste nenašli odpoveď, neváhajte nás kontaktovať a my všetko podrobne vysvetlíme.",
+    "time": "Pracovná doba: Po - Pia 8:00 - 16:00",
+    "sendText": "Kontaktujte nás pre Odbornú Pomoc Máte Otázky? Sme tu, aby sme pomohli!"
+  },
+
+  "navigating": {
+    "hero": {
+      "title": "Navigácia v Imigračných Zákonoch pre Zamestnávateľov",
+      "desc": "Dodržiavanie imigračných zákonov môže byť zložité kvôli regulačnému rámcu upravujúcemu zamestnávanie zahraničných pracovníkov. Tu naša odbornosť pomáha zjednodušiť proces.",
+      "btn": "Kontaktujte nás"
+    },
+    "challenges": {
+      "title": "Výzvy Dodržiavania Imigračných Predpisov",
+      "desc1": "Jednou z najväčších výziev, s ktorými sa spoločnosti stretávajú pri nábore zahraničných odborníkov, je orientácia v zložitých imigračných zákonoch, ktoré sú navrhnuté tak, aby chránili miestny trh práce a zároveň riešili ekonomické potreby pracovnej sily.",
+      "desc2": "Zabezpečenie súladu s imigračnými predpismi môže byť zložité, pretože podniky musia dodržiavať prísne zákonné požiadavky upravujúce zamestnávanie medzinárodných pracovníkov. Zamestnávatelia sú povinní dodržiavať daňové predpisy a predpisy sociálneho zabezpečenia, ako aj špecifické podmienky, ako je udržiavanie plného pracovného úväzku pre miestnych alebo občanov EÚ po stanovené obdobie. Proces tiež zahŕňa získanie pracovných a pobytových povolení spolu s dodržiavaním politík pre nábor talentov z krajín mimo EÚ.",
+      "desc3": "Tu sa odborné vedenie stáva nevyhnutným. Náš tím je špecializovaný na zjednodušenie procesu zamestnávania, pomáha podnikom získať pracovné povolenia, zaobstarať potrebnú dokumentáciu a zabezpečiť plnú súlad so všetkými predpismi trhu práce.",
+      "desc4": "V ArkaHire poskytujeme profesionálne vedenie na zjednodušenie náborového procesu. Naši odborníci pomáhajú so získavaním pracovných povolení, správou potrebnej dokumentácie a zabezpečením plnej súlad s predpismi trhu práce.",
+      "desc5": "Ak sa stretávate so zložitými požiadavkami na zamestnanie, naša Služba Administrácie Zamestnania ponúka komplexné riešenie."
+    },
+    "employment": {
+      "title": "Administrácia Zamestnania",
+      "desc": "Naša Služba Administrácie Zamestnania spravuje všetky administratívne postupy súvisiace so zamestnávaním medzinárodných odborníkov. Zabezpečujeme súlad s pracovným a imigračným právom a zjednodušujeme celý proces pre vašu spoločnosť.",
+      "btn": "Zistiť viac"
+    },
+    "features": {
+      "title1": "Prístup ku Kvalifikovaným Pracovníkom",
+      "desc1": "Databáza dôkladne overených a kvalifikovaných kandidátov.",
+      "title2": "Flexibilné Riešenia Pracovnej Sily",
+      "desc2": "Prispôsobené možnosti náboru podľa vašich prevádzkových potrieb.",
+      "title3": "Rýchly a Efektívny Náborový Proces",
+      "desc3": "Zrýchľujeme náborové a administratívne procesy, čím je nábor plynulejší."
+    }
+  },
+  "seasonal": {
+    "hero": {
+      "title": "Zamestnávanie Sezónnych Pracovníkov",
+      "desc": "V ArkaHire sa špecializujeme na nábor sezónnych pracovníkov rôznych profesií, vrátane čašníkov, barmanov, kuchárov, pomocníkov v kuchyni, upratovačiek, upratovačov a recepčných. Naša odbornosť zaručuje, že nájdete správne talenty pre vaše potreby.",
+      "btn": "Kontaktujte nás"
+    },
+    "challenges": {
+      "title": "Výzvy pri hľadaní sezónnych pracovníkov",
+      "desc1": "Problém s hľadaním sezónnych pracovníkov v Chorvátsku, najmä v odvetviach ako sú cestovný ruch, reštaurácie, poľnohospodárstvo a stavebníctvo, je mnohostranný a často predstavuje významnú výzvu pre zamestnávateľov.",
+      "desc2": "Pohostinstvo je viac vystavené sezónnym zmenám ako kedykoľvek predtým, v porovnaní s akoukoľvek inou oblasťou činnosti.",
+      "desc3": "Väčšina našich klientov počas prvého štvrťroka nedokáže presne predpovedať počet a potrebu externých alebo zahraničných pracovníkov počas vrchnej sezóny.",
+      "desc4": "Situácia, kedy väčšina rezortov, hotelov a reštaurácií robí rozhodnutia o nábore na poslednú chvíľu, vedie k náhlemu nárastu dopytu po pracovníkoch. To následne vedie k neochote trhu okamžite tento dopyt uspokojiť. Konkrétne, od okamihu podpisu zmluvy s Úradom práce trvá mesiac alebo dokonca dva, kým zahraniční pracovníci prídu na svoje pracovisko. Hľadanie pracovníkov, testovanie kvalifikácií, pohovory, papierovačky a podobné procesy zaberajú väčšinu tohto času.",
+      "desc5": "Preto vám ponúkame riešenie, ktoré odstraňuje riziká dlhého čakania a meškania v príchode pracovníkov: outsourcing pracovnej sily."
+    },
+    "assignment": {
+      "title": "Prideľovanie pracovníkov",
+      "desc": "Naša služba prideľovania pracovníkov uľahčuje rýchle najatie pracovnej sily pre sezónne projekty alebo špecifické časové obdobia. Využívaním dostupných pracovníkov, ktorí sú už v Európe, výrazne urýchľujeme proces náboru. Zaoberáme sa uzatváraním zmlúv o pridelení a preberáme zodpovednosť za vyplácanie miezd a administratívne úlohy. Táto služba je navrhnutá tak, aby poskytla praktické riešenie pre naliehavé potreby pracovnej sily, pričom zabezpečuje flexibilitu a efektivitu pri riadení personálu v rôznych projektoch a sezónnych dopytoch.",
+      "btn": "Zistiť viac"
+    },
+    "features": {
+      "title1": "Prístup ku Kvalifikovaným Talentom",
+      "desc1": "V ArkaHire ponúkame databázu predverifikovaných kandidátov, čím minimalizujeme riziká spojené s náborom. Náš proces zabezpečuje prístup ku kvalifikovaným pracovníkom prispôsobeným vašim potrebám.",
+      "title2": "Flexibilné Riešenia Pracovnej Sily",
+      "desc2": "Rozumieme dôležitosti flexibilného riadenia pracovnej sily, čo vám umožňuje efektívne sa prispôsobovať meniacim sa požiadavkám.",
+      "title3": "Efektívny Náborový Proces",
+      "desc3": "Náš zjednodušený náborový proces urýchľuje hľadanie, riadenie a najímanie pracovníkov, čím zaisťuje, že svoje potreby v oblasti pracovnej sily uspokojíte včas."
+    }
+  },
+  "medical": {
+    "hero": {
+      "title": "Zamestnávanie zdravotníckych pracovníkov",
+      "desc": "Lekári, sestry, zdravotnícki technici, farmaceuti a ďalší zdravotnícki profesionáli – špecializujeme sa na nábor všetkých typov zdravotníckeho personálu.",
+      "btn": "Kontaktujte nás"
+    },
+    "challenges": {
+      "title": "Výzvy pri hľadaní zdravotníckych pracovníkov",
+      "desc1": "Výzva nájsť kvalifikovaných zdravotníckych odborníkov, najmä v špecializovaných zdravotníckych rolách, je významným problémom, ktorému čelia zdravotnícke inštitúcie po celom svete.",
+      "desc2": "Podobne ako iné krajiny, zdravotnícky systém Chorvátska zápasí s ťažkosťami pri hľadaní a udržaní kvalifikovaného zdravotníckeho personálu. Dopyt po zdravotníckych pracovníkoch, ako sú lekári, sestry, farmaceuti a technici, naďalej rastie kvôli faktorom, ako sú starnutie populácie, pokrok v medicíne a meniace sa potreby zdravotnej starostlivosti.",
+      "desc3": "Potreba zdravotníckych pracovníkov neustále rastie, poháňaná faktormi, ako sú rast populácie, starnúca spoločnosť a pokroky v zdravotníckych technológiách.",
+      "desc4": "Zdravotnícky systém Chorvátska zahŕňa ako verejné, tak aj súkromné subjekty, každý so svojimi vlastnými personálnymi požiadavkami. Hoci zdravotnícka pracovná sila v krajine je všeobecne zručná, niektoré špecializácie alebo regióny môžu zažiť nedostatky, čo vytvára medzery v starostlivosti o pacientov a zvyšuje tlak na existujúci personál.",
+      "desc5": "Zdravotnícke zariadenia sa tiež často stretávajú s výzvami v presnom predpovedaní svojich personálnych potrieb, čo vedie k nedostatkom v kritických obdobiach. Táto nepredvídateľnosť môže narušiť kvalitu starostlivosti a preťažiť súčasný personál."
+    },
+    "mediation": {
+      "title": "Sprostredkovanie zamestnania",
+      "desc": "Poskytujeme prístup k širokej základni predtým skontrolovaných kandidátov, vrátane tých so špecializovanými zručnosťami a skúsenosťami. Využívaním našich sietí a zdrojov môžeme urýchliť proces náboru, skrátiť čas potrebný na obsadenie voľných pracovných miest a minimalizovať prerušenia v starostlivosti o pacientov. Zabezpečujeme dodržiavanie všetkých licenčných a regulačných noriem a pomáhame znížiť riziko prijatia nekvalifikovaných alebo nespoľahlivých kandidátov.",
+      "btn": "Zistiť viac"
+    },
+    "features": {
+      "title1": "Prístup k zodpovedným pracovníkom",
+      "desc1": "Získajte prístup k dôkladne skontrolovanej a kvalifikovanej pracovnej sile",
+      "title2": "Predchádzanie meškaniam projektu",
+      "desc2": "Zabezpečujeme, aby boli projekty dokončené podľa harmonogramu so schopnou pracovnou silou.",
+      "title3": "Efektívny a zjednodušený náborový proces",
+      "desc3": "Urýchľujeme proces vyhľadávania, riadenia a zamestnávania pracovníkov."
+    }
+  },
+  "construction": {
+    "hero": {
+      "title": "Zamestnávanie stavebných pracovníkov",
+      "desc": "Poskytujeme riešenia pre personálne obsadzovanie pre širokú škálu stavebných povolaní vrátane armatúr, tesárov, murárov, montérov kovových konštrukcií, strešných pokrývačov a operátorov stavebných strojov.",
+      "btn": "Kontaktujte nás"
+    },
+    "challenges": {
+      "title": "Výzvy pri hľadaní stavebných pracovníkov",
+      "desc1": "Stavebný priemysel sa v súčasnosti stretáva so značnými výzvami pri hľadaní kvalifikovanej pracovnej sily. Tento nedostatok pracovníkov brzdí produktivitu, spôsobuje meškanie v časových harmonogramoch projektov a sťažuje snahy uspokojiť rastúcu dopyt po kvalifikovaných odborníkoch v tomto odvetví.",
+      "desc2": "V celej Európe rastie dopyt po stavebných expertoch, ako vidno z množstva pracovných ponuk. Mnohé spoločnosti majú ťažkosti s hľadaním skúsených a schopných pracovníkov, čo vedie k meškaniu pri dokončovaní projektov.",
+      "desc3": "Ako personálna agentúra špecializujúca sa na zahraničnú pracovnú silu, ArkaHire prekonáva medzeru medzi dopytom a ponukou spájaním kvalifikovaných pracovníkov z krajín tretieho sveta so zamestnávateľmi, ktorí ich potrebujú. Našich klientov tiež sprevádzame právnymi procesmi spojenými so zamestnávaním zahraničných zamestnancov, čím zaisťujeme hladký a súladný priebeh náboru."
+    },
+    "mediation": {
+      "title": "Poskytovanie pracovných poradenských služieb",
+      "desc": "Prostredníctvom našich služieb v oblasti poskytovania pracovných poradenských služieb pomáhame spoločnostiam získať prístup k veľkému počtu kvalifikovaných pracovníkov. Riešime výzvy, s ktorými sa stretávajú pri zabezpečovaní kvalifikovanej pracovnej sily. Umožnením zamestnávania zahraničných talentov a poskytnutím komplexných náborových služieb zohrávame kľúčovú úlohu pri uspokojovaní potrieb pracovnej sily v rôznych priemyselných odvetviach v Európe.",
+      "btn": "Zistiť viac"
+    },
+    "features": {
+      "title1": "Prístup k zodpovedným pracovníkom",
+      "desc1": "Získajte prístup k dôkladne skontrolovanej a kvalifikovanej pracovnej sile.",
+      "title2": "Predchádzanie meškaniu projektov",
+      "desc2": "Zabezpečujeme, aby boli projekty dokončené podľa harmonogramu so schopnou pracovnou silou.",
+      "title3": "Efektívny a zjednodušený náborový proces",
+      "desc3": "Urýchľujeme proces vyhľadávania, riadenia a zamestnávania pracovníkov."
+    }
+  },
+  "servicemain": {
+    "title1": "Viac informácií o našich službách",
+    "desc1": "Podporujeme vás v každej fáze náborového procesu – od vyhľadávania kandidátov, zaobchádzania s administratívou, až po bezproblémovú integráciu.",
+    "btn1": "Kontaktujte nás",
+    "title2": "Administratíva zamestnania",
+    "desc2": "Postaráme sa o všetky administratívne úlohy súvisiace s náborom medzinárodných odborníkov, vrátane prekladov dokumentov, spracovania víz a pracovných povolení a vypracovania pracovných zmlúv.",
+    "btn2": "Viac informácií",
+    "title3": "Komplexné HR služby",
+    "desc3": "Pre komplexnú podporu riadenia ľudských zdrojov, od náboru až po bezproblémovú integráciu zamestnancov.",
+    "title4": "Medzičlánok zamestnania",
+    "desc4": "Ušetrite cenný čas a zdroje využitím našej profesionálnej expertízy pri vyhľadávaní kvalifikovaných pracovníkov z mimo Európy.",
+    "title5": "Služby priradenia pracovníkov",
+    "desc5": "ArkaHire poskytuje službu pre nábor pracovníkov na konkrétne obdobia, ako sú projekty alebo sezóny, s možnosťou trvalého zamestnania."
+  },
+
+  "assignmentworkers": {
+    "hero": {
+      "title": "Služby Prideľovania Pracovníkov",
+      "desc": "ArkaHire poskytuje službu pre nábor pracovníkov na konkrétne obdobia, ako sú projekty alebo sezóny, s možnosťou trvalého zamestnania.",
+      "btn": "Kontaktujte nás"
+    },
+    "features": {
+      "title1": "Flexibilita Zamestnávania",
+      "desc1": "Ponúkame efektívne riešenia pracovnej sily pre krátkodobé projekty alebo kolísavé požiadavky na pracovnú silu, čím zaisťujeme prevádzkovú efektivitu.",
+      "title2": "Hodnotenie Pracovníka Pred Zamestnaním",
+      "desc2": "Umožňujeme testovanie pracovníkov pred trvalým zamestnaním, aby sme zaistili úspešnú spoluprácu a kompatibilitu.",
+      "title3": "Zjednodušená Administratíva",
+      "desc3": "Zaoberáme sa všetkými administratívnymi úlohami súvisiacimi so zamestnávaním a ľudskými zdrojmi, takže sa môžete sústrediť na hlavné činnosti vášho podnikania."
+    },
+    "include": {
+      "title": "Čo Zahŕňa Služba Prideľovania Pracovníkov?",
+      "desc1": "Táto služba poskytuje flexibilitu v riadení pracovnej sily a zároveň znižuje administratívnu záťaž. Poskytuje prístup k špecializovaným talentom zo zahraničia bez zložitostí priameho náboru.",
+      "desc2": "Zjednodušujeme dočasné zamestnávanie vypracovaním formálnych Pracovných Zmlúv a prideľovaním pracovníkov zákazníckym spoločnostiam podľa dohodnutých podmienok.",
+      "desc3": "Naše služby presahujú rámec zamestnávania riadením administratívnych úloh, ako sú žiadosti o dôchodkové a zdravotné poistenie, výpočty miezd a spracovanie benefitov.",
+      "desc4": "Pracovníci sú umiestnení v zákazníckych spoločnostiach za dohodnutých podmienok, zatiaľ čo my preberáme oficiálnu úlohu zamestnávateľa.",
+      "desc5": "Výberom našich služieb spoločnosti ťažia zo zjednodušeného procesu, ktorý rieši byrokratické výzvy, zabezpečuje súlad so zákonom a zvyšuje administratívnu efektivitu. To umožňuje podnikom sústrediť sa na ich hlavné operácie."
+    },
+    "whenToconsider": {
+      "title": "Kedy Zvážiť Sprostredkovanie Zamestnania?",
+      "faq1": "Potrebujete pracovníkov pre konkrétny projekt alebo sezónne?",
+      "ans1": "Naša služba vám poskytuje prístup k globálnej základni talentov. Vyhodnotíme vaše požiadavky a spojíme vás s najlepšími kandidátmi na ich splnenie.",
+      "faq2": "Chcete sa vyhnúť zložitostiam priameho zamestnávania",
+      "ans2": "Zaoberáme sa všetkými administratívnymi a účtovnými úlohami súvisiacimi s pracovníkmi, čím vám umožníme sústrediť sa na hlavné činnosti vášho podnikania bez dodatočnej záťaže.",
+      "faq3": "Chcete zaistiť kvalitu svojej pracovnej sily",
+      "ans3": "Ak potrebujete vyhodnotiť zručnosti pracovníkov pred trvalým prijatím, naša služba ponúka ideálne riešenie ako skúšobné obdobie. Okrem toho sú naši agentúrni pracovníci dôkladne skontrolovaní. Mnohí z nich majú rozsiahle skúsenosti z predchádzajúcej práce v agentúre a prinášajú rozvinuté zručnosti a znalosti do akéhokoľvek pracovného prostredia. Vykonávame aj dodatočné kontroly všetkých nových pracovníkov, aby sme zaistili ich pripravenosť."
+    },
+    "advantages": {
+      "title1": "Aké sú výhody náboru prostredníctvom agentúry?",
+      "desc1": "Využívaním našich agentúrnych pracovných služieb ponúkame flexibilné riešenia na vyplnenie krátkodobých alebo dlhodobých absencií zamestnancov, optimalizáciu sezónnych potrieb pracovnej sily a splnenie požiadaviek konkrétnych projektov. Okrem toho spravujeme všetky administratívne úlohy, čím zabezpečujeme plynulý a efektívny proces.",
+      "title2": "Odborné Vedenie",
+      "desc2": "Poskytujeme profesionálnu podporu a rady počas celého náborového procesu, aby ste prijímali dobre informované rozhodnutia.",
+      "title3": "Úspora Času a Zdrojev",
+      "desc3": "Staráme sa o vyhľadávanie kandidátov, rokovania a administratívne úlohy, čím vám umožňujeme sústrediť sa na kľúčové oblasti vášho podnikania.",
+      "title4": "Prístup na Širší Trh",
+      "desc4": "Poskytujeme vám prístup k rôznorodej základni kandidátov z celého sveta prostredníctvom našej zavedenej siete.",
+      "title5": "Zníženie Rizika",
+      "desc5": "Zabezpečujeme bezpečnosť dôkladným overovaním kvalifikácií a referencií kandidátov, čím znižujeme riziko nevhodného náboru a nedodržiavania predpisov."
+    },
+    "faq": {
+      "title": "Často Kladené Otázky",
+      "queation1": "Aké sú výhody náboru prostredníctvom agentúry?",
+      "ans1": "Využívaním služby agentúrnej práce vám umožňujeme flexibilne vyplniť krátke alebo dlhé absence vašich zamestnancov, optimalizovať sezónne obchodné potreby alebo požiadavky na konkrétne projekty. Tiež sa zaoberáme administratívnymi úlohami, čím uľahčujeme celý proces.",
+      "queation2": "Aké administratívne úlohy preberáme od vás?",
+      "ans2": {
+        "title1": "Zbavujeme vás administratívnej záťaže spojenej s pridelenými pracovníkmi, ktorá zahŕňa:",
+        "item1": "Vypracovanie a uzatvorenie pracovných zmlúv",
+        "item2": "Výpočet a spracovanie miezd a príspevkov",
+        "item3": "Registrácia a odhlásenie pracovníkov v Dôchodkovom a Zdravotnom poisťovacom inštitúte",
+        "item4": "Vedenie mesačných a ročných záznamov (dni dovolenky, práceneschopnosť atď.)",
+        "item5": "Vyplnenie a podanie požadovaných správ príslušným orgánom"
+      },
+      "queation3": "Aké sú vaše povinnosti voči pracovníkom?",
+      "ans3": "Používateľ (zamestnávateľ) musí dodržiavať pracovnoprávne predpisy, vrátane predpisov o ochrane zdravia a bezpečnosti práce, ako aj špeciálnej ochrany pre určité skupiny pracovníkov. To zahŕňa poskytovanie ochranného odevu a obuvi, keď to vyžaduje povaha práce. Okrem toho je používateľ zodpovedný za organizáciu a prideľovanie práce podľa stanovených procesov, ako aj za vedenie evidencie prítomnosti pracovníkov na pracovisku."
+    }
+  },
+  "employmentmediation": {
+    "hero": {
+      "title": "Zamestnávateľská Sprostredkovateľská Činnosť",
+      "desc": "Ušetrite cenný čas a zdroje využitím našej profesionálnej expertízy pri získavaní kvalifikovaných pracovníkov z mimoeurópskych krajín.",
+      "btn": "Kontaktujte nás"
+    },
+    "features": {
+      "title1": "Prístup ku Kvalifikovaným Pracovníkom",
+      "desc1": "Aktívne vyhľadávame a ručne vyberáme potenciálnych kandidátov pomocou našich rozsiahlych sietí a databáz.",
+      "title2": "Zjednodušený Náborový Proces",
+      "desc2": "Zabezpečujeme, že náborový proces prebieha efektívne a presne.",
+      "title3": "Odborné Vedenie a Podpora na Každom Kroku",
+      "desc3": "Poskytujeme odborné poznatky, zabezpečujeme informované rozhodnutia a úspešné výsledky."
+    },
+    "what": {
+      "title": "Čo je Zamestnávateľská Sprostredkovateľská Činnosť?",
+      "desc1": "Slúžime ako most medzi zamestnávateľmi a potenciálnymi kandidátmi, zjednodušujeme proces definovaním pracovných požiadaviek, výberom uchádzačov a poskytovaním komplexnej podpory. Naším cieľom je spojiť špičkové talenty s podnikmi.",
+      "desc2": "Nábor je nevyhnutná služba, ktorá pomáha zamestnávateľom nájsť kvalifikovaných kandidátov pre ich organizácie. Táto služba zahŕňa zapojenie náborovej agentúry, ktorá pôsobí ako sprostredkovateľ medzi podnikmi a potenciálnymi zamestnancami. Agentúra sa zameriava na pochopenie potrieb zamestnávateľa, definovanie špecifických pracovných požiadaviek a dôsledné vyhľadávanie a výber kandidátov, ktorí týmto potrebám vyhovujú.",
+      "desc3": "Základnou úlohou agentúry počas náborového procesu je vykonanie dôkladných kontrol kvalifikácie a skúseností kandidátov, čím sa zabezpečí ich vhodnosť pre danú pozíciu.",
+      "desc4": "Výber náborových služieb ponúka množstvo výhod, vrátane prístupu k širokej základni talentov, zníženia času a zdrojov potrebných pre nábor a zabezpečenie vysokých štandardov profesionality pri výbere kandidátov."
+    },
+    "commonfaq": {
+      "title": "Nájdite Odpovede na Najčastejšie Otázky",
+      "queation1": "Aké sú Naše Povinnosti v Procese Sprostredkovania?",
+      "ans1": {
+        "title1": "Povinnosti agentúr zapojených do sprostredkovania zamestnania zahraničných pracovníkov zahŕňajú:",
+        "item1": "Vyhľadanie vhodného pracovníka na základe kritérií klienta, vykonanie výberového procesu a poskytnutie potrebnej dokumentácie.",
+        "item2": "Príprava a podanie všetkých potrebných dokumentov na získanie dočasných povolení na pobyt a prácu pre štátnych príslušníkov tretích krajín.",
+        "item3": "Krytie nákladov na cestovné poistenie pre pracovníkov.",
+        "item4": "Zaistenie víza potrebného na pobyt a prácu v Európe.",
+        "item5": "Krytie nákladov na letenku pracovníka."
+      },
+      "queation2": "Aké sú Vaše Povinnosti voči Zahraničnému Pracovníkovi?",
+      "ans2": "Po získaní pracovného povolenia pre zahraničného pracovníka je potrebné poskytnúť mu po príchode ubytovanie a stravu. Ubytovanie by malo spĺňať základné životné štandardy. Ak nie je možné poskytnúť stravu, musí byť pracovníkovi vyplatený stravný príspevok. Okrem toho ste povinní zaregistrovať pracovníka na dôchodkové a zdravotné poistenie, rovnako ako by ste to urobili pre akéhokoľvek miestneho zamestnanca.",
+      "queation3": "Aké sú Požiadavky na Získanie Povolenia na Pobyt a Prácu?",
+      "ans3": {
+        "title2": "Požiadavky na získanie potrebných povolení zahŕňajú:",
+        "item1": "Vykonávanie ekonomickej činnosti registrované v Európe.",
+        "item2": "Zamestnávanie aspoň jednej štvrtiny chorvátskych občanov v porovnaní so štátnymi príslušníkmi tretích krajín na plný úväzok, na dobu neurčitú za posledných šesť mesiacov.",
+        "item3": "Potvrdenie od Daňovej správy potvrdzujúce neexistencia pohľadávok súvisiacich s verejnými dávkami, datované z nedávneho obdobia pred podaním žiadosti o povolenia.",
+        "item4": "Žiadne právne odsúdenia súvisiace s pracovnými vzťahmi alebo sociálnym zabezpečením."
+      }
+    },
+    "benefits": {
+      "title1": "Aké sú Výhody Nájmu Prostredníctvom Agentúry?",
+      "item1": "Zaoberáme sa prípravou a podaním všetkých potrebných právnych dokumentov v mene zamestnávateľov a ich vybraných zamestnancov.",
+      "item2": "S našimi rozsiahlymi skúsenosťami v tejto oblasti sme zefektívnili naše procesy a ponúkame zamestnávateľom rýchly a efektívny spôsob náboru.",
+      "title2": "Odborné Vedenie",
+      "desc2": "Poskytujeme profesionálnu podporu a rady počas celého náborového procesu, aby ste mohli robiť dobre informované rozhodnutia.",
+      "title3": "Úspora Času a Zdrojev",
+      "desc3": "Postaráme sa o vyhľadávanie kandidátov, rokovania a administratívne úlohy, čo vám umožní sústrediť sa na kľúčové oblasti vášho podnikania.",
+      "title4": "Prístup na Širší Trh",
+      "desc4": "Prostredníctvom našej established siete vám poskytujeme prístup k rôznorodej základni kandidátov z celého sveta.",
+      "title5": "Zníženie Rizika",
+      "desc5": "Zabezpečujeme bezpečnosť dôkladnou kontrolou kvalifikácie a referencií kandidátov, čím sa znižuje riziko nevhodných náborov a nedodržiavania predpisov."
+    },
+    "process": {
+      "title1": "Krok 1: Konzultácie",
+      "desc1": "Náš tím špecialistov vykoná hĺbkovú analýzu vašich potrieb pracovnej sily a vypracuje prispôsobenú náborovú stratégiu.",
+      "title2": "Krok 2: Hľadanie Talentov",
+      "desc2": "S našou rozsiahlou sieťou a zdrojmi identifikujeme kvalifikovaných kandidátov z celého sveta, ktorí spĺňajú požiadavky vášho podnikania.",
+      "title3": "Krok 3: Výberový Proces",
+      "desc3": "Dôkladne hodnotíme kvalifikáciu, skúsenosti a referencie kandidátov, aby sme zaistili výber najlepších jednotlivcov pre váš tím.",
+      "title4": "Krok 4: Presun Pracovníkov do Európy",
+      "desc4": "Zaoberáme sa všetkou potrebnou dokumentáciou a riadime presun pracovníkov do Európy.",
+      "title5": "Ako Vyzerá Proces?",
+      "desc5": "Zanechajte všetky starosti s ľudskými zdrojmi na nás a zaistite optimálne riadenie vašich zamestnancov s našimi all-inclusive HR službami!"
+    },
+    "faq": {
+      "title": "Často Kladené Otázky",
+      "queation1": "Aké sú Naše Povinnosti v Procese Sprostredkovania?",
+      "ans1": "Povinnosti agentúr zapojených do sprostredkovania zamestnania zahraničných pracovníkov zahŕňajú: – Identifikáciu vhodného pracovníka na základe kritérií klienta, vykonanie výberového procesu a poskytnutie potrebnej dokumentácie. – Príprava a podanie všetkých potrebných dokumentov na získanie dočasných povolení na pobyt a prácu pre štátnych príslušníkov tretích krajín. – Krytie nákladov na cestovné poistenie pre pracovníkov. – Zaistenie víza potrebného na pobyt a prácu v Európe. – Krytie nákladov na letenku pracovníka.",
+      "queation2": "Aké sú Vaše Povinnosti voči Zahraničnému Pracovníkovi?",
+      "ans2": "Po získaní pracovného povolenia pre zahraničného pracovníka je potrebné poskytnúť mu po príchode ubytovanie a stravu. Ubytovanie by malo spĺňať základné životné štandardy. Ak nie je možné poskytnúť stravu, musí byť pracovníkovi vyplatený stravný príspevok. Okrem toho ste povinní zaregistrovať pracovníka na dôchodkové a zdravotné poistenie, rovnako ako by ste to urobili pre akéhokoľvek miestneho zamestnanca.",
+      "queation3": "Aké Podmienky Musia byť Splnené na Získanie Povolenia na Pobyt a Prácu?",
+      "ans3": "Na získanie potrebných povolení musia byť splnené tieto podmienky: – Vaša firma musí byť registrovaná v Európe. – Musíte zamestnávať aspoň jednu štvrtinu miestnych občanov v porovnaní so štátnymi príslušníkmi tretích krajín na plný úväzok, na dobu neurčitú za posledných šesť mesiacov. – Potvrdenie od Daňovej správy potvrdzujúce neexistencia pohľadávok súvisiacich s verejnými dávkami, datované z nedávneho obdobia pred podaním žiadosti o povolenia. – Nesmú existovať žiadne právne odsúdenia súvisiace s pracovnými vzťahmi alebo sociálnym zabezpečením.",
+      "queation4": "Môže Pracovník Začať Okamžite?",
+      "ans4": "Bohužiaľ, nie. Keďže títo pracovníci sú z tretích krajín, musia najprv získať pracovné povolenie a víza pred vstupom do Európy. Celý proces môže trvať 45 až 90 dní v závislosti od rýchlosti zapojených inštitúcií. Príprava dokumentov a rokovania zvyčajne trvajú 4 až 10 dní v závislosti od pripravenosti zamestnávateľa. Nábor a výber kandidátov môže trvať 1 až 30 dní (až 7 dní pre nekvalifikovaných pracovníkov, až 30 dní pre kvalifikovaných pracovníkov) alebo dlhšie, ak sú potrebné špecifické profese (až 60 dní). Test trhu práce zvyčajne trvá 15 dní. Získanie pracovného povolenia zvyčajne trvá 15 až 30 dní. Spracovanie víz trvá ďalších 15 až 30 dní. Organizácia cesty a príchod pracovníka do Európy všeobecne trvá 1 až 10 dní."
+    }
+  },
+  "administration": {
+    "hero": {
+      "title": "Komplexné služby administrácie zamestnávania",
+      "desc": "Staráme sa o všetky administratívne úlohy súvisiace s náborom medzinárodných odborníkov, vrátane prekladov dokumentov, spracovania víz a pracovných povolení a vypracovania pracovných zmlúv.",
+      "btn": "Kontaktujte nás"
+    },
+    "features": {
+      "title1": "Šetrite čas a náklady",
+      "desc1": "Zbavte sa bremena zložitých administratívnych postupov a sústredte sa na svoje hlavné podnikanie.",
+      "title2": "Odborná pomoc",
+      "desc2": "Náš tím zabezpečuje hladký proces pri dodržiavaní najnovších právnych požiadaviek.",
+      "title3": "Prispôsobené riešenia",
+      "desc3": "Prispôsobujeme naše služby tak, aby vyhovovali vašim špecifickým náborovým potrebám."
+    },
+    "include": {
+      "title": "Čo zahŕňa služba administrácie zamestnávania?",
+      "desc1": "Pomáhame podnikom zvládať zložitosti prijímania zahraničných pracovníkov, zabezpečujeme súlad s imigračnými a pracovnými zákonmi a zjednodušujeme administratívny proces.",
+      "title1": "Naša služba administrácie zamestnávania zahŕňa vybavovanie všetkých administratívnych úloh súvisiacich so zamestnávaním zahraničných pracovníkov pre spoločnosti pôsobiace v EÚ. Služba typicky pokrýva:",
+      "desc2": {
+        "item1": "Spracovanie pracovných povolení a víz",
+        "item2": "Zabezpečenie súladu dokumentácie s imigračnými zákonmi",
+        "item3": "Príprava pracovných zmlúv",
+        "item4": "Koordinácia s vládnymi úradmi"
+      }
+    },
+    "whenToconsider": {
+      "title": "Kedy zvoliť službu administrácie?",
+      "faq1": "Už ste si sami našli zamestnancov.",
+      "ans1": "Ak ste už sami vykonali proces výberu zahraničných pracovníkov a vybrali ste si ideálny personál pre svoju firmu, môžeme vám počas zamestnávania poskytnúť podporu a pomoc.",
+      "faq2": "Nemáte dostatok času na administratívu.",
+      "ans2": "Oslobodíme vás od administratívnych úloh a procesov, čím vám umožníme sústrediť sa na svoje kľúčové podnikateľské aktivity. Postaráme sa o všetku potrebnú dokumentáciu, aby ste sa mohli venovať rozvoju svojho podnikania. Zaistíme vám víza, povolenia na pobyt a prácu, preložíme zahraničnú dokumentáciu, pripravíme pracovné zmluvy a všetky ostatné potrebné dokumenty.",
+      "faq3": "Nerozumiete právnym predpisom.",
+      "ans3": "Náš tím overuje kvalifikácie a zabezpečuje súlad s miestnymi predpismi a zákonmi. Skúsení odborníci poskytujú podporu v celom procese a zabezpečujú, aby celý proces bol v súlade s právnymi predpismi."
+    },
+    "faq": {
+      "title": "Často kladené otázky",
+      "queation1": "Ako vyzerá proces prijímania zahraničných pracovníkov?",
+      "ans1": {
+        "title1": "Na prijatie zahraničných pracovníkov na pozície v celej Európe je potrebné dodržať tieto základné kroky:",
+        "item1": "Získajte pracovné povolenie pre zahraničného zamestnanca od príslušného imigračného úradu alebo úradu práce.",
+        "item2": "Podajte žiadosť o povolenie na pobyt pre pracovníka.",
+        "item3": "Zaregistrujte zahraničného zamestnanca na príslušných daňových úradoch a úradoch sociálneho poistenia.",
+        "item4": "Zabezpečte dodržiavanie všetkých platných pracovných a imigračných predpisov."
+      },
+      "queation2": "Aké dokumenty sú potrebné na zamestnanie zahraničných pracovníkov?",
+      "ans2": {
+        "title2": "Potrebná dokumentácia zahŕňa:",
+        "item1": "Pracovné povolenie vydané príslušným orgánom.",
+        "item2": "Pracovná zmluva alebo formálna dohoda.",
+        "item3": "Platný pas alebo preukaz totožnosti zahraničného pracovníka.",
+        "item4": "Zdravotné poistenie pre pracovníka.",
+        "item5": "Dôkaz o zaplatení požadovaných administratívnych poplatkov."
+      },
+      "queation3": "Ako môžu služby administratívnej pomoci pomôcť zamestnávateľom pri procese prijímania zahraničných pracovníkov v EÚ?",
+      "ans3": "Služby administratívnej pomoci zohrávajú kľúčovú úlohu pri zjednodušovaní procesu prijímania zahraničných pracovníkov, pretože poskytujú komplexnú podporu v každej fáze.",
+      "ans4": "Sprevádzame zamestnávateľov celým procesom žiadosti o pracovné povolenie a povolenie na pobyt, pomáhame pri príprave a podávaní potrebných dokumentov príslušným úradom a zabezpečujeme úplnú súlad s právnymi požiadavkami. Naše služby zahŕňajú nepretržité poradenstvo v otázkach práce a imigrácie a zároveň zjednodušujú administratívne úlohy. Tento prístup šetrí zamestnávateľom čas a zdroje a zabezpečuje plynulý a efektívny proces prijímania zahraničných pracovníkov v celej Európe."
+    }
+  },
+  "fullservicehr": {
+    "hero": {
+      "title": "Komplexné HR Služby",
+      "desc": "Pre komplexnú podporu riadenia ľudských zdrojov, od náboru až po bezproblémovú integráciu zamestnancov.",
+      "btn": "Kontaktujte nás"
+    },
+    "features": {
+      "title1": "Podpora Počas Celého HR Procesu",
+      "desc1": "Od náboru a administrácie po zaistenie ubytovania a poskytovanie nepretržitej pomoci.",
+      "title2": "Prístup k HR Expertom",
+      "desc2": "Využite odbornosť profesionálov s rozsiahlymi skúsenosťami v oblasti ľudských zdrojov.",
+      "title3": "Zameranie na Podnikové Ciele",
+      "desc3": "Presuňte svoju pozornosť na dosahovanie strategických cieľov, kým my spravujeme vaše HR potreby."
+    },
+    "mean": {
+      "title": "Čo Znamenajú Komplexné HR Služby?",
+      "desc1": "Možnosť Komplexných HR Služieb poskytuje širokú škálu podpory, ktorá pokrýva každý aspekt HR procesu, od náboru po plynulú integráciu zamestnancov vo vašej organizácii.",
+      "desc2": "Táto komplexná služba zahŕňa nábor, výberové konania, administratívnu prácu, poisťovacie záležitosti, ubytovanie a nepretržitú podporu počas celého pracovného pomeru. Zamestnávaním vysoko špecializovaného personálu so značnými skúsenosťami v pracovnom práve táto služba zabezpečuje dôkladnú pozornosť detailom a identifikáciu riešení prispôsobených špecifickým potrebám spoločnosti.",
+      "desc3": "Vonkajšie obstarávanie týchto základných HR funkcií ponúka niekoľko výhod. Po prvé, poskytuje prístup k odbornosti skúsených profesionálov, čím zaisťuje efektívne a koordinované riadenie ľudských zdrojov. Po druhé, outsourcing umožňuje spoločnosti presmerovať svoje interné zdroje na kľúčové podnikové ciele, čím zvyšuje produktivitu a napreduje v strategických cieľoch. Nakoniec, možnosť Komplexných HR Služieb nielenže zaručuje bezproblémové HR operácie, ale umožňuje aj podnikom sústrediť sa na dosahovanie svojej hlavnej misie so zvýšenou prehľadnosťou a efektívnosťou."
+    },
+    "whenToconsider": {
+      "title": "Kedy Zvoliť Možnosť Komplexných HR Služieb?",
+      "faq1": "Nedostatok Interného HR Tímu",
+      "ans1": "Bez interného HR oddelenia sa riadenie všetkých aspektov HR procesu, od náboru po zaškolenie zamestnancov, môže stať zdrcujúcim a časovo náročným. Odovzdaním odborníkom môžu spoločnosti zaistiť, že každá fáza HR procesu je spravovaná odborne, čo im umožní sústrediť sa na svoje hlavné činnosti bez bremena HR úloh.",
+      "faq2": "Obmedzené Zdroje pre Riadenie Procesov",
+      "ans2": "Či už ide o finančné, časové alebo profesionálne obmedzenia, outsourcing Komplexných HR Služieb ponúka efektívne riešenie. Poskytujeme infraštruktúru, odborné znalosti a skúsenosti potrebné na efektívne zvládnutie všetkých aspektov HR, od náboru po administratívne povinnosti, a zabezpečujeme hladký a zjednodušený proces bez dodatočného tlaku na interné zdroje.",
+      "faq3": "Potreba Rýchleho a Spoľahlivého Riešenia",
+      "ans3": "Keď spoločnosť potrebuje rýchle a spoľahlivé HR riešenie, možnosť Komplexných HR Služieb je najlepšou voľbou. Efektívne prekonávame zložitosť HR, poskytujúc včasné a účinné výsledky. Využitím našich špecializovaných znalostí a skúseností môžu spoločnosti zaistiť, že ich HR potreby sú rýchlo uspokojené s minimálnymi problémami."
+    },
+    "faq": {
+      "title": "Často Kladené Otázky",
+      "queation1": "Aké HR Funkcie Pokrývame?",
+      "ans1": "Naše riešenie Komplexných HR Služieb pokrýva každý aspekt HR procesu, vrátane náboru, výberových konaní, administratívnych úloh, poisťovacích záležitostí, ubytovania a nepretržitej podpory a usmerňovania počas celého životného cyklu zamestnania.",
+      "queation2": "Ako Zabezpečujeme Dodržiavanie Príslušných Pracovných Zákonov a Predpisov?",
+      "ans2": "Zamestnávame expertný personál s rozsiahlymi skúsenosťami v pracovnom práve, čím zabezpečujeme dôkladnú pozornosť detailom a identifikáciu najvhodnejších riešení pre jedinečné potreby vašej spoločnosti. Taktiež sa držíme najnovších právnych požiadaviek a osvedčených postupov, aby sme zaistili úplnú súladnosť.",
+      "queation3": "Akú Flexibilitu Ponúkame pri Prispôsobení Riešenia Špecifickým Potrebám Vašej Spoločnosti?",
+      "ans3": "Chápeme, že každá spoločnosť má odlišné požiadavky na HR. Preto ponúkame flexibilitu pri prispôsobení nášho riešenia Komplexných HR Služieb vašim jedinečným potrebám, či už ide o úpravu komponentov služby, splnenie špecifických požiadaviek alebo prispôsobenie sa vašim vyvíjajúcim sa obchodným potrebám."
+    }
+  },
+
+  "about": {
+    "hireaforeigner": {
+      "title": "Najmite si cudzinca",
+      "desc": "Spoľahlivý a skúsený partner pri nábore zahraničných pracovníkov. Náš tím expertov je odhodlaný vás prevesť imigračným procesom a zaistiť hladký a úspešný výsledok.",
+      "btn": "Kontaktujte nás"
+    },
+    "whoWeare": {
+      "title1": "KTO SME?",
+      "title2": "Medzinárodná Agentúra pre Zamestnanie",
+      "desc1": "Pomáhame našim medzinárodným klientom nájsť vhodné pracovné príležitosti, vrátane tých v Európe, starostlivo ich priraďujeme k pozíciám, ktoré zodpovedajú ich kvalifikácii. Navyše zabezpečujeme, že spoločnosti, s ktorými spolupracujeme, nielen rešpektujú, ale aj spravodlivo odmeňujú svoju pracovnú silu.",
+      "desc2": "Pre našich klientov zamestnávateľov dôkladne vyhľadávame a zabezpečujeme kvalifikovaných pracovníkov, ktorí spĺňajú ich špecifické požiadavky, čím znižujeme obavy z fluktuácie pracovnej sily. Tento prístup zaručuje stabilnú pracovnú silu pre potreby projektu alebo sezónne potreby, ako na miestnej, tak aj medzinárodnej úrovni. V dôsledku toho môžu naši klienti očakávať včasné dokončenie projektu bez zbytočných prerušení.",
+      "desc3": "Ponúkame komplexné riešenie pre nábor a zamestnávanie kvalitných talentov s cieľom podporiť produktívne a harmonické pracovné prostredie pre zamestnávateľov aj zamestnancov na celom svete."
+    },
+    "WhyChoose": {
+      "title1": "Prečo zvoliť",
+      "title2": "ArkaHire?",
+      "desc1": "Roky skúseností",
+      "desc2": "Zahraničných pracovníkov úspešne umiestnených",
+      "desc3": "Spokojnosť zákazníka"
+    },
+    "WhatDoWeOffer": {
+      "title1": "ČO PONÚKAME?",
+      "title2": "Potrebujete pomoc s imigráciou? Náš tím expertov je tu, aby pomohol",
+      "desc1": "Kontaktujte náš tím ešte dnes, aby ste sa dozvedeli viac o našich službách a urobili prvý krok k úspešnému zamestnávaniu zahraničných pracovníkov.",
+      "title3": "Služby zamestnania",
+      "btn": "Preskúmať všetky služby",
+      "title4": "Podpora v administratíve",
+      "desc2": "Zaoberáme sa celou potrebnou administrátorskou prácou pre zamestnanie, ako je preklad dokumentov, získanie víz a pracovných povolení, pracovné zmluvy.",
+      "title5": "Sprostredkovanie zamestnania",
+      "desc3": "Ušetrite čas a zdroje využívaním našich profesionálnych služieb pri hľadaní kvalifikovaných pracovníkov z mimo Európy.",
+      "title6": "Komplexné HR služby",
+      "desc4": "Komplexná podpora v riadení ľudských zdrojov, začínajúc od náboru až po úplnú integráciu zamestnanca.",
+      "title7": "Služby pridelenia pracovníkov",
+      "desc5": "Ponúkame umiestnenie pracovníkov na určité obdobia (ako projekty alebo sezónne práce) s možnosťou prechodu na trvalý pracovný pomer."
+    },
+    "contactourteam": {
+      "title": "Kontaktujte náš tím",
+      "desc1": "Dozvite sa viac o našich profesionálnych službách a",
+      "desc2": "zistite, ako vám môžeme pomôcť.",
+      "btn": "Kontaktujte nás"
+    }
+  },
+  "footer": {
+    "title": "Sme vám k dispozícii.",
+    "desc": "Kontaktujte nás s akýmikoľvek otázkami súvisiacimi s náborom pracovníkov zo zahraničia. Pomôžeme vám kedykoľvek."
+  }
+}

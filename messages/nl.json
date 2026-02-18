@@ -1,0 +1,548 @@
+{
+  "nav": {
+    "home": "Home",
+    "howToHire": "Hoe internationaal talent aan te werven?",
+    "solutions": {
+      "label": "Oplossingen",
+      "navigating": "Navigeren door immigratiewetten",
+      "seasonal": "Te werk stellen van seizoensarbeiders",
+      "construction": "Te werk stellen van bouwvakkers",
+      "medical": "Te werk stellen van medisch personeel"
+    },
+    "services": {
+      "label": "Diensten",
+      "admin": "Werkgelegenheidsadministratie",
+      "fullHR": "Volledige HR-dienstverlening",
+      "mediation": "Arbeidsbemiddeling",
+      "assignment": "Toewijzing van werknemers"
+    },
+    "about": "Over ons",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Vereenvoudig het proces van het aannemen van een wereldwijde workforce.",
+    "desc": "Of u nu een klein bedrijf bent of een multinational, ArkaHire helpt u gekwalificeerde medewerkers te vinden. Van werving tot onboarding — wij regelen alles.",
+    "btn1": "Neem contact op",
+    "btn2": "Bekijk diensten"
+  },
+  "achievements": {
+    "year1": "7+",
+    "exp1": "Jaren ervaring",
+    "year2": "600+",
+    "exp2": "Geplaatste werknemers",
+    "year3": "100%",
+    "exp3": "Klanttevredenheid"
+  },
+  "whyChoose": {
+    "title": "Waarom kiezen voor een wervingsbureau?",
+    "desc": "Bij ArkaHire bieden we innovatieve, snelle en efficiënte oplossingen voor het vinden en aannemen van internationaal talent.",
+    "question1": "Weet u niet waar u kwaliteitsmedewerkers kunt vinden?",
+    "ans1": "Ons team analyseert uw behoeften en ontwikkelt een gepersonaliseerde wervingsstrategie.",
+    "question2": "Heeft u flexibiliteit nodig bij het aannemen?",
+    "ans2": "Wij bieden tijdelijke oplossingen en regelen alle formaliteiten.",
+    "question3": "Geen intern HR-team?",
+    "ans3": "Onze volledige HR-service dekt alles — van werving tot integratie.",
+    "question4": "Niet bekend met juridische regelgeving?",
+    "ans4": "Wij vereenvoudigen het proces en zorgen voor volledige naleving van alle wetten."
+  },
+  "typeofemployees": {
+    "title": "Welke soorten werknemers kunnen wij vinden?",
+    "cardTitle1": "Magazijnmedewerkers",
+    "cardDesc1": "Proactief en leergierig — onze kandidaten zijn zelfs geschikt voor leidinggevende functies.",
+    "cardTitle2": "Elektriciens",
+    "cardDesc2": "Gekwalificeerde professionals op verschillende niveaus. Videointerviews voor beoordeling zijn mogelijk.",
+    "cardTitle3": "Monteurs",
+    "cardDesc3": "Jong, bekwaam en klaar voor nieuwe uitdagingen.",
+    "cardTitle4": "Bouwvakkers",
+    "cardDesc4": "Van basisvaardigheden tot gespecialiseerde beroepen — wij vinden de juiste mensen voor uw projecten.",
+    "cardTitle5": "Tegelaars",
+    "cardDesc5": "Professionals met hoge vraag zijn beschikbaar via ons gestroomlijnde wervingsproces.",
+    "cardTitle6": "Aangepaste functies",
+    "cardDesc6": "Heeft u een specifieke rol nodig? Wij kunnen helpen. Neem contact met ons op.",
+    "btn": "Neem contact op"
+  },
+  "HireAForeigner": {
+    "title": "Een buitenlander aannemen",
+    "subtitle": "Het proces van het aannemen van geschoolde werknemers uit het buitenland",
+    "desc1": "Begrijp de belangrijkste vereisten waaraan uw bedrijf moet voldoen om internationale professionals in dienst te nemen.",
+    "desc2": "Bedrijf langer dan 6 maanden actief",
+    "desc3": "Minstens één fulltime werknemer voor minimaal 6 maanden",
+    "desc4": "Lokale beroepsbevolking van minimaal 25% van het totale personeel"
+  },
+  "wowtohire": {
+    "title": "Hoe internationaal talent aan te nemen?",
+    "desc": "Wij begeleiden u stap voor stap door het proces van het aannemen van internationaal talent:",
+    "no1": "01",
+    "cardTitle1": "Werving van personeel",
+    "cardDesc1": "Wij vinden kandidaten die aansluiten bij uw behoeften. Online interviews zijn mogelijk.",
+    "no2": "02",
+    "cardTitle2": "Contracten",
+    "cardDesc2": "Wij stellen arbeidsovereenkomsten op en beheren deze.",
+    "no3": "03",
+    "cardTitle3": "Huisvesting",
+    "cardDesc3": "Wij helpen bij het vinden van geschikte accommodatie voor werknemers.",
+    "no4": "04",
+    "cardTitle4": "Werkvergunningen",
+    "cardDesc4": "Wij verzorgen het indienen van aanvragen voor werkvergunningen.",
+    "no5": "05",
+    "cardTitle5": "Visa",
+    "cardDesc5": "Wij beheren visumaanvragen, die meestal 4–6 weken duren.",
+    "no6": "06",
+    "cardTitle6": "Reisarrangementen",
+    "cardDesc6": "Wij boeken vluchten en zorgen dat werknemers veilig aankomen.",
+    "no7": "07",
+    "cardTitle7": "Documentatie",
+    "cardDesc7": "Wij helpen met identiteitskaarten, medische onderzoeken en het openen van bankrekeningen.",
+    "no8": "08",
+    "cardTitle8": "Tevredenheid",
+    "cardDesc8": "Ons doel is om zowel werkgevers als werknemers tevreden te stellen."
+  },
+  "bookconsultation": {
+    "title": "Boek uw Gratis Consult.",
+    "desc1": "Betrouwbare en ervaren partner in het aannemen van buitenlandse werknemers. Onze experts staan klaar om met u samen te werken en de stress van elk immigratieproces te verwijderen, waardoor uw kansen op een succesvolle uitkomst toenemen.",
+    "decs2": "Neem vandaag nog contact op met ons team om meer te weten te komen over onze diensten en de eerste stap te zetten naar succesvol werven.",
+    "btn": "Neem contact op"
+  },
+  "whychooseus": {
+    "title": "Waarom Voor Ons Kiezen?",
+    "desc": "ArkaHire is uw betrouwbare partner voor het werven van internationaal talent. Onze experts staan klaar om het immigratieproces te vereenvoudigen en succesvolle resultaten te garanderen.",
+    "item1": "Gratis consultaties",
+    "item2": "Kandidaten van hoge kwaliteit",
+    "item3": "Snelle reactietijden",
+    "item4": "Lange-termijn partnerschappen",
+    "item5": "24/7 beschikbaarheid",
+    "item6": "Geverifieerde professionals",
+    "btn": "Neem contact op"
+  },
+  "faq": {
+    "title": "Veelgestelde Vragen",
+    "faq1": "Wie is verantwoordelijk voor huisvesting?",
+    "ans1": "Werkgevers zijn verplicht geschikte en comfortabele huisvesting aan te bieden aan hun werknemers.",
+    "faq2": "Hoe lang duurt het voordat werknemers arriveren?",
+    "ans2": "Het proces duurt doorgaans minimaal drie maanden. Deze termijn omvat een periode van twee weken voor het verkrijgen van een werkvergunning, gevolgd door ten minste zes weken voor visumverwerking.",
+    "faq3": "Wat gebeurt er als we niet tevreden zijn met een werknemer?",
+    "ans3": "Als een werknemer niet aan uw verwachtingen voldoet, hebt u het recht zijn contract te beëindigen volgens de standaard arbeidsregelgeving. In dergelijke gevallen helpen wij de werknemer aan alternatief werk. Als zich geen geschikte mogelijkheden voordoen, faciliteren wij zijn terugkeer naar het land van herkomst.",
+    "faq4": "Kunnen we werkvergunningen aanvragen voor langer dan 1 jaar?",
+    "ans4": "Werkvergunningen worden over het algemeen voor één jaar afgegeven, terwijl seizoenswerkers vergunningen voor maximaal zes maanden kunnen krijgen. Vanwege bureaucratische procedures duurt het verkrijgen van een werkvergunning en visum doorgaans twee tot drie maanden.",
+    "faq5": "Hoe kunnen werkvergunningen worden verlengd?",
+    "ans5": "Verlengingsaanvragen moeten ten minste één maand voor de vervaldatum van de vergunning worden ingediend. Voor het proces zijn het paspoort van de werknemer, de vorige identiteitskaart, recente foto's (voor de nieuwe ID), een verklaring van de huisvestingsaanbieder en een door het bedrijf afgegeven verklaring nodig die bevestigt dat de huisvesting op de aangewezen locatie wordt voortgezet.",
+    "faq6": "Zijn er beperkingen voor het inhuren van buitenlandse werknemers?",
+    "ans6": "Bepaalde beroepen in Europa zijn geclassificeerd als hoogvraag, waardoor werkgevers werkvergunningen kunnen aanvragen zonder een arbeidsmarkttest te doorlopen. De officiële lijst van deze beroepen is beschikbaar via de bevoegde autoriteiten. Voor functies die niet op de lijst van knelpuntberoepen staan, is een Arbeidsmarkttest vereist. Dit proces duurt twee weken en beoordeelt de beschikbaarheid van lokale werknemers. Als een tekort aan arbeidskrachten wordt bevestigd, kunnen aanvragen voor buitenlandse werknemers dienovereenkomstig worden voortgezet."
+  },
+  "contactus": {
+    "title": "Contact",
+    "subtitle": "Voor vragen waarop u geen antwoord hebt gevonden, neem gerust contact met ons op en we leggen alles in detail uit.",
+    "time": "Openingstijden: Ma - Vr 8:00 - 16:00",
+    "sendText": "Neem Contact met ons op voor Deskundige Hulp Heeft u Vragen? We staan voor u klaar!"
+  },
+
+  "navigating": {
+    "hero": {
+      "title": "Navigeren in Immigratiewetten voor Werkgevers",
+      "desc": "Het naleven van immigratiewetten kan complex zijn vanwege het regelgevend kader dat de tewerkstelling van buitenlandse werknemers beheert. Dit is waar onze expertise helpt om het proces te stroomlijnen.",
+      "btn": "Neem contact op"
+    },
+    "challenges": {
+      "title": "Uitdagingen van Immigratienaleving",
+      "desc1": "Een van de grootste uitdagingen die bedrijven tegenkomen bij het aannemen van buitenlandse professionals is het navigeren door de ingewikkelde immigratiewetten, die zijn ontworpen om de lokale arbeidsmarkt te beschermen en tegelijkertijd te voldoen aan economische behoeften op het gebied van arbeidskrachten.",
+      "desc2": "Zorgen voor naleving van immigratievoorschriften kan complex zijn, omdat bedrijven zich moeten houden aan strikte wettelijke vereisten voor de tewerkstelling van internationale werknemers. Werkgevers zijn verplicht om te voldoen aan belasting- en socialezekerheidsregelgeving, evenals aan specifieke voorwaarden, zoals het in stand houden van een fulltime baan voor lokale of EU-onderdanen gedurende een bepaalde periode. Het proces omvat ook het verkrijgen van werk- en verblijfsvergunningen, samen met het naleven van beleid voor het aannemen van talent uit niet-EU-landen.",
+      "desc3": "Hier wordt deskundige begeleiding essentieel. Ons team is gespecialiseerd in het stroomlijnen van het wervingsproces, helpt bedrijven bij het verkrijgen van werkvergunningen, het afhandelen van de nodige documentatie en zorgt voor volledige naleving van alle arbeidsmarktregelgeving.",
+      "desc4": "Bij ArkaHire bieden we professionele begeleiding om het wervingsproces te vereenvoudigen. Onze experts helpen bij het verkrijgen van werkvergunningen, het beheren van de vereiste documentatie en het waarborgen van volledige naleving van de arbeidsmarktregelgeving.",
+      "desc5": "Als u te maken heeft met complexe wervingsvereisten, biedt onze Employment Administration Service een complete oplossing."
+    },
+    "employment": {
+      "title": "Arbeidsadministratie",
+      "desc": "Onze Employment Administration Service beheert alle administratieve procedures met betrekking tot het aannemen van internationale professionals. We zorgen voor naleving van arbeids- en immigratiewetten en stroomlijnen het hele proces voor uw bedrijf.",
+      "btn": "Meer informatie"
+    },
+    "features": {
+      "title1": "Toegang tot Geschoolde Werknemers",
+      "desc1": "Een database van grondig gecontroleerde en gekwalificeerde kandidaten.",
+      "title2": "Flexibele Arbeidskrachtenoplossingen",
+      "desc2": "Op maat gemaakte wervingsopties die aansluiten bij uw operationele behoeften.",
+      "title3": "Snel & Efficiënt Wervingsproces",
+      "desc3": "We versnellen de wervings- en administratieve processen, waardoor werving naadloos verloopt."
+    }
+  },
+  "seasonal": {
+    "hero": {
+      "title": "Inzet van Seizoensarbeiders",
+      "desc": "Bij ArkaHire zijn wij gespecialiseerd in het werven van seizoensarbeiders in verschillende beroepen, waaronder obers, barkeepers, koks, assistent-keukenpersoneel, kamermeisjes, schoonmakers en receptionisten. Onze expertise zorgt ervoor dat u het juiste talent voor uw behoeften kunt vinden.",
+      "btn": "Neem contact op"
+    },
+    "challenges": {
+      "title": "Uitdagingen bij het vinden van seizoensarbeiders",
+      "desc1": "Het probleem van het vinden van seizoensarbeiders in Kroatië, vooral in sectoren zoals toerisme, horeca, landbouw en bouw, is veelzijdig en vormt vaak een aanzienlijke uitdaging voor werkgevers.",
+      "desc2": "De horeca is meer dan ooit onderhevig aan seizoensgebonden veranderingen, vergeleken met elke andere bedrijfstak.",
+      "desc3": "De meeste van onze klanten kunnen in het eerste kwartaal niet nauwkeurig het aantal en de behoefte aan externe of buitenlandse werknemers tijdens het hoogseizoen voorspellen.",
+      "desc4": "De situatie waarin de meeste resorts, hotels en restaurants last-minute wervingsbeslissingen nemen, resulteert in een plotselinge toename van de vraag naar werknemers. Dit resulteert vervolgens in de onwil van de markt om onmiddellijk aan die vraag te voldoen. Namelijk, vanaf het moment van ondertekening van het contract met het Uitzendbureau duurt het een maand of zelfs twee voordat de buitenlandse werknemers op hun werkplek arriveren. Het vinden van werknemers, testen van kwalificaties, sollicitatiegesprekken, papierwerk en soortgelijke processen nemen het grootste deel van die tijd in beslag.",
+      "desc5": "Daarom bieden wij u een oplossing die de risico's van lange wachttijden en vertragingen bij de komst van werknemers elimineert: uitbesteding van arbeid."
+    },
+    "assignment": {
+      "title": "Detachering van werknemers",
+      "desc": "Onze dienst voor detachering van werknemers vergemakkelijkt de snelle inhuur van arbeid voor seizoensprojecten of specifieke tijdsbestekken. Door gebruik te maken van beschikbare werknemers die al in Europa zijn, versnellen we het wervingsproces aanzienlijk. Wij regelen de opzet van detacheringsovereenkomsten en nemen de verantwoordelijkheid voor salarisbetalingen en administratieve taken op ons. Deze dienst is ontworpen om een praktische oplossing te bieden voor urgente personeelsbehoeften, met behoud van flexibiliteit en efficiëntie bij het beheren van personeel bij verschillende projecten en seizoensgebonden vraag.",
+      "btn": "Meer informatie"
+    },
+    "features": {
+      "title1": "Toegang tot gekwalificeerd talent",
+      "desc1": "Bij ArkaHire bieden we een database van vooraf geverifieerde kandidaten, waardoor de risico's verbonden aan werving worden geminimaliseerd. Ons proces zorgt voor toegang tot geschoolde werknemers die zijn afgestemd op uw behoeften.",
+      "title2": "Flexibele arbeidskrachtenoplossingen",
+      "desc2": "We begrijpen het belang van flexibel personeelsmanagement, zodat u zich efficiënt kunt aanpassen aan veranderende eisen.",
+      "title3": "Efficiënt wervingsproces",
+      "desc3": "Ons gestroomlijnd wervingsproces versnelt het vinden, beheren en inhuren van werknemers, zodat u uw personeelsbehoeften tijdig kunt invullen."
+    }
+  },
+  "medical": {
+    "hero": {
+      "title": "Werving van Medisch Personeel",
+      "desc": "Artsen, verpleegkundigen, medisch technici, apothekers en andere zorgprofessionals – wij zijn gespecialiseerd in het werven van alle soorten medisch personeel.",
+      "btn": "Neem contact op"
+    },
+    "challenges": {
+      "title": "Uitdagingen bij het vinden van medisch personeel",
+      "desc1": "De uitdaging om gekwalificeerde medische professionals te vinden, vooral in gespecialiseerde zorgfuncties, is een groot probleem voor zorginstellingen wereldwijd.",
+      "desc2": "Net als in andere landen worstelt het gezondheidssysteem van Kroatië met de moeilijkheden om gekwalificeerd medisch personeel te vinden en te behouden. De vraag naar zorgprofessionals, zoals artsen, verpleegkundigen, apothekers en technici, blijft stijgen door factoren als een vergrijzende bevolking, medische vooruitgang en veranderende gezondheidsbehoeften.",
+      "desc3": "De behoefte aan medisch personeel neemt voortdurend toe, gedreven door factoren als bevolkingsgroei, een vergrijzende samenleving en vooruitgang in medische technologie.",
+      "desc4": "Het gezondheidssysteem van Kroatië omvat zowel publieke als private entiteiten, elk met hun eigen personeelsbehoeften. Hoewel de medische beroepsbevolking van het land over het algemeen bekwaam is, kunnen bepaalde specialismen of regio's tekorten ervaren, wat leidt tot hiaten in de patiëntenzorg en een grotere druk op het bestaande personeel.",
+      "desc5": "Zorginstellingen worden ook vaak geconfronteerd met uitdagingen bij het nauwkeurig voorspellen van hun personeelsbehoeften, wat leidt tot tekorten tijdens kritieke momenten. Deze onvoorspelbaarheid kan de kwaliteit van de zorg verstoren en het huidige personeel overbelasten."
+    },
+    "mediation": {
+      "title": "Arbeidsbemiddeling",
+      "desc": "Wij bieden toegang tot een groot bestand van vooraf gescreende kandidaten, inclusief diegenen met gespecialiseerde vaardigheden en ervaring. Door gebruik te maken van onze netwerken en middelen kunnen we het wervingsproces versnellen, de tijd die nodig is om vacatures in te vullen verkorten en verstoringen in de patiëntenzorg minimaliseren. Wij zorgen voor naleving van alle licentie- en regelgevingsnormen en helpen het risico te verkleinen om ongeschikte of onbetrouwbare kandidaten aan te nemen.",
+      "btn": "Meer informatie"
+    },
+    "features": {
+      "title1": "Toegang tot Verantwoordelijke Werknemers",
+      "desc1": "Krijg toegang tot een grondig gecontroleerde en gekwalificeerde arbeidskracht",
+      "title2": "Voorkomen van Vertragingen in Projecten",
+      "desc2": "Wij zorgen ervoor dat projecten volgens planning worden voltooid met een capabele arbeidskracht.",
+      "title3": "Efficiënt en Gestroomlijnd Wervingsproces",
+      "desc3": "Wij versnellen het proces van het vinden, beheren en aannemen van werknemers."
+    }
+  },
+  "construction": {
+    "hero": {
+      "title": "Werving van Bouwvakkers",
+      "desc": "Wij bieden personeelsoplossingen voor een grote verscheidenheid aan bouwgerelateerde functies, waaronder wapenaars, timmerlieden, metselaars, montage van metalen constructies, dakdekkers en bouwmachine-operators.",
+      "btn": "Neem contact op"
+    },
+    "challenges": {
+      "title": "Uitdagingen bij het Vinden van Bouwvakkers",
+      "desc1": "De bouwsector wordt momenteel geconfronteerd met aanzienlijke uitdagingen bij het vinden van gekwalificeerd personeel. Dit tekort aan werknemers belemmert de productiviteit, veroorzaakt vertragingen in projectplanningen en bemoeilijkt de inspanningen om te voldoen aan de groeiende vraag naar gekwalificeerde professionals in de sector.",
+      "desc2": "In heel Europa is er een groeiende vraag naar bouwexperts, zoals te zien is in de talloze vacatures. Veel bedrijven hebben moeite om ervaren en capabele werknemers te vinden, wat resulteert in vertragingen bij de voltooiing van projecten.",
+      "desc3": "Als een wervingsbureau gespecialiseerd in buitenlands personeel, overbrugt ArkaHire de kloof tussen vraag en aanbod door gekwalificeerde werknemers uit derdewereldlanden te verbinden met werkgevers die ze nodig hebben. We begeleiden onze klanten ook door de juridische processen die gepaard gaan met het inhuren van buitenlandse werknemers, zodat de wervingservaring soepel en compliant verloopt."
+    },
+    "mediation": {
+      "title": "Arbeidsbemiddeling",
+      "desc": "Via onze diensten voor arbeidsbemiddeling helpen we bedrijven toegang te krijgen tot een groot aanbod van gekwalificeerde werknemers. We pakken de uitdagingen aan waarmee ze worden geconfronteerd bij het veiligstellen van een gekwalificeerd personeelsbestand. Door de tewerkstelling van buitenlands talent mogelijk te maken en alomvattende wervingsdiensten te bieden, spelen we een cruciale rol in het vervullen van de arbeidsvraag in verschillende industrieën in Europa.",
+      "btn": "Meer informatie"
+    },
+    "features": {
+      "title1": "Toegang tot Verantwoordelijke Werknemers",
+      "desc1": "Krijg toegang tot een grondig gescreende en gekwalificeerde beroepsbevolking.",
+      "title2": "Voorkomen van Projectvertragingen",
+      "desc2": "We zorgen ervoor dat projecten op schema worden voltooid met een capabele beroepsbevolking.",
+      "title3": "Efficiënt en Gestroomlijnd Wervingsproces",
+      "desc3": "We versnellen het proces van het vinden, beheren en aannemen van werknemers."
+    }
+  },
+  "servicemain": {
+    "title1": "Meer weten over onze diensten",
+    "desc1": "We ondersteunen u in elke fase van het wervingsproces – van het vinden van kandidaten, het afhandelen van administratie, tot naadloze integratie.",
+    "btn1": "Neem contact op",
+    "title2": "Arbeidsadministratie",
+    "desc2": "Wij verzorgen alle administratieve taken met betrekking tot het aannemen van internationale professionals, inclusief documentvertalingen, visum- en werkvergunningaanvragen en het opstellen van arbeidscontracten.",
+    "btn2": "Meer weten",
+    "title3": "Full-Service HR",
+    "desc3": "Voor uitgebreide ondersteuning bij humanresourcemanagement, van werving tot naadloze integratie van werknemers.",
+    "title4": "Arbeidsbemiddeling",
+    "desc4": "Bespaar kostbare tijd en middelen door gebruik te maken van onze professionele expertise in het vinden van gekwalificeerde werknemers van buiten Europa.",
+    "title5": "Diensten voor Detachering van Werknemers",
+    "desc5": "ArkaHire biedt een service voor het inhuren van werknemers voor specifieke periodes, zoals projecten of seizoenen, met de optie voor vast dienstverband."
+  },
+
+  "assignmentworkers": {
+    "hero": {
+      "title": "Uitzendkrachten Diensten",
+      "desc": "ArkaHire biedt een service voor het inhuren van werknemers voor specifieke periodes, zoals projecten of seizoenen, met de optie voor vast dienstverband.",
+      "btn": "Neem contact op"
+    },
+    "features": {
+      "title1": "Werkgelegenheidsflexibiliteit",
+      "desc1": "Wij bieden effectieve arbeidskrachtoplossingen voor kortetermijnprojecten of fluctuerende arbeidsvraag, waardoor operationele efficiëntie wordt gegarandeerd.",
+      "title2": "Werknemersevaluatie Vóór Indiensttreding",
+      "desc2": "Wij maken testen van werknemers mogelijk vóór vast dienstverband om succesvolle samenwerking en compatibiliteit te garanderen.",
+      "title3": "Gestroomlijnde Administratie",
+      "desc3": "Wij verzorgen alle administratieve taken met betrekking tot dienstverband en HR, zodat u zich kunt concentreren op uw kernactiviteiten."
+    },
+    "include": {
+      "title": "Wat omvat de Uitzendkrachten Service?",
+      "desc1": "Deze service biedt flexibiliteit in arbeidskrachtbeheer terwijl de administratieve lasten worden verminderd. Het verleent toegang tot gespecialiseerd talent uit het buitenland zonder de complexiteiten van directe werving.",
+      "desc2": "Wij vereenvoudigen tijdelijk dienstverband door formele Arbeidsovereenkomsten op te stellen en werknemers toe te wijzen aan klantbedrijven volgens overeengekomen voorwaarden.",
+      "desc3": "Onze diensten gaan verder dan dienstverband door het beheren van administratieve taken zoals pensioen- en ziektekostenverzekeringsaanvragen, salarisberekeningen en verwerking van vergoedingen.",
+      "desc4": "Werknemers worden bij klantbedrijven geplaatst onder overeengekomen voorwaarden terwijl wij de officiële rol van werkgever op ons nemen.",
+      "desc5": "Door voor onze diensten te kiezen, profiteren bedrijven van een gestroomlijnd proces dat bureaucratische uitdagingen oplost, wettelijke naleving garandeert en administratieve efficiëntie verbetert. Hierdoor kunnen bedrijven zich concentreren op hun kernactiviteiten."
+    },
+    "whenToconsider": {
+      "title": "Wanneer Overwegen Arbeidsbemiddeling?",
+      "faq1": "Heeft u werknemers nodig voor een specifiek project of op seizoensbasis?",
+      "ans1": "Onze service biedt u toegang tot een wereldwijd talentenbestand. Wij beoordelen uw vereisten en verbinden u met de beste kandidaten om aan die behoeften te voldoen.",
+      "faq2": "U wilt de complexiteiten van direct dienstverband vermijden",
+      "ans2": "Wij verzorgen alle administratieve en boekhoudkundige taken met betrekking tot werknemers, zodat u zich zonder extra last kunt concentreren op uw kernactiviteiten.",
+      "faq3": "U wilt de kwaliteit van uw arbeidskracht waarborgen",
+      "ans3": "Als u de vaardigheden van werknemers moet evalueren voordat u vast in dienst neemt, biedt onze service een ideale oplossing als proefperiode. Bovendien worden onze uitzendkrachten grondig gescreend. Velen hebben uitgebreide ervaring uit eerder uitzendwerk en brengen ontwikkelde vaardigheden en kennis in elke bedrijfsomgeving. Wij voeren ook aanvullende controles uit op alle nieuwe werknemers om hun gereedheid te waarborgen."
+    },
+    "advantages": {
+      "title1": "Wat zijn de voordelen van inhuren via een uitzendbureau?",
+      "desc1": "Door gebruik te maken van onze uitzenddiensten bieden wij flexibele oplossingen voor het opvangen van korte of lange afwezigheden van werknemers, het optimaliseren van seizoensgebonden arbeidskrachtbehoeften en het voldoen aan specifieke projectvereisten. Bovendien beheren wij alle administratieve taken, waardoor het proces soepel en efficiënt verloopt.",
+      "title2": "Deskundige Begeleiding",
+      "desc2": "Wij bieden professionele ondersteuning en advies gedurende het gehele wervingsproces, zodat u weloverwogen beslissingen neemt.",
+      "title3": "Tijd en Middelen Besparen",
+      "desc3": "Wij verzorgen kandidaatzoektochten, onderhandelingen en administratieve taken, zodat u zich kunt concentreren op de kerngebieden van uw bedrijf.",
+      "title4": "Toegang tot een Grotere Markt",
+      "desc4": "Wij geven u toegang tot een diverse pool van kandidaten wereldwijd via ons gevestigde netwerk.",
+      "title5": "Risicovermindering",
+      "desc5": "Wij waarborgen veiligheid door grondige verificatie van kwalificaties en referenties van kandidaten, waardoor het risico op ongeschikte aanwervingen en niet-naleving van voorschriften wordt verminderd."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "queation1": "Wat zijn de voordelen van inhuren via een uitzendbureau?",
+      "ans1": "Door gebruik te maken van de uitzendkrachtenservice, stellen wij u in staat korte of lange afwezigheden van uw werknemers flexibel op te vangen, seizoensgebonden bedrijfsbehoeften te optimaliseren of vereisten voor specifieke projecten. Wij verzorgen ook administratieve taken, waardoor het hele proces wordt vergemakkelijkt.",
+      "queation2": "Welke administratieve taken nemen wij van u over?",
+      "ans2": {
+        "title1": "Wij ontlasten u van de administratieve last associated met gedetacheerde werknemers, waaronder:",
+        "item1": "Opstellen en sluiten van arbeidsovereenkomsten",
+        "item2": "Berekenen en verwerken van lonen en bijdragen",
+        "item3": "In- en uitschrijven van werknemers bij het Pensioen- en Ziektekostenverzekeringsinstituut",
+        "item4": "Bijhouden van maandelijkse en jaarlijkse administratie (vakantiedagen, ziekteverlof, etc.)",
+        "item5": "Invullen en indienen van vereiste rapporten bij relevante autoriteiten"
+      },
+      "queation3": "Wat zijn uw verplichtingen jegens werknemers?",
+      "ans3": "De gebruiker (werkgever) moet zich houden aan arbeidswetten, inclusief gezondheids- en veiligheidsvoorschriften, alsmede speciale bescherming voor bepaalde groepen werknemers. Dit omvat het verstrekken van beschermende kleding en schoeisel indien vereist door de aard van het werk. Bovendien is de gebruiker verantwoordelijk voor het organiseren en toewijzen van werk volgens vastgestelde processen, alsmede het bijhouden van aanwezigheidsregistraties van werknemers op de werkplek."
+    }
+  },
+  "employmentmediation": {
+    "hero": {
+      "title": "Arbeidsbemiddeling",
+      "desc": "Bespaar kostbare tijd en middelen door gebruik te maken van onze professionele expertise in het vinden van gekwalificeerde werknemers van buiten Europa.",
+      "btn": "Neem contact op"
+    },
+    "features": {
+      "title1": "Toegang tot Geschoolde Werknemers",
+      "desc1": "We zoeken proactief en selecteren handmatig potentiële kandidaten, gebruikmakend van onze uitgebreide netwerken en databases.",
+      "title2": "Gestroomlijnd Wervingsproces",
+      "desc2": "We zorgen ervoor dat het wervingsproces efficiënt en precies wordt uitgevoerd.",
+      "title3": "Deskundige Begeleiding en Ondersteuning in elke Fase",
+      "desc3": "We bieden deskundig inzicht, zorgen voor geïnformeerde beslissingen en succesvolle resultaten."
+    },
+    "what": {
+      "title": "Wat is Arbeidsbemiddeling?",
+      "desc1": "We fungeren als een brug tussen werkgevers en potentiële kandidaten, vereenvoudigen het proces door functie-eisen te definiëren, kandidaten te screenen en uitgebreide ondersteuning te bieden. Ons doel is om toptalent te verbinden met bedrijven.",
+      "desc2": "Werving is een vitale dienst die werkgevers ondersteunt bij het vinden van gekwalificeerde kandidaten voor hun organisaties. Deze dienst omvat het inschakelen van een wervingsbureau dat optreedt als bemiddelaar tussen bedrijven en potentiële werknemers. Het bureau richt zich op het begrijpen van de behoeften van de werkgever, het definiëren van de specifieke functie-eisen en het nauwgezet zoeken en selecteren van kandidaten die aan deze behoeften voldoen.",
+      "desc3": "Een fundamentele rol van het bureau tijdens het wervingsproces is het uitvoeren van grondige achtergrondcontroles van de kwalificaties en ervaring van kandidaten, om zo hun geschiktheid voor de rol te waarborgen.",
+      "desc4": "Kiezen voor wervingsdiensten biedt tal van voordelen, waaronder toegang tot een groot talentenbestand, vermindering van de tijd en middelen die nodig zijn voor werving en het waarborgen van hoge standaarden van professionaliteit bij de selectie van kandidaten."
+    },
+    "commonfaq": {
+      "title": "Vind Antwoorden op de Meest Gestelde Vragen",
+      "queation1": "Wat zijn Onze Verantwoordelijkheden in het Bemiddelingsproces?",
+      "ans1": {
+        "title1": "De taken van bureaus die betrokken zijn bij de bemiddeling van buitenlandse werknemers zijn:",
+        "item1": "Het vinden van een geschikte werknemer op basis van de criteria van de klant, het uitvoeren van het selectieproces en het verstrekken van de vereiste documentatie.",
+        "item2": "Voorbereiden en indienen van alle benodigde documentatie om tijdelijke verblijfs- en werkvergunningen te verkrijgen voor onderdanen van derde landen.",
+        "item3": "De kosten van reisverzekering voor werknemers dekken.",
+        "item4": "Regelen van het visum dat nodig is voor verblijf en werk in Europa.",
+        "item5": "De kosten van de vlucht van de werknemer dekken."
+      },
+      "queation2": "Wat zijn Uw Verplichtingen ten aanzien van een Buitenlandse Werknemer?",
+      "ans2": "Zodra een werkvergunning voor een buitenlandse werknemer is verkregen, is het nodig om bij aankomst huisvesting en maaltijden te verstrekken. De huisvesting moet voldoen aan basislevensstandaarden. Als voedsel niet kan worden verstrekt, moet een voedselvergoeding aan de werknemer worden betaald. Bovendien bent u verplicht de werknemer in te schrijven voor pensioen en ziektekostenverzekering, net zoals u zou doen voor elke lokale werknemer.",
+      "queation3": "Wat zijn de Vereisten om een Verblijfs- en Werkvergunning te Krijgen?",
+      "ans3": {
+        "title2": "De vereisten voor het verkrijgen van de benodigde vergunningen zijn onder meer:",
+        "item1": "Het runnen van een economische activiteit die in Europa is geregistreerd.",
+        "item2": "Gedurende de afgelopen zes maanden ten minste een kwart Kroatische burgers in dienst hebben in vergelijking met onderdanen van derde landen, met een fulltime, onbepaald contract.",
+        "item3": "Een verklaring van de Belastingdienst die bevestigt dat er geen openstaande schulden zijn met betrekking tot openbare uitkeringen, gedateerd binnen een recente periode voor het aanvragen van de vergunningen.",
+        "item4": "Geen gerechtelijke veroordelingen met betrekking tot arbeidsrelaties of sociale zekerheid."
+      }
+    },
+    "benefits": {
+      "title1": "Wat zijn de Voordelen van Werven via een Bureau?",
+      "item1": "Wij verzorgen de voorbereiding en indiening van alle vereiste juridische documenten namens werkgevers en hun geselecteerde werknemers.",
+      "item2": "Met onze uitgebreide ervaring in dit veld hebben we onze processen gestroomlijnd, waardoor werkgevers een snelle en efficiënte manier van werven wordt geboden.",
+      "title2": "Deskundige Begeleiding",
+      "desc2": "We bieden professionele ondersteuning en advies gedurende het hele wervingsproces, zodat u weloverwogen beslissingen kunt nemen.",
+      "title3": "Tijd en Middelen Besparen",
+      "desc3": "We zorgen voor de zoektocht naar kandidaten, onderhandelingen en administratieve taken, zodat u zich kunt concentreren op de kernactiviteiten van uw bedrijf.",
+      "title4": "Toegang tot een Grotere Markt",
+      "desc4": "We geven u toegang tot een diverse pool van kandidaten van over de hele wereld via ons gevestigde netwerk.",
+      "title5": "Risicovermindering",
+      "desc5": "We waarborgen veiligheid door grondige verificatie van kwalificaties en referenties van kandidaten, waardoor het risico op ongeschikte aanwervingen en niet-naleving van voorschriften wordt verminderd."
+    },
+    "process": {
+      "title1": "Stap 1: Consultaties",
+      "desc1": "Ons team van specialisten voert een diepgaande analyse uit van uw personeelsbehoeften en ontwikkelt een op maat gemaakte wervingsstrategie.",
+      "title2": "Stap 2: Talent Vinden",
+      "desc2": "Met ons uitgebreide netwerk en middelen identificeren we gekwalificeerde kandidaten van over de hele wereld die voldoen aan uw bedrijfsvereisten.",
+      "title3": "Stap 3: Selectieproces",
+      "desc3": "We evalueren zorgvuldig de kwalificaties, ervaring en referenties van kandidaten om ervoor te zorgen dat we de beste individuen voor uw team selecteren.",
+      "title4": "Stap 4: Werknemers naar Europa Brengen",
+      "desc4": "We verzorgen alle benodigde documentatie en regelen de verhuizing van werknemers naar Europa.",
+      "title5": "Hoe ziet het Proces eruit?",
+      "desc5": "Laat alle HR-zorgen aan ons over en zorg voor optimaal management van uw werknemers met onze all-inclusive HR-diensten!"
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "queation1": "Wat zijn Onze Verantwoordelijkheden in het Bemiddelingsproces?",
+      "ans1": "De taken van bureaus die betrokken zijn bij de bemiddeling van buitenlandse werknemers zijn: – Het identificeren van een geschikte werknemer op basis van de criteria van de klant, het uitvoeren van het selectieproces en het verstrekken van de vereiste documentatie. – Voorbereiden en indienen van alle benodigde documentatie om tijdelijke verblijfs- en werkvergunningen te verkrijgen voor onderdanen van derde landen. – De kosten van reisverzekering voor werknemers dekken. – Regelen van het visum dat nodig is voor verblijf en werk in Europa. – De kosten van de vlucht van de werknemer dekken.",
+      "queation2": "Wat zijn Uw Verplichtingen ten aanzien van een Buitenlandse Werknemer?",
+      "ans2": "Zodra een werkvergunning voor een buitenlandse werknemer is verkregen, moeten bij aankomst huisvesting en maaltijden worden verstrekt. De huisvesting moet voldoen aan basislevensstandaarden. Als maaltijden niet kunnen worden verstrekt, moet een voedselvergoeding aan de werknemer worden gegeven. Bovendien is het verplicht de werknemer in te schrijven voor pensioen en ziektekostenverzekering, net zoals voor elke lokale werknemer.",
+      "queation3": "Welke Voorwaarden Moeten worden Voldaan om een Verblijfs- en Werkvergunning te Krijgen?",
+      "ans3": "Om de benodigde vergunningen te verkrijgen, moeten de volgende voorwaarden worden voldaan: – Uw bedrijf moet in Europa zijn geregistreerd. – U moet ten minste een kwart lokale burgers in dienst hebben in vergelijking met onderdanen van derde landen, met een fulltime, onbepaald contract voor de afgelopen zes maanden. – Een verklaring van de Belastingdienst die bevestigt dat er geen openstaande schulden zijn met betrekking tot openbare uitkeringen, gedateerd binnen een recente periode voor het aanvragen van de vergunningen. – Er mogen geen gerechtelijke veroordelingen zijn met betrekking tot arbeidsrelaties of sociale zekerheid.",
+      "queation4": "Kan de Werknemer Onmiddellijk Beginnen?",
+      "ans4": "Helaas niet. Omdat deze werknemers uit derde landen komen, moeten zij eerst een werkvergunning en visum verkrijgen voordat zij Europa binnenkomen. Het hele proces kan 45 tot 90 dagen duren, afhankelijk van de snelheid van de betrokken instanties. Documentvoorbereiding en onderhandelingen duren meestal 4 tot 10 dagen, afhankelijk van de bereidheid van de werkgever. Werving en kandidaatselectie kunnen variëren van 1 tot 30 dagen (tot 7 dagen voor laaggeschoolde werknemers, tot 30 dagen voor geschoolde werknemers), of langer als specifieke beroepen vereist zijn (tot 60 dagen). De arbeidsmarkttest duurt doorgaans 15 dagen. Het verkrijgen van een werkvergunning duurt meestal tussen de 15 en 30 dagen. Visumverwerking duurt nog eens 15 tot 30 dagen. Het organiseren van reizen en de aankomst van de werknemer in Europa duurt over het algemeen 1 tot 10 dagen."
+    }
+  },
+  "administration": {
+    "hero": {
+      "title": "Uitgebreide diensten voor arbeidsadministratie",
+      "desc": "Wij verzorgen alle administratieve taken met betrekking tot het aannemen van internationale professionals, inclusief documentvertalingen, visum- en werkvergunningaanvragen en het opstellen van arbeidsovereenkomsten.",
+      "btn": "Neem contact op"
+    },
+    "features": {
+      "title1": "Bespaar tijd en kosten",
+      "desc1": "Ontlast u van complexe administratieve procedures en focus op uw kernactiviteiten.",
+      "title2": "Deskundige ondersteuning",
+      "desc2": "Ons team zorgt voor een soepel proces volgens de nieuwste wettelijke vereisten.",
+      "title3": "Maatwerk oplossingen",
+      "desc3": "We passen onze diensten aan aan uw specifieke wervingsbehoeften."
+    },
+    "include": {
+      "title": "Wat omvat de arbeidsadministratiedienst?",
+      "desc1": "We helpen bedrijven bij het beheren van de complexiteit van het aannemen van buitenlandse werknemers, zorgen voor naleving van immigratie- en arbeidswetten en vereenvoudigen het administratieve proces.",
+      "title1": "Onze arbeidsadministratiedienst omvat de afhandeling van alle administratieve taken met betrekking tot de tewerkstelling van buitenlandse werknemers voor bedrijven in de EU. De dienst omvat doorgaans:",
+      "desc2": {
+        "item1": "Afhandeling werkvergunningen en visa",
+        "item2": "Zorgen dat documentatie voldoet aan immigratiewetten",
+        "item3": "Voorbereiden arbeidsovereenkomsten",
+        "item4": "Coördinatie met overheidsinstanties"
+      }
+    },
+    "whenToconsider": {
+      "title": "Wanneer kiest u voor een administratiedienst?",
+      "faq1": "U heeft zelf al medewerkers gevonden.",
+      "ans1": "Als u zelf het selectieproces voor buitenlandse werknemers heeft uitgevoerd en de ideale medewerkers voor uw bedrijf heeft geselecteerd, kunnen wij u tijdens de tewerkstelling ondersteunen en bijstaan.",
+      "faq2": "U heeft geen tijd voor administratie.",
+      "ans2": "We ontlasten u van administratieve taken en processen, zodat u zich kunt richten op uw kernactiviteiten. We verzorgen alle benodigde documentatie zodat u zich kunt wijden aan de ontwikkeling van uw bedrijf. We regelen visa, verblijfs- en werkvergunningen, vertalen buitenlandse documentatie, bereiden arbeidsovereenkomsten en alle andere benodigde documenten voor.",
+      "faq3": "U begrijpt de wettelijke regelgeving niet.",
+      "ans3": "Ons team controleert kwalificaties en zorgt voor naleving van lokale regelgeving en wetten. Ervaren experts bieden ondersteuning in het hele proces en zorgen dat het volledige proces aan wettelijke voorschriften voldoet."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "queation1": "Hoe ziet het proces voor het aannemen van buitenlandse werknemers eruit?",
+      "ans1": {
+        "title1": "Om buitenlandse werknemers aan te nemen voor posities in heel Europa, moeten de volgende essentiële stappen worden gevolgd:",
+        "item1": "Verkrijg een werkvergunning voor de buitenlandse werknemer via de bevoegde immigratie- of arbeidsautoriteit.",
+        "item2": "Dien een aanvraag in voor een verblijfsvergunning voor de werknemer.",
+        "item3": "Registreer de buitenlandse werknemer bij de relevante belasting- en sociale zekerheidsinstanties.",
+        "item4": "Zorg voor naleving van alle toepasselijke arbeids- en immigratieregels."
+      },
+      "queation2": "Welke documenten zijn vereist voor de tewerkstelling van buitenlandse werknemers?",
+      "ans2": {
+        "title2": "De vereiste documentatie omvat:",
+        "item1": "Werkvergunning afgegeven door de bevoegde autoriteit.",
+        "item2": "Arbeidsovereenkomst of formele overeenkomst.",
+        "item3": "Geldig paspoort of identiteitsbewijs van de buitenlandse werknemer.",
+        "item4": "Ziektekostenverzekering voor de werknemer.",
+        "item5": "Bewijs van betaling van vereiste administratieve kosten."
+      },
+      "queation3": "Hoe kunnen administratieve ondersteuningsdiensten werkgevers helpen bij het aannemen van buitenlandse werknemers in de EU?",
+      "ans3": "Administratieve ondersteuningsdiensten spelen een cruciale rol bij het vereenvoudigen van het aannemen van buitenlandse werknemers door uitgebreide ondersteuning in elke fase.",
+      "ans4": "We begeleiden werkgevers door het hele aanvraagproces voor werk- en verblijfsvergunningen, helpen bij het voorbereiden en indienen van benodigde documenten bij de bevoegde autoriteiten en zorgen voor volledige naleving van wettelijke vereisten. Onze diensten omvatten continu advies over arbeids- en immigratievraagstukken, terwijl administratieve taken worden gestroomlijnd. Deze aanpak bespaart werkgevers tijd en middelen en zorgt voor een soepel en efficiënt wervingsproces voor buitenlandse werknemers in heel Europa."
+    }
+  },
+  "fullservicehr": {
+    "hero": {
+      "title": "Volledige HR-Dienstverlening",
+      "desc": "Voor uitgebreide ondersteuning bij humanresourcemanagement, van werving tot naadloze integratie van werknemers.",
+      "btn": "Neem contact op"
+    },
+    "features": {
+      "title1": "Ondersteuning Gedurende het Hele HR-Proces",
+      "desc1": "Van werving en administratie tot het veiligstellen van huisvesting en het bieden van doorlopende ondersteuning.",
+      "title2": "Toegang tot HR-Experts",
+      "desc2": "Profiteer van de expertise van professionals met uitgebreide ervaring in humanresources.",
+      "title3": "Focus op Bedrijfsdoelen",
+      "desc3": "Verleg uw aandacht naar het bereiken van strategische doelstellingen, terwijl wij uw HR-behoeften beheren."
+    },
+    "mean": {
+      "title": "Wat betekent Volledige HR-Dienstverlening?",
+      "desc1": "De Volledige HR-Dienstverlening optie biedt een breed scala aan ondersteuning die elk aspect van het HR-proces dekt, van werving tot de soepele integratie van werknemers binnen uw organisatie.",
+      "desc2": "Deze allesomvattende service omvat werving, selectieprocedures, administratief werk, verzekeringskwesties, huisvesting en doorlopende ondersteuning gedurende de gehele arbeidsrelatie. Door gebruik te maken van hooggespecialiseerd personeel met aanzienlijke ervaring in het arbeidsrecht, zorgt deze service voor nauwgezette aandacht voor detail en het identificeren van oplossingen op maat voor de specifieke behoeften van een bedrijf.",
+      "desc3": "Het uitbesteden van deze essentiële HR-functies biedt verschillende voordelen. Ten eerste biedt het toegang tot de expertise van ervaren professionals, wat zorgt voor efficiënt en gecoördineerd humanresourcemanagement. Ten tweede stelt outsourcing een bedrijf in staat om zijn interne middelen te heralloceren naar kernbedrijfsdoelen, waardoor de productiviteit wordt verhoogd en strategische doelstellingen worden bevorderd. Uiteindelijk garandeert de Volledige HR-Dienstverlening optie niet alleen soepele HR-operaties, maar stelt het bedrijven ook in staat zich te concentreren op het bereiken van hun primaire missie met meer duidelijkheid en efficiëntie."
+    },
+    "whenToconsider": {
+      "title": "Wanneer Kiest u voor de Volledige HR-Dienstverlening Optie?",
+      "faq1": "Gebrek aan een Intern HR-Team",
+      "ans1": "Zonder een interne HR-afdeling kan het beheren van alle aspecten van het HR-proces, van werving tot onboarding van werknemers, overweldigend en tijdrovend worden. Door uit te besteden aan experts, kunnen bedrijven ervoor zorgen dat elke fase van het HR-proces deskundig wordt beheerd, zodat zij zich kunnen concentreren op hun kernactiviteiten zonder de last van HR-taken.",
+      "faq2": "Beperkte Middelen voor Procesmanagement",
+      "ans2": "Of het nu gaat om financiële, tijds- of professionele beperkingen, uitbesteding van Volledige HR-Dienstverlening biedt een effectieve oplossing. Wij bieden de infrastructuur, expertise en ervaring die nodig zijn om alle HR-aspecten efficiënt af te handelen, van werving tot administratieve taken, en zorgen voor een soepel en gestroomlijnd proces zonder extra druk op interne middelen.",
+      "faq3": "Behoefte aan een Snelle en Betrouwbare Oplossing",
+      "ans3": "Wanneer een bedrijf een snelle en betrouwbare HR-oplossing nodig heeft, is de Volledige HR-Dienstverlening optie de beste keuze. Wij navigeren efficiënt door de complexiteiten van HR en leveren tijdige en effectieve resultaten. Door gebruik te maken van onze gespecialiseerde kennis en ervaring, kunnen bedrijven ervoor zorgen dat aan hun HR-behoeften snel en met minimale problemen wordt voldaan."
+    },
+    "faq": {
+      "title": "Veelgestelde Vragen",
+      "queation1": "Welke HR-Functies Dekken Wij?",
+      "ans1": "Onze Volledige HR-Dienstverlening oplossing omvat elk aspect van het HR-proces, inclusief werving, selectieprocedures, administratieve taken, verzekeringsaangelegenheden, huisvesting en doorlopende ondersteuning en begeleiding gedurende de gehele levenscyclus van de arbeidsrelatie.",
+      "queation2": "Hoe Zorgen Wij voor Naleving van de Relevante Arbeidswetten en -regelgeving?",
+      "ans2": "Wij werken met experts met uitgebreide ervaring in het arbeidsrecht, wat zorgt voor zorgvuldige aandacht voor detail en het identificeren van de meest geschikte oplossingen voor de unieke behoeften van uw bedrijf. We blijven ook op de hoogte van de nieuwste wettelijke vereisten en best practices om volledige naleving te garanderen.",
+      "queation3": "Welke Flexibiliteit Bieden Wij bij het Aanpassen van de Oplossing aan de Specifieke Behoeften van Uw Bedrijf?",
+      "ans3": "We begrijpen dat elk bedrijf verschillende HR-behoeften heeft. Daarom bieden we flexibiliteit bij het aanpassen van onze Volledige HR-Dienstverlening oplossing aan uw unieke behoeften, of dat nu gaat om het aanpassen van serviceonderdelen, het vervullen van specifieke vereisten of het inspelen op uw veranderende bedrijfsbehoeften."
+    }
+  },
+
+  "about": {
+    "hireaforeigner": {
+      "title": "Huur een buitenlander in",
+      "desc": "Een betrouwbare en ervaren partner bij de werving van buitenlandse werknemers. Ons team van experts is toegewijd om u te begeleiden tijdens het immigratieproces, zodat een soepel en succesvol resultaat gegarandeerd is.",
+      "btn": "Neem contact op"
+    },
+    "whoWeare": {
+      "title1": "WIE ZIJN WE?",
+      "title2": "Internationaal Uitzendbureau",
+      "desc1": "We helpen onze internationale klanten bij het vinden van geschikte vacatures, ook binnen Europa, door hen zorgvuldig te matchen met posities die aansluiten bij hun kwalificaties. Daarnaast zorgen we ervoor dat de bedrijven waarmee we samenwerken hun personeel niet alleen respecteren, maar ook eerlijk belonen.",
+      "desc2": "Voor onze opdrachtgevers werven en selecteren we nauwgezet gekwalificeerde werknemers die aan hun specifieke eisen voldoen, waardoor zorgen over personeelsverloop worden verminderd. Deze aanpak garandeert een stabiele werkstroom voor project- of seizoensbehoeften, zowel lokaal als internationaal. Hierdoor kunnen onze klanten een tijdige projectoplevering verwachten zonder onnodige verstoringen.",
+      "desc3": "We bieden een complete oplossing voor het werven en inhuren van hoogwaardig talent, met als doel het creëren van een productieve en harmonieuze werkomgeving voor zowel werkgevers als werknemers wereldwijd."
+    },
+    "WhyChoose": {
+      "title1": "Waarom kiezen voor",
+      "title2": "ArkaHire?",
+      "desc1": "Jaren ervaring",
+      "desc2": "Buitenlandse werknemers succesvol geplaatst",
+      "desc3": "Klanttevredenheid"
+    },
+    "WhatDoWeOffer": {
+      "title1": "WAT BIEDEN WE AAN?",
+      "title2": "Hulp nodig met immigratie? Ons expertteam staat voor u klaar",
+      "desc1": "Neem vandaag nog contact op met ons team om meer te weten te komen over onze diensten en de eerste stap te zetten naar het succesvol in dienst nemen van buitenlandse werknemers.",
+      "title3": "Arbeidsbemiddelingsdiensten",
+      "btn": "Alle diensten bekijken",
+      "title4": "Ondersteuning bij administratie",
+      "desc2": "We verzorgen alle benodigde administratie voor tewerkstelling, zoals vertaling van documenten, verkrijgen van visa en werkvergunningen, arbeidsovereenkomsten.",
+      "title5": "Arbeidsbemiddeling",
+      "desc3": "Bespaar tijd en middelen door gebruik te maken van onze professionele diensten voor het vinden van gekwalificeerde werknemers van buiten Europa.",
+      "title6": "Volledige HR-dienstverlening",
+      "desc4": "Uitgebreide ondersteuning bij humanresourcemanagement, beginnend bij werving tot volledige integratie van de werknemer.",
+      "title7": "Diensten voor detachering van werknemers",
+      "desc5": "We bieden detachering van werknemers voor specifieke periodes (zoals projecten of seizoenswerk) met de optie om over te stappen naar een vast dienstverband."
+    },
+    "contactourteam": {
+      "title": "Neem contact op met ons team",
+      "desc1": "Kom meer te weten over onze professionele diensten en",
+      "desc2": "ontdek hoe we u kunnen helpen.",
+      "btn": "Neem contact op"
+    }
+  },
+  "footer": {
+    "title": "Wij staan voor u klaar.",
+    "desc": "Neem contact met ons op voor vragen over het in dienst nemen van werknemers uit het buitenland. We helpen u op elk moment."
+  }
+}

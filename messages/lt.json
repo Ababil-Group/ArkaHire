@@ -1,0 +1,547 @@
+{
+  "nav": {
+    "home": "Pagrindinis",
+    "howToHire": "Kaip įdarbinti tarptautinius talentus?",
+    "solutions": {
+      "label": "Sprendimai",
+      "navigating": "Imigracijos įstatymų navigacija",
+      "seasonal": "Sezoninių darbuotojų įdarbinimas",
+      "construction": "Statybos darbuotojų įdarbinimas",
+      "medical": "Medicinos darbuotojų įdarbinimas"
+    },
+    "services": {
+      "label": "Paslaugos",
+      "admin": "Užimtumo administravimas",
+      "fullHR": "Pilnos HR paslaugos",
+      "mediation": "Užimtumo tarpininkavimas",
+      "assignment": "Darbuotojų paskirstymas"
+    },
+    "about": "Apie mus",
+    "contact": "Kontaktai"
+  },
+  "hero": {
+    "title": "Supaprastinkite pasaulinės darbo jėgos įdarbinimo procesą.",
+    "desc": "Nesvarbu, ar esate mažas verslas, ar tarptautinė korporacija – ArkaHire padės rasti kvalifikuotų specialistų. Nuo darbuotojų paieškos iki integracijos – mes pasirūpinsime viskuo.",
+    "btn1": "Susisiekite su mumis",
+    "btn2": "Peržiūrėti paslaugas"
+  },
+  "achievements": {
+    "year1": "7+",
+    "exp1": "Metų patirtis",
+    "year2": "600+",
+    "exp2": "Įdarbintų darbuotojų",
+    "year3": "100%",
+    "exp3": "Klientų pasitenkinimas"
+  },
+  "whyChoose": {
+    "title": "Kodėl rinktis įdarbinimo agentūrą?",
+    "desc": "ArkaHire siūlo inovatyvius, greitus ir efektyvius sprendimus tarptautinių talentų paieškai ir įdarbinimui.",
+    "question1": "Nežinote, kur rasti kvalifikuotų darbuotojų?",
+    "ans1": "Mūsų komanda analizuoja jūsų poreikius ir sukuria individualią įdarbinimo strategiją.",
+    "question2": "Reikia lankstumo įdarbinant?",
+    "ans2": "Siūlome laikino įdarbinimo sprendimus ir pasirūpiname visomis formalumais.",
+    "question3": "Neturite vidinio HR komandos?",
+    "ans3": "Mūsų pilno HR aptarnavimo paketas apima viską – nuo darbuotojų paieškos iki jų integracijos.",
+    "question4": "Nežinote teisinių reikalavimų?",
+    "ans4": "Mes supaprastiname procesą ir užtikriname visų teisės aktų laikymąsi."
+  },
+  "typeofemployees": {
+    "title": "Kokius darbuotojus galime surasti?",
+    "cardTitle1": "Sandėlio darbuotojai",
+    "cardDesc1": "Aktyvūs, motyvuoti ir pasiruošę mokytis — mūsų kandidatai gali imtis ir vadovaujančių vaidmenų.",
+    "cardTitle2": "Elektrikai",
+    "cardDesc2": "Įvairių kvalifikacijų specialistai. Galime surengti vaizdo pokalbius įgūdžių įvertinimui.",
+    "cardTitle3": "Mechanikai",
+    "cardDesc3": "Jauni, gabūs ir pasiruošę naujiems iššūkiams.",
+    "cardTitle4": "Statybos darbuotojai",
+    "cardDesc4": "Nuo bazinių iki specializuotų įgūdžių — randame tinkamiausius specialistus jūsų projektams.",
+    "cardTitle5": "Plytelių klojėjai",
+    "cardDesc5": "Didelės paklausos specialistai prieinami per mūsų efektyvią įdarbinimo sistemą.",
+    "cardTitle6": "Individualios pozicijos",
+    "cardDesc6": "Reikia konkrečios pozicijos? Mes galime padėti. Susisiekite su mumis.",
+    "btn": "Susisiekite"
+  },
+  "HireAForeigner": {
+    "title": "Užsieniečio įdarbinimas",
+    "subtitle": "Kvalifikuotų darbuotojų samdymo iš užsienio procesas",
+    "desc1": "Supraskite pagrindinius reikalavimus, kuriuos jūsų įmonė turi atitikti samdydama tarptautinius specialistus.",
+    "desc2": "Įmonė veikia ilgiau nei 6 mėnesius",
+    "desc3": "Bent vienas pilnu etatu dirbantis darbuotojas mažiausiai 6 mėnesius",
+    "desc4": "Vietinė darbo jėga sudaro ne mažiau kaip 25% visų darbuotojų"
+  },
+  "wowtohire": {
+    "title": "Kaip įdarbinti tarptautinius talentus?",
+    "desc": "Mes žingsnis po žingsnio vedame jus per tarptautinių darbuotojų įdarbinimo procesą:",
+    "no1": "01",
+    "cardTitle1": "Darbo jėgos paieška",
+    "cardDesc1": "Randame kandidatus, pritaikytus jūsų poreikiams. Galimi nuotoliniai pokalbiai.",
+    "no2": "02",
+    "cardTitle2": "Sutartys",
+    "cardDesc2": "Rengiame ir administruojame darbo sutartis.",
+    "no3": "03",
+    "cardTitle3": "Apgyvendinimas",
+    "cardDesc3": "Padedame rasti tinkamą būstą darbuotojams.",
+    "no4": "04",
+    "cardTitle4": "Darbo leidimai",
+    "cardDesc4": "Tvarkome darbo leidimų paraiškas.",
+    "no5": "05",
+    "cardTitle5": "Vizų tvarkymas",
+    "cardDesc5": "Tvarkome vizų paraiškas, kurios paprastai trunka 4–6 savaites.",
+    "no6": "06",
+    "cardTitle6": "Kelionės organizavimas",
+    "cardDesc6": "Užsakome skrydžius ir pasirūpiname, kad darbuotojai saugiai atvyktų.",
+    "no7": "07",
+    "cardTitle7": "Dokumentai",
+    "cardDesc7": "Padedame dėl asmens dokumentų, sveikatos patikrų ir banko sąskaitų atidarymo.",
+    "no8": "08",
+    "cardTitle8": "Pasitenkinimas",
+    "cardDesc8": "Mūsų tikslas – užtikrinti darbdavių ir darbuotojų pasitenkinimą."
+  },
+  "bookconsultation": {
+    "title": "Užsirezervuokite nemokamą konsultaciją.",
+    "desc1": "Patikimas ir patyręs partneris samdant užsienio darbuotojus. Mūsų ekspertai yra pasirengę dirbti su jumis, kad pašalintų stresą iš bet kurio imigracijos proceso, padidindami jūsų sėkmingo rezultato galimybes.",
+    "decs2": "Susisiekite su mūsų komanda jau šiandien, kad sužinotumėte daugiau apie mūsų paslaugas ir žengtumėte pirmąjį žingsnį link sėkmingo samdymo.",
+    "btn": "Susisiekite su mumis"
+  },
+  "whychooseus": {
+    "title": "Kodėl rinktis mus?",
+    "desc": "ArkaHire yra jūsų patikimas partneris, samdantys tarptautinius talentus. Mūsų ekspertai yra pasirengę supaprastinti imigracijos procesą ir užtikrinti sėkmingus rezultatus.",
+    "item1": "Nemokamos konsultacijos",
+    "item2": "Aukštos kokybės kandidatai",
+    "item3": "Greiti atsakymo laikai",
+    "item4": "Ilgalaikė partnerystė",
+    "item5": "Prieinamumas 24/7",
+    "item6": "Patikrinti profesionalai",
+    "btn": "Susisiekite su mumis"
+  },
+  "faq": {
+    "title": "Dažniausiai Užduodami Klausimai",
+    "faq1": "Kas yra atsakingas už apgyvendinimą?",
+    "ans1": "Darbdaviai privalo pasiūlyti savo darbuotojams tinkamą ir patogų apgyvendinimą.",
+    "faq2": "Kiek laiko užtrunka, kol darbuotojai atvyksta?",
+    "ans2": "Procesas paprastai trunka mažiausiai tris mėnesius. Šis laikotarpis apima dvi savaites leidimo dirbti gavimui, po to dar mažiausiai šešias savaites vizos formalumams.",
+    "faq3": "Kas atsitinka, jei esame nepatenkinti darbuotoju?",
+    "ans3": "Jei darbuotojas neatitinka jūsų lūkesčių, turite teisę nutraukti jo sutartį pagal standartines darbo nuostatas. Tokiais atvejais mes padedame darbuotojui rasti alternatyvų užimtumą. Jei netinkamų galimybių nekyla, palengviname jo grįžimą į gimtąją šalį.",
+    "faq4": "Ar galime kreiptis dėl darbo leidimų, ilgesnių nei 1 metai?",
+    "ans4": "Darbo leidimai paprastai išduodami vieneriems metams, o sezoniniai darbuotojai gali gauti leidimus iki šešių mėnesių. Dėl biurokratinių procedūrų darbo leidimo ir vizos gavimas paprastai trunka nuo dviejų iki trijų mėnesių.",
+    "faq5": "Kaip galima atnaujinti darbo leidimus?",
+    "ans5": "Pratęsimo prašymai turi būti pateikti mažiausiai mėnesį iki leidimo galiojimo pabaigos. Procesui reikalingas darbuotojo pasas, ankstensis tapatybės kortelė, neseniai darytos nuotraukos (naujai tapatybės kortelei), apgyvendinimo teikėjo pareiškimas ir įmonės išduotas patvirtinimas, patvirtinantis apgyvendinimo tęsiamumą nustatytoje vietoje.",
+    "faq6": "Ar yra apribojimų samdant užsienio darbuotojus?",
+    "ans6": "Tam tikros profesijos Europoje klasifikuojamos kaip didelio poreikio, leisdamos darbdaviams kreiptis dėl darbo leidimų nepraleidžiant darbo rinkos testo. Oficialus šių profesijų sąrašas prieinamas atitinkamose institucijose. Pozicijoms, neįtrauktoms į trūkstamų profesijų sąrašą, reikalingas Darbo Rinkos Testas. Šis procesas trunka dvi savaites ir įvertina vietinių darbuotojų prieinamumą. Jei darbo jėgos trūkumas patvirtinamas, prašymai dėl užsienio darbuotojų gali būti tvirtinami atitinkamai."
+  },
+  "contactus": {
+    "title": "Kontaktai",
+    "subtitle": "Jei neradote atsakymo į savo klausimą, nedvejodami susisiekite, ir mes viską išsamiai paaiškinsime.",
+    "time": "Darbo laikas: Pirm. - Penkt. 8:00 - 16:00",
+    "sendText": "Susisiekite su mumis dėl ekspertinės pagalbos Turite klausimų? Mes čia tam, kad padėtume!"
+  },
+
+  "navigating": {
+    "hero": {
+      "title": "Imigracijos įstatymų naršymas darbdaviams",
+      "desc": "Imigracijos įstatymų laikymasis gali būti sudėtingas dėl užsienio darbuotojų įdarbinimą reglamentuojančių teisės aktų. Čia mūsų ekspertinė patirtis padeda supaprastinti šį procesą.",
+      "btn": "Susisiekite su mumis"
+    },
+    "challenges": {
+      "title": "Imigracijos teisės laikymosi iššūkiai",
+      "desc1": "Vienas didžiausių iššūkių, su kuriais susiduria įmonės samdydamos užsienio specialistus, yra naršymasis sudėtinguose imigracijos įstatymuose, kurie sukurti apsaugoti vietinei darbo rinkai, kartu tenkinant ekonominius darbo jėgos poreikius.",
+      "desc2": "Imigracijos teisės aktų laikymasis gali būti sudėtingas, nes įmonės privalo laikytis griežtų teisinių reikalavimų, reglamentuojančių tarptautinių darbuotojų įdarbinimą. Darbdaviai privalo laikytis mokesčių ir socialinio draudimo taisyklių, taip pat konkrečių sąlygų, pavyzdžiui, tam tikrą laikotarpį užtikrinti visą darbo laiką vietiniams arba ES piliečiams. Procesas taip pat apima darbo ir gyvenimo leidimų gavimą, kartu su politikų, reglamentuojančių talentų samdymą iš ne ES šalių, laikymąsi.",
+      "desc3": "Čia ekspertinė pagalba tampa būtina. Mūsų komanda specializuojasi įdarbinimo proceso supaprastinime, padeda įmonėms gauti darbo leidimus, tvarkyti reikiamą dokumentaciją ir užtikrinti visišką atitiktį visiems darbo rinkos reikalavimams.",
+      "desc4": "„ArkaHire“ teikiame profesionalų vadovavimą, kad supaprastintume įdarbinimo procesą. Mūsų ekspertai padeda gauti darbo leidimus, valdyti reikiamą dokumentaciją ir užtikrinti visišką atitiktį darbo rinkos teisės aktams.",
+      "desc5": "Jei susiduriate su sudėtingais įdarbinimo reikalavimais, mūsų Įdarbinimo administravimo paslauga siūlo visapusį sprendimą."
+    },
+    "employment": {
+      "title": "Įdarbinimo administravimas",
+      "desc": "Mūsų Įdarbinimo administravimo paslauga tvarko visas administracines procedūras, susijusias su tarptautinių specialistų samdymu. Užtikriname atitiktį darbo ir imigracijos įstatymams, supaprastindami visą procesą jūsų įmonei.",
+      "btn": "Sužinokite daugiau"
+    },
+    "features": {
+      "title1": "Prieiga pai kvalifikuotų darbuotojų",
+      "desc1": "Kruopščiai patikrintų ir kvalifikuotų kandidatų duomenų bazė.",
+      "title2": "Lankstūs darbo jėgos sprendimai",
+      "desc2": "Individualios samdymo parinktys, pritaikytos jūsų veiklos poreikiams.",
+      "title3": "Greitas ir efektyvus įdarbinimo procesas",
+      "desc3": "Mes paspartiname įdarbinimo ir administravimo procesus, darydami samdymą sklandų."
+    }
+  },
+  "seasonal": {
+    "hero": {
+      "title": "Sezoninių Darbuotojų Įdarbinimas",
+      "desc": "„ArkaHire“ mes specializuojamės įdarbinti sezoninius darbuotojus įvairiose profesijose, įskaitant padavėjus, barmenus, virėjus, padėjėjus virtuvėje, kambarių tarnautojas, valytojus ir administratorius. Mūsų patirtis užtikrina, kad rasite tinkamus talentus savo poreikiams.",
+      "btn": "Susisiekite su mumis"
+    },
+    "challenges": {
+      "title": "Iššūkiai ieškant sezoninių darbuotojų",
+      "desc1": "Sezoninių darbuotojų paieškos problema Kroatijoje, ypač tokiose pramonės šakose kaip turizmas, maitinimas, žemės ūkis ir statybos, yra daugialypė ir dažnai kelia didelį iššūkį darbdaviams.",
+      "desc2": "Paslaugų sfera labiau nei bet kur kita veiklos sritis yra veikiama sezoninių svyravimų.",
+      "desc3": "Dauguma mūsų klientų per pirmąjį ketvirtį negali tiksliai nuspėti išorinių ar užsienio darbuotojų skaičiaus ir poreikio aukštajame sezone.",
+      "desc4": "Situacija, kai dauguma kurortų, viešbučių ir restoranų dėl samdymo sprendimų priima paskutinę minutę, sukelia staigų darbuotojų paklausos padidėjimą. Tai savo ruožtu lemia, kad rinka negali iš karto patenkinti šios paklausos. Būtent nuo sutarties pasirašymo su Užimtumo tarnyba momento praeina mėnuo ar net du, kol užsienio darbuotojai atvyks į savo darbo vietą. Darbuotojų paieška, kvalifikacijų tikrinimas, pokalbiai, dokumentų rengimas ir panašūs procesai užima didžiąją dalį šio laiko.",
+      "desc5": "Todėl siūlome jums sprendimą, pašalinantį ilgo laukimo ir darbuotojų atvykimo vėlavimo rizikas: darbo jėgos išorinį naudojimą (outsourcing)."
+    },
+    "assignment": {
+      "title": "Darbuotojų skyrimas",
+      "desc": "Mūsų darbuotojų skyrimo paslauga palengvina greitą darbo jėgos samdymą sezoniniams projektams ar tam tikriems laikotarpiams. Naudodamiesi turimais darbuotojais, jau esančiais Europoje, mes žymiai pagreitiname samdymo procesą. Mes tvarkome skyrimo sutarčių sudarymą ir prisiimame atsakomybę už atlyginimų mokėjimą ir administracinius darbus. Ši paslauga sukurta suteikti praktinį sprendimą neatidėliotiniems darbo jėgos poreikiams, užtikrinant lankstumą ir veiksmingumą valdant personalą įvairiuose projektuose ir sezoniniuose poreikiuose.",
+      "btn": "Sužinokite daugiau"
+    },
+    "features": {
+      "title1": "Prieiga prie kvalifikuotų talentų",
+      "desc1": "„ArkaHire“ siūlome iš anksto patikrintų kandidatų duomenų bazę, sumažindami su samdymu susijusias rizikas. Mūsų procesas užtikrina prieigą prie kvalifikuotų darbuotojų, pritaikytų jūsų poreikiams.",
+      "title2": "Lankstūs darbo jėgos sprendimai",
+      "desc2": "Mes suprantame lankstaus darbo jėgos valdymo svarbą, leisdami jums efektyviai prisitaikyti prie kintančių poreikių.",
+      "title3": "Efektyvus įdarbinimo procesas",
+      "desc3": "Mūsų supaprastintas įdarbinimo procesas pagreitina darbuotojų paiešką, valdymą ir įdarbinimą, užtikrindamas, kad savo darbo jėgos poreikius patenkinate laiku."
+    }
+  },
+  "medical": {
+    "hero": {
+      "title": "Medicinos darbuotojų įdarbinimas",
+      "desc": "Gydytojai, slaugytojai, medicinos technikai, farmacininkai ir kiti sveikatos priežiūros specialistai – mes specializuojamės visų rūšių medicinos personalo atrankoje.",
+      "btn": "Susisiekite su mumis"
+    },
+    "challenges": {
+      "title": "Iššūkiai ieškant medicinos darbuotojų",
+      "desc1": "Kvalifikuotų medicinos specialistų, ypač specializuotose sveikatos priežiūros rolėse, paieškos iššūkis yra rimta problema, su kuria susiduria sveikatos priežiūros įstaigos visame pasaulyje.",
+      "desc2": "Panašiai kaip ir kitose šalyse, Kroatijos sveikatos priežiūros sistema kovoja su sunkumais surasti ir išlaikyti kvalifikuotą medicinos personalą. Paklausa sveikatos priežiūros specialistams, tokiems kaip gydytojai, slaugytojai, farmacininkai ir technikai, toliau auga dėl tokių veiksnių kaip senėjanti populiacija, medicinos pažanga ir kintantys sveikatos poreikiai.",
+      "desc3": "Poreikis medicinos darbuotojams nuolat didėja, skatinant tokiems veiksniams kaip gyventojų skaičiaus augimas, senėjanti visuomenė ir medicinos technologijų pažanga.",
+      "desc4": "Kroatijos sveikatos priežiūros sistemą sudaro tiek viešos, tiek privačios įstaigos, kurių kiekviena turi savo personalo poreikius. Nors šalies medicinos darbuotojai paprastai yra kvalifikuoti, tam tikrose specializacijose ar regionuose gali būti trūkumų, dėl ko atsiranda spragų pacientų priežiūroje ir didėja esamo personalo krūvis.",
+      "desc5": "Sveikatos priežiūros įstaigos taip pat dažnai susiduria su iššūkiais tiksliai nuspėti savo personalo poreikius, dėl ko kritiniu laikotarpiu atsiranda trūkumų. Šis nenuspėjamumas gali pabloginti priežiūros kokybę ir perkrauti esamą personalą."
+    },
+    "mediation": {
+      "title": "Įdarbinimo tarpininkavimas",
+      "desc": "Mes suteikiame prieigą prie plačios iš anksto patikrintų kandidatų bazės, įskaitant tuos, kurie turi specializuotų įgūdžių ir patirties. Naudodamiesi mūsų tinklais ir ištekliais galime paspartinti samdos procesą, sutrumpinti laiką, reikalingingą vakantų vietų užpildymui, ir sumažinti sutrikimus pacientų priežiūroje. Užtikriname visų licencijavimo ir reglamentavimo standartų laikymąsi ir padedame sumažinti riziką samdyti nekvalifikuotus ar nepatikimus kandidatus.",
+      "btn": "Sužinokite daugiau"
+    },
+    "features": {
+      "title1": "Prieiga prie atsakingų darbuotojų",
+      "desc1": "Gaukite prieigą prie kruopščiai patikrintos ir kvalifikuotos darbo jėgos",
+      "title2": "Projektų vėlavimų prevencija",
+      "desc2": "Užtikriname, kad projektai būtų baigti laiku, turint kompetentingą darbo jėgą.",
+      "title3": "Efektyvus ir supaprastintas atrankos procesas",
+      "desc3": "Mes paspartiname darbuotojų paieškos, valdymo ir įdarbinimo procesą."
+    }
+  },
+  "construction": {
+    "hero": {
+      "title": "Statybos darbuotojų įdarbinimas",
+      "desc": "Mes teikiame personalo sprendimus įvairioms statybų srities rolėms, įskaitant armatūrininkus, dailidzes, mūrininkus, metalinių konstrukcijų montuotojus, stogdengius ir statybinių mašinų operatorius.",
+      "btn": "Susisiekite su mumis"
+    },
+    "challenges": {
+      "title": "Iššūkiai ieškant statybos darbuotojų",
+      "desc1": "Statybų pramonė šiuo metu susiduria su dideliais iššūkiais ieškant kvalifikuotos darbo jėgos. Šis darbuotojų trūkumas mažina produktyvumą, sukelia projektų grafikų vėlavimą ir apsunkina pastangas tenkinti augančią kvalifikuotų specialistų paklausą šiame sektoriuje.",
+      "desc2": "Visoje Europoje didėja paklausa statybų ekspertų, kaip matyti iš daugelio darbo skelbimų. Daugelis įmonių susiduria su sunkumais ieškant patyrusių ir gabių darbuotojų, dėl ko atsiranda projektų užbaigimo vėlavimų.",
+      "desc3": "Kaip įdarbinimo agentija, specializuojanti užsienio darbo jėgoje, ArkaHire užpildo atotrūkį tarp paklausos ir pasiūlos, sujungdama kvalifikuotus darbuotojus iš trečiojo pasaulio šalių su darbdaviais, kuriems jų reikia. Mes taip pat vedame savo klientus per teisinius procesus, susijusius su užsieniečių samdymu, užtikrindami sklandžią ir teisėtą įdarbinimo patirtį."
+    },
+    "mediation": {
+      "title": "Užtarpininkavimas užimtumo srityje",
+      "desc": "Per savo užtarpininkavimo užimtumo paslaugas mes padedame įmonėms pasinaudoti dideliu kvalifikuotų darbuotojų pool'u. Mes sprendžiame iššūkius, su kuriais susiduriama užtikrinant kvalifikuotą darbo jėgą. Leisdami įdarbinti užsienio talentus ir teikdami visapusiškas įdarbinimo paslaugas, mes atliekame esminį vaidmenį tenkinant darbo jėgos poreikius įvairiose Europos pramonės šakose.",
+      "btn": "Sužinokite daugiau"
+    },
+    "features": {
+      "title1": "Prieiga prie Atsakingų Darbuotojų",
+      "desc1": "Gaukite prieigą prie kruopščiai patikrintos ir kvalifikuotos darbo jėgos.",
+      "title2": "Projektų Vėlavimų Užkirdimas",
+      "desc2": "Mes užtikriname, kad projektai būtų baigti laiku, turint kompetentingą darbo jėgą.",
+      "title3": "Efektyvus ir Supaprastintas Įdarbinimo Procesas",
+      "desc3": "Mes pagreitiname darbuotojų paieškos, valdymo ir įdarbinimo procesą."
+    }
+  },
+  "servicemain": {
+    "title1": "Sužinokite daugiau apie mūsų paslaugas",
+    "desc1": "Mes palaikome jus kiekviename įdarbinimo proceso etape – nuo kandidatų paieškos, administravimo tvarkymo iki sklandios integracijos.",
+    "btn1": "Susisiekite su mumis",
+    "title2": "Įdarbinimo administravimas",
+    "desc2": "Mes pasirenkame visas su tarptautinių specialistų įdarbinimu susijusias administracines užduotis, įskaitant dokumentų vertimus, vizų ir darbo leidimų sprendimą ir darbo sutarčių rengimą.",
+    "btn2": "Sužinokite daugiau",
+    "title3": "Visapusiški HR servisai",
+    "desc3": "Visapusiškai žmogiškųjų išteklių valdymo paramai, nuo įdarbinimo iki darbuotojų sklandžios integracijos.",
+    "title4": "Įdarbinimo tarpininkavimas",
+    "desc4": "Sutaupykite brangų laiką ir išteklius, pasinaudodami mūsų profesine patirtimi, siekdami rasti kvalifikuotų darbuotojų už Europos ribų.",
+    "title5": "Darbuotojų skyrimo paslaugos",
+    "desc5": "ArkaHire teikia paslaugą darbuotojams samdyti tam tikriems laikotarpiams, pvz., projektams ar sezonams, su galimybe įgyti nuolatinį darbą."
+  },
+
+  "assignmentworkers": {
+    "hero": {
+      "title": "Darbuotojų Skyrimo Paslaugos",
+      "desc": "ArkaHire teikia paslaugą samdyti darbuotojus tam tikriems laikotarpiams, pvz., projektams ar sezonams, su galimybe įsidarbinti nuolatiniam darbui.",
+      "btn": "Susisiekite su mumis"
+    },
+    "features": {
+      "title1": "Užimtumo Lankstumas",
+      "desc1": "Siūlome veiksmingus darbo jėgos sprendimus trumpalaikiams projektams ar kintantiems darbo jėgos poreikiams, užtikrindami operacinį efektyvumą.",
+      "title2": "Darbuotojo Vertinimas Prieš Įdarbinimą",
+      "desc2": "Leidžiame išbandyti darbuotojus prieš nuolatinį įdarbinimą, kad užtikrintume sėkmingą bendradarbiavimą ir suderinamumą.",
+      "title3": "Supaprastinta Administravimas",
+      "desc3": "Mes tvarkome visas su įdarbinimu ir Žm. ištekliais susijusias administracines užduotis, kad galėtumėte sutelkti dėmesį į pagrindinę savo verslo veiklą."
+    },
+    "include": {
+      "title": "Ką Apima Darbuotojų Skyrimo Paslauga?",
+      "desc1": "Ši paslauga suteikia lankstumą valdant darbo jėgą, kartu sumažindama administracinę naštą. Ji suteikia prieigą prie specializuotų talentų iš užsienio be tiesioginio įdarbinimo sudėtingumo.",
+      "desc2": "Supaprastiname laikiną įdarbinimą, rengdami oficialius Darbo Sutartis ir priskirdami darbuotojus klientų įmonėms pagal susitartas sąlygas.",
+      "desc3": "Mūsų paslaugos išplečiamos už įdarbinimo ribų, valdant administracines užduotis, tokias kaip pensijų ir sveikatos draudimo paraiškos, atlyginimų skaičiavimas ir išmokų apdorojimas.",
+      "desc4": "Darbuotojai išdėstomi klientų įmonėse pagal susitartas sąlygas, o mes prisiimame oficialų darbdavio vaidmenį.",
+      "desc5": "Pasirinkdami mūsų paslaugas, įmonės naudojasi supaprastintu procesu, kuris išsprendžia biurokratinius iššūkius, užtikrina teisės atitiktį ir pagerina administracinį efektyvumą. Tai leidžia verslui sutelkti dėmesį į pagrindines veiklas."
+    },
+    "whenToconsider": {
+      "title": "Kada Svarstyti Užimtumo Tarpininkavimą?",
+      "faq1": "Ar reikia darbuotojų konkrečiam projektui ar sezoniniam darbui?",
+      "ans1": "Mūsų paslauga suteikia jums prieigą prie pasaulio talentų. Mes įvertiname jūsų reikalavimus ir sujungiame jus su geriausiais kandidatais, kurie patenkintų šiuos poreikius.",
+      "faq2": "Norite išvengti tiesioginio įdarbinimo sudėtingumo",
+      "ans2": "Mes tvarkome visas su darbuotojais susijusias administracines ir apskaitos užduotis, leisdami jums sutelkti dėmesį į pagrindinę verslo veiklą be papildomos naštos.",
+      "faq3": "Norite užtikrinti savo darbo jėgos kokybę",
+      "ans3": "Jei reikia įvertinti darbuotojų įgūdžius prieš priimant juos nuolatiniam darbui, mūsų paslauga siūlo idealų sprendimą kaip bandomąjį laikotarpį. Be to, mūsų agentūros darbuotojai yra kruopščiai patikrinti. Daugelis jų turi didelę patirtį iš ankstesnio agentūrinio darbo, suteikdami išplėtotus įgūdžius ir žinias bet kurioje verslo aplinkoje. Taip pat atliekame papildomas patikras visiems naujiems darbuotojams, kad užtikrintume jų pasirengimą."
+    },
+    "advantages": {
+      "title1": "Kokie pranašumai įdarbinant per agentūrą?",
+      "desc1": "Naudodamiesi mūsų agentūrinio darbo paslaugomis, siūlome lankstius sprendimus trumpalaikėms ar ilgalaikėms darbuotojų neatvykimo progoms užpildyti, sezoniniams darbo jėgos poreikiams optimizuoti ir konkrečių projektų reikalavimams tenkinti. Be to, mes valdome visas administracines užduotis, užtikrindami sklandų ir veiksmingą procesą.",
+      "title2": "Ekspertinis Vadovavimas",
+      "desc2": "Teikiame profesionalų palaikymą ir patarimus per visą įdarbinimo procesą, užtikrindami, kad priimate pagrįstus sprendimus.",
+      "title3": "Laiko ir Išteklių Taupymas",
+      "desc3": "Rūpinamės kandidatų paieška, derybomis ir administracinėmis užduotimis, leisdami jums sutelkti dėmesį į pagrindines jūsų verslo sritis.",
+      "title4": "Prieiga prie Platesnės Rinkos",
+      "desc4": "Suteikiame jums prieigą prie įvairių kandidatų iš viso pasaulio per mūsų sukurtą tinklą.",
+      "title5": "Rizikos Mažinimas",
+      "desc5": "Užtikriname saugumą, kruopščiai patikrindami kandidatų kvalifikacijas ir rekomendacijas, sumažindami netinkamo įdarbinimo ir nesilaikymo taisyklėmis riziką."
+    },
+    "faq": {
+      "title": "Dažniausiai Užduodami Klausimai",
+      "queation1": "Kokie pranašumai įdarbinant per agentūrą?",
+      "ans1": "Naudojantis agentūrinio darbo paslauga, mes leidžiame jums lanksčiai užpildyti trumpas ar ilgas jūsų darbuotojų neatvykimo progą, optimizuoti sezoninius verslo poreikius ar reikalavimus konkrečiems projektams. Mes taipogi atliekame administracines užduotis, palengvindami visą procesą.",
+      "queation2": "Kokias administracines užduotis perimame iš jūsų?",
+      "ans2": {
+        "title1": "Mes atlaisviname jus nuo su komandiruotais darbuotojais susijusios administracinės naštos, kuri apima:",
+        "item1": "Darbo sutarčių rengimą ir sudarymą",
+        "item2": "Atlyginimų ir įmokų skaičiavimą ir apdorojimą",
+        "item3": "Darbuotojų registravimą ir išregistravimą Pensijų ir Sveikatos Draudimo Institute",
+        "item4": "Mėnesinių ir metinių įrašų palaikymą (atostogų dienos, ligos atostogos ir kt.)",
+        "item5": "Reikalingų ataskaitų užpildymą ir pateikimą atitinkamiems organams"
+      },
+      "queation3": "Kokios jūsų pareigos darbuotojų atžvilgiu?",
+      "ans3": "Naudotojas (darbdavys) privalo laikytis darbo teisės aktų, įskaitant sveikatos ir saugos reglamentus, taip pat specialią apsaugą tam tikroms darbuotojų grupėms. Tai apima apsauginių drabužių ir avalynės teikimą, kai to reikalauja darbo pobūdis. Be to, naudotojas yra atsakingas už darbo organizavimą ir paskirstymą pagal nustatytus procesus, taip pat už darbuotojų lankymo įrašų palaikymą darbo vietoje."
+    }
+  },
+  "employmentmediation": {
+    "hero": {
+      "title": "Darbo Vietų Tarpininkavimas",
+      "desc": "Sutaupykite vertingą laiką ir išteklius, pasinaudodami mūsų profesine patirtimi, siekdami pritraukti kvalifikuotus darbuotojus iš ne Europos šalių.",
+      "btn": "Susisiekite su mumis"
+    },
+    "features": {
+      "title1": "Prieiga prie Kvalifikuotų Darbuotojų",
+      "desc1": "Mes aktyviai ieškome ir atrankiai renkame potencialius kandidatus, naudodamiesi savo plačiais tinklais ir duomenų bazėmis.",
+      "title2": "Supaprastintas Įdarbinimo Procesas",
+      "desc2": "Užtikriname, kad įdarbinimo procesas būtų vykdomas efektyviai ir tiksliai.",
+      "title3": "Ekspertinis Vadovavimas ir Palaikymas Kiekviename Etape",
+      "desc3": "Teikiame ekspertines žinias, užtikrindami informuotus sprendimus ir sėkmingus rezultatus."
+    },
+    "what": {
+      "title": "Kas yra Darbo Vietų Tarpininkavimas?",
+      "desc1": "Mes esame tiltas tarp darbdavių ir potencialių kandidatų, supaprastindami procesą, apibrėždami darbo reikalavimus, atrinkdami kandidatus ir teikdami visapusišką palaikymą. Mūsų tikslas – sujungti aukščiausios klasės talentus su įmonėmis.",
+      "desc2": "Personalo atranka yra gyvybiškai svarbi paslauga, padedanti darbdaviams rasti kvalifikuotus kandidatus savo organizacijoms. Ši paslauga apima samdomos personalo atrankos agentūrą, kuri veikia kaip tarpininkas tarp įmonių ir potencialių darbuotojų. Agentūra sutelkia dėmesį į darbdavio poreikių supratimą, konkrečių darbo reikalavimų apibrėžimą ir kruopščią atitinkančių šiuos poreikius kandidatų paiešką ir atranką.",
+      "desc3": "Pagrindinis agentūros vaidmuo įdarbinimo proceso metu yra atlikti išsamius kandidatų kvalifikacijų ir patirties patikrinimus, užtikrinant jų tinkamumą vaidmeniui.",
+      "desc4": "Pasirinkus personalo atrankos paslaugas, siūloma daug privalumų, įskaitant prieigą prie didelio talentų pool'o, sumažinant personalo atrankai reikalingą laiką ir išteklius bei užtikrinant aukštus profesionalumo standartus kandidatų atrankoje."
+    },
+    "commonfaq": {
+      "title": "Raskite Atsakymus į Dažniausiai Užduodamus Klausimus",
+      "queation1": "Kokios yra Mūsų Atsakomybės Tarpininkavimo Procese?",
+      "ans1": {
+        "title1": "Užsienio darbuotojų įdarbinimo tarpininkavimu besiverčiančių agentūrų pareigos apima:",
+        "item1": "Tinkamo darbuotojo paiešką pagal kliento kriterijus, atrankos proceso vykdymą ir reikiamos dokumentacijos pateikimą.",
+        "item2": "Visų reikalingų dokumentų rengimą ir pateikimą laikinoms gyvenimo ir darbo leidimams gauti trečiųjų šalių piliečiams.",
+        "item3": "Kelionės draudimo išlaidų padengimą darbuotojams.",
+        "item4": "Reikalingos vizos gyventi ir dirbti Europoje organizavimą.",
+        "item5": "Darbuotojo skrydžio kainos padengimą."
+      },
+      "queation2": "Kokios Jūsų Prievolės Užsienio Darbuotojo Atžvilgiu?",
+      "ans2": "Gavus užsienio darbuotojo darbo leidimą, atvykus reikia suteikti būstą ir maitinimą. Būstas turi atitikti pagrindinius gyvenimo standartus. Jei maisto suteikti negalima, darbuotojui turi būti mokama maisto piniginė kompensacija. Be to, jūs privalote užregistruoti darbuotoją pensijų ir sveikatos draudimui, lygiai taip pat, kaip bet kuriam vietiniam darbuotojui.",
+      "queation3": "Kokie Reikalaviami Sąlygos Gyvenimo ir Darbo Leidimui Gauti?",
+      "ans3": {
+        "title2": "Reikalingų leidimų gavimo reikalavimai apima:",
+        "item1": "Ekonominės veiklos, registruotos Europoje, vykdymas.",
+        "item2": "Darbo sutartimi neribotu laiku ir pilnu etatu per pastaruosius šešis mėnesius įdarbintų Kroatijos piliečių skaičiaus sudarymas bent ketvirtadalį, palyginti su trečiųjų šalių piliečiais.",
+        "item3": "Mokesčių administracijos pažymėjimas, patvirtinantis, kad nėra neišmokėtų skolų, susijusių su viešosiomis išmokomis, išduotas neseniai prieš pateikiant leidimų prašymą.",
+        "item4": "Teisinių priekaištų, susijusių su darbo santykiais ar socialine apsauga, nebuvimas."
+      }
+    },
+    "benefits": {
+      "title1": "Kokie Privalumai Įdarbinant per Agentūrą?",
+      "item1": "Mes tvarkome visų reikalingų teisinių dokumentų rengimą ir pateikimą darbdavių ir jų pasirinktų darbuotojų vardu.",
+      "item2": "Turėdami didelę patirtį šioje srityje, supaprastinome savo procesus, siūlydami darbdaviams greitą ir efektyvų įdarbinimo būdą.",
+      "title2": "Ekspertinis Vadovavimas",
+      "desc2": "Teikiame profesinę pagalbą ir patarimus viso įdarbinimo proceso metu, užtikrindami, kad priimate pagrįstus sprendimus.",
+      "title3": "Laiko ir Išteklių Taupymas",
+      "desc3": "Mes pasirūpiname kandidatų paieška, derybomis ir administracinėmis užduotimis, leisdami jums sutelkti dėmesį į pagrindines jūsų verslo sritis.",
+      "title4": "Prieiga prie Platesnės Rinkos",
+      "desc4": "Per mūsų įsitvirtinusį tinklą suteikiame jums prieigą prie įvairialypio kandidatų pool'o iš viso pasaulio.",
+      "title5": "Rizikos Mažinimas",
+      "desc5": "Užtikriname saugumą atlikdami išsamius kandidatų kvalifikacijų ir rekomendacijų patikrinimus, sumažindami netinkamų įdarbinimo ir nesilaikymo reglamentais riziką."
+    },
+    "process": {
+      "title1": "1 žingsnis: Konsultacijos",
+      "desc1": "Mūsų specialistų komanda atlieka išsamų jūsų darbo jėgos poreikių analizę, kuriant individualią įdarbinimo strategiją.",
+      "title2": "2 žingsnis: Talentų Paieška",
+      "desc2": "Naudodamiesi savo platiu tinklu ir ištekliais, mes identifikuojame kvalifikuotus kandidatus iš viso pasaulio, atitinkančius jūsų verslo reikalavimus.",
+      "title3": "3 žingsnis: Atrankos Processas",
+      "desc3": "Kruopščiai įvertiname kandidatų kvalifikacijas, patirtį ir rekomendacijas, kad užtikrintume geriausių asmenų atranką jūsų komandai.",
+      "title4": "4 žingsnis: Darbuotojų Atvežimas į Europą",
+      "desc4": "Mes tvarkome visus reikalingus dokumentus ir organizuojame darbuotojų persikėlimą į Europą.",
+      "title5": "Kaip Atrodo Procesas?",
+      "desc5": "Palikite visas žmogiškųjų išteklių rūpesčius mums ir užtikrinkite optimalų savo darbuotojų valdymą su mūsų visapusiškomis HR paslaugomis!"
+    },
+    "faq": {
+      "title": "Dažniausiai Užduodami Klausimai",
+      "queation1": "Kokios yra Mūsų Atsakomybės Tarpininkavimo Procese?",
+      "ans1": "Užsienio darbuotojų įdarbinimo tarpininkavimu besiverčiančių agentūrų pareigos apima: – Tinkamo darbuotojo nustatymą pagal kliento kriterijus, atrankos proceso vykdymą ir reikiamos dokumentacijos pateikimą. – Visų reikalingų dokumentų rengimą ir pateikimą laikinoms gyvenimo ir darbo leidimams gauti trečiųjų šalių piliečiams. – Kelionės draudimo išlaidų padengimą darbuotojams. – Reikalingos vizos gyventi ir dirbti Europoje organizavimą. – Darbuotojo skrydžio kainos padengimą.",
+      "queation2": "Kokios Jūsų Pareigos Užsienio Darbuotojo Atžvilgiu?",
+      "ans2": "Gavus užsienio darbuotojo darbo leidimą, atvykus reikia suteikti būstą ir maitinimą. Būstas turi atitikti pagrindinius gyvenimo standartus. Jei maitinimo suteikti negalima, darbuotojui turi būti mokama maisto piniginė kompensacija. Be to, būtina užregistruoti darbuotoją pensijų ir sveikatos draudimui, lygiai taip pat, kaip bet kuriam vietiniam darbuotojui.",
+      "queation3": "Kokios Sąlygos Turi Būti Įvykdytos, Kad Gautumėte Gyvenimo ir Darbo Leidimą?",
+      "ans3": "Norint gauti reikalingus leidimus, turi būti tenkinamos šios sąlygos: – Jūsų įmonė turi būti registruota Europoje. – Per pastaruosius šešis mėnesius turite įdarbinti bent ketvirtadalį vietos piliečių, palyginti su trečiųjų šalių piliečiais, darbo sutartimi neribotu laiku ir pilnu etatu. – Mokesčių administracijos pažymėjimas, patvirtinantis, kad nėra neišmokėtų skolų, susijusių su viešosiomis išmokomis, išduotas neseniai prieš pateikiant leidimų prašymą. – Neturi būti teisinių priekaištų, susijusių su darbo santykiais ar socialine apsauga.",
+      "queation4": "Ar Darbuotojas Gali Pradėti Nedelsiant?",
+      "ans4": "Deja, ne. Kadangi šie darbuotojai yra iš trečiųjų šalių, jie pirmiausia turi gauti darbo leidimą ir vizą prieš įžengdami į Europą. Visas procesas gali trukti nuo 45 iki 90 dienų, priklausomai nuo dalyvaujančių institucijų greičio. Dokumentų rengimas ir derybos paprastai trunka nuo 4 iki 10 dienų, priklausomai nuo darbdavio pasirengimo. Įdarbinimas ir kandidatų atranka gali trukti nuo 1 iki 30 dienų (iki 7 dienų mažos kvalifikacijos darbuotojams, iki 30 dienų kvalifikuotiems darbuotojams) arba ilgiau, jei reikia specifinių profesijų (iki 60 dienų). Darbo rinkos testas paprastai trunka 15 dienų. Darbo leidimo gavimas paprastai trunka nuo 15 iki 30 dienų. Vizos registravimas trunka dar 15–30 dienų. Kelionės organizavimas ir darbuotojo atvykimas į Europą paprastai trunka nuo 1 iki 10 dienų."
+    }
+  },
+  "administration": {
+    "hero": {
+      "title": "Išsamios užimtumo administravimo paslaugos",
+      "desc": "Mes pasirūpiname visomis su tarptautinių specialistų samdymu susijusiomis administracinėmis užduotimis, įskaitant dokumentų vertimus, vizų ir darbo leidimų tvarkymą bei darbo sutarčių rengimą.",
+      "btn": "Susisiekite su mumis"
+    },
+    "features": {
+      "title1": "Sutaupykite laiko ir išlaidų",
+      "desc1": "Atsikratykite sudėtingų administracinių procedūrų naštos ir sutelkite dėmesį į pagrindinę veiklą.",
+      "title2": "Ekspertinė pagalba",
+      "desc2": "Mūsų komanda užtikrina sklandų procesą, laikydamasi naujausių teisinių reikalavimų.",
+      "title3": "Individualūs sprendimai",
+      "desc3": "Mes pritaikome savo paslaugas pagal jūsų konkrečius samdymo poreikius."
+    },
+    "include": {
+      "title": "Ką apima užimtumo administravimo paslauga?",
+      "desc1": "Mes padedame įmonėms valdyti užsienio darbuotojų samdymo sudėtingumus, užtikriname atitiktį imigracijos ir darbo įstatymams ir supaprastiname administracinį procesą.",
+      "title1": "Mūsų užimtumo administravimo paslauga apima visų su užsienio darbuotojų samdymu susijusių administracinių užduočių atlikimą ES veikiančioms įmonėms. Paslauga paprastai apima:",
+      "desc2": {
+        "item1": "Darbo leidimų ir vizų tvarkymas",
+        "item2": "Užtikrinti, kad dokumentai atitiktų imigracijos įstatymus",
+        "item3": "Darbo sutarčių rengimas",
+        "item4": "Derinimas su valdžios institucijomis"
+      }
+    },
+    "whenToconsider": {
+      "title": "Kada rinktis administravimo paslaugą?",
+      "faq1": "Jūs jau patys radote darbuotojų.",
+      "ans1": "Jei jūs jau patys atlikote užsienio darbuotojų atrankos procesą ir pasirinkote idealų savo įmonės personalą, mes galime suteikti jums paramą ir pagalbą samdymo metu.",
+      "faq2": "Neturite pakankamai laiko rūpintis administravimu.",
+      "ans2": "Mes atlaisviname jus nuo administracinių užduočių ir procesų, leisdami jums sutelkti dėmesį į pagrindinę veiklą. Mes pasirūpiname visa reikiama dokumentacija, kad galėtumėte skirti laiko savo verslo plėtrai. Mes jums išspręsime vizų, leidimų gyventi ir dirbti reikalus, išversime užsienio dokumentus, paruošime darbo sutartis ir visus kitus reikiamus dokumentus.",
+      "faq3": "Jūs nesuprantate teisinių nuostatų.",
+      "ans3": "Mūsų komanda tikrina kvalifikacijas ir užtikrina, kad būtų laikomasi vietos nuostatų ir įstatymų. Patyrę ekspertai teikia paramą visame procese ir užtikrina, kad visas procesas atitiktų teisės aktų reikalavimus."
+    },
+    "faq": {
+      "title": "Dažniausiai Užduodami Klausimai",
+      "queation1": "Kaip atrodo užsienio darbuotojų samdymo procesas?",
+      "ans1": {
+        "title1": "Norėdami samdyti užsienio darbuotojus į pozicijas visoje Europoje, turite laikytis šių esminių žingsnių:",
+        "item1": "Gauti užsienio darbuotojo darbo leidimą iš atitinkamos imigracijos ar užimtumo institucijos.",
+        "item2": "Pateikti darbuotojo leidimo gyventi prašymą.",
+        "item3": "Užsienio darbuotojo registravimas atitinkamose mokesčių ir socialinio draudimo institucijose.",
+        "item4": "Užtikrinti visų taikomų darbo ir imigracijos nuostatų laikymąsi."
+      },
+      "queation2": "Kokie dokumentai reikalingi užsienio darbuotojų samdymui?",
+      "ans2": {
+        "title2": "Reikalinga dokumentacija apima:",
+        "item1": "Darbo leidimas, išduotas atitinkamos institucijos.",
+        "item2": "Darbo sutartis arba formalus susitarimas.",
+        "item3": "Galiojantis užsienio darbuotojo pasas ar tapatybės kortelė.",
+        "item4": "Darbuotojo sveikatos draudimo aprėptis.",
+        "item5": "Mokėjimo už reikiamas administracines išmokas įrodymas."
+      },
+      "queation3": "Kaip administracinės pagalbos paslaugos gali padėti darbdaviams naršyti užsienio darbuotojų samdymo procese ES?",
+      "ans3": "Administracinės pagalbos paslaugos atlieka svarbų vaidmenį supaprastinant užsienio darbuotojų samdymo procesą, kiekviename etape siūlant išsamų palaikymą.",
+      "ans4": "Mes vedame darbdavius per visą darbo ir gyvenamojo leidimo prašymo procesą, padedame parengti ir pateikti reikiamus dokumentus atitinkamoms institucijoms ir užtikriname visišką atitiktį teisiniams reikalavimams. Mūsų paslaugos apima nuolatinį konsultavimą darbo ir imigracijos klausimais, kartu supaprastindamos administracines užduotis. Šis požiūris sutaupo darbdavių laiką ir išteklius, užtikrindamas sklandų ir veiksmingą užsienio darbuotojų samdymo procesą visoje Europoje."
+    }
+  },
+  "fullservicehr": {
+    "hero": {
+      "title": "Visapusis Žmogiškųjų Išteklių Aptarnavimas",
+      "desc": "Visapusei žmogiškųjų išteklių valdymo pagalbai, nuo įdarbinimo iki sklandaus darbuotojų integravimo.",
+      "btn": "Susisiekite su mumis"
+    },
+    "features": {
+      "title1": "Palaikymas Viso ŽI Proceso Metu",
+      "desc1": "Nuo įdarbinimo ir administravimo iki būsto užtikrinimo ir teikiamo nuolatinio palaikymo.",
+      "title2": "Prieiga prie ŽI Ekspertų",
+      "desc2": "Pasinaudokite plačia patirtį turinčių žmogiškųjų išteklių profesionalų žiniomis.",
+      "title3": "Dėmesys Verslo Tikslams",
+      "desc3": "Perorientuokite savo dėmesį į strateginių tikslų siekimą, kol mes valdome jūsų ŽI poreikius."
+    },
+    "mean": {
+      "title": "Ką Reiškia Visapusis Žmogiškųjų Išteklių Aptarnavimas?",
+      "desc1": "Visapusio ŽI aptarnavimo parinktis suteikia platų palaikymo spektrą, apimantį kiekvieną ŽI proceso aspektą, nuo įdarbinimo iki sklandaus darbuotojų integravimo jūsų organizacijoje.",
+      "desc2": "Ši visapusiška paslauga apima įdarbinimą, atrankos procedūras, administracinį darbą, draudimo klausimus, būstą ir nuolatinį palaikymą viso darbo santykių laikotarpiu. Įdarbinant aukštos kvalifikacijos personalą, turintį didelę patirtį darbo teisės srityje, ši paslauga užtikrina kruopštų dėmesį detalėms ir tinkamiausių sprendimų, pritaikytų atitikti įmonės specifinius poreikius, identifikavimą.",
+      "desc3": "Šių pagrindinių ŽI funkcijų perleidimas išorėje siūlo keletą pranašumų. Pirma, jis suteikia prieigą prie patyrusių profesionalų žinių, užtikrindamas veiksmingą ir koordinuotą žmogiškųjų išteklių valdymą. Antra, perleidimas išorėje leidžia įmonei perskirstyti savo vidinius išteklius pagrindiniams verslo tikslams, padidindama produktyvumą ir skatindama strateginius tikslus. Galiausiai, visapusio ŽI aptarnavimo parinktis ne tik garantuoja sklandžias ŽI operacijas, bet ir leidžia įmonėms susikaupti į pagrindinės misijos siekimą didesniu aiškumu ir efektyvumu."
+    },
+    "whenToconsider": {
+      "title": "Kada Rinktis Visapusio ŽI Aptarnavimo Parinktį?",
+      "faq1": "Vidinės ŽI Komandos Trūkumas",
+      "ans1": "Be vidinio ŽI skyriaus, visų ŽI proceso aspektų valdymas, nuo įdarbinimo iki darbuotojų adaptacijos, gali tapti slegiantis ir daug laiko atimantis. Perleisdami ekspertams, įmonės gali užtikrinti, kad kiekviena ŽI proceso fazė būtų kvalifikuotai valdoma, leisdamos joms susikoncentruoti į pagrindinę veiklą be ŽI užduočių naštos.",
+      "faq2": "Riboti Ištekliai Procesų Valdymui",
+      "ans2": "Nesvarbu, ar tai finansiniai, laiko ar profesiniai apribojimai, visapusio ŽI aptarnavimo perleidimas išorėje siūlo veiksmingą sprendimą. Mes teikiame infrastruktūrą, žinias ir patirtį, reikalingus veiksmingai valdyti visus ŽI aspektus, nuo įdarbinimo iki administracinių pareigų, užtikrindami sklandų ir supaprastintą procesą be papildomo spaudimo vidiniams ištekliams.",
+      "faq3": "Poreikis Greitai ir Patikimai Išspręsti",
+      "ans3": "Kai įmonei reikia greito ir patikimo ŽI sprendimo, visapusio ŽI aptarnavimo parinktis yra geriausias pasirinkimas. Mes veiksmingai naršome per ŽI sudėtingumus, teikdami laiku ir veiksmingus rezultatus. Pasinaudojus mūsų specializuotomis žiniomis ir patirtimi, įmonės gali užtikrinti, kad jų ŽI poreikiai būtų tenkinami greitai ir su minimaliais vargo."
+    },
+    "faq": {
+      "title": "Dažniausiai Užduodami Klausimai",
+      "queation1": "Kokias ŽI Funkcijas Mes Apimame?",
+      "ans1": "Mūsų visapusis ŽI sprendimas apima kiekvieną ŽI proceso aspektą, įskaitant įdarbinimą, atrankos procedūras, administracines užduotis, draudimo klausimus, apgyvendinimą bei nuolatinį palaikymą ir vadovavimą per visą darbo santykių gyvavimo ciklą.",
+      "queation2": "Kaip Mes Užtikriname Atitiktį Aktualiems Darbo Įstatymams ir Reglamentams?",
+      "ans2": "Mes įdarbiname kvalifikuotą personalą, turintį platų patirtį darbo teisėje, užtikrindami kruopštų dėmesį detalėms ir tinkamiausių sprendimų jūsų įmonės unikaliems poreikiams identifikavimą. Mes taip pat sekiame naujausius teisinius reikalavimus ir geriausias praktikas, kad užtikrintume visišką atitiktį.",
+      "queation3": "Kokį Lankstumą Siūlome Sprendimą Pritaikant Jūsų Įmonės Specifiniams Poreikiams?",
+      "ans3": "Mes suprantame, kad kiekviena įmonė turi skirtingus ŽI reikalavimus. Todėl siūlome lankstumą pritaikant mūsų visapusį ŽI sprendimą jūsų unikaliems poreikiams tenkinti, nesvarbu, ar tai apima paslaugų komponentų koregavimą, specifinių reikalavimų įgyvendinimą, ar prisitaikymą prie jūsų besivystančių verslo poreikių."
+    }
+  },
+  "about": {
+    "hireaforeigner": {
+      "title": "Samdykite užsieniečį",
+      "desc": "Patikimas ir patyręs partneris užsienio darbuotojų atrankos srityje. Mūsų ekspertų komanda yra pasišventusi Jums padėti per imigracijos procesą, užtikrindama sklandžią ir sėkmingą rezultatą.",
+      "btn": "Susisiekite su mumis"
+    },
+    "whoWeare": {
+      "title1": "KAS MES ESMĘ?",
+      "title2": "Tarptautinis Užimtumo Agentūra",
+      "desc1": "Mes padedame savo tarptautiniams klientams rasti tinkamas darbo galimybes, įskaitant Europoje, atidžiai suderindami juos su jų kvalifikacijas atitinkančiomis pozicijomis. Be to, užtikriname, kad su mumis bendraujančios įmonės ne tik gerbia, bet ir sąžiningai apdoroja savo darbuotojus.",
+      "desc2": "Mūsų darbdavių klientams mes kruopščiai atrenkame ir užtikriname kvalifikuotus darbuotojus, atitinkančius jų specifinius reikalavimus, taip sumažindami susirūpinimą dėl darbo jėgos kaitos. Šis požiūris užtikrina stabilią darbo jėgą projekto ar sezoninių poreikių tenkinimui tiek vietos, tiek tarptautiniu mastu. Dėl to mūsų klientai gali tikėtis laiku įvykdytų projektų be nereikalingų sutrikimų.",
+      "desc3": "Mes siūlome visapusį sprendimą aukštos kokybės talentų atrankai ir įdarbinimui, siekdami skatinti produktyvią ir harmoningą darbo aplinką darbdaviams ir darbuotojams visame pasaulyje."
+    },
+    "WhyChoose": {
+      "title1": "Kodėl rinktis",
+      "title2": "ArkaHire?",
+      "desc1": "Metų patirtis",
+      "desc2": "Užsienio darbuotojų sėkmingai įdarbinta",
+      "desc3": "Klientų pasitenkinimas"
+    },
+    "WhatDoWeOffer": {
+      "title1": "KĄ MES SIŪLOME?",
+      "title2": "Reikia pagalbos dėl imigracijos? Mūsų ekspertų komanda yra čia, kad padėtų",
+      "desc1": "Susisiekite su mūsų komanda jau šiandien, kad sužinotumėte daugiau apie mūsų paslaugas ir žengtumėte pirmąjį žingsnį link sėkmingo užsienio darbuotojų įdarbinimo.",
+      "title3": "Užimtumo paslaugos",
+      "btn": "Naršyti visas paslaugas",
+      "title4": "Administravimo palaikymas",
+      "desc2": "Mes tvarkome visą reikalingą įdarbinimo administravimą, tokią kaip dokumentų vertimas, vizų ir darbo leidimų gavimas, darbo sutartys.",
+      "title5": "Užimtumo tarpininkavimas",
+      "desc3": "Sutaupykite laiko ir išteklių naudodamiesi mūsų profesionaliomis paslaugomis, siekdami rasti kvalifikuotų darbuotojų už Europos ribų.",
+      "title6": "Visos HR paslaugos",
+      "desc4": "Išsamus palaikymas žmogiškųjų išteklių valdyme, pradedant atranka ir baigiant visiška darbuotojo integracija.",
+      "title7": "Darbuotojų skyrimo paslaugos",
+      "desc5": "Mes siūlome darbuotojų išdavimą tam tikriems laikotarpiams (pvz., projektams ar sezoniniam darbui) su galimybe pereiti prie nuolatinio įdarbinimo."
+    },
+    "contactourteam": {
+      "title": "Susisiekite su mūsų komanda",
+      "desc1": "Sužinokite daugiau apie mūsų profesionalias paslaugas ir",
+      "desc2": "sužinokite, kaip galime jums padėti.",
+      "btn": "Susisiekite su mumis"
+    }
+  },
+  "footer": {
+    "title": "Esame Jūsų žinioje.",
+    "desc": "Kreipkitės į mus dėl bet kokių su darbuotojų iš užsienio samdymu susijusių klausimų. Padėsime Jums bet kuriuo metu."
+  }
+}

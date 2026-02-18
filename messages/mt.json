@@ -1,0 +1,548 @@
+{
+  "nav": {
+    "home": "Dar",
+    "howToHire": "Kif tikkera talent internazzjonali?",
+    "solutions": {
+      "label": "Soluzzjonijiet",
+      "navigating": "Navigazzjoni fil-liġijiet tal-immigrazzjoni",
+      "seasonal": "Impjieg ta' ħaddiema staġonali",
+      "construction": "Impjieg ta' ħaddiema tal-kostruzzjoni",
+      "medical": "Impjieg ta' ħaddiema mediċi"
+    },
+    "services": {
+      "label": "Servizzi",
+      "admin": "Amministrazzjoni tal-impjieg",
+      "fullHR": "Servizz HR sħiħ",
+      "mediation": "Medjazzjoni tal-impjieg",
+      "assignment": "Assenjazzjoni tal-ħaddiema"
+    },
+    "about": "Dwarna",
+    "contact": "Kuntatt"
+  },
+  "hero": {
+    "title": "Vereenvoudig het proces van het aannemen van een wereldwijde workforce.",
+    "desc": "Of u nu een klein bedrijf bent of een multinational, ArkaHire helpt u gekwalificeerde medewerkers te vinden. Van werving tot onboarding — wij regelen alles.",
+    "btn1": "Neem contact op",
+    "btn2": "Bekijk diensten"
+  },
+  "achievements": {
+    "year1": "7+",
+    "exp1": "Jaren ervaring",
+    "year2": "600+",
+    "exp2": "Geplaatste werknemers",
+    "year3": "100%",
+    "exp3": "Klanttevredenheid"
+  },
+  "whyChoose": {
+    "title": "Waarom kiezen voor een wervingsbureau?",
+    "desc": "Bij ArkaHire bieden we innovatieve, snelle en efficiënte oplossingen voor het vinden en aannemen van internationaal talent.",
+    "question1": "Weet u niet waar u kwaliteitsmedewerkers kunt vinden?",
+    "ans1": "Ons team analyseert uw behoeften en ontwikkelt een gepersonaliseerde wervingsstrategie.",
+    "question2": "Heeft u flexibiliteit nodig bij het aannemen?",
+    "ans2": "Wij bieden tijdelijke oplossingen en regelen alle formaliteiten.",
+    "question3": "Geen intern HR-team?",
+    "ans3": "Onze volledige HR-service dekt alles — van werving tot integratie.",
+    "question4": "Niet bekend met juridische regelgeving?",
+    "ans4": "Wij vereenvoudigen het proces en zorgen voor volledige naleving van alle wetten."
+  },
+  "typeofemployees": {
+    "title": "X'tip ta’ ħaddiema nistgħu nsibu?",
+    "cardTitle1": "Ħaddiema tal-maħżen",
+    "cardDesc1": "Proattivi u lesti jitgħallmu — il-kandidati tagħna jistgħu jokkupaw anke rwoli ta’ tmexxija.",
+    "cardTitle2": "Electricians",
+    "cardDesc2": "Professjonisti b’diversi livelli ta’ esperjenza. Intervisti bil-video jistgħu jiġu organizzati.",
+    "cardTitle3": "Mekkanika",
+    "cardDesc3": "Żgħażagħ, kapaċi u lesti għal sfidi ġodda.",
+    "cardTitle4": "Ħaddiema tal-kostruzzjoni",
+    "cardDesc4": "Minn ħiliet bażiċi sa snajja’ speċjalizzati — insibu l-aħjar persuni għall-proġetti tiegħek.",
+    "cardTitle5": "Tilers",
+    "cardDesc5": "Professjonisti ta’ domanda għolja huma disponibbli permezz tal-proċess tagħna ta’ kiri effiċjenti.",
+    "cardTitle6": "Pożizzjonijiet personalizzati",
+    "cardDesc6": "Għandek bżonn rwol speċifiku? Nistgħu ngħinuk. Ikkuntattjana.",
+    "btn": "Ikkuntattjana"
+  },
+  "HireAForeigner": {
+    "title": "Kiri ta’ Ħaddiem Barrani",
+    "subtitle": "Il-proċess ta’ kiri ta’ ħaddiema kwalifikati minn barra",
+    "desc1": "Ifhem ir-rekwiżiti ewlenin li l-kumpanija tiegħek trid tissodisfa biex timpjega professjonisti internazzjonali.",
+    "desc2": "Negozju li ilu jopera għal aktar minn 6 xhur",
+    "desc3": "Mill-inqas impjegat wieħed full-time għal minimu ta’ 6 xhur",
+    "desc4": "Il-forza tax-xogħol lokali tifforma mill-inqas 25% tal-impjegati kollha"
+  },
+  "wowtohire": {
+    "title": "Kif tikri talent internazzjonali?",
+    "desc": "Aħna ngħadduk pass pass fil-proċess kollu ta’ reklutaġġ ta’ ħaddiema internazzjonali:",
+    "no1": "01",
+    "cardTitle1": "Sors ta’ forza tax-xogħol",
+    "cardDesc1": "Insibu kandidati skont il-bżonnijiet tiegħek. Disponibbli intervisti online.",
+    "no2": "02",
+    "cardTitle2": "Kuntratti",
+    "cardDesc2": "Nfasslu u nimmaniġġjaw kuntratti ta’ impjieg.",
+    "no3": "03",
+    "cardTitle3": "Akkomodazzjoni",
+    "cardDesc3": "Ngħinu nsibu akkomodazzjoni xierqa għall-ħaddiema.",
+    "no4": "04",
+    "cardTitle4": "Permessi tax-xogħol",
+    "cardDesc4": "Nippreżentaw it-talbiet għall-permessi tax-xogħol.",
+    "no5": "05",
+    "cardTitle5": "Viżas",
+    "cardDesc5": "Nimmaniġġjaw l-applikazzjonijiet għall-viża, li normalment jieħdu 4–6 ġimgħat.",
+    "no6": "06",
+    "cardTitle6": "Arranġamenti ta’ vjaġġ",
+    "cardDesc6": "Nibbukkjaw titjiriet u niżguraw li l-ħaddiema jaslu b’mod sigur.",
+    "no7": "07",
+    "cardTitle7": "Dokumentazzjoni",
+    "cardDesc7": "Ngħinu b’karti tal-identità, eżamijiet mediċi u ftuħ ta’ kontijiet bankarji.",
+    "no8": "08",
+    "cardTitle8": "Sodisfazzjon",
+    "cardDesc8": "L-għan tagħna hu li niżguraw sodisfazzjon kemm għall-impjegaturi kif ukoll għall-ħaddiema."
+  },
+  "bookconsultation": {
+    "title": "Irriservja l-Konsultazzjoni Tiegħek B'Xejn.",
+    "desc1": "Partner affidabbli u espert fl-impjieg ta' ħaddiema barranin. L-esperti tagħna huma lesti jaħdmu miegħek biex ineħħu l-istress minn kull proċess ta' immigrazzjoni, u jżidu l-opportunitajiet tiegħek għal riżultat ta' suċċess.",
+    "decs2": "Ikkuntattja t-tim tagħna illum biex titgħallem aktar dwar is-servizzi tagħna u tieħu l-ewwel pass lejn impjieg ta' suċċess.",
+    "btn": "Ikkuntattjana"
+  },
+  "whychooseus": {
+    "title": "Għaliex Tagħżelna?",
+    "desc": "ArkaHire hija l-partner affidabbli tiegħek għat-tqabbil ta' talent internazzjonali. L-esperti tagħna huma lesti jissimplifikaw il-proċess ta' immigrazzjoni u jiżguraw riżultati ta' suċċess.",
+    "item1": "Konsultazzjonijiet b'xejn",
+    "item2": "Kandidati ta' kwalità għolja",
+    "item3": "Ħinijiet ta' rispons rapidi",
+    "item4": "Sħubiji fit-tul",
+    "item5": "Disponibbiltà 24/7",
+    "item6": "Professionisti vverifikati",
+    "btn": "Ikkuntattjana"
+  },
+  "faq": {
+    "title": "Mistoqsijiet Frekwenti (FAQ)",
+    "faq1": "Min hu responsabbli li jipprovdi l-akkomodazzjoni?",
+    "ans1": "L-imgħallmin huma mitluba joffru akkomodazzjoni xierqa u komda lill-ħaddiema tagħhom.",
+    "faq2": "Kemm jieħu biex il-ħaddiema jilħqu?",
+    "ans2": "Il-proċess normalment jieħu mill-inqas tliet xhur. Dan il-perjodu jinkludi ġimgħatejn biex jinkiseb permess ta' xogħol, segwit minn mill-inqas sitt ġimgħat għall-ipproċessar tal-viza.",
+    "faq3": "X'jiġri jekk m'aħniex kuntenti ma' impjegat?",
+    "ans3": "Jekk impjegat ma jissodisfax l-aspettattivi tiegħek, għandek id-dritt li ttermina l-kuntratt tiegħu skont ir-regolamenti standard tax-xogħol. F'dawk il-każijiet, aħna ngħinu lill-ħaddiem isib impjieg alternattiv. Jekk ma jkunx hemm opportunitajiet xierqa, aħna niffaċilitaw it-trufija tiegħu lejn il-pajjiż tat-twelid.",
+    "faq4": "Nistgħu napplikaw għal permessi tax-xogħol itwal minn sena?",
+    "ans4": "Il-permessi tax-xogħol ġeneralment jingħataw għal sena, filwaqt li ħaddiema staġonali jistgħu jiksbu permessi sa sitt xhur. Minħabba proċeduri burokratiċi, il-kisba ta' permess tax-xogħol u viza tipikament tieħu bejn żewġ u tliet xhur.",
+    "faq5": "Kif jistgħu jitġeddew il-permessi tax-xogħol?",
+    "ans5": "L-applikazzjonijiet għal rinnovazzjoni għandhom jintbagħtu mill-inqas xahar qabel ma jiskadi l-permess. Il-proċess jeħtieġ il-passaport tal-impjegat, il-ID card preċedenti, ritratti riċenti (għall-ID ġdida), dikjarazzjoni mill-fornitur tal-akkomodazzjoni u dikjarazzjoni maħruġa mill-kumpanija li tikkonferma l-akkomodazzjoni kontinwa fis-sit indikat.",
+    "faq6": "Hemm restrizzjonijiet fuq l-impjieg ta' ħaddiema barranin?",
+    "ans6": "Ċerti professjonijiet fl-Ewropa huma kklassifikati bħala tal-domanda għolja, u jippermettu lill-imgħallmin japplikaw għal permessi tax-xogħol mingħajr ma jgħaddu minn test tas-suq tax-xogħol. Il-lista uffiċjali ta' dawn il-professjonijiet hija disponibbli mill-awtoritajiet rilevanti. Għal pożizzjonijiet mhux inklużi fil-lista tal-okkupazzjonijiet b'tnaqqis, huwa meħtieġ Test tas-Suq tax-Xogħol. Dan il-proċess jiddem ġimgħatejn u jevalwa l-disponibbiltà ta' ħaddiema lokali. Jekk it-tnaqqis tal-ħaddiema jkun ikkonfermat, l-applikazzjonijiet għal ħaddiema barranin jistgħu jkomplu b'mod xieraq."
+  },
+  "contactus": {
+    "title": "Kuntatt",
+    "subtitle": "Għal kwalunkwe mistoqsija li ma sibtx tweġiba għaliha, tħossok liberu li tikkuntattjana, u aħna nispjegaw kollox fid-dettall.",
+    "time": "Ħinijiet tal-ftuħ: It-Tnejn - Il-Ġimgħa 8:00 - 16:00",
+    "sendText": "Ikkuntattjana għal Għajnuna Esperta Għandek Mistoqsijiet? Aħna Hawnhekk Biex Ngħinu!"
+  },
+
+  "navigating": {
+    "hero": {
+      "title": "In-navigazzjoni tal-Liġi tal-Immigrazzjoni għall-Impjegaturi",
+      "desc": "L-aderenza mal-liġijiet tal-immigrazzjoni tista' tkun kumplessa minħabba l-qafas regolatorju li jirregola l-impjieg ta' ħaddiema barranin. Hawn l-esperjenza tagħna tgħin fl-istrutturar tal-proċess.",
+      "btn": "Ikkuntatjana"
+    },
+    "challenges": {
+      "title": "Is-Sfidi tal-Konformità tal-Immigrazzjoni",
+      "desc1": "Waħda mill-akbar sfidi li s-soċjetajiet jiltaqgħu magħhom meta jimpjegaw professjonisti barranin hija n-navigazzjoni tal-liġijiet kumplessi tal-immigrazzjoni, li huma mmirati li jipproteġu s-suq lokali tax-xogħol waqt li jindirizzaw jeħtiġijiet ekonomici tal-ħaddiema.",
+      "desc2": "It-tiswir tal-konformità mar-regolamenti tal-immigrazzjoni jista' jkun kumpless, peress li n-negozji għandhom jaderu għal rekwiżiti legali stretti li jirregolaw l-impjieg ta' ħaddiema internazzjonali. L-impjegaturi huma obbligati jissodisfaw ir-regolamenti tat-taxxa u s-sigurtà soċjali, kif ukoll kundizzjonijiet speċifiċi, bħall-żamma ta' impjieg full-time għal ċittadini lokali jew tal-UE għal perjodu deżinjat. Il-proċess jinvolvi wkoll l-akkwist tal-permessi tax-xogħol u r-residenza, flimkien ma' l-aderenza għall-politiki għat-tħaddim ta' talent minn pajjiżi barra mill-UE.",
+      "desc3": "Hawn il-gwida espert tissir essenzjali. It-tim tagħna huwa speċjalizzat fl-istrutturar tal-proċess ta' impjieg, jgħin in-negozji jakkwistaw permessi tax-xogħol, jimmaniġġjaw id-dokumentazzjoni meħtieġa u jiżguraw konformità sħiħa mar-regolamenti kollha tas-suq tax-xogħol.",
+      "desc4": "Fi ArkaHire, aħna nipprovdu gwida professjonali biex nissimplifikaw il-proċess tat-tħaddim. L-esperti tagħna jgħinu jakkwistaw permessi tax-xogħol, jimmaniġġjaw id-dokumentazzjoni rikjesta u jiżguraw konformità sħiħa mar-regolamenti tas-suq tax-xogħol.",
+      "desc5": "Jekk qed tissaġġarx ma' rekwiżiti kumplessi ta' impjieg, is-Servizz tagħna ta' Amministrazzjoni tal-Impjieg joffri soluzzjoni kompluta."
+    },
+    "employment": {
+      "title": "Amministrazzjoni tal-Impjieg",
+      "desc": "Is-Servizz tagħna ta' Amministrazzjoni tal-Impjieg jimmaniġġja l-proċeduri amministrattivi kollha relatati mat-tħaddim ta' professjonisti internazzjonali. Aħna niżguraw konformità mal-liġijiet tax-xogħol u l-immigrazzjoni, billi nissimplifikaw il-proċess kollu għall-kumpanija tiegħek.",
+      "btn": "Tgħallem Aktar"
+    },
+    "features": {
+      "title1": "Aċċess għal Ħaddiema Kwalifikati",
+      "desc1": "Database ta' kandidati ikkontrollati bir-reqqa u kwalifikati.",
+      "title2": "Soluzzjonijiet tal-Ħaddiema Flessibbli",
+      "desc2": "Għażliet tat-tħaddim ittailjati biex jitwaħħlu mal-ħtiġijiet operattivi tiegħek.",
+      "title3": "Proċess ta' Reklutaġġ Malajr u Effiċjenti",
+      "desc3": "Aħna nħaffu l-proċessi ta' reklutaġġ u amministrattivi, u nagħmlu r-reklutaġġ bla xkiel."
+    }
+  },
+  "seasonal": {
+    "hero": {
+      "title": "Impjieg ta' Ħaddiema Stagjonali",
+      "desc": "Fi ArkaHire, aħna speċjalizzati fir-reklutaġġ ta' ħaddiema stagjonali f'diversi professjonijiet, inkluż wejters, barmen, koki, persunal tal-kċina assistenti, qaddejja, nadifa u reċezjoniżti. L-esperjenza tagħna tiżgura li tista' ssib it-talenti t-tajba għall-ħtiġijiet tiegħek.",
+      "btn": "Ikkuntatjana"
+    },
+    "challenges": {
+      "title": "Sfidi fit-Tfittxija ta' Ħaddiema Stagjonali",
+      "desc1": "Il-problema li ssib ħaddiema stagjonali fil-Kroazja, speċjalment f'industriji bħat-turiżmu, is-servizz tal-ikel, l-agrikoltura u l-bini, hija multidimensjonali u spiss tirrappreżenta sfida sinifikanti għal min iħaddem.",
+      "desc2": "L-industrija tal-ospitalità hija aktar suxxettibbli għal bidliet stagjonali minn qatt qabel, meta mqabbla ma' kull sfera oħra ta' attività.",
+      "desc3": "Ħafna mill-klijenti tagħna matul l-ewwel kwart ma jistgħux jipprevedu b'mod preċiż in-numru u l-ħtieġa għal ħaddiema esterni jew barranin matul l-istaġun għoli.",
+      "desc4": "Is-sitwazzjoni fejn ħafna mill-lukandi, resorts u ristoranti jieħdu deċiżjonijiet ta' impjieg fl-aħħar minuta twassal g'żieda f'daqqa fit-talba għal ħaddiema. Dan imbagħad iwassal għall-inkapaċità tas-suq li jlaħħaq mal-htiega immedjatament. Jiġifieri, mill-mument tas-sottoscrizzjoni tal-kuntratt mal-Aġenzija għax-Xogħol, jgħaddi xahar jew sa tnejn qabel ma l-ħaddiema barranin jaslu fil-post tax-xogħol tagħhom. It-tfittxija ta' ħaddiema, it-testjar ta' kwalifiki, interviisti, dokumenti u proċessi simili jieħdu ħafna minn dak iż-żmien.",
+      "desc5": "Għalhekk, noffrulek soluzzjoni li telimina r-riskji ta' stennija twila u dewmien fl-wasla ta' ħaddiema: l-esternalizzazzjoni tal-ħaddiema."
+    },
+    "assignment": {
+      "title": "Assenjazzjoni ta' Ħaddiema",
+      "desc": "Is-servizz tagħna ta' assenjazzjoni ta' ħaddiema jiffaċilita l-impjieg rapidu ta' ħaddiema għal proġetti stagjonali jew perjodi speċifiċi. Billi nużaw ħaddiema disponibbli li diġà jinsabu fl-Ewropa, aħna nħaffru s-sensiela tal-impjieg. Aħna nieħdu ħsieb l-istabbiliment ta' ftehimiet ta' assenjazzjoni u nassumu r-responsabbiltà għall-ħlasijiet tas-salarji u l-kompiti amministrattivi. Dan is-servizz huwa ddisinjat biex jipprovdi soluzzjoni prattika għal ħtiġijiet urgenti ta' ħaddiema waqt li jiżgura flessibilità u effiċjenza fl-immaniġġjar tal-persunal f'proġetti varji u talbiet stagjonali.",
+      "btn": "Tgħallem Aktar"
+    },
+    "features": {
+      "title1": "Aċċess għal Talent Kwalifikat",
+      "desc1": "Fi ArkaHire, noffru database ta' kandidati ppre-verifikati, b'hekk innaqqsu r-riskji assoċjati ma' impjieg. Il-proċess tagħna jiżgura aċċess għal ħaddiema kwalifikati adattati għall-ħtiġijiet tiegħek.",
+      "title2": "Soluzzjonijiet ta' Ħaddiema Flessibbli",
+      "desc2": "Aħna nifhmu l-importanza tal-ġestjoni flessibbli tal-ħaddiema, li jippermettilek li tadatta b'mod effiċjenti għat-talbiet li qed jinbidlu.",
+      "title3": "Proċess ta' Reklutaġġ Effiċjenti",
+      "desc3": "Il-proċess tagħna simplifikat ta' reklutaġġ iħaffef it-tfittxija, il-ġestjoni u l-impjieg ta' ħaddiema, u jiżgura li tilqa' l-ħtiġijiet tal-ħaddiema tiegħek f'waqthom."
+    }
+  },
+  "medical": {
+    "hero": {
+      "title": "Impjieg ta' Ħaddiema Mediċi",
+      "desc": "Tobba, infermieri, tekniċi mediċi, spiżjarji, u professjonisti oħra tas-saħħa – aħna nispeċjalizzaw fir-reklutaġġ ta' kull tip ta' persunal mediku.",
+      "btn": "Ikkuntatjana"
+    },
+    "challenges": {
+      "title": "Sfidi fit-Tfittxija ta' Ħaddiema Mediċi",
+      "desc1": "L-isfida li ssib professjonisti mediċi kwalifikati, partikolarment f'rwoli tas-saħħa speċjalizzati, hija kwistjoni sinifikanti li taffaċċja l-istituzzjonijiet tas-saħħa globalment.",
+      "desc2": "Simili għal pajjiżi oħra, is-sistema tas-saħħa tal-Kroazja qed tilħaq id-diffikultajiet li ssib u żżomm persunal mediku kwalifikat. It-talba għal professjonisti tas-saħħa, bħat-tobba, l-infermieri, l-ispiżjarji, u t-tekniċi, tkompli tiżdied minħabba fatturi bħall-popolazzjoni li qed titqassaħ, avvanzamenti mediċi, u bżonnijiet tas-saħħa li qed jinbidlu.",
+      "desc3": "Il-ħtieġa għal ħaddiema mediċi qed tikber kontinwament, imħeġġa minn fatturi bħat-tkabbir tal-popolazzjoni, soċjetà li qed titqassaħ, u avvanzamenti fit-teknoloġija medika.",
+      "desc4": "Is-sistema tas-saħħa tal-Kroazja tinkludi kemm entitajiet pubbliċi kif ukoll privati, kull wieħed bi requisiti ta' persunal tagħhom stess. Filwaqt li l-forza tax-xogħol mediku tal-pajjiż hija ġeneralment kwalifikata, ċerti speċjalitajiet jew reġjuni jistgħu jesperjenu nuqqas, joħolqu vojt fit-kura tal-pazjent u jżidu l-pressjoni fuq il-persunal eżistenti.",
+      "desc5": "Il-faċilitajiet tas-saħħa wkoll spiss jiffaċċjaw sfidi fit-tbassir preċiż tal-ħtiġijiet tagħhom għall-persunal, li jwassal għal nuqqas fi żmienijiet kritiċi. Dan l-impredittibilità jista' jfixkel il-kwalità tal-kura u jorbot il-persunal attwali."
+    },
+    "mediation": {
+      "title": "Medjazzjoni għall-Impjieg",
+      "desc": "Aħna nipprovdu aċċess għal pjattaforma wiesgħa ta' kandidati li ġew iċċekkjati minn qabel, inklużi dawk bi ħiliet u esperjenza speċjalizzati. Billi nużaw in-netwerks u r-riżorsi tagħna, nistgħu naċċelleraw il-proċess ta' assumar, innaqqsu l-ħin meħtieġ biex timla postijiet vakanti u nimmiminaw interruzzjonijiet fil-kura tal-pazjent. Aħna niżguraw l-aderenza għal-istandards kollha ta' liċenzjar u regolatorji u ngħinu nnaqqsu r-riskju li tassumi kandidati mhux kwalifikati jew mhux affidabbli.",
+      "btn": "Tgħallem Aktar"
+    },
+    "features": {
+      "title1": "Aċċess għal Ħaddiema Responsabbli",
+      "desc1": "Ikollok aċċess għal forza tax-xogħol ikkontrollata bir-reqqa u kwalifikata",
+      "title2": "Prevenzjoni ta' Dewmien tal-Proġett",
+      "desc2": "Aħna niżguraw li l-proġetti jitlestu skont l-iskeda bi forza tax-xogħol kapaċi.",
+      "title3": "Proċess ta' Reklutaġġ Effiċjenti u Razzjonali",
+      "desc3": "Aħna nħaffu l-proċess li ssib, tmexxi, u toħroġ ħaddiema."
+    }
+  },
+  "construction": {
+    "hero": {
+      "title": "Impjieg tal-Ħaddiema tal-Kostruzzjoni",
+      "desc": "Nipperċaw soluzzjonijiet ta 'staffing għal firxa wiesgħa ta' rwoli relatati mal-kostruzzjoni, inklużi armar, mastrudaxxi, bennejja, installaturi ta 'strutturi tal-metall, sajjieda u operaturi ta' magni tal-kostruzzjoni.",
+      "btn": "Ikkuntatjana"
+    },
+    "challenges": {
+      "title": "Sfidi fit-Tfittxija ta' Ħaddiema tal-Kostruzzjoni",
+      "desc1": "L-industrija tal-kostruzzjoni bħalissa qed tiffaċċja sfidi sinifikanti fit-tfittxija ta 'ħaddiema kwalifikati. Dan in-nuqqas ta' ħaddiema jnaqqas il-produttività, iwassal għal dewmien fil-ġranet tal-proġetti u jikkumplika l-isforzi biex jintlaħaq id-domanda dejjem tikber għal professjonisti kwalifikati fis-settur.",
+      "desc2": "Madwar l-Ewropa, qed tiżdied id-domanda għal esperti tal-kostruzzjoni, kif jidher mill-numru ta 'avviżi ta' impjieg. Ħafna kumpaniji jiffaċċjaw diffikultajiet fit-tfittxija ta 'ħaddiema esperti u kapaċi, li jwassal għal dewmien fit-tmiem tal-proġetti.",
+      "desc3": "Bħala aġenzija ta 'reklutaġġ speċjalizzata f'ħaddiema barranin, ArkaHire tgħaqqad id-diviżjoni bejn id-domanda u l-offerta billi tgħaqqad lil ħaddiema kwalifikati minn pajjiżi tat-tielet dinja ma 'dawk li jħaddmu li għandhom bżonnhom. Aħna wkoll ngħidu lill-klijenti tagħna permezz tal-proċessi legali assoċjati ma 'ħaddiema barranin, li jiżguraw esperjenza ta' reklutaġġ li tiġri faċilment u konformi."
+    },
+    "mediation": {
+      "title": "Medjazzjoni tal-Impjieg",
+      "desc": "Permezz tas-servizzi tagħna ta 'medjazzjoni tal-impjieg, ngħinu lill-kumpaniji jużaw baċir kbir ta' ħaddiema kwalifikati. Aħna nindirizzaw l-isfidi li jiffaċċjaw fl-għoti ta 'ħaddiema kwalifikati. Billi nippermettu l-impjieg ta' talenti barranin u billi nipprovdu servizzi ta 'reklutaġġ komprensivi, aħna nlagnu rwol cruciali fit-tissodisfa tad-domandi tal-ħaddiema f'diversi industriji fl-Ewropa.",
+      "btn": "Tgħallem Aktar"
+    },
+    "features": {
+      "title1": "Aċċess għal Ħaddiema Responsabbli",
+      "desc1": "Ikollok aċċess għal forza tax-xogħol ikkontrollata bir-reqqa u kwalifikata.",
+      "title2": "Twaqqif tad-Dewmien tal-Proġett",
+      "desc2": "Aħna niżguraw li l-proġetti jintemmu skont is-skeda bi forza tax-xogħol kapaċi.",
+      "title3": "Proċess ta 'Reklutaġġ Efficjenti u Ssemplifikat",
+      "desc3": "Aħna nħaffu l-proċess tat-tfittxija, il-ġestjoni u l-impjieg tal-ħaddiema."
+    }
+  },
+  "servicemain": {
+    "title1": "Taf aktar dwar is-servizzi tagħna",
+    "desc1": "Aħna nappoġġjawkom fi kull stadju tal-proċess ta' rklutjar – mill-kera tal-kandidati, it-tmexxija tal-amministrazzjoni, sal-integrazzjoni bla xkiel.",
+    "btn1": "Ikkuntattjana",
+    "title2": "Amministrazzjoni tal-Impjieg",
+    "desc2": "Aħna nieħdu ħsieb it-tipi kollha ta' xogħol amministrattiv relatati ma' kiri ta' professjonisti internazzjonali, inkluż traduzzjonijiet ta' dokumenti, pproċessar tal-visti u permessi tax-xogħol, u kitba ta' kuntratti tax-xogħol.",
+    "btn2": "Taf aktar",
+    "title3": "HR Servizz Sħiħ",
+    "desc3": "Għal appoġġ komprensiv fl-immaniġġjar tar-riżorsi umani, mir-reklutaġġ sal-integrazzjoni bla xkiel tal-impjegati.",
+    "title4": "Medjazzjoni tal-Impjieg",
+    "desc4": "Iffrankaw ħin u riżorsi prezzjużi billi tużaw l-esperjenza professjonali tagħna fit-tfittxija ta' ħaddiema kwalifikati minn barra l-Ewropa.",
+    "title5": "Servizzi ta' Assignjar tal-Ħaddiema",
+    "desc5": "ArkaHire jipprovdi servizz għakiri ta' ħaddiema għal perjodi speċifiċi, bħal proġetti jew staġuni, bl-għażla ta' impjieg permanenti."
+  },
+
+  "assignmentworkers": {
+    "hero": {
+      "title": "Servizzi ta' Assignazzjoni ta' Ħaddiema",
+      "desc": "ArkaHire jipprovdi servizz biex jinkera ħaddiema għal perjodi speċifiċi, bħal proġetti jew staġuni, bl-għażla għal impjieg permanenti.",
+      "btn": "Ikkuntatjana"
+    },
+    "features": {
+      "title1": "Flessibilità tal-Impjieg",
+      "desc1": "Noffru soluzzjonijiet effettivi ta' forza tax-xogħol għal proġetti fit-tul qasir jew domandi flukwanti ta' forza tax-xogħol, li jiggarantixxu effiċjenza operattiva.",
+      "title2": "Valutazzjoni tal-Ħaddiem Qabel l-Impjieg",
+      "desc2": "Nippermettu li tittestja ħaddiema qabel impjieg permanenti biex tiġi ggarantita koperazzjoni ta' suċċess u kompatibilità.",
+      "title3": "Amministrazzjoni Ssemplifikata",
+      "desc3": "Aħnie nieħdu ħsieb it-tipi kollha ta' xogħol amministrattiv relatati ma' impjieg u HR, sabiex inti tista' tiffoka fuq l-attivitajiet ewlenin tan-negozju tiegħek."
+    },
+    "include": {
+      "title": "X'Jinkludi s-Servizz ta' Assignazzjoni ta' Ħaddiema?",
+      "desc1": "Dan is-servizz jipprovdi flessibilità fil-ġestjoni tal-forza tax-xogħol waqt li jnaqqas it-tagħbijiet amministrattivi. Jagħti aċċess għat-talent speċjalizzat minn barra mingħajr il-kumplessitajiet tat-tinkisx dirett.",
+      "desc2": "Aħna nissimplifikaw l-impjieg temporanju billi niddraftjaw Kuntratti ta' Impjieg Formali u nassegnaw ħaddiema lill-kumpaniji tal-klijent taħt termini ffirmati.",
+      "desc3": "Is-servizzi tagħna jespandu lil hinn mill-impjieg billi niġestixxu xogħlijiet amministrattivi bħall-applikazzjonijiet għal pensjoni u assigurazzjoni tas-saħħa, kalkoli tas-salarji u pproċessar ta' benefiċċji.",
+      "desc4": "Il-ħaddiema jitpoġġew f'kumpaniji tal-klijent taħt kundizzjonijiet iffirmati waqt li aħna nassumu r-rwol uffiċjali tal-persuna li tħaddem.",
+      "desc5": "Billi jagħżlu s-servizzi tagħna, il-kumpaniji jibbenefikaw minn proċess ssemplifikat li jissolve l-isfidi burokratiċi, jiżgura konformità legali u jtejjeb l-effiċjenza amministrattiva. Dan jippermetti lin-negozji jiffokaw fuq l-operazzjonijiet ewlenin tagħhom."
+    },
+    "whenToconsider": {
+      "title": "Meta Għandek Tikkunsidra l-Mediazzjoni tal-Impjieg?",
+      "faq1": "Għandek bżonn ħaddiema għal proġett speċifiku jew fuq bażi staġonali?",
+      "ans1": "Is-servizz tagħna jagħtik aċċess għal bażi globali ta' talent. Aħna nivvalutaw ir-rekwiżiti tiegħek u ngħaqqduk mal-aqwa kandidati biex jilħqu d-domandi.",
+      "faq2": "Tixtieq tevita l-kumplessitajiet tal-impjieg dirett",
+      "ans2": "Aħna nieħdu ħsieb it-tipi kollha ta' xogħol amministrattiv u kontabbli relatati mal-ħaddiema, u nippermettilek li tiffoka fuq l-attivitajiet ewlenin tan-negozju tiegħek mingħajr it-tagħbija addizzjonali.",
+      "faq3": "Tixtieq tiżgura l-kwalità tal-forza tax-xogħol tiegħek",
+      "ans3": "Jekk għandek bżonn tevalwa l-ħiliet tal-ħaddiema qabel ma tagħmel tinkisx permanenti, is-servizz tagħna joffri soluzzjoni ideali bħala fażi tat-test. Barra minn hekk, il-ħaddiema tal-aġenzija tagħna huma kkontrollati bir-reqqa. Ħafna minnhom għandhom esperjenza wiesgħa minn xogħol ta' aġenzija preċedenti, u jikkontribwixxu ħiliet u għarfien żviluppati f'kull ambjent tan-negozju. Aħna wkoll inwettqu kontrolli addizzjonali fuq il-ħaddiema l-ġodda kollha biex niżguraw il-preparazzjoni tagħhom."
+    },
+    "advantages": {
+      "title1": "X'inhuma l-vantaġġi tat-tinkisx permezz ta' aġenzija?",
+      "desc1": "Bl-użu tas-servizzi tax-xogħol tal-aġenzija tagħna, noffru soluzzjonijiet flessibbli biex timla assenzi fit-tul qasir jew twil ta' impjegati tiegħek, li tottimizza l-ħtiġijiet staġonali tal-forza tax-xogħol u jissodisfa r-rekwiżiti ta' proġetti speċifiċi. Barra minn hekk, aħna niġestixxu t-tipi kollha ta' xogħol amministrattiv, li niżguraw li l-proċess ikun smooth u effiċjenti.",
+      "title2": "Gwida Esperta",
+      "desc2": "Aħna nipprovdu appoġġ professjonali u parir matul il-proċess kollu tat-tinkisx, li niżguraw li tieħu deċiżjonijiet infurmati sew.",
+      "title3": "Ħlief Ħin u Riżorsi",
+      "desc3": "Aħna nieħdu ħsieb it-tfittxija tal-kandidati, in-negozjati u x-xogħlijiet amministrattivi, u nippermettilek li tiffoka fuq iż-żoni ewlenin tan-negozju tiegħek.",
+      "title4": "Aċċess għal Suq Aktar Wiesa'",
+      "desc4": "Aħna nagħtuk aċċess għal bażi diversa ta' kandidati minn madwar id-dinja permezz tan-netwerk stabbilit tagħna.",
+      "title5": "Tnaqqis tar-Riskju",
+      "desc5": "Aħna niżguraw is-sigurtà billi nikkontrollaw bir-reqqa l-kwalifiki u r-referenzi tal-kandidati, inaqqsu r-riskju ta' tinkisx mhux xierqa u inkonformità mar-regolamenti."
+    },
+    "faq": {
+      "title": "Mistoqsijiet Frekwenti",
+      "queation1": "X'inhuma l-vantaġġi tat-tinkisx permezz ta' aġenzija?",
+      "ans1": "Bl-użu tas-servizz tax-xogħol tal-aġenzija, aħna nippermettilek li timla b'mod flessibbli assenzi qosra jew twal ta' impjegati tiegħek, li tottimizza l-ħtiġijiet tan-negozju staġonali jew ir-rekwiżiti għal proġetti speċifiċi. Aħna wkoll nieħdu ħsieb ix-xogħlijiet amministrattivi, u niffaċilitaw il-proċess kollu.",
+      "queation2": "Liema xogħlijiet amministrattivi nieħdu minnek?",
+      "ans2": {
+        "title1": "Aħna nħalluk mill-piż amministrattiv assoċjat mal-ħaddiema assenjati, li jinkludi:",
+        "item1": "Id-draftjar u t-tqabbil ta' kuntratti ta' impjieg",
+        "item2": "Ikkalkular u pproċessar pagi u kontribuzzjonijiet",
+        "item3": "Ir-reġistrar u d-direġistrar tal-ħaddiema mal-Istituzzjoni tal-Pensjoni u l-Assigurazzjoni tas-Saħħa",
+        "item4": "Iż-żamma ta' reġistri ta' kull xahar u ta' kull sena (jiem tal-vaganzi, leave tal-marda, eċċ.)",
+        "item5": "It-tmiem u s-sottomissjoni ta' rapporti meħtieġa lill-awtoritajiet rilevanti"
+      },
+      "queation3": "X'inhuma d-dmirijiet tiegħek lejn il-ħaddiema?",
+      "ans3": "L-utent (il-persuna li tħaddem) irid jaderixxi mal-liġijiet tax-xogħol, inklużi r-regolamenti tas-saħħa u s-sigurtà, kif ukoll il-protezzjonijiet speċjali għal gruppi speċifiċi ta' ħaddiema. Dan jinkludi li jipprovdi ħwejjeġ u żraben ta' protezzjoni meta jkun meħtieġ min-natura tax-xogħol. Barra minn hekk, l-utent huwa responsabbli għall-organizzazzjoni u l-assenjazzjoni tax-xogħol skont il-proċessi stabbiliti, kif ukoll iż-żamma ta' reġistri ta' preżenza tal-ħaddiema fil-post tax-xogħol."
+    }
+  },
+  "employmentmediation": {
+    "hero": {
+      "title": "Medjazzjoni tal-Impjieg",
+      "desc": "Iffranka ħin u riżorsi siewja billi tuża l-esperjenza professjonali tagħna fit-tfittxija ta' ħaddiema kwalifikati minn barra l-Ewropa.",
+      "btn": "Ikkuntattjana"
+    },
+    "features": {
+      "title1": "Aċċess għal Ħaddiema Kwalifikati",
+      "desc1": "Aħna nfittxu attivament u nagħżlu b'mod manwali kandidati potenzjali, nużaw in-netwerks u d-databases kbar tagħna.",
+      "title2": "Proċess ta' Reklutaġġ Ippermettat",
+      "desc2": "Aħna niżguraw li l-proċess ta' reklutaġġ isir b'efficjenza u preċiżjoni.",
+      "title3": "Gwida u Appoġġ espert f'Kull Stadju",
+      "desc3": "Aħna nipprovdu għarfien espert, niżguraw deċiżjonijiet infurmati u riżultati ta' suċċess."
+    },
+    "what": {
+      "title": "X'inhi l-Meddjazzjoni tal-Impjieg?",
+      "desc1": "Aħna nservu bħala pont bejn min iħaddem u kandidati potenzjali, nissimplifikaw il-proċess billi niddefinixxu r-rekwiżiti tal-impjieg, nisskrutanaw applikanti u noffru appoġġ komprensiv. L-għan tagħna huwa li ngħaqqdu l-aqwa talent ma' negozji.",
+      "desc2": "Ir-reklutaġġ huwa servizz vitali li jappoġġja lil min iħaddem biex isib kandidati kwalifikati għall-organizzazzjonijiet tagħhom. Dan is-servizz jinvolvi l-inkarigu ta' aġenzija ta' reklutaġġ li taġixxi bħala medjatur bejn in-negozji u l-ħaddiema potenzjali. L-aġenzija tiffoka fuq li tifhem il-ħtiġijiet tal-persuna li qed tħaddem, tiddefinixxi r-rekwiżiti speċifiċi tal-impjieg u tfittex u tagħżel b'diliġenza kandidati li jallinjaw ma' dawk il-ħtiġijiet.",
+      "desc3": "Rwol fundamentali tal-aġenzija matul il-proċess ta' assumar huwa li twettaq kontrolli fondi tal-kwalifiki u l-esperjenza tal-kandidati, u tiżgura l-idoneità tagħhom għar-rwol.",
+      "desc4": "L-għażla ta' servizzi ta' reklutaġġ toffri numru ta' vantaġġi, inkluż aċċess għal piscina wiesgħa ta' talent, it-tnaqqis tal-ħin u r-riżorsi meħtieġa għar-reklutaġġ u li tiżgura standards għoljin ta' professjonaliżmu fl-għażla tal-kandidati."
+    },
+    "commonfaq": {
+      "title": "Isib Tweġibiet għall-Aktar Mistoqsijiet Komuni",
+      "queation1": "X'Inhu r-Responsabbiltajiet Tagħna fil-Proċess tal-Meddjazzjoni?",
+      "ans1": {
+        "title1": "Id-dmirijiet tal-aġenziji involuti fil-mediazzjoni tal-impjieg tal-ħaddiema barranin jinkludu:",
+        "item1": "It-tfittxija ta' ħaddiem xieraq ibbażata fuq il-kriterji tal-klijent, li twettaq il-proċess ta' għażla u tipprovdi d-dokumentazzjoni meħtieġa.",
+        "item2": "Ippreparar u sottometti d-dokumentazzjoni kollha meħtieġa biex jinkiseb permessi temporanji ta' residenza u tax-xogħol għaċ-ċittadini tat-tielet pajjiż.",
+        "item3": "Ikopru l-ispejjeż tal-assigurazzjoni tat-titjira għall-ħaddiema.",
+        "item4": "Jorganizzaw il-viza meħtieġa għar-residenza u x-xogħol fl-Ewropa.",
+        "item5": "Ikopru l-ispiża tat-titjira tal-ħaddiem."
+      },
+      "queation2": "X'Inhu d-Dmirijiet Tiegħek lejn Ħaddiem Barrani?",
+      "ans2": "Ladarba jinkiseb permess tax-xogħol għal ħaddiem barrani, huwa meħtieġ li tipprovdi akkomodazzjoni u ikel meta jasal. L-akkomodazzjoni għandha tilħaq l-istandards bażiċi tal-għajxien. Jekk l-ikel ma jistax jiġi pprovdut, trid tingħata allowance tal-ikel lill-ħaddiem. Barra minn hekk, int obbligat li tirreġistra lill-ħaddiem għall-pensjoni u l-assigurazzjoni tas-saħħa, eżattament kif tagħmel għal kull impjegat lokali.",
+      "queation3": "X'Inhu r-Rekwiżiti biex Jinkiseb Permess ta' Residenza u Xogħol?",
+      "ans3": {
+        "title2": "Ir-rekwiżiti biex jinkisbu l-permessi meħtieġa jinkludu:",
+        "item1": "Twettaq attività ekonomika rreġistrata fl-Ewropa.",
+        "item2": "Li timpjega mill-inqas kwart ta' ċittadini Kroati meta mqabbla ma' nazzjonali tat-tielet pajjiż b'kuntratt full-time, indefinite għall-aħħar sitt xhur.",
+        "item3": "Ċertifikat mill-Amministrazzjoni tat-Taxxi li jikkonferma li ma hemm l-ebda dejn pendenti relatat ma' benefiċċji pubbliċi, imdata fi żmien riċenti qabel it-talb għall-permessi.",
+        "item4": "L-ebda kunvizzjonijiet legali relatati mar-relazzjonijiet tax-xogħol jew is-sigurtà soċjali."
+      }
+    },
+    "benefits": {
+      "title1": "X'Inhu l-Vantaġġi tal-Hiring permezz ta' Aġenzija?",
+      "item1": "Aħna ninnavigaw il-preparazzjoni u s-sottomissjoni ta' dokumenti legali kollha meħtieġa f'isem min iħaddem u l-impjegati magħżula tagħhom.",
+      "item2": "B'esperjenza wiesgħa tagħna f'dan il-qasam, aħna ssimplifikaw il-proċessi tagħna, noffru lill-persuni li jħaddmu mod rapidu u efficjenti kif jassumu.",
+      "title2": "Gwida Esperta",
+      "desc2": "Aħna nipprovdu appoġġ professjonali u pariri matul il-proċess ta' reklutaġġ kollu, niżguraw li tieħu deċiżjonijiet infurmati tajjeb.",
+      "title3": "Ħlief Ħin u Riżorsi",
+      "desc3": "Aħna nieħdu ħsieb it-tfittxija tal-kandidati, in-negozjati u l-kompiti amministrattivi, u nallownek tiffoka fuq iż-żoni tal-qalba tan-negozju tiegħek.",
+      "title4": "Aċċess għal Suq usa'",
+      "desc4": "Aħna nagħtuk aċċess għal piscina diversa ta' kandidati madwar id-dinja permezz tan-netwerk stabbilit tagħna.",
+      "title5": "Tnaqqis tar-Riskju",
+      "desc5": "Aħna niżguraw is-sigurtà billi nverifikaw b'mod fond il-kwalifiki u r-referenzi tal-kandidati, u nnaqqsu r-riskju ta' assunzjonijiet mhux xierqa u nuqqas ta' konformità mar-regolamenti."
+    },
+    "process": {
+      "title1": "Pass 1: Konsultazzjonijiet",
+      "desc1": "It-tim ta' esperti tagħna jwettaq analiżi fil-fond tal-ħtiġijiet tal-ħaddiema tiegħek, u joħloq strateġija ta' reklutaġġ personalizzata.",
+      "title2": "Pass 2: It-tfittxija tal-Talent",
+      "desc2": "B'in-netwerk u r-riżorsi wiesgħa tagħna, aħna nidentifikaw kandidati kwalifikati madwar id-dinja li jilħqu r-rekwiżiti tan-negozju tiegħek.",
+      "title3": "Pass 3: Il-Proċess ta' Għażla",
+      "desc3": "Aħna nvalutaw bir-reqqa l-kwalifiki, l-esperjenza u r-referenzi tal-kandidati biex niżguraw li nagħżlu l-aqwa individwi għat-tim tiegħek.",
+      "title4": "Pass 4: It-tqegħid tal-Ħaddiema fl-Ewropa",
+      "desc4": "Aħna ninnavigaw id-dokumentazzjoni kollha meħtieġa u nimmaniġġjaw it-trasferiment tal-ħaddiema fl-Ewropa.",
+      "title5": "X'Jidher il-Proċess?",
+      "desc5": "Ħalli l-inkwiet kollha tar-riżorsi umani lilna u żgura ġestjoni ottimali tal-impjegati tiegħek bis-servizzi tagħna HR all-inclusive!"
+    },
+    "faq": {
+      "title": "Mistoqsijiet Frekwenti",
+      "queation1": "X'Inhu r-Responsabbiltajiet Tagħna fil-Proċess tal-Meddjazzjoni?",
+      "ans1": "Id-dmirijiet tal-aġenziji involuti fil-mediazzjoni tal-impjieg tal-ħaddiema barranin jinkludu: – Identifikazzjoni ta' ħaddiem xieraq ibbażata fuq il-kriterji tal-klijent, twettiq tal-proċess ta' għażla u proviżjoni tad-dokumentazzjoni meħtieġa. – Preparazzjoni u sottomissjoni tad-dokumentazzjoni kollha meħtieġa biex jinkiseb permessi temporanji ta' residenza u tax-xogħol għaċ-ċittadini tat-tielet pajjiż. – Kopertura tal-ispejjeż tal-assigurazzjoni tat-titjira għall-ħaddiema. – Organizzazzjoni tal-viza meħtieġa għar-residenza u x-xogħol fl-Ewropa. – Kopertura tal-ispiża tat-titjira tal-ħaddiem.",
+      "queation2": "X'Inhu d-Dmirijiet Tiegħek lejn Ħaddiem Barrani?",
+      "ans2": "Ladarba jinkiseb permess tax-xogħol għal ħaddiem barrani, akkomodazzjoni u ikel għandhom jiġu pprovduti meta jasal. L-akkomodazzjoni għandha tilħaq l-istandards bażiċi tal-għajxien. Jekk l-ikel ma jistax jiġi pprovdut, allowance tal-ikel għandha tingħata lill-ħaddiem. Barra minn hekk, huwa obbligatorju li tirreġistra lill-ħaddiem għall-pensjoni u l-assigurazzjoni tas-saħħa, eżattament kif għal kull impjegat lokali.",
+      "queation3": "X'Kondizzjonijiet Għandhom Jintlaħqu biex Jinkiseb Permess ta' Residenza u Xogħol?",
+      "ans3": "Biex tinkiseb il-permessi meħtieġa, iridunu jintlaħqu l-kondizzjonijiet li ġejjin: – In-negozju tiegħek għandu jkun reġistrat fl-Ewropa. – Inti għandek timpjega mill-inqas kwart ta' ċittadini lokali meta mqabbla ma' nazzjonali tat-tielet pajjiż b'kuntratt full-time, indefinite għall-aħħar sitt xhur. – Ċertifikat mill-Amministrazzjoni tat-Taxxi li jikkonferma li ma hemm l-ebda dejn pendenti relatat ma' benefiċċji pubbliċi, imdata fi żmien riċenti qabel it-talb għall-permessi. – Ma għandhomx ikun hemm kunvizzjonijiet legali relatati mar-relazzjonijiet tax-xogħol jew is-sigurtà soċjali.",
+      "queation4": "Jista' l-Ħaddiem Jibda Immedjatament?",
+      "ans4": "Sfortunatament, le. Billi dawn il-ħaddiema huma minn pajjiżi terzi, iridu jiksbu permess tax-xogħol u vija qabel ma jidħlu fl-Ewropa. Il-proċess kollu jista' jieħu minn 45 sa 90 jum, skond il-veloċità tal-istituzzjonijiet involuti. Ippreparar tad-dokumenti u n-negozjati normalment jieħdu 4 sa 10 ijiem, skond il-preparazzjoni tal-persuna li qed tħaddem. Ir-reklutaġġ u l-għażla tal-kandidati jistgħu jvarjaw minn 1 sa 30 jum (sa 7 ijiem għal ħaddiema mhux kwalifikati, sa 30 jum għal ħaddiema kwalifikati), jew itwal jekk ikunu meħtieġa professjonijiet speċifiċi (sa 60 jum). It-test tas-suq tax-xogħol normalment idum 15-il jum. Il-kisba ta' permess tax-xogħol normalment tieħu bejn 15 u 30 jum. Ipproċessar tal-viza jieħu 15 sa 30 jum oħra. L-organizzazzjoni tal-vjaġġ u l-wasla tal-ħaddiem fl-Ewropa ġeneralment tieħu 1 sa 10 ijiem."
+    }
+  },
+  "administration": {
+    "hero": {
+      "title": "Servizzi Amministrattivi Komprensivi tal-Impjieg",
+      "desc": "Aħna nieħdu ħsieb il-kompiti amministrattivi kollha relatati ma' assumar professjonisti internazzjonali, inkluż traduzzjonijiet ta' dokumenti, pproċessar tal-visti u permessi tax-xogħol, u t-tfassil ta' kuntratti ta' impjieg.",
+      "btn": "Ikkuntatjana"
+    },
+    "features": {
+      "title1": "Il-Ħin u l-Ispiża",
+      "desc1": "Elimina t-tagħbija ta' proċeduri amministrattivi kumplessi u iffoka n-negozju prinċipali tiegħek.",
+      "title2": "Għajnuna Esperta",
+      "desc2": "It-tim tagħna jiżgura proċess bla xkiel waqt li jaderixxi mal-aktar rekwiżiti legali riċenti.",
+      "title3": "Soluzzjonijiet Apposta",
+      "desc3": "Aħna naġġustaw is-servizzi tagħna biex jilħqu l-ħtiġijiet speċifiċi tiegħek ta' assunazzjoni."
+    },
+    "include": {
+      "title": "X'inhu jinkludi s-servizz amministrattiv tal-impjieg?",
+      "desc1": "Aħna ngħinu lill-negozji jimmangjaw il-kumplessitajiet tal-assunazzjoni ta' ħaddiema barranin, jiżguraw konformità mal-liġijiet tal-immigrazzjoni u tax-xogħol, u jissimplifikaw il-proċess amministrattiv.",
+      "title1": "Is-servizz tagħna amministrattiv tal-impjieg jinkludi it-trattament tal-kompiti amministrattivi kollha relatati mal-impjieg ta' ħaddiema barranin għal kumpaniji li joperaw fl-UE. Is-servizz tipikament jopra:",
+      "desc2": {
+        "item1": "Ipproċessar tal-permessi tax-xogħol u visti",
+        "item2": "Jiżgura li d-dokumentazzjoni tikkonforma mal-liġijiet tal-immigrazzjoni",
+        "item3": "Ippreparar tal-kuntratti ta' impjieg",
+        "item4": "Ikkordinjar mal-awtoritajiet governattivi"
+      }
+    },
+    "whenToconsider": {
+      "title": "Meta tagħżel servizz amministrattiv?",
+      "faq1": "Int diġà sibt lill-impjegati tiegħek innifsek.",
+      "ans1": "Jekk int diġà għamilt il-proċess ta' għażla ta' ħaddiema barraninnifsek u għażilt il-persunal ideal għan-negozju tiegħek, nistgħu nagħtuk appoġġ u għajnuna matul l-impjieg.",
+      "faq2": "M'għandekx biżżejjed ħin biex tinkwieta dwar l-amministrazzjoni.",
+      "ans2": "Aħna nħelsuk mill-kompiti u proċessi amministrattivi, u nippermettulek tiffoka fuq l-attivitajiet tan-negozju prinċipali tiegħek. Aħna nieħdu ħsieb id-dokumentazzjoni kollha meħtieġa sabiex inti tista' tiddedika lilek innifsek għall-iżvilupp tan-negozju tiegħek. Aħna niżguraw visti, u permessi ta' residenza u xogħol għalik, nitraduċu dokumentazzjoni barranija, nippreparaw kuntratti ta' impjieg u l-oħrajn dokumenti meħtieġa kollha.",
+      "faq3": "Int ma tifhimx ir-regolamenti legali.",
+      "ans3": "It-tim tagħna jivverifika l-kwalifiki u jiżgura konformità mar-regolamenti u liġijiet lokali. Espertti esperti jipprovdu appoġġ fil-proċess kollu u jiżguraw li l-proċess kollu isegwi r-regolamenti legali."
+    },
+    "faq": {
+      "title": "Mistoqsijiet Frekwenti",
+      "queation1": "X'jidher qisu l-proċess ta' assunazzjoni ta' ħaddiema barranin?",
+      "ans1": {
+        "title1": "Biex tassumi ħaddiema barranin għal pożizzjonijiet madwar l-Ewropa, il-passi essenzjali li ġejjin għandhom jiġu segwiti:",
+        "item1": "Aqbad permess tax-xogħol għall-impjegat barrani mill-awtorità tal-immigrazzjoni jew impjieg xieraq.",
+        "item2": "Ippreżenta applikazzjoni għall-permess tar-residenza tal-ħaddiem.",
+        "item3": "Irreġistra lill-impjegat barrani mal-awtoritajiet tat-taxxa u s-sigurtà soċjali rilevanti.",
+        "item4": "Jiżgura l-aderenza għar-regolamenti kollha applikabbli tax-xogħol u l-immigrazzjoni."
+      },
+      "queation2": "Liema dokumenti huma meħtieġa għall-impjieg ta' ħaddiema barranin?",
+      "ans2": {
+        "title2": "Id-dokumentazzjoni meħtieġa tinkludi:",
+        "item1": "Permess tax-xogħol maħruġ mill-awtorità rilevanti.",
+        "item2": "Kuntratt ta' impjieg jew ftehim formali.",
+        "item3": "Passaport validu jew identifikazzjoni tal-ħaddiem barrani.",
+        "item4": "Kopertura tas-sigurtà tas-saħħa għall-ħaddiem.",
+        "item5": "Prova tal-ħlas tal-ħlasijiet amministrattivi meħtieġa."
+      },
+      "queation3": "Kif is-servizzi ta' għajnuna amministrattiva jistgħu jgħinu lill-min iqaddem jinnavigaw il-proċess ta' assunazzjoni ta' ħaddiema barranin fl-UE?",
+      "ans3": "Is-servizzi ta' għajnuna amministrattiva jilagħbu rwol kruċjali fit-tissimplifika tal-proċess ta' assunazzjoni ta' ħaddiema barranin, billi joffru appoġġ komprensiv fi kull stadju.",
+      "ans4": "Aħna ngħidu lill-min iqaddem matul il-proċess kollu tal-applikazzjoni tal-permess tax-xogħol u r-residenza, ngħinu fi t-tħejjija u sottomissjoni tad-dokumenti meħtieġa lill-awtoritajiet rilevanti, u niżguraw konformità sħiħa mar-rekwiżiti legali. Is-servizzi tagħna jinkludu parir kontinwu dwar kwistjonijiet tax-xogħol u l-immigrazzjoni, waqt li jissimplifikaw il-kompiti amministrattivi. Dan l-approċč jiffranka ħin u riżorsi lill-min iqaddem, jiżgura proċess ta' assunazzjoni ta' ħaddiema barranin bla xkiel u effiċjenti madwar l-Ewropa."
+    }
+  },
+  "fullservicehr": {
+    "hero": {
+      "title": "Servizz Sħiħ għar-Riżorsi Umani",
+      "desc": "Għal appoġġ komprensiv fl-immaniġġjar tar-riżorsi umani, mit-reklutaġġ sal-integrazzjoni bla xkiel tal-impjegati.",
+      "btn": "Ikkuntattjana"
+    },
+    "features": {
+      "title1": "Appoġġ Matul il-Proċess Kollu tar-RU",
+      "desc1": "Mir-reklutaġġ u l-amministrazzjoni għas-sekurità tal-akkomodazzjoni u l-għajnuna kontinwa.",
+      "title2": "Aċċess għal Eżperti tar-RU",
+      "desc2": "Ibenefikaw mill-esperjenza ta' professjonisti b'esperjenza wiesgħa fir-riżorsi umani.",
+      "title3": "Fokus fuq l-Għanijiet tan-Negozju",
+      "desc3": "Erġa' ġib l-attenzjoni tiegħek lejn il-kisba ta' għanijiet strateġiċi waqt li aħnie nimmaniġġjaw il-bżonnijiet tiegħek tar-RU."
+    },
+    "mean": {
+      "title": "X'Jifhem Servizz Sħiħ għar-Riżorsi Umani?",
+      "desc1": "L-għażla tas-Servizz Sħiħ għar-RU tipprovdi firxa wiesgħa ta' appoġġ li tkopri kull aspett tal-proċess tar-RU, mir-reklutaġġ għall-integrazzjoni bla xkiel tal-impjegati fi ħdan l-organizzazzjoni tiegħek.",
+      "desc2": "Dan is-servizz komprensiv jinkludi reklutaġġ, proċeduri ta' għażla, xogħol amministrattiv, kwistjonijiet ta' assigurazzjoni, akkomodazzjoni, u appoġġ kontinwu matul it-triq kollha tal-impjieg. Billi tuża persunal altament speċjalizzat b'esperjenza konsiderevoli fil-liġi tal-impjieg, dan is-servizz jiżgura attenzjoni metikoluża għad-dettall u l-identifikazzjoni ta' soluzzjonijiet adattati biex jilħqu bżonnijiet speċifiċi ta' kumpanija.",
+      "desc3": " dawn il-funzjonijiet essenzjali tar-RU joffri diversi vantaġġi. L-ewwel, jipprovdi aċċess għall-esperjenza ta' professjonisti esperti, li jiżgura immaniġġjar effiċjenti u kkoordinat tar-riżorsi umani. It-tieni, l-outsourcing jippermetti lil kumpanija terġa' talloka r-riżorsi interni tagħha lejn l-għanijiet tan-negozju ewlenin, ittejjeb il-produttività u timbotta 'l quddiem għanijiet strateġiċi. Finalment, l-għażla tas-Servizz Sħiħ għar-RU mhux biss tiggarantixxi operazzjonijiet tar-RU bla xkiel imma wkoll tippermetti lin-negozji jiffokaw fuq il-kisba tal-missjoni primarja tagħhom b'aktar ċarezza u effiċjenza."
+    },
+    "whenToconsider": {
+      "title": "Meta Tagħżel l-Għażla tas-Servizz Sħiħ għar-RU?",
+      "faq1": "Nuqqas ta' Tim Intern tar-RU",
+      "ans1": "Mingħajr dipartiment intern tar-RU, l-immaniġġjar ta' kull aspett tal-proċess tar-RU, mir-reklutaġġ għall-integrazzjoni tal-impjegati, jista' jsir oppressiv u jieħu ħafna ħin. Billi jittaffja lil eżperti, il-kumpaniji jistgħu jiżguraw li kull fażi tal-proċess tar-RU tiġi mmaniġġjata b'mod espert, li jippermettilhom jiffokaw fuq l-operazzjonijiet ewlenin tagħhom mingħajr it-tagħbija tat-tasks tar-RU.",
+      "faq2": "Riżorsi Limitati għall-Immaniġġjar tal-Proċess",
+      "ans2": "Kemm jekk huma limitazzjonijiet finanzjarji, ta' ħin jew professjonali, l-outsourcing tas-Servizz Sħiħ għar-RU joffri soluzzjoni effettiva. Aħna nipprovdu l-infrastruttura, l-esperjenza u l-għarfien meħtieġa biex nimmaniġġjaw b'mod effiċjenti kull aspett tar-RU, mir-reklutaġġ għad-dmirijiet amministrattivi, li niżguraw proċess li jgħaddi bla xkiel u ssimplifikat mingħajr pressjoni addizzjonali fuq ir-riżorsi interni.",
+      "faq3": "Bżonn ta' Soluzzjoni Malajr u Affidabbli",
+      "ans3": "Meta kumpanija teħtieġ soluzzjoni tar-RU malajra u affidabbli, l-għażla tas-Servizz Sħiħ għar-RU hija l-aħjar għażla. Aħna navigaw b'mod effiċjenti mill-kumplessitajiet tar-RU, u nwasslu riżultati fi żmienhom u effettivi. Billi jitqiesu l-għarfien u l-esperjenza speċjalizzati tagħna, il-kumpaniji jistgħu jiżguraw li l-bżonnijiet tar-RU tagħhom jintlaħqu malajr u bi ftit inkwiet."
+    },
+    "faq": {
+      "title": "Mistoqsijiet Frekwenti",
+      "queation1": "Liema Funzjonijiet tar-RU Aħna Nkopru?",
+      "ans1": "Is-soluzzjoni tagħna tas-Servizz Sħiħ għar-RU tinkludi kull aspett tal-proċess tar-RU, inklużi reklutaġġ, proċeduri ta' għażla, kompiti amministrattivi, kwistjonijiet ta' assigurazzjoni, akkomodazzjoni, u appoġġ u gwida kontinwi matul iċ-ċiklu tal-ħajja kollu tal-impjieg.",
+      "queation2": "Kif Niżguraw Konformità Mal-Liġijiet u r-Regolamenti Rilevanti tax-Xogħol?",
+      "ans2": "Aħna nippjegaw persunal espert b'esperjenza wiesgħa fil-liġi tal-impjieg, li niżguraw attenzjoni attenta għad-dettall u l-identifikazzjoni tas-soluzzjonijiet l-aktar xierqa għall-bżonnijiet unici tal-kumpanija tiegħek. Aħna wkoll inżommu aġġornati bl-aktar rekwiżiti legali u l-aħjar prattiċi biex niżguraw konformità sħiħa.",
+      "queation3": "Liema Flessibilità Noffru fl-Adattar tas-Soluzzjoni għall-Bżonnijiet Speċifiċi tal-Kumpanija Tiegħek?",
+      "ans3": "Aħna nifhmu li kull kumpanija għandha rekwiżiti differenti tar-RU. Għalhekk, noffru flessibilità fl-adeġwjar tas-soluzzjoni tagħna tas-Servizz Sħiħ għar-RU biex tilħaq il-bżonnijiet unici tiegħek, kemm jekk din tinvolvi l-aġġustar tal-komponenti tas-servizz, is-sodisfazzjon ta' rekwiżiti speċifiċi jew l-adattament għat-talbiet tan-negozju tiegħek li qed jevolvu."
+    }
+  },
+
+  "about": {
+    "hireaforeigner": {
+      "title": "Ikkontrattaja Barrani",
+      "desc": "Sieħeb affidabbli u espert fir-reklutaġġ ta' ħaddiema barranin. It-tim ta' esperti tagħna huwa dedikat li jgħaddik mill-proċess tal-immigrazzjoni, jiżgura riżultat smooth u ta' suċċess.",
+      "btn": "Ikkuntatjana"
+    },
+    "whoWeare": {
+      "title1": "MIN AħNA?",
+      "title2": "Aġenzija Internazzjonali għall-Impjieg",
+      "desc1": "Ngħinu lill-klijenti internazzjonali tagħna jsibu opportunitajiet tax-xogħol xierqa, inklużi dawk fi ħdan l-Ewropa, billi ngħaqqduhom bir-reqqa ma' pożizzjonijiet li jallinjaw mal-kwalifiki tagħhom. Barra minn hekk, niżguraw li l-kumpaniji li nikkollaboraw magħhom mhux biss jirrispettaw imma wkoll ippremjaw il-forza tax-xogħol tagħhom b'mod ġust.",
+      "desc2": "Għall-klijenti impjegaturi tagħna, aħna sors u niżguraw b'mod metikoluż ħaddiema kkwalifikati li jissodisfaw ir-rekwiżiti speċifiċi tagħhom, inaqqsu t-tħassib dwar id-dawran tal-impjieg. Dan l-approċċ jiżgura forza tax-xogħol stabbli biex tilqa' l-ħtiġijiet tal-proġett jew staġunali, kemm lokalment kif ukoll internazzjonalment. Bħala riżultat, il-klijenti tagħna jistgħu jistennew it-tqassim tal-proġett f'waqtu mingħajr interruzzjonijiet bla bżonn.",
+      "desc3": "Noffru soluzzjoni komprensiva għar-reklutaġġ u l-impjieg ta' talent ta' kwalità għolja, bl-għan li jippromwovu ambjent tax-xogħol produttiv u armonjuż kemm għall-impjegaturi kif ukoll għall-ħaddiema madwar id-dinja."
+    },
+    "WhyChoose": {
+      "title1": "Għaliex Tagħżel",
+      "title2": "ArkaHire?",
+      "desc1": "Snin ta' Esperjenza",
+      "desc2": "Ħaddiema Barranin Impoġġati b'Suċċess",
+      "desc3": "Sodisfazzjon tal-Klijent"
+    },
+    "WhatDoWeOffer": {
+      "title1": "X'NOFFRU?",
+      "title2": "Għandek bżonn għajnuna mal-immigrazzjoni? It-tim ta' esperti tagħna huwa hawn biex jgħin",
+      "desc1": "Ikkuntatja lit-tim tagħna illum biex titgħallem aktar dwar is-servizzi tagħna u tieħu l-ewwel pass lejn l-impjieg ta' suċċess ta' ħaddiema barranin.",
+      "title3": "Servizzi ta' Impjieg",
+      "btn": "Esplora s-Servizzi Kollha",
+      "title4": "Appoġġ fl-Amministrazzjoni",
+      "desc2": "Aħna nimmaniġġjaw l-amministrazzjoni kollha meħtieġa għall-impjieg, bħat-traduzzjoni ta' dokumenti, it-tkisb ta' visti u permessi tax-xogħol, kuntratti ta' impjieg.",
+      "title5": "Medjazzjoni tal-Impjieg",
+      "desc3": "Iffranka ħin u riżorsi billi tuża s-servizzi professjonali tagħna fit-trobbija ta' ħaddiema kkwalifikati minn barra l-Ewropa.",
+      "title6": "Servizzi HR Sħiħa",
+      "desc4": "Appoġġ komprensiv fil-ġestjoni tar-riżorsi umani, li jibda mir-reklutaġġ sa integrazzjoni sħiħa tal-impjegat.",
+      "title7": "Servizzi ta' Assignar tal-Ħaddiema",
+      "desc5": "Noffru t-tpoġġija tal-ħaddiema għal perjodi speċifiċi (bħal proġetti jew xogħol staġunali) bl-għażla li wieħed jgħaddi għal impjieg permanenti."
+    },
+    "contactourteam": {
+      "title": "Ikkuntatja lit-Tim Tagħna",
+      "desc1": "Tgħallem aktar dwar is-servizzi professjonali tagħna u",
+      "desc2": "sib kif nistgħu ngħinuk.",
+      "btn": "Ikkuntatjana"
+    }
+  },
+  "footer": {
+    "title": "Aħna għad-dispożizzjoni tagħkom.",
+    "desc": "Ikkuntatjagħna għal kwalunkwe mistoqsija relatata ma' kiri ta' ħaddiema minn barra. Aħna ngħinuk fi kwalunkwe ħin."
+  }
+}
