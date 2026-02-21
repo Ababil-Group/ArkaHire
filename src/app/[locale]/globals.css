@@ -26,5 +26,9 @@
 
 .bg-gradient-310deg {
   background: rgb(245, 245, 245);
-  background: linear-gradient(310deg, rgba(245, 245, 245, 1) 50%, #1bb0db 50%);
+  background: linear-gradient(
+    310deg,
+    rgba(245, 245, 245, 1) 50%,
+    #0b0b0fd2 50%
+  );
 }

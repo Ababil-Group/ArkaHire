@@ -4,11 +4,6 @@ import Features from "@/components/pages/services/assignment-of-workers/Features
 import Hero from "@/components/pages/services/assignment-of-workers/Hero";
 import Include from "@/components/pages/services/assignment-of-workers/Include";
 import WhenToConsider from "@/components/pages/services/assignment-of-workers/WhenToConsider";
-import { Metadata } from "next";
-
-export const metadata: Metadata = {
-  title: "MigrateCloud | Worker Assignment Services",
-};
 
 const AssignmentOfWorkers = () => {
   return (

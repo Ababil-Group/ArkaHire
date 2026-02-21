@@ -5,7 +5,7 @@ import Hero from "@/components/pages/solutions/navigating-immigration-laws/Hero"
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "MigrateCloud | Navigating Immigration Laws",
+  title: "ArkaHire | Navigating Immigration Laws",
 };
 
 const NavigatingImmigrationLawsPage = () => {
