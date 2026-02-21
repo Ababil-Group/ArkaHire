@@ -13,13 +13,13 @@ const Footer = () => {
   const t = useTranslations("footer");
   const nav = useTranslations("nav");
   return (
-    <footer className="mt-auto border-t bg-primary pt-20">
+    <footer className="mt-auto border-t bg-secondary pt-20">
       <div className="container grid grid-cols-1 items-center justify-center gap-28 lg:grid-cols-3">
         <div className="flex items-start justify-center lg:justify-start">
           <Link className="" href="/">
             <Image
               className="h-auto w-[200px]"
-              src="/logo.png"
+              src="/Arka-Hire-light.png"
               alt="ArkaHire Logo"
               width={200}
               height={75}
