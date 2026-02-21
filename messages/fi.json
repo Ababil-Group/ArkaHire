@@ -21,7 +21,7 @@
   },
   "hero": {
     "title": "Yksinkertaista kansainvälisen työvoiman palkkaaminen.",
-    "desc": "Olitpa pieni yritys tai monikansallinen yhtiö, ArkaHire auttaa sinua löytämään osaavat työntekijät. Rekrytoinnista perehdyttämiseen — hoidamme kaiken.",
+    "desc": "Olitpa pieni yritys tai monikansallinen yhtiö, Arka Hire auttaa sinua löytämään osaavat työntekijät. Rekrytoinnista perehdyttämiseen — hoidamme kaiken.",
     "btn1": "Ota yhteyttä",
     "btn2": "Tutustu palveluihin"
   },
@@ -35,7 +35,7 @@
   },
   "whyChoose": {
     "title": "Miksi valita rekrytointitoimisto?",
-    "desc": "ArkaHire tarjoaa innovatiivisia, nopeita ja tehokkaita ratkaisuja kansainvälisten osaajien löytämiseen ja palkkaamiseen.",
+    "desc": "Arka Hire tarjoaa innovatiivisia, nopeita ja tehokkaita ratkaisuja kansainvälisten osaajien löytämiseen ja palkkaamiseen.",
     "question1": "Etkö tiedä, mistä löytää laadukkaita työntekijöitä?",
     "ans1": "Asiantuntijamme analysoivat tarpeesi ja luovat räätälöidyn rekrytointistrategian. Verkostomme kattaa Intian, Bangladeshin, Nepalin, Pakistanin, Sri Lankan ja Filippiinit.",
     "question2": "Tarvitsetko joustavuutta rekrytointiin?",
@@ -109,7 +109,7 @@
 
   "whychooseus": {
     "title": "Miksi valita meidät?",
-    "desc": "ArkaHire on luotettava kumppanisi kansainvälisten huippulahjakkuuksien palkkaamisessa. Asiantuntijamme ovat valmiita yksinkertaistamaan maahanmuuttoprosessia ja varmistamaan onnistuneet tulokset.",
+    "desc": "Arka Hire on luotettava kumppanisi kansainvälisten huippulahjakkuuksien palkkaamisessa. Asiantuntijamme ovat valmiita yksinkertaistamaan maahanmuuttoprosessia ja varmistamaan onnistuneet tulokset.",
     "item1": "Ilmaiset konsultaatiot",
     "item2": "Laadukkaat ehdokkaat",
     "item3": "Nopeat vastausajat",
@@ -150,7 +150,7 @@
       "desc1": "Yksi suurimmista haasteista, johon yritykset törmäävät palkatessaan ulkomaisia ammattilaisia, on monimutkaisten maahanmuuttolakien navigointi. Nämä lait on suunniteltu suojelemaan paikallista työmarkkinoita samalla kun ne vastaavat talouden työvoimatarpeisiin.",
       "desc2": "Maahanmuuttosääntelyn noudattaminen voi olla monimutkaista, sillä yritysten on noudatettava kansainvälisten työntekijöiden työllistämistä koskevia tiukkoja lakisääteisiä vaatimuksia. Työnantajat ovat velvollisia noudattamaan verotus- ja sosiaaliturva säännöksiä sekä erityisiä ehtoja, kuten paikallisten tai EU-kansalaisten kokoaikatyöllistämisen ylläpitoa määrätyn ajanjakson ajan. Prosessiin kuuluu myös työ- ja oleskelulupien hankkiminen sekä EU:n ulkopuolista maista tulevien osaajien palkkaamiseen liittyvien käytäntöjen noudattaminen.",
       "desc3": "Tässä asiantuntijaohjaus on välttämätöntä. Tiimimme on erikoistunut työllistämisprosessin virtaviivaistamiseen, auttaen yrityksiä hankkimaan työlupia, käsittelemään tarvittavaa dokumentaatiota ja varmistamaan täydellisen yhteensopivuuden kaikkien työmarkkinasääntöjen kanssa.",
-      "desc4": "ArkaHireissa tarjoamme ammattitaitoista ohjausta rekrytointiprosessin yksinkertaistamiseksi. Asiantuntijamme auttavat työlupien hankinnassa, vaaditun dokumentaation hallinnassa ja työmarkkinasääntöjen täydellisessä noudattamisessa.",
+      "desc4": "Arka Hireissa tarjoamme ammattitaitoista ohjausta rekrytointiprosessin yksinkertaistamiseksi. Asiantuntijamme auttavat työlupien hankinnassa, vaaditun dokumentaation hallinnassa ja työmarkkinasääntöjen täydellisessä noudattamisessa.",
       "desc5": "Jos kohtaat monimutkaisia työllistämisvaatimuksia, Työllistämishallintopalvelumme tarjoaa täydellisen ratkaisun."
     },
     "employment": {
@@ -172,7 +172,7 @@
   "seasonal": {
     "hero": {
       "title": "Kausityöntekijöiden palkkaaminen",
-      "desc": "ArkaHire-erikoistumme kausityöntekijöiden rekrytointiin eri ammateissa, kuten tarjoilijoita, baarimikkoja, kokkeja, keittiön avustajia, siivoojia ja vastaanottovirkailijoita. Asiantuntemusemme varmistaa, että löydät oikeat kyvyt tarpeisiisi.",
+      "desc": "Arka Hire-erikoistumme kausityöntekijöiden rekrytointiin eri ammateissa, kuten tarjoilijoita, baarimikkoja, kokkeja, keittiön avustajia, siivoojia ja vastaanottovirkailijoita. Asiantuntemusemme varmistaa, että löydät oikeat kyvyt tarpeisiisi.",
       "btn": "Ota meihin yhteyttä"
     },
     "challenges": {
@@ -235,7 +235,7 @@
       "title": "Haasteet rakennustyöntekijöiden löytämisessä",
       "desc1": "Rakennusteollisuus kohtaa tällä hetkellä merkittäviä haasteita ammattitaitoisten työvoiman löytämisessä. Tämä työvoimapula heikentää tuottavuutta, aiheuttaa viivästyksiä hankkeiden aikatauluissa ja vaikeuttaa pyrkimyksiä täyttää alan kasvava kysyntä päteville ammattilaisille.",
       "desc2": "Erityisesti Euroopassa on kasvava kysyntä rakennusasiantuntijoille, kuten lukuisista työpaikkailmoituksista näkyy. Monilla yrityksillä on vaikeuksia löytää kokeneita ja päteviä työntekijöitä, mikä johtaa hankkeiden viivästymiseen.",
-      "desc3": "Rekrytointitoimistona, joka on erikoistunut ulkomaalaistyövoimaan, ArkaHire siltaa kuilun kysynnän ja tarjonnan välillä yhdistämällä taitavia työntekijöitä kehitysmaista tarvitseviin työnantajiin. Opastamme myös asiakkaitamme ulkomaalaistyöntekijöiden palkkaamiseen liittyvissä oikeusprosesseissa varmistaen sujuvan ja sääntöjenmukaisen rekrytointikokemuksen."
+      "desc3": "Rekrytointitoimistona, joka on erikoistunut ulkomaalaistyövoimaan, Arka Hire siltaa kuilun kysynnän ja tarjonnan välillä yhdistämällä taitavia työntekijöitä kehitysmaista tarvitseviin työnantajiin. Opastamme myös asiakkaitamme ulkomaalaistyöntekijöiden palkkaamiseen liittyvissä oikeusprosesseissa varmistaen sujuvan ja sääntöjenmukaisen rekrytointikokemuksen."
     },
     "mediation": {
       "title": "Työnvälitys",
@@ -263,13 +263,13 @@
     "title4": "Työnvälitys",
     "desc4": "Säästä arvokasta aikaa ja resursseja hyödyntämällä ammattitaitoamme pätevä työvoiman löytämisessä Euroopan ulkopuolelta.",
     "title5": "Työntekijöiden vuokrauspalvelut",
-    "desc5": "ArkaHire tarjoaa palvelun työntekijöiden palkkaamiseksi määräajaksi, kuten projekteihin tai kausityöhön, mahdollisuutena pysyvä työllistyminen."
+    "desc5": "Arka Hire tarjoaa palvelun työntekijöiden palkkaamiseksi määräajaksi, kuten projekteihin tai kausityöhön, mahdollisuutena pysyvä työllistyminen."
   },
 
   "assignmentworkers": {
     "hero": {
       "title": "Työntekijöiden Vuokrauspalvelut",
-      "desc": "ArkaHire tarjoaa palvelun työntekijöiden palkkaamiseen määräajaksi, kuten projekteihin tai kausityöhön, jossa on mahdollisuus pysyvään työllistämiseen.",
+      "desc": "Arka Hire tarjoaa palvelun työntekijöiden palkkaamiseen määräajaksi, kuten projekteihin tai kausityöhön, jossa on mahdollisuus pysyvään työllistämiseen.",
       "btn": "Ota meihin yhteyttä"
     },
     "features": {
@@ -519,7 +519,7 @@
     },
     "WhyChoose": {
       "title1": "Miksi valita",
-      "title2": "ArkaHire?",
+      "title2": "Arka Hire?",
       "desc1": "Vuosien kokemus",
       "desc2": "Ulkomaalaista työntekijää onnistuneesti sijoitettu",
       "desc3": "Asiakastyytyväisyys"

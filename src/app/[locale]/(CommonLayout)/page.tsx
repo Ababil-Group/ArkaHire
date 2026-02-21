@@ -11,7 +11,7 @@ import WhyChooseUs from "@/components/pages/homepage/WhyChooseUs";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "ArkaHire Agency | Hire Foreign Employees in 48 Hours",
+  title: "Arka Hire Agency | Hire Foreign Employees in 48 Hours",
 };
 
 const HomePage = () => {

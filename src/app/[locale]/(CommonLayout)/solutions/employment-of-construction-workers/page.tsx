@@ -5,7 +5,7 @@ import Hero from "@/components/pages/solutions/employment-of-construction-worker
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "ArkaHire | Employment of construction workers",
+  title: "Arka Hire | Employment of construction workers",
 };
 
 const EmploymentOfConstructionWorkersPage = () => {

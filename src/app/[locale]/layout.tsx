@@ -12,7 +12,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "ArkaHire Agency | Hire Foreign Employees in 48 Hours",
+  title: "Arka Hire Agency | Hire Foreign Employees in 48 Hours",
   icons: {
     icon: "/favicon.ico", // /public/favicon.ico
     shortcut: "/favicon.ico",
